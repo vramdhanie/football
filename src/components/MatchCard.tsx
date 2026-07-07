@@ -6,6 +6,7 @@ import { TEAM_IDS, teamById } from "@/config/teams";
 import { isFinished } from "@/lib/data";
 import { formatMatchDate, formatMatchTime, scoreLine } from "@/lib/format";
 import type { ApiMatch, ApiTeamRef } from "@/lib/types";
+import BroadcastBadge from "./BroadcastBadge";
 import TeamCrest from "./TeamCrest";
 
 function TeamName({ team, won }: { team: ApiTeamRef; won: boolean }) {
@@ -61,9 +62,12 @@ export default function MatchCard({ match }: { match: ApiMatch }) {
         <TeamName team={match.awayTeam} won={match.score.winner === "AWAY_TEAM"} />
       </div>
 
-      <div className="col-span-3 -mt-1 text-center text-[10px] text-neutral-500">
-        {match.competition.name}
-        {match.matchday ? ` · MD ${match.matchday}` : match.stage ? ` · ${match.stage.replaceAll("_", " ").toLowerCase()}` : ""}
+      <div className="col-span-3 -mt-1 flex items-center justify-center gap-1.5 text-center text-[10px] text-neutral-500">
+        <span>
+          {match.competition.name}
+          {match.matchday ? ` · MD ${match.matchday}` : match.stage ? ` · ${match.stage.replaceAll("_", " ").toLowerCase()}` : ""}
+        </span>
+        <BroadcastBadge competitionCode={match.competition.code} />
       </div>
     </div>
   );

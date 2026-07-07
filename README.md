@@ -87,6 +87,14 @@ commit (it deploys on push) or discard.
   returns empty squads, so the "players" feature is the per-league top
   scorers list (falls back to last season until the new one starts).
 
+## US broadcast badges
+
+Each match card shows which US streaming service carries that competition
+(Peacock, ESPN+, Paramount+, beIN). The mapping is hard-coded in
+[`src/config/broadcast.ts`](src/config/broadcast.ts) keyed by competition
+code — rights change between seasons, so update that file when a deal moves
+(Bundesliga and Ligue 1 were pending confirmation for 2026-27).
+
 ## Optional second source: api-football.com
 
 Squad data can be filled from [api-football.com](https://www.api-football.com/)
