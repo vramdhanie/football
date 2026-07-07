@@ -21,7 +21,7 @@ export default function Nav() {
 
   return (
     <header className="sticky top-0 z-20 border-b border-white/10 bg-[#0a0e14]/90 backdrop-blur">
-      <nav className="mx-auto flex max-w-5xl flex-wrap items-center gap-1 px-4 py-3 sm:gap-2">
+      <nav className="mx-auto flex max-w-5xl flex-wrap items-center justify-center gap-1 px-4 py-3 sm:justify-start sm:gap-2">
         <Link href="/" className="mr-3 flex items-center gap-2 font-semibold tracking-tight">
           <span aria-hidden>⚽</span>
           <span className="hidden sm:inline">My Football</span>
