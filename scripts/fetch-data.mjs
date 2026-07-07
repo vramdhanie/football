@@ -109,7 +109,31 @@ async function main() {
     }
   }
 
-  // 2. Per team: profile + squad, then matches (two calls per team)
+  // 2. Top scorers per league. Early in the season (or during the summer
+  // break) the current-season list is empty, so fall back to the previous
+  // season — the stored response carries its own `season` field, which the
+  // UI uses to label the list.
+  for (const code of leagueCodes) {
+    try {
+      let data = await apiGet(token, `/competitions/${code}/scorers`);
+      if ((data.scorers ?? []).length === 0 && data.season?.startDate) {
+        const prevSeason = Number(data.season.startDate.slice(0, 4)) - 1;
+        data = await apiGet(token, `/competitions/${code}/scorers?season=${prevSeason}`);
+      }
+      await writeJson(`scorers-${code}.json`, {
+        competition: data.competition,
+        season: data.season,
+        scorers: data.scorers,
+      });
+    } catch (err) {
+      errors.push(`scorers ${code}: ${err.message}`);
+      console.error(`  FAILED: ${err.message}`);
+    }
+  }
+
+  // 3. Per team: profile + squad, then matches (two calls per team).
+  // Note: squad comes back empty on the free tier (paid "deep data" add-on);
+  // we keep the call for crest/venue/founded and in case the tier changes.
   const dateFrom = isoDate(-DAYS_BACK);
   const dateTo = isoDate(DAYS_FORWARD);
   for (const team of teams) {
@@ -142,7 +166,7 @@ async function main() {
     for (const e of errors) console.error(`  - ${e}`);
     // Exit non-zero only if everything failed — partial data is still
     // worth deploying (stale files for the failed pieces remain in place).
-    if (errors.length >= leagueCodes.length + teams.length * 2) process.exit(1);
+    if (errors.length >= leagueCodes.length * 2 + teams.length * 2) process.exit(1);
   } else {
     console.log(`\nDone: ${callCount} API calls, all successful.`);
   }

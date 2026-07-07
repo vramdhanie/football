@@ -99,6 +99,27 @@ export interface TeamFile {
   runningCompetitions?: ApiCompetitionRef[];
 }
 
+export interface ApiScorer {
+  player: {
+    id: number;
+    name: string;
+    nationality: string | null;
+    section: string | null;
+    dateOfBirth: string | null;
+  };
+  team: ApiTeamRef;
+  playedMatches: number;
+  goals: number;
+  assists: number | null;
+  penalties: number | null;
+}
+
+export interface ScorersFile {
+  competition?: ApiCompetitionRef;
+  season?: { startDate: string; endDate: string; currentMatchday: number | null };
+  scorers: ApiScorer[];
+}
+
 export interface MetaFile {
   lastUpdated: string;
   season?: string;

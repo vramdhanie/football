@@ -140,7 +140,14 @@ export default function TeamPage({ slug }: { slug: string }) {
         {profile === null ? (
           <EmptyState loading={profileLoading} />
         ) : squadGroups.length === 0 ? (
-          <p className="text-sm text-neutral-500">Squad data not available.</p>
+          <p className="text-sm text-neutral-500">
+            Squad data isn&apos;t included in the football-data.org free tier
+            (it&apos;s part of their paid data add-on) — see the{" "}
+            <a href="/scorers/" className="underline hover:text-neutral-300">
+              top scorers
+            </a>{" "}
+            page for player stats.
+          </p>
         ) : (
           <div className="grid gap-6 sm:grid-cols-2">
             {squadGroups.map(([group, players]) => (

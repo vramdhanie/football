@@ -1,10 +1,11 @@
 name: Fetch data and deploy
 
 on:
-  schedule:
-    # Every 6 hours, off the top of the hour (UTC) to avoid GitHub's
-    # on-the-hour scheduling congestion.
-    - cron: "23 */6 * * *"
+  # Scheduled refresh is paused until the 2026-27 season starts.
+  # Uncomment around 15 Aug 2026 to refresh every 12 hours
+  # (off the top of the hour, UTC, to avoid scheduling congestion):
+  # schedule:
+  #   - cron: "23 */12 * * *"
   workflow_dispatch:
   push:
     branches: [main]
