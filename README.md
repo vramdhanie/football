@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# My Football
 
-## Getting Started
+A fully static football tracker for my favourite European teams — fixtures, results,
+standings, and squads, built with Next.js (static export), TypeScript, and Tailwind.
 
-First, run the development server:
+Live at [football.vincentramdhanie.com](https://football.vincentramdhanie.com).
+
+## How it works
+
+There is no server and no database. A GitHub Actions workflow runs every 6 hours,
+pulls data from the [football-data.org](https://www.football-data.org/) v4 API
+(free tier, throttled to respect the 10 calls/minute limit), writes it to
+`public/data/*.json`, builds the static site, and deploys it to GitHub Pages.
+The browser only ever reads those static JSON files — the API token never
+leaves the build environment.
+
+## Tracked teams
+
+Defined in [`src/config/teams.json`](src/config/teams.json). To add, remove, or
+swap a team: edit that file (team IDs are football-data.org team IDs — find them
+via `https://api.football-data.org/v4/competitions/{LEAGUE}/teams`) and push.
+If the team plays in a league not already listed, add the league code to the
+`leagues` map in the same file.
+
+## Local development
 
 ```bash
+npm install
+cp .env.example .env.local   # put your free API key in it
+npm run fetch-data           # ~2.5 min (throttled API calls) -> public/data/
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Get a free API key at <https://www.football-data.org/client/register>.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Deployment (one-time setup)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Create a GitHub repo and push this project to `main`.
+2. Repo **Settings → Secrets and variables → Actions**: add secret
+   `FOOTBALL_DATA_TOKEN` with your API key.
+3. Repo **Settings → Pages**: set *Source* to **GitHub Actions**, and set
+   *Custom domain* to `football.vincentramdhanie.com` (enforce HTTPS once the
+   certificate is issued).
+4. At your DNS provider, add a CNAME record:
+   `football` → `<your-github-username>.github.io`
+5. Push (or run the workflow manually from the Actions tab). Thereafter it
+   redeploys on every push and every 6 hours on schedule.
 
-## Learn More
+> Note: on public repos GitHub disables scheduled workflows after 60 days
+> without repository activity — it emails a warning first, and one click (or
+> any commit) re-enables it.
 
-To learn more about Next.js, take a look at the following resources:
+## Free-tier constraints
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- ~21 API calls per refresh (4 league standings + 9 team profiles/squads +
+  9 team match lists), throttled to 1 call per 6.5 s.
+- Scores are delayed (no live scores on the free tier) — by design; the site
+  refreshes every 6 hours.
+- No lineups or per-player stats on the free tier; "players" = squad lists.

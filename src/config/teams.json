@@ -1,0 +1,19 @@
+{
+  "teams": [
+    { "id": 57, "slug": "arsenal", "name": "Arsenal FC", "shortName": "Arsenal", "tla": "ARS", "league": "PL", "color": "#EF0107" },
+    { "id": 5, "slug": "bayern-munich", "name": "FC Bayern München", "shortName": "Bayern", "tla": "FCB", "league": "BL1", "color": "#DC052D" },
+    { "id": 81, "slug": "barcelona", "name": "FC Barcelona", "shortName": "Barça", "tla": "FCB", "league": "PD", "color": "#A50044" },
+    { "id": 61, "slug": "chelsea", "name": "Chelsea FC", "shortName": "Chelsea", "tla": "CHE", "league": "PL", "color": "#034694" },
+    { "id": 64, "slug": "liverpool", "name": "Liverpool FC", "shortName": "Liverpool", "tla": "LIV", "league": "PL", "color": "#C8102E" },
+    { "id": 65, "slug": "man-city", "name": "Manchester City FC", "shortName": "Man City", "tla": "MCI", "league": "PL", "color": "#6CABDD" },
+    { "id": 66, "slug": "man-united", "name": "Manchester United FC", "shortName": "Man United", "tla": "MUN", "league": "PL", "color": "#DA291C" },
+    { "id": 524, "slug": "psg", "name": "Paris Saint-Germain FC", "shortName": "PSG", "tla": "PSG", "league": "FL1", "color": "#004170" },
+    { "id": 73, "slug": "tottenham", "name": "Tottenham Hotspur FC", "shortName": "Spurs", "tla": "TOT", "league": "PL", "color": "#132257" }
+  ],
+  "leagues": {
+    "PL": { "name": "Premier League", "country": "England" },
+    "BL1": { "name": "Bundesliga", "country": "Germany" },
+    "PD": { "name": "La Liga", "country": "Spain" },
+    "FL1": { "name": "Ligue 1", "country": "France" }
+  }
+}
