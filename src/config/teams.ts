@@ -1,6 +1,6 @@
 import config from "./teams.json";
 
-export type LeagueCode = "PL" | "BL1" | "PD" | "FL1";
+export type LeagueCode = "PL" | "BL1" | "SA" | "PD" | "FL1";
 
 export interface TrackedTeam {
   id: number;

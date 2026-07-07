@@ -77,9 +77,9 @@ commit (it deploys on push) or discard.
 
 ## Free-tier constraints
 
-- ~39 API calls per refresh (4 league standings + top-scorer lists (up to 8
-  during the off-season fallback) + 9 team profiles + 9 squads + 9 team match
-  lists), throttled to 1 call per 6.5 s.
+- ~50 API calls per refresh (5 league standings + top-scorer lists (up to 10
+  during the off-season fallback) + 12 team profiles + 12 squads + 12 team
+  match lists), throttled to 1 call per 6.5 s.
 - Scores are delayed (no live scores on the free tier) — by design; the site
   shows data as of the last refresh (every 12 hours once the schedule is
   enabled).
@@ -101,7 +101,7 @@ Squad data can be filled from [api-football.com](https://www.api-football.com/)
 (free plan: 100 requests/day, all endpoints, `players/squads` returns current
 squads). Register at their dashboard, then set `API_FOOTBALL_KEY` in
 `.env.local` (locally) and as a repository secret (for the workflow). When the
-key is present the fetch script pulls each team's current squad (9 extra
-calls, still throttled); without it the team pages simply link to the top
+key is present the fetch script pulls each team's current squad (one extra
+call per team, still throttled); without it the team pages simply link to the top
 scorers page instead. Each team's api-football id lives alongside its
 football-data id in `src/config/teams.json`.

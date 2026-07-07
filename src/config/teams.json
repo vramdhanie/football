@@ -4,15 +4,19 @@
     { "id": 5, "apiFootballId": 157, "slug": "bayern-munich", "name": "FC Bayern München", "shortName": "Bayern", "tla": "FCB", "league": "BL1", "color": "#DC052D" },
     { "id": 81, "apiFootballId": 529, "slug": "barcelona", "name": "FC Barcelona", "shortName": "Barça", "tla": "FCB", "league": "PD", "color": "#A50044" },
     { "id": 61, "apiFootballId": 49, "slug": "chelsea", "name": "Chelsea FC", "shortName": "Chelsea", "tla": "CHE", "league": "PL", "color": "#034694" },
+    { "id": 109, "apiFootballId": 496, "slug": "juventus", "name": "Juventus FC", "shortName": "Juventus", "tla": "JUV", "league": "SA", "color": "#FFFFFF" },
     { "id": 64, "apiFootballId": 40, "slug": "liverpool", "name": "Liverpool FC", "shortName": "Liverpool", "tla": "LIV", "league": "PL", "color": "#C8102E" },
+    { "id": 98, "apiFootballId": 489, "slug": "ac-milan", "name": "AC Milan", "shortName": "Milan", "tla": "MIL", "league": "SA", "color": "#FB090B" },
     { "id": 65, "apiFootballId": 50, "slug": "man-city", "name": "Manchester City FC", "shortName": "Man City", "tla": "MCI", "league": "PL", "color": "#6CABDD" },
     { "id": 66, "apiFootballId": 33, "slug": "man-united", "name": "Manchester United FC", "shortName": "Man United", "tla": "MUN", "league": "PL", "color": "#DA291C" },
     { "id": 524, "apiFootballId": 85, "slug": "psg", "name": "Paris Saint-Germain FC", "shortName": "PSG", "tla": "PSG", "league": "FL1", "color": "#004170" },
+    { "id": 86, "apiFootballId": 541, "slug": "real-madrid", "name": "Real Madrid CF", "shortName": "Real Madrid", "tla": "RMA", "league": "PD", "color": "#FEBE10" },
     { "id": 73, "apiFootballId": 47, "slug": "tottenham", "name": "Tottenham Hotspur FC", "shortName": "Spurs", "tla": "TOT", "league": "PL", "color": "#132257" }
   ],
   "leagues": {
     "PL": { "name": "Premier League", "country": "England" },
     "BL1": { "name": "Bundesliga", "country": "Germany" },
+    "SA": { "name": "Serie A", "country": "Italy" },
     "PD": { "name": "La Liga", "country": "Spain" },
     "FL1": { "name": "Ligue 1", "country": "France" }
   }

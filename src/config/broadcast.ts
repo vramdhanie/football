@@ -7,6 +7,7 @@
  *   PL  → Peacock/NBC through 2027-28
  *   CL  → Paramount+ through 2029-30
  *   PD  → ESPN+ through 2029
+ *   SA  → Paramount+ (CBS long-term deal)
  *   BL1 → ESPN+ (2026-27 coverage confirmed; new cycle was in negotiation)
  *   FL1 → beIN Sports (incumbent; 2026-27 renewal pending)
  */
@@ -36,6 +37,12 @@ export const US_BROADCASTERS: Record<string, Broadcaster> = {
     short: "ESPN+",
     color: "#D50A0A",
     url: "https://plus.espn.com/",
+  },
+  SA: {
+    name: "Paramount+ / CBS",
+    short: "P+",
+    color: "#2864F0",
+    url: "https://www.paramountplus.com/collections/serie-a/",
   },
   FL1: {
     name: "beIN Sports",

@@ -1,0 +1,383 @@
+{
+ "source": "api-football.com",
+ "players": [
+  {
+   "id": 730,
+   "name": "T. Courtois",
+   "position": "Goalkeeper",
+   "number": 1,
+   "age": 33,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/730.png"
+  },
+  {
+   "id": 396475,
+   "name": "Fran González",
+   "position": "Goalkeeper",
+   "number": 1,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/396475.png"
+  },
+  {
+   "id": 568243,
+   "name": "A. Gonzalez",
+   "position": "Goalkeeper",
+   "number": 50,
+   "age": 19,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/568243.png"
+  },
+  {
+   "id": 47400,
+   "name": "A. Lunin",
+   "position": "Goalkeeper",
+   "number": 13,
+   "age": 26,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/47400.png"
+  },
+  {
+   "id": 386872,
+   "name": "Sergio Mestre",
+   "position": "Goalkeeper",
+   "number": 25,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/386872.png"
+  },
+  {
+   "id": 544044,
+   "name": "J. Navarro Jimenez",
+   "position": "Goalkeeper",
+   "number": 29,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/544044.png"
+  },
+  {
+   "id": 451355,
+   "name": "Diego Aguado",
+   "position": "Defender",
+   "number": 21,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/451355.png"
+  },
+  {
+   "id": 505,
+   "name": "D. Alaba",
+   "position": "Defender",
+   "number": 4,
+   "age": 33,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/505.png"
+  },
+  {
+   "id": 283,
+   "name": "T. Alexander-Arnold",
+   "position": "Defender",
+   "number": 12,
+   "age": 27,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/283.png"
+  },
+  {
+   "id": 341640,
+   "name": "Raúl Asencio",
+   "position": "Defender",
+   "number": 17,
+   "age": 22,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/341640.png"
+  },
+  {
+   "id": 284300,
+   "name": "Álvaro Fernández",
+   "position": "Defender",
+   "number": 18,
+   "age": 22,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/284300.png"
+  },
+  {
+   "id": 733,
+   "name": "Dani Carvajal",
+   "position": "Defender",
+   "number": 2,
+   "age": 33,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/733.png"
+  },
+  {
+   "id": 372,
+   "name": "Éder Militão",
+   "position": "Defender",
+   "number": 3,
+   "age": 27,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/372.png"
+  },
+  {
+   "id": 561032,
+   "name": "L. Fati",
+   "position": "Defender",
+   "number": 23,
+   "age": 19,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/561032.png"
+  },
+  {
+   "id": 443595,
+   "name": "Jesús Fortea",
+   "position": "Defender",
+   "number": 17,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/443595.png"
+  },
+  {
+   "id": 736,
+   "name": "Fran García",
+   "position": "Defender",
+   "number": 20,
+   "age": 26,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/736.png"
+  },
+  {
+   "id": 361497,
+   "name": "D. Huijsen",
+   "position": "Defender",
+   "number": 24,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/361497.png"
+  },
+  {
+   "id": 330436,
+   "name": "David Jiménez",
+   "position": "Defender",
+   "number": 2,
+   "age": 21,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/330436.png"
+  },
+  {
+   "id": 561033,
+   "name": "J. Martinez",
+   "position": "Defender",
+   "number": 15,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/561033.png"
+  },
+  {
+   "id": 653,
+   "name": "F. Mendy",
+   "position": "Defender",
+   "number": 23,
+   "age": 30,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/653.png"
+  },
+  {
+   "id": 2285,
+   "name": "A. Rüdiger",
+   "position": "Defender",
+   "number": 22,
+   "age": 32,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/2285.png"
+  },
+  {
+   "id": 560902,
+   "name": "M. Serrano",
+   "position": "Defender",
+   "number": 5,
+   "age": 21,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/560902.png"
+  },
+  {
+   "id": 129718,
+   "name": "J. Bellingham",
+   "position": "Midfielder",
+   "number": 5,
+   "age": 22,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/129718.png"
+  },
+  {
+   "id": 2207,
+   "name": "E. Camavinga",
+   "position": "Midfielder",
+   "number": 6,
+   "age": 23,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/2207.png"
+  },
+  {
+   "id": 748,
+   "name": "Dani Ceballos",
+   "position": "Midfielder",
+   "number": 19,
+   "age": 29,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/748.png"
+  },
+  {
+   "id": 560905,
+   "name": "J. Cestero Sancho",
+   "position": "Midfielder",
+   "number": 14,
+   "age": 19,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/560905.png"
+  },
+  {
+   "id": 744,
+   "name": "Brahim Díaz",
+   "position": "Midfielder",
+   "number": 21,
+   "age": 26,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/744.png"
+  },
+  {
+   "id": 371913,
+   "name": "Pol Fortuny",
+   "position": "Midfielder",
+   "number": 20,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/371913.png"
+  },
+  {
+   "id": 291964,
+   "name": "A. Güler",
+   "position": "Midfielder",
+   "number": 15,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/291964.png"
+  },
+  {
+   "id": 313167,
+   "name": "Manuel Ángel",
+   "position": "Midfielder",
+   "number": 51,
+   "age": 21,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/313167.png"
+  },
+  {
+   "id": 636772,
+   "name": "D. Mesonero",
+   "position": "Midfielder",
+   "number": 30,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/636772.png"
+  },
+  {
+   "id": 386306,
+   "name": "César Palacios",
+   "position": "Midfielder",
+   "number": 10,
+   "age": 21,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/386306.png"
+  },
+  {
+   "id": 509470,
+   "name": "Thiago Pitarch",
+   "position": "Midfielder",
+   "number": 16,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/509470.png"
+  },
+  {
+   "id": 1271,
+   "name": "A. Tchouaméni",
+   "position": "Midfielder",
+   "number": 14,
+   "age": 25,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/1271.png"
+  },
+  {
+   "id": 756,
+   "name": "F. Valverde",
+   "position": "Midfielder",
+   "number": 8,
+   "age": 27,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/756.png"
+  },
+  {
+   "id": 336711,
+   "name": "Gonzalo García",
+   "position": "Attacker",
+   "number": 16,
+   "age": 21,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/336711.png"
+  },
+  {
+   "id": 308998,
+   "name": "Ávaro Leiva",
+   "position": "Attacker",
+   "number": 39,
+   "age": 21,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/308998.png"
+  },
+  {
+   "id": 449249,
+   "name": "Franco Mastantuono",
+   "position": "Attacker",
+   "number": 30,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/449249.png"
+  },
+  {
+   "id": 278,
+   "name": "Kylian Mbappé",
+   "position": "Attacker",
+   "number": 10,
+   "age": 27,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/278.png"
+  },
+  {
+   "id": 10009,
+   "name": "Rodrygo",
+   "position": "Attacker",
+   "number": 11,
+   "age": 24,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/10009.png"
+  },
+  {
+   "id": 762,
+   "name": "Vinícius Júnior",
+   "position": "Attacker",
+   "number": 7,
+   "age": 25,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/762.png"
+  },
+  {
+   "id": 441497,
+   "name": "Daniel Yañez",
+   "position": "Attacker",
+   "number": 7,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/441497.png"
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "source": "api-football.com",
+ "players": [
+  {
+   "id": 30670,
+   "name": "M. Di Gregorio",
+   "position": "Goalkeeper",
+   "number": 16,
+   "age": 28,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/30670.png"
+  },
+  {
+   "id": 620060,
+   "name": "R. Huli",
+   "position": "Goalkeeper",
+   "number": 37,
+   "age": 17,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/620060.png"
+  },
+  {
+   "id": 849,
+   "name": "M. Perin",
+   "position": "Goalkeeper",
+   "number": 1,
+   "age": 33,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/849.png"
+  },
+  {
+   "id": 850,
+   "name": "C. Pinsoglio",
+   "position": "Goalkeeper",
+   "number": 23,
+   "age": 35,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/850.png"
+  },
+  {
+   "id": 597936,
+   "name": "R. Radu",
+   "position": "Goalkeeper",
+   "number": 40,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/597936.png"
+  },
+  {
+   "id": 335099,
+   "name": "S. Scaglia",
+   "position": "Goalkeeper",
+   "number": 1,
+   "age": 21,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/335099.png"
+  },
+  {
+   "id": 30497,
+   "name": "Bremer",
+   "position": "Defender",
+   "number": 3,
+   "age": 28,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/30497.png"
+  },
+  {
+   "id": 125674,
+   "name": "J. Cabal",
+   "position": "Defender",
+   "number": 32,
+   "age": 24,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/125674.png"
+  },
+  {
+   "id": 127011,
+   "name": "A. Cambiaso",
+   "position": "Defender",
+   "number": 27,
+   "age": 25,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/127011.png"
+  },
+  {
+   "id": 268341,
+   "name": "F. Gatti",
+   "position": "Defender",
+   "number": 4,
+   "age": 27,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/268341.png"
+  },
+  {
+   "id": 436925,
+   "name": "Javier Gil",
+   "position": "Defender",
+   "number": 3,
+   "age": 19,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/436925.png"
+  },
+  {
+   "id": 162188,
+   "name": "P. Kalulu",
+   "position": "Defender",
+   "number": 15,
+   "age": 25,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/162188.png"
+  },
+  {
+   "id": 19263,
+   "name": "L. Kelly",
+   "position": "Defender",
+   "number": 6,
+   "age": 27,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/19263.png"
+  },
+  {
+   "id": 405298,
+   "name": "N. Rizzo",
+   "position": "Defender",
+   "number": 5,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/405298.png"
+  },
+  {
+   "id": 339872,
+   "name": "Vasilije Adžić",
+   "position": "Midfielder",
+   "number": 17,
+   "age": 19,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/339872.png"
+  },
+  {
+   "id": 47985,
+   "name": "E. Holm",
+   "position": "Midfielder",
+   "number": 2,
+   "age": 25,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/47985.png"
+  },
+  {
+   "id": 36899,
+   "name": "T. Koopmeiners",
+   "position": "Midfielder",
+   "number": 8,
+   "age": 27,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/36899.png"
+  },
+  {
+   "id": 1821,
+   "name": "F. Kostić",
+   "position": "Midfielder",
+   "number": 18,
+   "age": 33,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/1821.png"
+  },
+  {
+   "id": 30533,
+   "name": "M. Locatelli",
+   "position": "Midfielder",
+   "number": 5,
+   "age": 27,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/30533.png"
+  },
+  {
+   "id": 415,
+   "name": "W. McKennie",
+   "position": "Midfielder",
+   "number": 22,
+   "age": 27,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/415.png"
+  },
+  {
+   "id": 181808,
+   "name": "F. Miretti",
+   "position": "Midfielder",
+   "number": 21,
+   "age": 22,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/181808.png"
+  },
+  {
+   "id": 116,
+   "name": "K. Thuram",
+   "position": "Midfielder",
+   "number": 19,
+   "age": 24,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/116.png"
+  },
+  {
+   "id": 349218,
+   "name": "L. Anghelè",
+   "position": "Attacker",
+   "number": 10,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/349218.png"
+  },
+  {
+   "id": 30531,
+   "name": "J. Boga",
+   "position": "Attacker",
+   "number": 13,
+   "age": 28,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/30531.png"
+  },
+  {
+   "id": 161585,
+   "name": "Francisco Conceição",
+   "position": "Attacker",
+   "number": 7,
+   "age": 23,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/161585.png"
+  },
+  {
+   "id": 8489,
+   "name": "J. David",
+   "position": "Attacker",
+   "number": 30,
+   "age": 25,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/8489.png"
+  },
+  {
+   "id": 333,
+   "name": "A. Milik",
+   "position": "Attacker",
+   "number": 14,
+   "age": 31,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/333.png"
+  },
+  {
+   "id": 86,
+   "name": "L. Openda",
+   "position": "Attacker",
+   "number": 20,
+   "age": 25,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/86.png"
+  },
+  {
+   "id": 30415,
+   "name": "D. Vlahović",
+   "position": "Attacker",
+   "number": null,
+   "age": 25,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/30415.png"
+  },
+  {
+   "id": 339883,
+   "name": "K. Yıldız",
+   "position": "Attacker",
+   "number": 10,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/339883.png"
+  },
+  {
+   "id": 48392,
+   "name": "E. Zhegrova",
+   "position": "Attacker",
+   "number": 11,
+   "age": 26,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/48392.png"
+  }
+ ]
+}
