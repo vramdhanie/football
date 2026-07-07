@@ -21,8 +21,8 @@ export default function Nav() {
 
   return (
     <header className="sticky top-0 z-20 border-b border-white/10 bg-[#0a0e14]/90 backdrop-blur">
-      <nav className="mx-auto flex max-w-5xl items-center gap-1 px-4 py-3 sm:gap-2">
-        <Link href="/" className="mr-3 flex items-center gap-2 font-semibold tracking-tight">
+      <nav className="no-scrollbar mx-auto flex max-w-5xl items-center gap-1 overflow-x-auto px-4 py-3 sm:gap-2">
+        <Link href="/" className="mr-3 flex shrink-0 items-center gap-2 font-semibold tracking-tight">
           <span aria-hidden>⚽</span>
           <span className="hidden sm:inline">My Football</span>
         </Link>
@@ -30,7 +30,7 @@ export default function Nav() {
           <Link
             key={href}
             href={href}
-            className={`rounded-md px-3 py-1.5 text-sm transition-colors ${
+            className={`shrink-0 whitespace-nowrap rounded-md px-3 py-1.5 text-sm transition-colors ${
               isActive(pathname, href)
                 ? "bg-white/10 font-medium text-white"
                 : "text-neutral-400 hover:bg-white/5 hover:text-white"
