@@ -8,8 +8,8 @@ import StandingsTable from "@/components/StandingsTable";
 import TeamCrest from "@/components/TeamCrest";
 import { crestUrl, LEAGUES, teamBySlug } from "@/config/teams";
 import { isFinished, isUpcoming, useJson } from "@/lib/data";
-import { ageFrom, POSITION_GROUP_ORDER, positionGroup } from "@/lib/format";
-import type { MatchesFile, StandingsFile, TeamFile } from "@/lib/types";
+import { POSITION_GROUP_ORDER, positionGroup } from "@/lib/format";
+import type { MatchesFile, SquadFile, SquadPlayer, StandingsFile, TeamFile } from "@/lib/types";
 
 const FIXTURE_LIMIT = 8;
 const RESULT_LIMIT = 8;
@@ -18,14 +18,15 @@ export default function TeamPage({ slug }: { slug: string }) {
   const team = teamBySlug(slug);
   const teamId = team?.id ?? 0;
 
-  const { data: profile, loading: profileLoading } = useJson<TeamFile>(
-    `/data/team-${teamId}.json`,
-  );
+  const { data: profile } = useJson<TeamFile>(`/data/team-${teamId}.json`);
   const { data: matchesFile, loading: matchesLoading } = useJson<MatchesFile>(
     `/data/matches-${teamId}.json`,
   );
   const { data: standingsFile } = useJson<StandingsFile>(
     team ? `/data/standings-${team.league}.json` : "/data/none.json",
+  );
+  const { data: squadFile, loading: squadLoading } = useJson<SquadFile>(
+    `/data/squad-${teamId}.json`,
   );
 
   const matches = useMemo(
@@ -37,17 +38,20 @@ export default function TeamPage({ slug }: { slug: string }) {
   );
 
   const squadGroups = useMemo(() => {
-    const groups = new Map<string, NonNullable<TeamFile["squad"]>>();
-    for (const player of profile?.squad ?? []) {
+    const groups = new Map<string, SquadPlayer[]>();
+    for (const player of squadFile?.players ?? []) {
       const group = positionGroup(player.position);
       const list = groups.get(group) ?? [];
       list.push(player);
       groups.set(group, list);
     }
+    for (const list of groups.values()) {
+      list.sort((a, b) => (a.number ?? 99) - (b.number ?? 99));
+    }
     return POSITION_GROUP_ORDER.filter((g) => groups.has(g)).map(
       (g) => [g, groups.get(g)!] as const,
     );
-  }, [profile]);
+  }, [squadFile]);
 
   if (!team) {
     return <p className="text-neutral-400">Unknown team.</p>;
@@ -59,7 +63,11 @@ export default function TeamPage({ slug }: { slug: string }) {
     .slice(0, FIXTURE_LIMIT);
   const results = matches.filter(isFinished).slice(-RESULT_LIMIT).reverse();
 
-  const leagueTable = standingsFile?.standings.find((s) => s.type === "TOTAL")?.table;
+  const fullLeagueTable = standingsFile?.standings.find((s) => s.type === "TOTAL")?.table;
+  // Hide the preseason table (every club on zero played games) — position
+  // and points are meaningless until the first matchday.
+  const seasonStarted = !!fullLeagueTable && fullLeagueTable.some((r) => r.playedGames > 0);
+  const leagueTable = seasonStarted ? fullLeagueTable : undefined;
   const leagueRow = leagueTable?.find((r) => r.team.id === team.id);
 
   return (
@@ -136,18 +144,27 @@ export default function TeamPage({ slug }: { slug: string }) {
       )}
 
       <section>
-        <h2 className="mb-3 text-lg font-semibold">Squad</h2>
-        {profile === null ? (
-          <EmptyState loading={profileLoading} />
-        ) : squadGroups.length === 0 ? (
-          <p className="text-sm text-neutral-500">
-            Squad data isn&apos;t included in the football-data.org free tier
-            (it&apos;s part of their paid data add-on) — see the{" "}
-            <a href="/scorers/" className="underline hover:text-neutral-300">
-              top scorers
-            </a>{" "}
-            page for player stats.
-          </p>
+        <h2 className="mb-3 flex items-baseline gap-2 text-lg font-semibold">
+          Squad
+          {squadFile && squadGroups.length > 0 && (
+            <span className="text-xs font-normal text-neutral-500">via {squadFile.source}</span>
+          )}
+        </h2>
+        {squadFile === null || squadGroups.length === 0 ? (
+          squadLoading ? (
+            <EmptyState loading />
+          ) : (
+            <p className="text-sm text-neutral-500">
+              Squad data isn&apos;t included in the football-data.org free tier
+              (it&apos;s part of their paid data add-on). Configure an{" "}
+              <code className="rounded bg-white/10 px-1 py-0.5">API_FOOTBALL_KEY</code> to
+              pull squads from api-football.com, or see the{" "}
+              <a href="/scorers/" className="underline hover:text-neutral-300">
+                top scorers
+              </a>{" "}
+              page for player stats.
+            </p>
+          )
         ) : (
           <div className="grid gap-6 sm:grid-cols-2">
             {squadGroups.map(([group, players]) => (
@@ -157,10 +174,28 @@ export default function TeamPage({ slug }: { slug: string }) {
                 </h3>
                 <ul className="divide-y divide-white/5 rounded-lg border border-white/10">
                   {players.map((p) => (
-                    <li key={p.id} className="flex items-baseline justify-between gap-2 px-3 py-2 text-sm">
-                      <span className="truncate">{p.name}</span>
+                    <li key={p.id} className="flex items-center justify-between gap-2 px-3 py-2 text-sm">
+                      <span className="flex min-w-0 items-center gap-2">
+                        {p.photo && (
+                          /* eslint-disable-next-line @next/next/no-img-element */
+                          <img
+                            src={p.photo}
+                            alt=""
+                            width={24}
+                            height={24}
+                            loading="lazy"
+                            className="h-6 w-6 shrink-0 rounded-full object-cover"
+                          />
+                        )}
+                        {p.number !== null && (
+                          <span className="w-6 shrink-0 text-right text-xs tabular-nums text-neutral-500">
+                            {p.number}
+                          </span>
+                        )}
+                        <span className="truncate">{p.name}</span>
+                      </span>
                       <span className="shrink-0 text-xs text-neutral-500">
-                        {[p.position, p.nationality, p.dateOfBirth ? `${ageFrom(p.dateOfBirth)}y` : null]
+                        {[p.position, p.nationality, p.age !== null ? `${p.age}y` : null]
                           .filter(Boolean)
                           .join(" · ")}
                       </span>

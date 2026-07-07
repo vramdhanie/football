@@ -39,6 +39,8 @@ jobs:
       - name: Fetch football data
         env:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+          # Optional: enables real squad data via api-football.com
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: node scripts/fetch-data.mjs
 
       - name: Build static site

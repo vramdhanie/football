@@ -27,12 +27,12 @@ const THROTTLE_MS = 6500;
 const DAYS_BACK = 120;
 const DAYS_FORWARD = 240;
 
-async function loadToken() {
-  if (process.env.FOOTBALL_DATA_TOKEN) return process.env.FOOTBALL_DATA_TOKEN;
-  for (const name of [".env.local", ".env"]) {
+async function loadEnvVar(name) {
+  if (process.env[name]) return process.env[name];
+  for (const file of [".env.local", ".env"]) {
     try {
-      const text = await readFile(path.join(ROOT, name), "utf8");
-      const match = text.match(/^FOOTBALL_DATA_TOKEN=(.+)$/m);
+      const text = await readFile(path.join(ROOT, file), "utf8");
+      const match = text.match(new RegExp(`^${name}=(.+)$`, "m"));
       if (match) return match[1].trim().replace(/^["']|["']$/g, "");
     } catch {
       // file doesn't exist — keep looking
@@ -68,6 +68,38 @@ async function apiGet(token, endpoint) {
   return res.json();
 }
 
+// Optional secondary source: api-football.com. Its free plan (100 req/day,
+// also 10 req/min) includes players/squads, which football-data.org has
+// moved to a paid add-on. Only used when API_FOOTBALL_KEY is configured.
+async function apiFootballGet(key, endpoint) {
+  await sleep(THROTTLE_MS);
+  callCount++;
+  const url = `https://v3.football.api-sports.io${endpoint}`;
+  console.log(`[${callCount}] GET ${url}`);
+  const res = await fetch(url, { headers: { "x-apisports-key": key } });
+  if (!res.ok) {
+    throw new Error(`GET ${endpoint} failed: ${res.status} ${await res.text()}`);
+  }
+  const data = await res.json();
+  // api-football reports auth/quota problems as 200s with an errors payload
+  const apiErrors = Array.isArray(data.errors) ? data.errors : Object.values(data.errors ?? {});
+  if (apiErrors.length > 0) {
+    throw new Error(`GET ${endpoint} returned errors: ${apiErrors.join("; ")}`);
+  }
+  return data;
+}
+
+function ageFromDob(dateOfBirth) {
+  if (!dateOfBirth) return null;
+  const dob = new Date(dateOfBirth);
+  const now = new Date();
+  let age = now.getFullYear() - dob.getFullYear();
+  const beforeBirthday =
+    now.getMonth() < dob.getMonth() ||
+    (now.getMonth() === dob.getMonth() && now.getDate() < dob.getDate());
+  return beforeBirthday ? age - 1 : age;
+}
+
 async function writeJson(filename, data) {
   const file = path.join(DATA_DIR, filename);
   await writeFile(file, JSON.stringify(data, null, 1));
@@ -75,7 +107,8 @@ async function writeJson(filename, data) {
 }
 
 async function main() {
-  const token = await loadToken();
+  const token = await loadEnvVar("FOOTBALL_DATA_TOKEN");
+  const apiFootballKey = await loadEnvVar("API_FOOTBALL_KEY");
   if (!token) {
     console.error(
       "Missing FOOTBALL_DATA_TOKEN. Get a free key at https://www.football-data.org/client/register\n" +
@@ -131,17 +164,57 @@ async function main() {
     }
   }
 
-  // 3. Per team: profile + squad, then matches (two calls per team).
-  // Note: squad comes back empty on the free tier (paid "deep data" add-on);
-  // we keep the call for crest/venue/founded and in case the tier changes.
+  // 3. Per team: profile, normalized squad, then matches.
+  // football-data.org returns an empty squad on the free tier (paid "deep
+  // data" add-on), so when API_FOOTBALL_KEY is configured we fill the squad
+  // from api-football.com instead. Either way the UI reads squad-{id}.json.
   const dateFrom = isoDate(-DAYS_BACK);
   const dateTo = isoDate(DAYS_FORWARD);
   for (const team of teams) {
+    let fdSquad = [];
     try {
       const profile = await apiGet(token, `/teams/${team.id}`);
       await writeJson(`team-${team.id}.json`, profile);
+      fdSquad = profile.squad ?? [];
     } catch (err) {
       errors.push(`team ${team.slug}: ${err.message}`);
+      console.error(`  FAILED: ${err.message}`);
+    }
+    try {
+      let players = null;
+      let source = null;
+      if (fdSquad.length > 0) {
+        source = "football-data.org";
+        players = fdSquad.map((p) => ({
+          id: p.id,
+          name: p.name,
+          position: p.position ?? null,
+          number: p.shirtNumber ?? null,
+          age: ageFromDob(p.dateOfBirth),
+          nationality: p.nationality ?? null,
+          photo: null,
+        }));
+      } else if (apiFootballKey) {
+        source = "api-football.com";
+        const data = await apiFootballGet(
+          apiFootballKey,
+          `/players/squads?team=${team.apiFootballId}`,
+        );
+        players = (data.response?.[0]?.players ?? []).map((p) => ({
+          id: p.id,
+          name: p.name,
+          position: p.position ?? null,
+          number: p.number ?? null,
+          age: p.age ?? null,
+          nationality: null,
+          photo: p.photo ?? null,
+        }));
+      }
+      if (players) {
+        await writeJson(`squad-${team.id}.json`, { source, players });
+      }
+    } catch (err) {
+      errors.push(`squad ${team.slug}: ${err.message}`);
       console.error(`  FAILED: ${err.message}`);
     }
     try {
@@ -166,7 +239,7 @@ async function main() {
     for (const e of errors) console.error(`  - ${e}`);
     // Exit non-zero only if everything failed — partial data is still
     // worth deploying (stale files for the failed pieces remain in place).
-    if (errors.length >= leagueCodes.length * 2 + teams.length * 2) process.exit(1);
+    if (errors.length >= leagueCodes.length * 2 + teams.length * 3) process.exit(1);
   } else {
     console.log(`\nDone: ${callCount} API calls, all successful.`);
   }

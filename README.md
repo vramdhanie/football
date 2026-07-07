@@ -1,7 +1,14 @@
 # My Football
 
+[![Deploy](https://img.shields.io/github/actions/workflow/status/vramdhanie/football/deploy.yml?branch=main&label=deploy&logo=github)](https://github.com/vramdhanie/football/actions/workflows/deploy.yml)
+[![License: MIT](https://img.shields.io/github/license/vramdhanie/football?color=green)](LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Data: football-data.org](https://img.shields.io/badge/data-football--data.org-6f42c1)](https://www.football-data.org)
+
 A fully static football tracker for my favourite European teams — fixtures, results,
-standings, and squads, built with Next.js (static export), TypeScript, and Tailwind.
+standings, and top scorers, built with Next.js (static export), TypeScript, and Tailwind.
 
 Live at [football.vincentramdhanie.com](https://football.vincentramdhanie.com).
 
@@ -64,3 +71,14 @@ Get a free API key at <https://www.football-data.org/client/register>.
 - Squads, lineups, and deep player stats are a paid add-on — the free tier
   returns empty squads, so the "players" feature is the per-league top
   scorers list (falls back to last season until the new one starts).
+
+## Optional second source: api-football.com
+
+Squad data can be filled from [api-football.com](https://www.api-football.com/)
+(free plan: 100 requests/day, all endpoints, `players/squads` returns current
+squads). Register at their dashboard, then set `API_FOOTBALL_KEY` in
+`.env.local` (locally) and as a repository secret (for the workflow). When the
+key is present the fetch script pulls each team's current squad (9 extra
+calls, still throttled); without it the team pages simply link to the top
+scorers page instead. Each team's api-football id lives alongside its
+football-data id in `src/config/teams.json`.

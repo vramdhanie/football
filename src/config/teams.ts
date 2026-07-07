@@ -4,6 +4,8 @@ export type LeagueCode = "PL" | "BL1" | "PD" | "FL1";
 
 export interface TrackedTeam {
   id: number;
+  /** Team id on api-football.com (differs from the football-data.org id). */
+  apiFootballId: number;
   slug: string;
   name: string;
   shortName: string;

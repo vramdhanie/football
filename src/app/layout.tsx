@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 
 import Footer from "@/components/Footer";
@@ -15,9 +15,32 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const SITE_DESCRIPTION =
+  "Vincent Ramdhanie's personal tracker for his favourite European football teams — " +
+  "fixtures, results, standings, and top scorers across the Premier League, " +
+  "Bundesliga, La Liga, and Ligue 1.";
+
 export const metadata: Metadata = {
-  title: "My Football",
-  description: "Fixtures, results, standings and squads for my tracked teams",
+  metadataBase: new URL("https://football.vincentramdhanie.com"),
+  title: {
+    default: "My Football — Vincent Ramdhanie",
+    template: "%s — My Football",
+  },
+  description: SITE_DESCRIPTION,
+  authors: [{ name: "Vincent Ramdhanie", url: "https://vincentramdhanie.com" }],
+  creator: "Vincent Ramdhanie",
+  manifest: "/site.webmanifest",
+  openGraph: {
+    title: "My Football — Vincent Ramdhanie",
+    description: SITE_DESCRIPTION,
+    url: "https://football.vincentramdhanie.com",
+    siteName: "My Football",
+    type: "website",
+  },
+};
+
+export const viewport: Viewport = {
+  themeColor: "#0a0e14",
 };
 
 export default function RootLayout({

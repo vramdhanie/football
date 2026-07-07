@@ -120,6 +120,23 @@ export interface ScorersFile {
   scorers: ApiScorer[];
 }
 
+/** Normalized squad written by the fetch script — sourced from
+ * football-data.org when available, otherwise api-football.com. */
+export interface SquadPlayer {
+  id: number;
+  name: string;
+  position: string | null;
+  number: number | null;
+  age: number | null;
+  nationality: string | null;
+  photo: string | null;
+}
+
+export interface SquadFile {
+  source: string;
+  players: SquadPlayer[];
+}
+
 export interface MetaFile {
   lastUpdated: string;
   season?: string;
