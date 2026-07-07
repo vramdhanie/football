@@ -1,13 +1,14 @@
-name: Fetch data and deploy
+name: Deploy
 
 on:
-  # Scheduled refresh is paused until the 2026-27 season starts.
-  # Uncomment around 15 Aug 2026 to refresh every 12 hours
-  # (off the top of the hour, UTC, to avoid scheduling congestion):
-  # schedule:
-  #   - cron: "23 */12 * * *"
-  workflow_dispatch:
   push:
+    branches: [main]
+  workflow_dispatch:
+  # Redeploy after a successful data refresh (its bot commit can't fire
+  # the `push` trigger — GITHUB_TOKEN pushes don't start workflows).
+  workflow_run:
+    workflows: ["Fetch data"]
+    types: [completed]
     branches: [main]
 
 permissions:
@@ -21,6 +22,8 @@ concurrency:
 
 jobs:
   build-and-deploy:
+    # For workflow_run triggers, only deploy after a successful fetch.
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -35,13 +38,6 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
-
-      - name: Fetch football data
-        env:
-          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
-          # Optional: enables real squad data via api-football.com
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-        run: node scripts/fetch-data.mjs
 
       - name: Build static site
         run: npm run build

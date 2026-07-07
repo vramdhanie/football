@@ -1,0 +1,48 @@
+name: Fetch data
+
+on:
+  # Scheduled refresh is paused until the 2026-27 season starts.
+  # Uncomment around 15 Aug 2026 to refresh every 12 hours
+  # (off the top of the hour, UTC, to avoid scheduling congestion):
+  # schedule:
+  #   - cron: "23 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # The fetch script only uses Node built-ins — no npm ci needed.
+      - name: Fetch football data
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: node scripts/fetch-data.mjs
+
+      # Commits made with GITHUB_TOKEN intentionally don't fire `push`
+      # workflows, so the Deploy workflow listens for this workflow's
+      # completion (workflow_run) instead.
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore(data): refresh football data"
+            git push
+          fi

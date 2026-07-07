@@ -1,0 +1,293 @@
+{
+ "source": "api-football.com",
+ "players": [
+  {
+   "id": 280,
+   "name": "Alisson Becker",
+   "position": "Goalkeeper",
+   "number": 1,
+   "age": 33,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/280.png"
+  },
+  {
+   "id": 24760,
+   "name": "G. Mamardashvili",
+   "position": "Goalkeeper",
+   "number": 25,
+   "age": 25,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/24760.png"
+  },
+  {
+   "id": 415992,
+   "name": "K. Miściur",
+   "position": "Goalkeeper",
+   "number": 13,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/415992.png"
+  },
+  {
+   "id": 342467,
+   "name": "Á. Pécsi",
+   "position": "Goalkeeper",
+   "number": 41,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/342467.png"
+  },
+  {
+   "id": 18889,
+   "name": "F. Woodman",
+   "position": "Goalkeeper",
+   "number": 28,
+   "age": 28,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/18889.png"
+  },
+  {
+   "id": 180317,
+   "name": "C. Bradley",
+   "position": "Defender",
+   "number": 12,
+   "age": 22,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/180317.png"
+  },
+  {
+   "id": 661145,
+   "name": "Flores",
+   "position": "Defender",
+   "number": 92,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/661145.png"
+  },
+  {
+   "id": 284,
+   "name": "J. Gomez",
+   "position": "Defender",
+   "number": 2,
+   "age": 28,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/284.png"
+  },
+  {
+   "id": 206254,
+   "name": "M. Kerkez",
+   "position": "Defender",
+   "number": 6,
+   "age": 22,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/206254.png"
+  },
+  {
+   "id": 1145,
+   "name": "I. Konaté",
+   "position": "Defender",
+   "number": null,
+   "age": 26,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/1145.png"
+  },
+  {
+   "id": 606814,
+   "name": "T. Ndiaye",
+   "position": "Defender",
+   "number": 75,
+   "age": 17,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/606814.png"
+  },
+  {
+   "id": 135525,
+   "name": "C. Ramsay",
+   "position": "Defender",
+   "number": 2,
+   "age": 22,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/135525.png"
+  },
+  {
+   "id": 289,
+   "name": "A. Robertson",
+   "position": "Defender",
+   "number": 26,
+   "age": 31,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/289.png"
+  },
+  {
+   "id": 290,
+   "name": "V. van Dijk",
+   "position": "Defender",
+   "number": 4,
+   "age": 34,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/290.png"
+  },
+  {
+   "id": 8500,
+   "name": "W. Endo",
+   "position": "Midfielder",
+   "number": 3,
+   "age": 32,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/8500.png"
+  },
+  {
+   "id": 152654,
+   "name": "J. Frimpong",
+   "position": "Midfielder",
+   "number": 30,
+   "age": 25,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/152654.png"
+  },
+  {
+   "id": 542,
+   "name": "R. Gravenberch",
+   "position": "Midfielder",
+   "number": 38,
+   "age": 23,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/542.png"
+  },
+  {
+   "id": 293,
+   "name": "C. Jones",
+   "position": "Midfielder",
+   "number": 17,
+   "age": 24,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/293.png"
+  },
+  {
+   "id": 6716,
+   "name": "A. Mac Allister",
+   "position": "Midfielder",
+   "number": 10,
+   "age": 27,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/6716.png"
+  },
+  {
+   "id": 287109,
+   "name": "J. McConnell",
+   "position": "Midfielder",
+   "number": 53,
+   "age": 21,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/287109.png"
+  },
+  {
+   "id": 389032,
+   "name": "K. Morrison",
+   "position": "Midfielder",
+   "number": 68,
+   "age": 19,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/389032.png"
+  },
+  {
+   "id": 407032,
+   "name": "A. Nallo",
+   "position": "Midfielder",
+   "number": 3,
+   "age": 19,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/407032.png"
+  },
+  {
+   "id": 397997,
+   "name": "T. Nyoni",
+   "position": "Midfielder",
+   "number": 42,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/397997.png"
+  },
+  {
+   "id": 1096,
+   "name": "D. Szoboszlai",
+   "position": "Midfielder",
+   "number": 8,
+   "age": 25,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/1096.png"
+  },
+  {
+   "id": 203224,
+   "name": "F. Wirtz",
+   "position": "Midfielder",
+   "number": 7,
+   "age": 22,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/203224.png"
+  },
+  {
+   "id": 30410,
+   "name": "F. Chiesa",
+   "position": "Attacker",
+   "number": 14,
+   "age": 28,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/30410.png"
+  },
+  {
+   "id": 174565,
+   "name": "H. Ekitike",
+   "position": "Attacker",
+   "number": 22,
+   "age": 23,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/174565.png"
+  },
+  {
+   "id": 247,
+   "name": "C. Gakpo",
+   "position": "Attacker",
+   "number": 18,
+   "age": 26,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/247.png"
+  },
+  {
+   "id": 2864,
+   "name": "A. Isak",
+   "position": "Attacker",
+   "number": 9,
+   "age": 26,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/2864.png"
+  },
+  {
+   "id": 452685,
+   "name": "R. Ngumoha",
+   "position": "Attacker",
+   "number": 73,
+   "age": 17,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/452685.png"
+  },
+  {
+   "id": 306,
+   "name": "Mohamed Salah",
+   "position": "Attacker",
+   "number": 11,
+   "age": 33,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/306.png"
+  },
+  {
+   "id": 498377,
+   "name": "W. Wright",
+   "position": "Attacker",
+   "number": 79,
+   "age": 17,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/498377.png"
+  }
+ ]
+}

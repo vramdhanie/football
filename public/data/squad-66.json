@@ -1,0 +1,266 @@
+{
+ "source": "api-football.com",
+ "players": [
+  {
+   "id": 50132,
+   "name": "A. Bayındır",
+   "position": "Goalkeeper",
+   "number": 1,
+   "age": 27,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/50132.png"
+  },
+  {
+   "id": 162511,
+   "name": "S. Lammens",
+   "position": "Goalkeeper",
+   "number": 31,
+   "age": 23,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/162511.png"
+  },
+  {
+   "id": 886,
+   "name": "Diogo Dalot",
+   "position": "Defender",
+   "number": 2,
+   "age": 26,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/886.png"
+  },
+  {
+   "id": 382452,
+   "name": "P. Dorgu",
+   "position": "Defender",
+   "number": 13,
+   "age": 21,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/382452.png"
+  },
+  {
+   "id": 328101,
+   "name": "T. Fredricson",
+   "position": "Defender",
+   "number": 4,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/328101.png"
+  },
+  {
+   "id": 402329,
+   "name": "A. Heaven",
+   "position": "Defender",
+   "number": 26,
+   "age": 19,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/402329.png"
+  },
+  {
+   "id": 440159,
+   "name": "G. Kukonki",
+   "position": "Defender",
+   "number": 12,
+   "age": 17,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/440159.png"
+  },
+  {
+   "id": 2935,
+   "name": "H. Maguire",
+   "position": "Defender",
+   "number": 5,
+   "age": 32,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/2935.png"
+  },
+  {
+   "id": 37145,
+   "name": "T. Malacia",
+   "position": "Defender",
+   "number": 12,
+   "age": 26,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/37145.png"
+  },
+  {
+   "id": 2467,
+   "name": "Lisandro Martínez",
+   "position": "Defender",
+   "number": 6,
+   "age": 27,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/2467.png"
+  },
+  {
+   "id": 545,
+   "name": "N. Mazraoui",
+   "position": "Defender",
+   "number": 3,
+   "age": 28,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/545.png"
+  },
+  {
+   "id": 891,
+   "name": "L. Shaw",
+   "position": "Defender",
+   "number": 23,
+   "age": 30,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/891.png"
+  },
+  {
+   "id": 342970,
+   "name": "L. Yoro",
+   "position": "Defender",
+   "number": 15,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/342970.png"
+  },
+  {
+   "id": 747,
+   "name": "Casemiro",
+   "position": "Midfielder",
+   "number": 18,
+   "age": 33,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/747.png"
+  },
+  {
+   "id": 1485,
+   "name": "Bruno Fernandes",
+   "position": "Midfielder",
+   "number": 8,
+   "age": 31,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/1485.png"
+  },
+  {
+   "id": 383770,
+   "name": "J. Fletcher",
+   "position": "Midfielder",
+   "number": 10,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/383770.png"
+  },
+  {
+   "id": 557460,
+   "name": "T. Fletcher",
+   "position": "Midfielder",
+   "number": 39,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/557460.png"
+  },
+  {
+   "id": 284322,
+   "name": "K. Mainoo",
+   "position": "Midfielder",
+   "number": 37,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/284322.png"
+  },
+  {
+   "id": 344229,
+   "name": "J. Moorhouse",
+   "position": "Midfielder",
+   "number": 8,
+   "age": 20,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/344229.png"
+  },
+  {
+   "id": 19220,
+   "name": "M. Mount",
+   "position": "Midfielder",
+   "number": 7,
+   "age": 26,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/19220.png"
+  },
+  {
+   "id": 51494,
+   "name": "M. Ugarte",
+   "position": "Midfielder",
+   "number": 25,
+   "age": 24,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/51494.png"
+  },
+  {
+   "id": 1165,
+   "name": "Matheus Cunha",
+   "position": "Attacker",
+   "number": 10,
+   "age": 26,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/1165.png"
+  },
+  {
+   "id": 157997,
+   "name": "A. Diallo",
+   "position": "Attacker",
+   "number": 16,
+   "age": 23,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/157997.png"
+  },
+  {
+   "id": 557462,
+   "name": "S. Lacey",
+   "position": "Attacker",
+   "number": 61,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/557462.png"
+  },
+  {
+   "id": 404769,
+   "name": "Bendito Mantato",
+   "position": "Attacker",
+   "number": 15,
+   "age": 17,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/404769.png"
+  },
+  {
+   "id": 20589,
+   "name": "B. Mbeumo",
+   "position": "Attacker",
+   "number": 19,
+   "age": 26,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/20589.png"
+  },
+  {
+   "id": 389309,
+   "name": "O. Martin",
+   "position": "Attacker",
+   "number": 16,
+   "age": 18,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/389309.png"
+  },
+  {
+   "id": 115589,
+   "name": "B. Šeško",
+   "position": "Attacker",
+   "number": 30,
+   "age": 22,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/115589.png"
+  },
+  {
+   "id": 70100,
+   "name": "J. Zirkzee",
+   "position": "Attacker",
+   "number": 11,
+   "age": 24,
+   "nationality": null,
+   "photo": "https://media.api-sports.io/football/players/70100.png"
+  }
+ ]
+}

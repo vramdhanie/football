@@ -1,0 +1,42 @@
+{
+ "area": {
+  "id": 2224,
+  "name": "Spain",
+  "code": "ESP",
+  "flag": "https://crests.football-data.org/760.svg"
+ },
+ "id": 81,
+ "name": "FC Barcelona",
+ "shortName": "Barça",
+ "tla": "FCB",
+ "crest": "https://crests.football-data.org/81.png",
+ "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+ "website": "http://www.fcbarcelona.com",
+ "founded": 1899,
+ "clubColors": "Red / Navy Blue / Orange",
+ "venue": "Camp Nou",
+ "runningCompetitions": [
+  {
+   "id": 2014,
+   "name": "Primera Division",
+   "code": "PD",
+   "type": "LEAGUE",
+   "emblem": "https://crests.football-data.org/laliga.png"
+  }
+ ],
+ "coach": {
+  "id": null,
+  "firstName": null,
+  "lastName": null,
+  "name": null,
+  "dateOfBirth": null,
+  "nationality": null,
+  "contract": {
+   "start": null,
+   "until": null
+  }
+ },
+ "squad": [],
+ "staff": [],
+ "lastUpdated": "2024-07-29T17:09:22Z"
+}
