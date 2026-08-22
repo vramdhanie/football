@@ -36,7 +36,204 @@
    "until": null
   }
  },
- "squad": [],
+ "squad": [
+  {
+   "id": 3641,
+   "name": "Thibaut Courtois",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1992-05-11",
+   "nationality": "Belgium"
+  },
+  {
+   "id": 28995,
+   "name": "Andriy Lunin",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1999-02-11",
+   "nationality": "Ukraine"
+  },
+  {
+   "id": 1337,
+   "name": "Éder Militão",
+   "position": "Defence",
+   "dateOfBirth": "1998-01-18",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 3177,
+   "name": "Antonio Rüdiger",
+   "position": "Defence",
+   "dateOfBirth": "1993-03-03",
+   "nationality": "Germany"
+  },
+  {
+   "id": 7417,
+   "name": "Denzel Dumfries",
+   "position": "Defence",
+   "dateOfBirth": "1996-04-18",
+   "nationality": "Netherlands"
+  },
+  {
+   "id": 7867,
+   "name": "Trent Alexander-Arnold",
+   "position": "Defence",
+   "dateOfBirth": "1998-10-07",
+   "nationality": "England"
+  },
+  {
+   "id": 8458,
+   "name": "Ferland Mendy",
+   "position": "Defence",
+   "dateOfBirth": "1995-06-08",
+   "nationality": "France"
+  },
+  {
+   "id": 9542,
+   "name": "Ibrahima Konaté",
+   "position": "Defence",
+   "dateOfBirth": "1999-05-25",
+   "nationality": "France"
+  },
+  {
+   "id": 15863,
+   "name": "Cucurella",
+   "position": "Defence",
+   "dateOfBirth": "1998-07-22",
+   "nationality": "Spain"
+  },
+  {
+   "id": 182020,
+   "name": "Álvaro Carreras",
+   "position": "Defence",
+   "dateOfBirth": "2003-03-23",
+   "nationality": "Spain"
+  },
+  {
+   "id": 191727,
+   "name": "Dean Huijsen",
+   "position": "Defence",
+   "dateOfBirth": "2005-04-14",
+   "nationality": "Spain"
+  },
+  {
+   "id": 270615,
+   "name": "David Jiménez",
+   "position": "Defence",
+   "dateOfBirth": "2004-03-14",
+   "nationality": "Spain"
+  },
+  {
+   "id": 272712,
+   "name": "Raúl",
+   "position": "Defence",
+   "dateOfBirth": "2003-02-13",
+   "nationality": "Spain"
+  },
+  {
+   "id": 96,
+   "name": "Federico Valverde",
+   "position": "Midfield",
+   "dateOfBirth": "1998-07-22",
+   "nationality": "Uruguay"
+  },
+  {
+   "id": 3254,
+   "name": "Bernardo Silva",
+   "position": "Midfield",
+   "dateOfBirth": "1994-08-10",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 8514,
+   "name": "Aurélien Tchouameni",
+   "position": "Midfield",
+   "dateOfBirth": "2000-01-27",
+   "nationality": "France"
+  },
+  {
+   "id": 102343,
+   "name": "Eduardo Camavinga",
+   "position": "Midfield",
+   "dateOfBirth": "2002-11-10",
+   "nationality": "France"
+  },
+  {
+   "id": 125010,
+   "name": "Jude Bellingham",
+   "position": "Midfield",
+   "dateOfBirth": "2003-06-29",
+   "nationality": "England"
+  },
+  {
+   "id": 169162,
+   "name": "Arda Guler",
+   "position": "Midfield",
+   "dateOfBirth": "2005-02-25",
+   "nationality": "Turkey"
+  },
+  {
+   "id": 283110,
+   "name": "Thiago Pitarch",
+   "position": "Midfield",
+   "dateOfBirth": "2007-08-03",
+   "nationality": "Spain"
+  },
+  {
+   "id": 291727,
+   "name": "Manuel Angel",
+   "position": "Midfield",
+   "dateOfBirth": "2004-03-15",
+   "nationality": "Spain"
+  },
+  {
+   "id": 1324,
+   "name": "Rodrygo",
+   "position": "Offence",
+   "dateOfBirth": "2001-01-09",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 1556,
+   "name": "Vinicius Junior",
+   "position": "Offence",
+   "dateOfBirth": "2000-07-12",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 3374,
+   "name": "Kylian Mbappé",
+   "position": "Offence",
+   "dateOfBirth": "1998-12-20",
+   "nationality": "France"
+  },
+  {
+   "id": 7887,
+   "name": "Brahim Diaz",
+   "position": "Offence",
+   "dateOfBirth": "1999-08-03",
+   "nationality": "Morocco"
+  },
+  {
+   "id": 188487,
+   "name": "Endrick",
+   "position": "Offence",
+   "dateOfBirth": "2006-07-21",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 247061,
+   "name": "Carlos Espí",
+   "position": "Offence",
+   "dateOfBirth": "2005-07-24",
+   "nationality": "Spain"
+  },
+  {
+   "id": 277484,
+   "name": "Yan Diomandé",
+   "position": "Offence",
+   "dateOfBirth": "2006-11-14",
+   "nationality": "Ivory Coast"
+  }
+ ],
  "staff": [],
  "lastUpdated": "2022-02-19T08:59:31Z"
 }

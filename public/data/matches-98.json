@@ -21,336 +21,6 @@
     "currentMatchday": 38,
     "winner": null
    },
-   "id": 537099,
-   "utcDate": "2026-03-15T19:45:00Z",
-   "status": "FINISHED",
-   "matchday": 29,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-06-07T20:20:25Z",
-   "homeTeam": {
-    "id": 110,
-    "name": "SS Lazio",
-    "shortName": "Lazio",
-    "tla": "LAZ",
-    "crest": "https://crests.football-data.org/110.png"
-   },
-   "awayTeam": {
-    "id": 98,
-    "name": "AC Milan",
-    "shortName": "Milan",
-    "tla": "MIL",
-    "crest": "https://crests.football-data.org/98.png"
-   },
-   "score": {
-    "winner": "HOME_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 1,
-     "away": 0
-    },
-    "halfTime": {
-     "home": 1,
-     "away": 0
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 11079,
-     "name": "Marco Guida",
-     "type": "REFEREE",
-     "nationality": "Italy"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2114,
-    "name": "Italy",
-    "code": "ITA",
-    "flag": "https://crests.football-data.org/784.svg"
-   },
-   "competition": {
-    "id": 2019,
-    "name": "Serie A",
-    "code": "SA",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/c111.png"
-   },
-   "season": {
-    "id": 2395,
-    "startDate": "2025-08-24",
-    "endDate": "2026-05-24",
-    "currentMatchday": 38,
-    "winner": null
-   },
-   "id": 537106,
-   "utcDate": "2026-03-21T17:00:00Z",
-   "status": "FINISHED",
-   "matchday": 30,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-06-07T20:20:25Z",
-   "homeTeam": {
-    "id": 98,
-    "name": "AC Milan",
-    "shortName": "Milan",
-    "tla": "MIL",
-    "crest": "https://crests.football-data.org/98.png"
-   },
-   "awayTeam": {
-    "id": 586,
-    "name": "Torino FC",
-    "shortName": "Torino",
-    "tla": "TOR",
-    "crest": "https://crests.football-data.org/586.png"
-   },
-   "score": {
-    "winner": "HOME_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 3,
-     "away": 2
-    },
-    "halfTime": {
-     "home": 1,
-     "away": 1
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 11129,
-     "name": "Francesco Fourneau",
-     "type": "REFEREE",
-     "nationality": "Italy"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2114,
-    "name": "Italy",
-    "code": "ITA",
-    "flag": "https://crests.football-data.org/784.svg"
-   },
-   "competition": {
-    "id": 2019,
-    "name": "Serie A",
-    "code": "SA",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/c111.png"
-   },
-   "season": {
-    "id": 2395,
-    "startDate": "2025-08-24",
-    "endDate": "2026-05-24",
-    "currentMatchday": 38,
-    "winner": null
-   },
-   "id": 537121,
-   "utcDate": "2026-04-06T18:45:00Z",
-   "status": "FINISHED",
-   "matchday": 31,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-06-07T20:20:25Z",
-   "homeTeam": {
-    "id": 113,
-    "name": "SSC Napoli",
-    "shortName": "Napoli",
-    "tla": "NAP",
-    "crest": "https://crests.football-data.org/113.png"
-   },
-   "awayTeam": {
-    "id": 98,
-    "name": "AC Milan",
-    "shortName": "Milan",
-    "tla": "MIL",
-    "crest": "https://crests.football-data.org/98.png"
-   },
-   "score": {
-    "winner": "HOME_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 1,
-     "away": 0
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 0
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 11065,
-     "name": "Daniele Doveri",
-     "type": "REFEREE",
-     "nationality": "Italy"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2114,
-    "name": "Italy",
-    "code": "ITA",
-    "flag": "https://crests.football-data.org/784.svg"
-   },
-   "competition": {
-    "id": 2019,
-    "name": "Serie A",
-    "code": "SA",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/c111.png"
-   },
-   "season": {
-    "id": 2395,
-    "startDate": "2025-08-24",
-    "endDate": "2026-05-24",
-    "currentMatchday": 38,
-    "winner": null
-   },
-   "id": 537126,
-   "utcDate": "2026-04-11T16:00:00Z",
-   "status": "FINISHED",
-   "matchday": 32,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-06-07T20:20:25Z",
-   "homeTeam": {
-    "id": 98,
-    "name": "AC Milan",
-    "shortName": "Milan",
-    "tla": "MIL",
-    "crest": "https://crests.football-data.org/98.png"
-   },
-   "awayTeam": {
-    "id": 115,
-    "name": "Udinese Calcio",
-    "shortName": "Udinese",
-    "tla": "UDI",
-    "crest": "https://crests.football-data.org/115.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 0,
-     "away": 3
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 2
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 57762,
-     "name": "Matteo Marchetti",
-     "type": "REFEREE",
-     "nationality": "Italy"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2114,
-    "name": "Italy",
-    "code": "ITA",
-    "flag": "https://crests.football-data.org/784.svg"
-   },
-   "competition": {
-    "id": 2019,
-    "name": "Serie A",
-    "code": "SA",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/c111.png"
-   },
-   "season": {
-    "id": 2395,
-    "startDate": "2025-08-24",
-    "endDate": "2026-05-24",
-    "currentMatchday": 38,
-    "winner": null
-   },
-   "id": 537136,
-   "utcDate": "2026-04-19T13:00:00Z",
-   "status": "FINISHED",
-   "matchday": 33,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-06-07T20:20:25Z",
-   "homeTeam": {
-    "id": 450,
-    "name": "Hellas Verona FC",
-    "shortName": "Verona",
-    "tla": "HVE",
-    "crest": "https://crests.football-data.org/450.png"
-   },
-   "awayTeam": {
-    "id": 98,
-    "name": "AC Milan",
-    "shortName": "Milan",
-    "tla": "MIL",
-    "crest": "https://crests.football-data.org/98.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 0,
-     "away": 1
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 1
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 11053,
-     "name": "Daniele Chiffi",
-     "type": "REFEREE",
-     "nationality": "Italy"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2114,
-    "name": "Italy",
-    "code": "ITA",
-    "flag": "https://crests.football-data.org/784.svg"
-   },
-   "competition": {
-    "id": 2019,
-    "name": "Serie A",
-    "code": "SA",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/c111.png"
-   },
-   "season": {
-    "id": 2395,
-    "startDate": "2025-08-24",
-    "endDate": "2026-05-24",
-    "currentMatchday": 38,
-    "winner": null
-   },
    "id": 537146,
    "utcDate": "2026-04-26T18:45:00Z",
    "status": "FINISHED",
@@ -682,12 +352,12 @@
     "winner": null
    },
    "id": 558634,
-   "utcDate": "2026-08-23T16:30:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-08-23T18:45:00Z",
+   "status": "TIMED",
    "matchday": 1,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:49Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 586,
     "name": "Torino FC",
@@ -741,12 +411,12 @@
     "winner": null
    },
    "id": 558625,
-   "utcDate": "2026-08-30T16:30:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-08-28T18:45:00Z",
+   "status": "TIMED",
    "matchday": 2,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:49Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -800,12 +470,12 @@
     "winner": null
    },
    "id": 558618,
-   "utcDate": "2026-09-06T16:30:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-09-06T18:45:00Z",
+   "status": "TIMED",
    "matchday": 3,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:49Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -859,12 +529,12 @@
     "winner": null
    },
    "id": 558600,
-   "utcDate": "2026-09-13T16:30:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-09-13T18:45:00Z",
+   "status": "TIMED",
    "matchday": 4,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 110,
     "name": "SS Lazio",
@@ -918,12 +588,12 @@
     "winner": null
    },
    "id": 558597,
-   "utcDate": "2026-09-20T16:30:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-09-20T18:45:00Z",
+   "status": "TIMED",
    "matchday": 5,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -977,12 +647,12 @@
     "winner": null
    },
    "id": 558580,
-   "utcDate": "2026-10-11T16:30:00Z",
+   "utcDate": "2026-10-11T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 471,
     "name": "US Sassuolo Calcio",
@@ -1036,12 +706,12 @@
     "winner": null
    },
    "id": 558569,
-   "utcDate": "2026-10-18T16:30:00Z",
+   "utcDate": "2026-10-18T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1095,12 +765,12 @@
     "winner": null
    },
    "id": 558559,
-   "utcDate": "2026-10-25T17:30:00Z",
+   "utcDate": "2026-10-25T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 115,
     "name": "Udinese Calcio",
@@ -1154,12 +824,12 @@
     "winner": null
    },
    "id": 558549,
-   "utcDate": "2026-10-28T17:30:00Z",
+   "utcDate": "2026-10-28T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1213,12 +883,12 @@
     "winner": null
    },
    "id": 558548,
-   "utcDate": "2026-11-01T17:30:00Z",
+   "utcDate": "2026-11-01T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1272,12 +942,12 @@
     "winner": null
    },
    "id": 558536,
-   "utcDate": "2026-11-08T17:30:00Z",
+   "utcDate": "2026-11-08T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 107,
     "name": "Genoa CFC",
@@ -1331,12 +1001,12 @@
     "winner": null
    },
    "id": 558523,
-   "utcDate": "2026-11-22T17:30:00Z",
+   "utcDate": "2026-11-22T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1390,12 +1060,12 @@
     "winner": null
    },
    "id": 558510,
-   "utcDate": "2026-11-29T17:30:00Z",
+   "utcDate": "2026-11-29T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 13,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 104,
     "name": "Cagliari Calcio",
@@ -1449,12 +1119,12 @@
     "winner": null
    },
    "id": 558505,
-   "utcDate": "2026-12-06T17:30:00Z",
+   "utcDate": "2026-12-06T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 14,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1508,12 +1178,12 @@
     "winner": null
    },
    "id": 558489,
-   "utcDate": "2026-12-13T17:30:00Z",
+   "utcDate": "2026-12-13T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 15,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 113,
     "name": "SSC Napoli",
@@ -1567,12 +1237,12 @@
     "winner": null
    },
    "id": 558479,
-   "utcDate": "2026-12-20T17:30:00Z",
+   "utcDate": "2026-12-20T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 16,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1626,12 +1296,12 @@
     "winner": null
    },
    "id": 558475,
-   "utcDate": "2027-01-03T12:00:00Z",
+   "utcDate": "2027-01-03T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 17,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 5911,
     "name": "AC Monza",
@@ -1685,12 +1355,12 @@
     "winner": null
    },
    "id": 558464,
-   "utcDate": "2027-01-06T12:00:00Z",
+   "utcDate": "2027-01-06T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 18,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1744,12 +1414,12 @@
     "winner": null
    },
    "id": 558458,
-   "utcDate": "2027-01-10T12:00:00Z",
+   "utcDate": "2027-01-10T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 19,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 100,
     "name": "AS Roma",
@@ -1803,12 +1473,12 @@
     "winner": null
    },
    "id": 558439,
-   "utcDate": "2027-01-17T12:00:00Z",
+   "utcDate": "2027-01-17T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 20,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1862,12 +1532,12 @@
     "winner": null
    },
    "id": 558433,
-   "utcDate": "2027-01-24T12:00:00Z",
+   "utcDate": "2027-01-24T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 21,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 470,
     "name": "Frosinone Calcio",
@@ -1921,12 +1591,12 @@
     "winner": null
    },
    "id": 558419,
-   "utcDate": "2027-01-31T12:00:00Z",
+   "utcDate": "2027-01-31T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 22,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1980,12 +1650,12 @@
     "winner": null
    },
    "id": 558417,
-   "utcDate": "2027-02-07T12:00:00Z",
+   "utcDate": "2027-02-07T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 23,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 103,
     "name": "Bologna FC 1909",
@@ -2039,12 +1709,12 @@
     "winner": null
    },
    "id": 558408,
-   "utcDate": "2027-02-14T12:00:00Z",
+   "utcDate": "2027-02-14T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 24,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 108,
     "name": "FC Internazionale Milano",
@@ -2098,12 +1768,12 @@
     "winner": null
    },
    "id": 558395,
-   "utcDate": "2027-02-21T12:00:00Z",
+   "utcDate": "2027-02-21T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 25,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -2157,12 +1827,12 @@
     "winner": null
    },
    "id": 558384,
-   "utcDate": "2027-02-28T12:00:00Z",
+   "utcDate": "2027-02-28T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 26,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T13:12:50Z",
+   "lastUpdated": "2026-08-22T15:20:13Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -2176,6 +1846,360 @@
     "shortName": "Milan",
     "tla": "MIL",
     "crest": "https://crests.football-data.org/98.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2114,
+    "name": "Italy",
+    "code": "ITA",
+    "flag": "https://crests.football-data.org/784.svg"
+   },
+   "competition": {
+    "id": 2019,
+    "name": "Serie A",
+    "code": "SA",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/c111.png"
+   },
+   "season": {
+    "id": 2494,
+    "startDate": "2026-08-23",
+    "endDate": "2027-05-30",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 558377,
+   "utcDate": "2027-03-07T00:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 27,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T15:20:13Z",
+   "homeTeam": {
+    "id": 98,
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png"
+   },
+   "awayTeam": {
+    "id": 104,
+    "name": "Cagliari Calcio",
+    "shortName": "Cagliari",
+    "tla": "CAG",
+    "crest": "https://crests.football-data.org/104.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2114,
+    "name": "Italy",
+    "code": "ITA",
+    "flag": "https://crests.football-data.org/784.svg"
+   },
+   "competition": {
+    "id": 2019,
+    "name": "Serie A",
+    "code": "SA",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/c111.png"
+   },
+   "season": {
+    "id": 2494,
+    "startDate": "2026-08-23",
+    "endDate": "2027-05-30",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 558361,
+   "utcDate": "2027-03-14T00:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 28,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T15:20:13Z",
+   "homeTeam": {
+    "id": 98,
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png"
+   },
+   "awayTeam": {
+    "id": 471,
+    "name": "US Sassuolo Calcio",
+    "shortName": "Sassuolo",
+    "tla": "SAS",
+    "crest": "https://crests.football-data.org/471.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2114,
+    "name": "Italy",
+    "code": "ITA",
+    "flag": "https://crests.football-data.org/784.svg"
+   },
+   "competition": {
+    "id": 2019,
+    "name": "Serie A",
+    "code": "SA",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/c111.png"
+   },
+   "season": {
+    "id": 2494,
+    "startDate": "2026-08-23",
+    "endDate": "2027-05-30",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 558358,
+   "utcDate": "2027-03-21T00:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 29,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T15:20:13Z",
+   "homeTeam": {
+    "id": 102,
+    "name": "Atalanta BC",
+    "shortName": "Atalanta",
+    "tla": "ATA",
+    "crest": "https://crests.football-data.org/102.png"
+   },
+   "awayTeam": {
+    "id": 98,
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2114,
+    "name": "Italy",
+    "code": "ITA",
+    "flag": "https://crests.football-data.org/784.svg"
+   },
+   "competition": {
+    "id": 2019,
+    "name": "Serie A",
+    "code": "SA",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/c111.png"
+   },
+   "season": {
+    "id": 2494,
+    "startDate": "2026-08-23",
+    "endDate": "2027-05-30",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 558344,
+   "utcDate": "2027-04-04T00:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 30,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T15:20:13Z",
+   "homeTeam": {
+    "id": 98,
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png"
+   },
+   "awayTeam": {
+    "id": 5911,
+    "name": "AC Monza",
+    "shortName": "Monza",
+    "tla": "MON",
+    "crest": "https://crests.football-data.org/5911.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2114,
+    "name": "Italy",
+    "code": "ITA",
+    "flag": "https://crests.football-data.org/784.svg"
+   },
+   "competition": {
+    "id": 2019,
+    "name": "Serie A",
+    "code": "SA",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/c111.png"
+   },
+   "season": {
+    "id": 2494,
+    "startDate": "2026-08-23",
+    "endDate": "2027-05-30",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 558338,
+   "utcDate": "2027-04-11T00:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 31,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T15:20:13Z",
+   "homeTeam": {
+    "id": 99,
+    "name": "ACF Fiorentina",
+    "shortName": "Fiorentina",
+    "tla": "FIO",
+    "crest": "https://crests.football-data.org/99.png"
+   },
+   "awayTeam": {
+    "id": 98,
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2114,
+    "name": "Italy",
+    "code": "ITA",
+    "flag": "https://crests.football-data.org/784.svg"
+   },
+   "competition": {
+    "id": 2019,
+    "name": "Serie A",
+    "code": "SA",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/c111.png"
+   },
+   "season": {
+    "id": 2494,
+    "startDate": "2026-08-23",
+    "endDate": "2027-05-30",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 558327,
+   "utcDate": "2027-04-18T00:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 32,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T15:20:13Z",
+   "homeTeam": {
+    "id": 98,
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png"
+   },
+   "awayTeam": {
+    "id": 113,
+    "name": "SSC Napoli",
+    "shortName": "Napoli",
+    "tla": "NAP",
+    "crest": "https://crests.football-data.org/113.png"
    },
    "score": {
     "winner": null,

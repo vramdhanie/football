@@ -43,7 +43,225 @@
    "until": null
   }
  },
- "squad": [],
+ "squad": [
+  {
+   "id": 341,
+   "name": "Manuel Neuer",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1986-03-27",
+   "nationality": "Germany"
+  },
+  {
+   "id": 342,
+   "name": "Sven Ulreich",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1988-08-03",
+   "nationality": "Germany"
+  },
+  {
+   "id": 172342,
+   "name": "Jonas Urbig",
+   "position": "Goalkeeper",
+   "dateOfBirth": "2003-08-08",
+   "nationality": "Germany"
+  },
+  {
+   "id": 270119,
+   "name": "Leon Klanac",
+   "position": "Goalkeeper",
+   "dateOfBirth": "2007-03-01",
+   "nationality": "Germany"
+  },
+  {
+   "id": 149,
+   "name": "Jonathan Tah",
+   "position": "Defence",
+   "dateOfBirth": "1996-02-11",
+   "nationality": "Germany"
+  },
+  {
+   "id": 9541,
+   "name": "Dayot Upamecano",
+   "position": "Defence",
+   "dateOfBirth": "1998-10-27",
+   "nationality": "France"
+  },
+  {
+   "id": 9549,
+   "name": "Konrad Laimer",
+   "position": "Defence",
+   "dateOfBirth": "1997-05-27",
+   "nationality": "Austria"
+  },
+  {
+   "id": 21288,
+   "name": "Alphonso Davies",
+   "position": "Defence",
+   "dateOfBirth": "2000-11-02",
+   "nationality": "Canada"
+  },
+  {
+   "id": 48657,
+   "name": "Hiroki Ito",
+   "position": "Defence",
+   "dateOfBirth": "1999-05-12",
+   "nationality": "Japan"
+  },
+  {
+   "id": 114915,
+   "name": "Sacha Boey",
+   "position": "Defence",
+   "dateOfBirth": "2000-09-13",
+   "nationality": "France"
+  },
+  {
+   "id": 122188,
+   "name": "Josip Stanišić",
+   "position": "Defence",
+   "dateOfBirth": "2000-04-02",
+   "nationality": "Croatia"
+  },
+  {
+   "id": 168299,
+   "name": "Min-Jae Kim",
+   "position": "Defence",
+   "dateOfBirth": "1996-11-15",
+   "nationality": "South Korea"
+  },
+  {
+   "id": 184533,
+   "name": "Nathaniel Brown",
+   "position": "Defence",
+   "dateOfBirth": "2003-06-16",
+   "nationality": "Germany"
+  },
+  {
+   "id": 212013,
+   "name": "Tarek Buchmann",
+   "position": "Defence",
+   "dateOfBirth": "2005-02-28",
+   "nationality": "Germany"
+  },
+  {
+   "id": 359,
+   "name": "Joshua Kimmich",
+   "position": "Midfield",
+   "dateOfBirth": "1995-02-08",
+   "nationality": "Germany"
+  },
+  {
+   "id": 15884,
+   "name": "João Palhinha",
+   "position": "Midfield",
+   "dateOfBirth": "1995-07-09",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 130173,
+   "name": "Ismael Saibari",
+   "position": "Midfield",
+   "dateOfBirth": "2001-01-28",
+   "nationality": "Morocco"
+  },
+  {
+   "id": 144393,
+   "name": "Jamal Musiala",
+   "position": "Midfield",
+   "dateOfBirth": "2003-02-26",
+   "nationality": "Germany"
+  },
+  {
+   "id": 172574,
+   "name": "Tom Bischof",
+   "position": "Midfield",
+   "dateOfBirth": "2005-06-28",
+   "nationality": "Germany"
+  },
+  {
+   "id": 202665,
+   "name": "Aleksandar Pavlović",
+   "position": "Midfield",
+   "dateOfBirth": "2004-05-03",
+   "nationality": "Germany"
+  },
+  {
+   "id": 270531,
+   "name": "Felipe Chavez",
+   "position": "Midfield",
+   "dateOfBirth": "2007-04-10",
+   "nationality": "Peru"
+  },
+  {
+   "id": 277592,
+   "name": "Lennart Karl",
+   "position": "Midfield",
+   "dateOfBirth": "2008-02-22",
+   "nationality": "Germany"
+  },
+  {
+   "id": 279063,
+   "name": "David Daiber",
+   "position": "Midfield",
+   "dateOfBirth": "2007-01-10",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 290450,
+   "name": "Bara Ndiaye",
+   "position": "Midfield",
+   "dateOfBirth": "2007-12-31",
+   "nationality": "Senegal"
+  },
+  {
+   "id": 311,
+   "name": "Serge Gnabry",
+   "position": "Offence",
+   "dateOfBirth": "1995-07-14",
+   "nationality": "Germany"
+  },
+  {
+   "id": 8004,
+   "name": "Harry Kane",
+   "position": "Offence",
+   "dateOfBirth": "1993-07-28",
+   "nationality": "England"
+  },
+  {
+   "id": 22396,
+   "name": "Luis Díaz",
+   "position": "Offence",
+   "dateOfBirth": "1997-01-13",
+   "nationality": "Colombia"
+  },
+  {
+   "id": 113765,
+   "name": "Michael Olise",
+   "position": "Offence",
+   "dateOfBirth": "2001-12-12",
+   "nationality": "France"
+  },
+  {
+   "id": 151458,
+   "name": "Armindo Sieb",
+   "position": "Offence",
+   "dateOfBirth": "2003-02-17",
+   "nationality": "Germany"
+  },
+  {
+   "id": 176899,
+   "name": "Arijon Ibrahimovic",
+   "position": "Offence",
+   "dateOfBirth": "2005-12-11",
+   "nationality": "Germany"
+  },
+  {
+   "id": 191403,
+   "name": "Bryan Zaragoza",
+   "position": "Offence",
+   "dateOfBirth": "2001-09-09",
+   "nationality": "Spain"
+  }
+ ],
  "staff": [],
  "lastUpdated": "2024-07-09T17:26:37Z"
 }

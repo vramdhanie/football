@@ -2,534 +2,6 @@
  "matches": [
   {
    "area": {
-    "id": 2077,
-    "name": "Europe",
-    "code": "EUR",
-    "flag": "https://crests.football-data.org/EUR.svg"
-   },
-   "competition": {
-    "id": 2001,
-    "name": "UEFA Champions League",
-    "code": "CL",
-    "type": "CUP",
-    "emblem": "https://crests.football-data.org/CL.png"
-   },
-   "season": {
-    "id": 2454,
-    "startDate": "2025-09-16",
-    "endDate": "2026-05-30",
-    "currentMatchday": 8,
-    "winner": null
-   },
-   "id": 552068,
-   "utcDate": "2026-03-11T20:00:00Z",
-   "status": "FINISHED",
-   "matchday": 1,
-   "stage": "LAST_16",
-   "group": null,
-   "lastUpdated": "2026-06-13T20:20:17Z",
-   "homeTeam": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png"
-   },
-   "awayTeam": {
-    "id": 61,
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png"
-   },
-   "score": {
-    "winner": "HOME_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 5,
-     "away": 2
-    },
-    "halfTime": {
-     "home": 2,
-     "away": 1
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 206208,
-     "name": "Alejandro Hernández Hernández",
-     "type": "REFEREE",
-     "nationality": "Spain"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2077,
-    "name": "Europe",
-    "code": "EUR",
-    "flag": "https://crests.football-data.org/EUR.svg"
-   },
-   "competition": {
-    "id": 2001,
-    "name": "UEFA Champions League",
-    "code": "CL",
-    "type": "CUP",
-    "emblem": "https://crests.football-data.org/CL.png"
-   },
-   "season": {
-    "id": 2454,
-    "startDate": "2025-09-16",
-    "endDate": "2026-05-30",
-    "currentMatchday": 8,
-    "winner": null
-   },
-   "id": 552076,
-   "utcDate": "2026-03-17T20:00:00Z",
-   "status": "FINISHED",
-   "matchday": 2,
-   "stage": "LAST_16",
-   "group": null,
-   "lastUpdated": "2026-06-13T20:20:17Z",
-   "homeTeam": {
-    "id": 61,
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png"
-   },
-   "awayTeam": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 0,
-     "away": 3
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 2
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 9351,
-     "name": "Slavko Vinčič",
-     "type": "REFEREE",
-     "nationality": "Slovenia"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2081,
-    "name": "France",
-    "code": "FRA",
-    "flag": "https://crests.football-data.org/773.svg"
-   },
-   "competition": {
-    "id": 2015,
-    "name": "Ligue 1",
-    "code": "FL1",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/FL1.png"
-   },
-   "season": {
-    "id": 2420,
-    "startDate": "2025-08-17",
-    "endDate": "2026-05-16",
-    "currentMatchday": 33,
-    "winner": null
-   },
-   "id": 542644,
-   "utcDate": "2026-03-21T20:05:00Z",
-   "status": "FINISHED",
-   "matchday": 27,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-05-30T20:20:41Z",
-   "homeTeam": {
-    "id": 522,
-    "name": "OGC Nice",
-    "shortName": "Nice",
-    "tla": "NIC",
-    "crest": "https://crests.football-data.org/522.png"
-   },
-   "awayTeam": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 0,
-     "away": 4
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 1
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 57042,
-     "name": "Willy Delajod",
-     "type": "REFEREE",
-     "nationality": "France"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2081,
-    "name": "France",
-    "code": "FRA",
-    "flag": "https://crests.football-data.org/773.svg"
-   },
-   "competition": {
-    "id": 2015,
-    "name": "Ligue 1",
-    "code": "FL1",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/FL1.png"
-   },
-   "season": {
-    "id": 2420,
-    "startDate": "2025-08-17",
-    "endDate": "2026-05-16",
-    "currentMatchday": 33,
-    "winner": null
-   },
-   "id": 542654,
-   "utcDate": "2026-04-03T18:45:00Z",
-   "status": "FINISHED",
-   "matchday": 28,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-05-30T20:20:41Z",
-   "homeTeam": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png"
-   },
-   "awayTeam": {
-    "id": 511,
-    "name": "Toulouse FC",
-    "shortName": "Toulouse",
-    "tla": "TOU",
-    "crest": "https://crests.football-data.org/511.png"
-   },
-   "score": {
-    "winner": "HOME_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 3,
-     "away": 1
-    },
-    "halfTime": {
-     "home": 2,
-     "away": 1
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 57092,
-     "name": "Eric Wattellier",
-     "type": "REFEREE",
-     "nationality": "France"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2077,
-    "name": "Europe",
-    "code": "EUR",
-    "flag": "https://crests.football-data.org/EUR.svg"
-   },
-   "competition": {
-    "id": 2001,
-    "name": "UEFA Champions League",
-    "code": "CL",
-    "type": "CUP",
-    "emblem": "https://crests.football-data.org/CL.png"
-   },
-   "season": {
-    "id": 2454,
-    "startDate": "2025-09-16",
-    "endDate": "2026-05-30",
-    "currentMatchday": 8,
-    "winner": null
-   },
-   "id": 556718,
-   "utcDate": "2026-04-08T19:00:00Z",
-   "status": "FINISHED",
-   "matchday": 1,
-   "stage": "QUARTER_FINALS",
-   "group": null,
-   "lastUpdated": "2026-06-13T20:20:17Z",
-   "homeTeam": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png"
-   },
-   "awayTeam": {
-    "id": 64,
-    "name": "Liverpool FC",
-    "shortName": "Liverpool",
-    "tla": "LIV",
-    "crest": "https://crests.football-data.org/64.png"
-   },
-   "score": {
-    "winner": "HOME_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 2,
-     "away": 0
-    },
-    "halfTime": {
-     "home": 1,
-     "away": 0
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 207080,
-     "name": "José Sánchez Martínez",
-     "type": "REFEREE",
-     "nationality": "Spain"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2077,
-    "name": "Europe",
-    "code": "EUR",
-    "flag": "https://crests.football-data.org/EUR.svg"
-   },
-   "competition": {
-    "id": 2001,
-    "name": "UEFA Champions League",
-    "code": "CL",
-    "type": "CUP",
-    "emblem": "https://crests.football-data.org/CL.png"
-   },
-   "season": {
-    "id": 2454,
-    "startDate": "2025-09-16",
-    "endDate": "2026-05-30",
-    "currentMatchday": 8,
-    "winner": null
-   },
-   "id": 556722,
-   "utcDate": "2026-04-14T19:00:00Z",
-   "status": "FINISHED",
-   "matchday": 2,
-   "stage": "QUARTER_FINALS",
-   "group": null,
-   "lastUpdated": "2026-06-13T20:20:17Z",
-   "homeTeam": {
-    "id": 64,
-    "name": "Liverpool FC",
-    "shortName": "Liverpool",
-    "tla": "LIV",
-    "crest": "https://crests.football-data.org/64.png"
-   },
-   "awayTeam": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 0,
-     "away": 2
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 0
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 11043,
-     "name": "Maurizio Mariani",
-     "type": "REFEREE",
-     "nationality": "Italy"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2081,
-    "name": "France",
-    "code": "FRA",
-    "flag": "https://crests.football-data.org/773.svg"
-   },
-   "competition": {
-    "id": 2015,
-    "name": "Ligue 1",
-    "code": "FL1",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/FL1.png"
-   },
-   "season": {
-    "id": 2420,
-    "startDate": "2025-08-17",
-    "endDate": "2026-05-16",
-    "currentMatchday": 33,
-    "winner": null
-   },
-   "id": 542672,
-   "utcDate": "2026-04-19T18:45:00Z",
-   "status": "FINISHED",
-   "matchday": 30,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-05-30T20:20:41Z",
-   "homeTeam": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png"
-   },
-   "awayTeam": {
-    "id": 523,
-    "name": "Olympique Lyonnais",
-    "shortName": "Olympique Lyon",
-    "tla": "LYO",
-    "crest": "https://crests.football-data.org/523.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 1,
-     "away": 2
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 2
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 15548,
-     "name": "Jérôme Brisard",
-     "type": "REFEREE",
-     "nationality": "France"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2081,
-    "name": "France",
-    "code": "FRA",
-    "flag": "https://crests.football-data.org/773.svg"
-   },
-   "competition": {
-    "id": 2015,
-    "name": "Ligue 1",
-    "code": "FL1",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/FL1.png"
-   },
-   "season": {
-    "id": 2420,
-    "startDate": "2025-08-17",
-    "endDate": "2026-05-16",
-    "currentMatchday": 33,
-    "winner": null
-   },
-   "id": 542636,
-   "utcDate": "2026-04-22T17:00:00Z",
-   "status": "FINISHED",
-   "matchday": 26,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-05-30T20:20:41Z",
-   "homeTeam": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png"
-   },
-   "awayTeam": {
-    "id": 543,
-    "name": "FC Nantes",
-    "shortName": "Nantes",
-    "tla": "NAN",
-    "crest": "https://crests.football-data.org/543.png"
-   },
-   "score": {
-    "winner": "HOME_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 3,
-     "away": 0
-    },
-    "halfTime": {
-     "home": 2,
-     "away": 0
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 9374,
-     "name": "Clément Turpin",
-     "type": "REFEREE",
-     "nationality": "France"
-    }
-   ]
-  },
-  {
-   "area": {
     "id": 2081,
     "name": "France",
     "code": "FRA",
@@ -1083,12 +555,12 @@
     "winner": null
    },
    "id": 559713,
-   "utcDate": "2026-08-22T15:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-08-23T18:45:00Z",
+   "status": "TIMED",
    "matchday": 1,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:09Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1142,12 +614,12 @@
     "winner": null
    },
    "id": 559702,
-   "utcDate": "2026-08-30T18:45:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-08-28T18:45:00Z",
+   "status": "TIMED",
    "matchday": 2,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:09Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 521,
     "name": "Lille OSC",
@@ -1201,12 +673,12 @@
     "winner": null
    },
    "id": 559697,
-   "utcDate": "2026-09-05T15:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-09-04T19:05:00Z",
+   "status": "TIMED",
    "matchday": 3,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:09Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1260,12 +732,12 @@
     "winner": null
    },
    "id": 559691,
-   "utcDate": "2026-09-12T15:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-09-13T18:45:00Z",
+   "status": "TIMED",
    "matchday": 4,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 512,
     "name": "Stade Brestois 29",
@@ -1320,11 +792,11 @@
    },
    "id": 559675,
    "utcDate": "2026-09-20T18:45:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 5,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:09Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 516,
     "name": "Olympique de Marseille",
@@ -1378,12 +850,12 @@
     "winner": null
    },
    "id": 559672,
-   "utcDate": "2026-10-10T15:00:00Z",
+   "utcDate": "2026-10-10T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1437,12 +909,12 @@
     "winner": null
    },
    "id": 559662,
-   "utcDate": "2026-10-17T15:00:00Z",
+   "utcDate": "2026-10-17T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:09Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 576,
     "name": "RC Strasbourg Alsace",
@@ -1497,11 +969,11 @@
    },
    "id": 559648,
    "utcDate": "2026-10-25T19:45:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:09Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1555,12 +1027,12 @@
     "winner": null
    },
    "id": 559644,
-   "utcDate": "2026-10-31T16:00:00Z",
+   "utcDate": "2026-10-31T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:09Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 533,
     "name": "Le Havre AC",
@@ -1614,12 +1086,12 @@
     "winner": null
    },
    "id": 559635,
-   "utcDate": "2026-11-07T16:00:00Z",
+   "utcDate": "2026-11-07T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1673,12 +1145,12 @@
     "winner": null
    },
    "id": 559628,
-   "utcDate": "2026-11-21T16:00:00Z",
+   "utcDate": "2026-11-21T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 522,
     "name": "OGC Nice",
@@ -1732,12 +1204,12 @@
     "winner": null
    },
    "id": 559614,
-   "utcDate": "2026-11-28T16:00:00Z",
+   "utcDate": "2026-11-28T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1791,12 +1263,12 @@
     "winner": null
    },
    "id": 559609,
-   "utcDate": "2026-12-05T16:00:00Z",
+   "utcDate": "2026-12-05T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 13,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:09Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 511,
     "name": "Toulouse FC",
@@ -1850,12 +1322,12 @@
     "winner": null
    },
    "id": 559596,
-   "utcDate": "2026-12-12T16:00:00Z",
+   "utcDate": "2026-12-12T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 14,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1909,12 +1381,12 @@
     "winner": null
    },
    "id": 559585,
-   "utcDate": "2027-01-03T12:00:00Z",
+   "utcDate": "2027-01-03T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 15,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 546,
     "name": "Racing Club de Lens",
@@ -1968,12 +1440,12 @@
     "winner": null
    },
    "id": 559584,
-   "utcDate": "2027-01-16T12:00:00Z",
+   "utcDate": "2027-01-16T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 16,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 532,
     "name": "Angers SCO",
@@ -2027,12 +1499,12 @@
     "winner": null
    },
    "id": 559571,
-   "utcDate": "2027-01-23T12:00:00Z",
+   "utcDate": "2027-01-23T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 17,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2086,12 +1558,12 @@
     "winner": null
    },
    "id": 559565,
-   "utcDate": "2027-01-30T12:00:00Z",
+   "utcDate": "2027-01-30T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 18,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 548,
     "name": "AS Monaco FC",
@@ -2145,12 +1617,12 @@
     "winner": null
    },
    "id": 559549,
-   "utcDate": "2027-02-07T12:00:00Z",
+   "utcDate": "2027-02-07T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 19,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2204,12 +1676,12 @@
     "winner": null
    },
    "id": 559542,
-   "utcDate": "2027-02-13T12:00:00Z",
+   "utcDate": "2027-02-13T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 20,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 535,
     "name": "Le Mans FC",
@@ -2263,12 +1735,12 @@
     "winner": null
    },
    "id": 559533,
-   "utcDate": "2027-02-20T12:00:00Z",
+   "utcDate": "2027-02-20T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 21,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2322,12 +1794,12 @@
     "winner": null
    },
    "id": 559522,
-   "utcDate": "2027-02-28T12:00:00Z",
+   "utcDate": "2027-02-28T00:00:00Z",
    "status": "SCHEDULED",
    "matchday": 22,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-06-16T12:55:10Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2341,6 +1813,360 @@
     "shortName": "RC Lens",
     "tla": "RCL",
     "crest": "https://crests.football-data.org/546.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2081,
+    "name": "France",
+    "code": "FRA",
+    "flag": "https://crests.football-data.org/773.svg"
+   },
+   "competition": {
+    "id": 2015,
+    "name": "Ligue 1",
+    "code": "FL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL1.png"
+   },
+   "season": {
+    "id": 2497,
+    "startDate": "2026-08-22",
+    "endDate": "2027-05-29",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 559514,
+   "utcDate": "2027-03-06T00:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 23,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T10:20:34Z",
+   "homeTeam": {
+    "id": 529,
+    "name": "Stade Rennais FC 1901",
+    "shortName": "Stade Rennais",
+    "tla": "REN",
+    "crest": "https://crests.football-data.org/529.png"
+   },
+   "awayTeam": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2081,
+    "name": "France",
+    "code": "FRA",
+    "flag": "https://crests.football-data.org/773.svg"
+   },
+   "competition": {
+    "id": 2015,
+    "name": "Ligue 1",
+    "code": "FL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL1.png"
+   },
+   "season": {
+    "id": 2497,
+    "startDate": "2026-08-22",
+    "endDate": "2027-05-29",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 559511,
+   "utcDate": "2027-03-13T00:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 24,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T10:20:34Z",
+   "homeTeam": {
+    "id": 519,
+    "name": "AJ Auxerre",
+    "shortName": "Auxerre",
+    "tla": "AJA",
+    "crest": "https://crests.football-data.org/519.png"
+   },
+   "awayTeam": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2081,
+    "name": "France",
+    "code": "FRA",
+    "flag": "https://crests.football-data.org/773.svg"
+   },
+   "competition": {
+    "id": 2015,
+    "name": "Ligue 1",
+    "code": "FL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL1.png"
+   },
+   "season": {
+    "id": 2497,
+    "startDate": "2026-08-22",
+    "endDate": "2027-05-29",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 559501,
+   "utcDate": "2027-03-20T00:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 25,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T10:20:34Z",
+   "homeTeam": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png"
+   },
+   "awayTeam": {
+    "id": 576,
+    "name": "RC Strasbourg Alsace",
+    "shortName": "Strasbourg",
+    "tla": "RC ",
+    "crest": "https://crests.football-data.org/576.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2081,
+    "name": "France",
+    "code": "FRA",
+    "flag": "https://crests.football-data.org/773.svg"
+   },
+   "competition": {
+    "id": 2015,
+    "name": "Ligue 1",
+    "code": "FL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL1.png"
+   },
+   "season": {
+    "id": 2497,
+    "startDate": "2026-08-22",
+    "endDate": "2027-05-29",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 559493,
+   "utcDate": "2027-04-03T00:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 26,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T10:20:34Z",
+   "homeTeam": {
+    "id": 1045,
+    "name": "Paris FC",
+    "shortName": "Paris FC",
+    "tla": "PFC",
+    "crest": "https://crests.football-data.org/1045.png"
+   },
+   "awayTeam": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2081,
+    "name": "France",
+    "code": "FRA",
+    "flag": "https://crests.football-data.org/773.svg"
+   },
+   "competition": {
+    "id": 2015,
+    "name": "Ligue 1",
+    "code": "FL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL1.png"
+   },
+   "season": {
+    "id": 2497,
+    "startDate": "2026-08-22",
+    "endDate": "2027-05-29",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 559481,
+   "utcDate": "2027-04-10T00:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 27,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T10:20:34Z",
+   "homeTeam": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png"
+   },
+   "awayTeam": {
+    "id": 533,
+    "name": "Le Havre AC",
+    "shortName": "Le Havre",
+    "tla": "HAC",
+    "crest": "https://crests.football-data.org/533.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2081,
+    "name": "France",
+    "code": "FRA",
+    "flag": "https://crests.football-data.org/773.svg"
+   },
+   "competition": {
+    "id": 2015,
+    "name": "Ligue 1",
+    "code": "FL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL1.png"
+   },
+   "season": {
+    "id": 2497,
+    "startDate": "2026-08-22",
+    "endDate": "2027-05-29",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 559475,
+   "utcDate": "2027-04-17T00:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 28,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T10:20:34Z",
+   "homeTeam": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png"
+   },
+   "awayTeam": {
+    "id": 521,
+    "name": "Lille OSC",
+    "shortName": "Lille",
+    "tla": "LIL",
+    "crest": "https://crests.football-data.org/521.png"
    },
    "score": {
     "winner": null,

@@ -36,7 +36,232 @@
    "until": null
   }
  },
- "squad": [],
+ "squad": [
+  {
+   "id": 2476,
+   "name": "Pietro Terracciano",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1990-03-08",
+   "nationality": "Italy"
+  },
+  {
+   "id": 8390,
+   "name": "Mike Maignan",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1995-07-03",
+   "nationality": "France"
+  },
+  {
+   "id": 251128,
+   "name": "Lorenzo Torriani",
+   "position": "Goalkeeper",
+   "dateOfBirth": "2005-01-31",
+   "nationality": "Italy"
+  },
+  {
+   "id": 1753,
+   "name": "Matteo Gabbia",
+   "position": "Defence",
+   "dateOfBirth": "1999-10-21",
+   "nationality": "Italy"
+  },
+  {
+   "id": 11528,
+   "name": "Fikayo Tomori",
+   "position": "Defence",
+   "dateOfBirth": "1997-12-19",
+   "nationality": "England"
+  },
+  {
+   "id": 32642,
+   "name": "Pervis Estupiñán",
+   "position": "Defence",
+   "dateOfBirth": "1998-01-21",
+   "nationality": "Ecuador"
+  },
+  {
+   "id": 112969,
+   "name": "Strahinja Pavlović",
+   "position": "Defence",
+   "dateOfBirth": "2001-05-24",
+   "nationality": "Serbia"
+  },
+  {
+   "id": 144950,
+   "name": "Filippo Terracciano",
+   "position": "Defence",
+   "dateOfBirth": "2003-02-08",
+   "nationality": "Italy"
+  },
+  {
+   "id": 153556,
+   "name": "Koni De Winter",
+   "position": "Defence",
+   "dateOfBirth": "2002-06-12",
+   "nationality": "Belgium"
+  },
+  {
+   "id": 180139,
+   "name": "Gila",
+   "position": "Defence",
+   "dateOfBirth": "2000-08-29",
+   "nationality": "Spain"
+  },
+  {
+   "id": 215616,
+   "name": "Davide Bartesaghi",
+   "position": "Defence",
+   "dateOfBirth": "2005-12-29",
+   "nationality": "Italy"
+  },
+  {
+   "id": 264215,
+   "name": "Sankhoun Diawara",
+   "position": "Defence",
+   "dateOfBirth": "2006-01-13",
+   "nationality": "France"
+  },
+  {
+   "id": 43,
+   "name": "Luka Modrić",
+   "position": "Midfield",
+   "dateOfBirth": "1985-09-09",
+   "nationality": "Croatia"
+  },
+  {
+   "id": 3368,
+   "name": "Adrien Rabiot",
+   "position": "Midfield",
+   "dateOfBirth": "1995-04-03",
+   "nationality": "France"
+  },
+  {
+   "id": 8159,
+   "name": "Ruben Loftus-Cheek",
+   "position": "Midfield",
+   "dateOfBirth": "1996-01-23",
+   "nationality": "England"
+  },
+  {
+   "id": 8858,
+   "name": "Alexis Saelemaekers",
+   "position": "Midfield",
+   "dateOfBirth": "1999-06-27",
+   "nationality": "Belgium"
+  },
+  {
+   "id": 81299,
+   "name": "Youssouf Fofana",
+   "position": "Midfield",
+   "dateOfBirth": "1999-01-10",
+   "nationality": "France"
+  },
+  {
+   "id": 115245,
+   "name": "Samuele Ricci",
+   "position": "Midfield",
+   "dateOfBirth": "2001-08-21",
+   "nationality": "Italy"
+  },
+  {
+   "id": 144909,
+   "name": "Ardon Jasari",
+   "position": "Midfield",
+   "dateOfBirth": "2002-07-30",
+   "nationality": "Switzerland"
+  },
+  {
+   "id": 150669,
+   "name": "Yunus Musah",
+   "position": "Midfield",
+   "dateOfBirth": "2002-11-29",
+   "nationality": "USA"
+  },
+  {
+   "id": 156527,
+   "name": "Warren Bondo",
+   "position": "Midfield",
+   "dateOfBirth": "2003-09-15",
+   "nationality": "France"
+  },
+  {
+   "id": 182192,
+   "name": "Diego Moreira",
+   "position": "Midfield",
+   "dateOfBirth": "2004-08-06",
+   "nationality": "Belgium"
+  },
+  {
+   "id": 192142,
+   "name": "Alphadjo Cisse",
+   "position": "Midfield",
+   "dateOfBirth": "2006-10-22",
+   "nationality": "Italy"
+  },
+  {
+   "id": 275197,
+   "name": "Christian Comotto",
+   "position": "Midfield",
+   "dateOfBirth": "2008-04-25",
+   "nationality": "Italy"
+  },
+  {
+   "id": 145,
+   "name": "Christian Pulisic",
+   "position": "Offence",
+   "dateOfBirth": "1998-09-18",
+   "nationality": "USA"
+  },
+  {
+   "id": 8484,
+   "name": "Christopher Nkunku",
+   "position": "Offence",
+   "dateOfBirth": "1997-11-14",
+   "nationality": "France"
+  },
+  {
+   "id": 15892,
+   "name": "Rafael Leão",
+   "position": "Offence",
+   "dateOfBirth": "1999-06-10",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 33124,
+   "name": "Samuel Chukwueze",
+   "position": "Offence",
+   "dateOfBirth": "1999-05-22",
+   "nationality": "Nigeria"
+  },
+  {
+   "id": 39635,
+   "name": "Santiago Giménez",
+   "position": "Offence",
+   "dateOfBirth": "2001-04-18",
+   "nationality": "Mexico"
+  },
+  {
+   "id": 101431,
+   "name": "Gonçalo Ramos",
+   "position": "Offence",
+   "dateOfBirth": "2001-06-20",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 242550,
+   "name": "Francesco Camarda",
+   "position": "Offence",
+   "dateOfBirth": "2008-03-10",
+   "nationality": "Italy"
+  },
+  {
+   "id": 254668,
+   "name": "Andrej Kostić",
+   "position": "Offence",
+   "dateOfBirth": "2007-01-16",
+   "nationality": "Montenegro"
+  }
+ ],
  "staff": [],
  "lastUpdated": "2024-04-09T16:20:58Z"
 }

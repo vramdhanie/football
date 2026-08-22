@@ -84,10 +84,10 @@
     "lastName": "Guirassy",
     "dateOfBirth": "1996-03-12",
     "nationality": "Guinea",
-    "section": "Centre-Forward",
+    "section": "Offence",
     "position": null,
     "shirtNumber": 9,
-    "lastUpdated": "2024-08-12T11:57:09Z"
+    "lastUpdated": "2026-07-20T16:51:43Z"
    },
    "team": {
     "id": 4,
@@ -301,10 +301,10 @@
     "lastName": "Burkardt",
     "dateOfBirth": "2000-07-11",
     "nationality": "Germany",
-    "section": "Centre-Forward",
+    "section": "Offence",
     "position": null,
     "shirtNumber": null,
-    "lastUpdated": "2024-08-12T11:57:09Z"
+    "lastUpdated": "2026-07-20T16:51:41Z"
    },
    "team": {
     "id": 19,

@@ -2,468 +2,6 @@
  "matches": [
   {
    "area": {
-    "id": 2077,
-    "name": "Europe",
-    "code": "EUR",
-    "flag": "https://crests.football-data.org/EUR.svg"
-   },
-   "competition": {
-    "id": 2001,
-    "name": "UEFA Champions League",
-    "code": "CL",
-    "type": "CUP",
-    "emblem": "https://crests.football-data.org/CL.png"
-   },
-   "season": {
-    "id": 2454,
-    "startDate": "2025-09-16",
-    "endDate": "2026-05-30",
-    "currentMatchday": 8,
-    "winner": null
-   },
-   "id": 552068,
-   "utcDate": "2026-03-11T20:00:00Z",
-   "status": "FINISHED",
-   "matchday": 1,
-   "stage": "LAST_16",
-   "group": null,
-   "lastUpdated": "2026-06-13T20:20:17Z",
-   "homeTeam": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png"
-   },
-   "awayTeam": {
-    "id": 61,
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png"
-   },
-   "score": {
-    "winner": "HOME_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 5,
-     "away": 2
-    },
-    "halfTime": {
-     "home": 2,
-     "away": 1
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 206208,
-     "name": "Alejandro Hernández Hernández",
-     "type": "REFEREE",
-     "nationality": "Spain"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2072,
-    "name": "England",
-    "code": "ENG",
-    "flag": "https://crests.football-data.org/770.svg"
-   },
-   "competition": {
-    "id": 2021,
-    "name": "Premier League",
-    "code": "PL",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/PL.png"
-   },
-   "season": {
-    "id": 2403,
-    "startDate": "2025-08-15",
-    "endDate": "2026-05-24",
-    "currentMatchday": 38,
-    "winner": null
-   },
-   "id": 538080,
-   "utcDate": "2026-03-14T17:30:00Z",
-   "status": "FINISHED",
-   "matchday": 30,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-06-07T20:20:25Z",
-   "homeTeam": {
-    "id": 61,
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png"
-   },
-   "awayTeam": {
-    "id": 67,
-    "name": "Newcastle United FC",
-    "shortName": "Newcastle",
-    "tla": "NEW",
-    "crest": "https://crests.football-data.org/67.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 0,
-     "away": 1
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 1
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 11520,
-     "name": "Paul Tierney",
-     "type": "REFEREE",
-     "nationality": "England"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2077,
-    "name": "Europe",
-    "code": "EUR",
-    "flag": "https://crests.football-data.org/EUR.svg"
-   },
-   "competition": {
-    "id": 2001,
-    "name": "UEFA Champions League",
-    "code": "CL",
-    "type": "CUP",
-    "emblem": "https://crests.football-data.org/CL.png"
-   },
-   "season": {
-    "id": 2454,
-    "startDate": "2025-09-16",
-    "endDate": "2026-05-30",
-    "currentMatchday": 8,
-    "winner": null
-   },
-   "id": 552076,
-   "utcDate": "2026-03-17T20:00:00Z",
-   "status": "FINISHED",
-   "matchday": 2,
-   "stage": "LAST_16",
-   "group": null,
-   "lastUpdated": "2026-06-13T20:20:17Z",
-   "homeTeam": {
-    "id": 61,
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png"
-   },
-   "awayTeam": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 0,
-     "away": 3
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 2
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 9351,
-     "name": "Slavko Vinčič",
-     "type": "REFEREE",
-     "nationality": "Slovenia"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2072,
-    "name": "England",
-    "code": "ENG",
-    "flag": "https://crests.football-data.org/770.svg"
-   },
-   "competition": {
-    "id": 2021,
-    "name": "Premier League",
-    "code": "PL",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/PL.png"
-   },
-   "season": {
-    "id": 2403,
-    "startDate": "2025-08-15",
-    "endDate": "2026-05-24",
-    "currentMatchday": 38,
-    "winner": null
-   },
-   "id": 538088,
-   "utcDate": "2026-03-21T17:30:00Z",
-   "status": "FINISHED",
-   "matchday": 31,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-06-07T20:20:25Z",
-   "homeTeam": {
-    "id": 62,
-    "name": "Everton FC",
-    "shortName": "Everton",
-    "tla": "EVE",
-    "crest": "https://crests.football-data.org/62.png"
-   },
-   "awayTeam": {
-    "id": 61,
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png"
-   },
-   "score": {
-    "winner": "HOME_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 3,
-     "away": 0
-    },
-    "halfTime": {
-     "home": 1,
-     "away": 0
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 213813,
-     "name": "Sam Barrott",
-     "type": "REFEREE",
-     "nationality": "England"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2072,
-    "name": "England",
-    "code": "ENG",
-    "flag": "https://crests.football-data.org/770.svg"
-   },
-   "competition": {
-    "id": 2021,
-    "name": "Premier League",
-    "code": "PL",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/PL.png"
-   },
-   "season": {
-    "id": 2403,
-    "startDate": "2025-08-15",
-    "endDate": "2026-05-24",
-    "currentMatchday": 38,
-    "winner": null
-   },
-   "id": 538100,
-   "utcDate": "2026-04-12T15:30:00Z",
-   "status": "FINISHED",
-   "matchday": 32,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-06-07T20:20:25Z",
-   "homeTeam": {
-    "id": 61,
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png"
-   },
-   "awayTeam": {
-    "id": 65,
-    "name": "Manchester City FC",
-    "shortName": "Man City",
-    "tla": "MCI",
-    "crest": "https://crests.football-data.org/65.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 0,
-     "away": 3
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 0
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 11443,
-     "name": "Chris Kavanagh",
-     "type": "REFEREE",
-     "nationality": "England"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2072,
-    "name": "England",
-    "code": "ENG",
-    "flag": "https://crests.football-data.org/770.svg"
-   },
-   "competition": {
-    "id": 2021,
-    "name": "Premier League",
-    "code": "PL",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/PL.png"
-   },
-   "season": {
-    "id": 2403,
-    "startDate": "2025-08-15",
-    "endDate": "2026-05-24",
-    "currentMatchday": 38,
-    "winner": null
-   },
-   "id": 538108,
-   "utcDate": "2026-04-18T19:00:00Z",
-   "status": "FINISHED",
-   "matchday": 33,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-06-07T20:20:25Z",
-   "homeTeam": {
-    "id": 61,
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png"
-   },
-   "awayTeam": {
-    "id": 66,
-    "name": "Manchester United FC",
-    "shortName": "Man United",
-    "tla": "MUN",
-    "crest": "https://crests.football-data.org/66.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 0,
-     "away": 1
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 1
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 11605,
-     "name": "Michael Oliver",
-     "type": "REFEREE",
-     "nationality": "England"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2072,
-    "name": "England",
-    "code": "ENG",
-    "flag": "https://crests.football-data.org/770.svg"
-   },
-   "competition": {
-    "id": 2021,
-    "name": "Premier League",
-    "code": "PL",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/PL.png"
-   },
-   "season": {
-    "id": 2403,
-    "startDate": "2025-08-15",
-    "endDate": "2026-05-24",
-    "currentMatchday": 38,
-    "winner": null
-   },
-   "id": 538117,
-   "utcDate": "2026-04-21T19:00:00Z",
-   "status": "FINISHED",
-   "matchday": 34,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-06-07T20:20:25Z",
-   "homeTeam": {
-    "id": 397,
-    "name": "Brighton & Hove Albion FC",
-    "shortName": "Brighton Hove",
-    "tla": "BHA",
-    "crest": "https://crests.football-data.org/397.png"
-   },
-   "awayTeam": {
-    "id": 61,
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png"
-   },
-   "score": {
-    "winner": "HOME_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 3,
-     "away": 0
-    },
-    "halfTime": {
-     "home": 1,
-     "away": 0
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 11585,
-     "name": "Craig Pawson",
-     "type": "REFEREE",
-     "nationality": "England"
-    }
-   ]
-  },
-  {
-   "area": {
     "id": 2072,
     "name": "England",
     "code": "ENG",
@@ -749,11 +287,11 @@
    },
    "id": 560551,
    "utcDate": "2026-08-24T19:00:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 1,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 63,
     "name": "Fulham FC",
@@ -807,12 +345,12 @@
     "winner": null
    },
    "id": 560556,
-   "utcDate": "2026-08-29T14:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-08-30T13:00:00Z",
+   "status": "TIMED",
    "matchday": 2,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -866,12 +404,12 @@
     "winner": null
    },
    "id": 560570,
-   "utcDate": "2026-09-05T14:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-09-06T15:30:00Z",
+   "status": "TIMED",
    "matchday": 3,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 57,
     "name": "Arsenal FC",
@@ -926,11 +464,11 @@
    },
    "id": 560581,
    "utcDate": "2026-09-12T14:00:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 4,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -984,12 +522,12 @@
     "winner": null
    },
    "id": 560591,
-   "utcDate": "2026-09-19T14:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-09-18T19:00:00Z",
+   "status": "TIMED",
    "matchday": 5,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 402,
     "name": "Brentford FC",
@@ -1044,11 +582,11 @@
    },
    "id": 560595,
    "utcDate": "2026-10-10T14:00:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -1102,12 +640,12 @@
     "winner": null
    },
    "id": 560603,
-   "utcDate": "2026-10-17T14:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-10-17T11:30:00Z",
+   "status": "TIMED",
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 62,
     "name": "Everton FC",
@@ -1161,12 +699,12 @@
     "winner": null
    },
    "id": 560617,
-   "utcDate": "2026-10-24T14:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-10-24T16:30:00Z",
+   "status": "TIMED",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -1220,12 +758,12 @@
     "winner": null
    },
    "id": 560626,
-   "utcDate": "2026-10-31T15:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2026-10-31T12:30:00Z",
+   "status": "TIMED",
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -1280,11 +818,11 @@
    },
    "id": 560636,
    "utcDate": "2026-11-07T15:00:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 71,
     "name": "Sunderland AFC",
@@ -1339,11 +877,11 @@
    },
    "id": 560642,
    "utcDate": "2026-11-21T15:00:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -1398,11 +936,11 @@
    },
    "id": 560658,
    "utcDate": "2026-11-28T15:00:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 351,
     "name": "Nottingham Forest FC",
@@ -1457,11 +995,11 @@
    },
    "id": 560665,
    "utcDate": "2026-12-02T20:00:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 13,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -1516,11 +1054,11 @@
    },
    "id": 560676,
    "utcDate": "2026-12-05T15:00:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 14,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -1575,11 +1113,11 @@
    },
    "id": 560689,
    "utcDate": "2026-12-12T15:00:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 15,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 65,
     "name": "Manchester City FC",
@@ -1634,11 +1172,11 @@
    },
    "id": 560701,
    "utcDate": "2026-12-19T15:00:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 16,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -1693,11 +1231,11 @@
    },
    "id": 560706,
    "utcDate": "2026-12-26T15:00:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 17,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 1076,
     "name": "Coventry City FC",
@@ -1752,11 +1290,11 @@
    },
    "id": 560718,
    "utcDate": "2026-12-30T20:00:00Z",
-   "status": "SCHEDULED",
+   "status": "TIMED",
    "matchday": 18,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 349,
     "name": "Ipswich Town FC",
@@ -1810,12 +1348,12 @@
     "winner": null
    },
    "id": 560728,
-   "utcDate": "2027-01-02T12:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2027-01-02T15:00:00Z",
+   "status": "TIMED",
    "matchday": 19,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -1869,12 +1407,12 @@
     "winner": null
    },
    "id": 560740,
-   "utcDate": "2027-01-06T12:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2027-01-06T20:00:00Z",
+   "status": "TIMED",
    "matchday": 20,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 354,
     "name": "Crystal Palace FC",
@@ -1928,12 +1466,12 @@
     "winner": null
    },
    "id": 560744,
-   "utcDate": "2027-01-16T12:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2027-01-16T15:00:00Z",
+   "status": "TIMED",
    "matchday": 21,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -1987,12 +1525,12 @@
     "winner": null
    },
    "id": 560757,
-   "utcDate": "2027-01-23T12:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2027-01-23T15:00:00Z",
+   "status": "TIMED",
    "matchday": 22,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 341,
     "name": "Leeds United FC",
@@ -2046,12 +1584,12 @@
     "winner": null
    },
    "id": 560768,
-   "utcDate": "2027-01-30T12:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2027-01-30T15:00:00Z",
+   "status": "TIMED",
    "matchday": 23,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -2105,12 +1643,12 @@
     "winner": null
    },
    "id": 560780,
-   "utcDate": "2027-02-06T12:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2027-02-06T15:00:00Z",
+   "status": "TIMED",
    "matchday": 24,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -2164,12 +1702,12 @@
     "winner": null
    },
    "id": 560787,
-   "utcDate": "2027-02-10T12:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2027-02-10T20:00:00Z",
+   "status": "TIMED",
    "matchday": 25,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 67,
     "name": "Newcastle United FC",
@@ -2223,12 +1761,12 @@
     "winner": null
    },
    "id": 560795,
-   "utcDate": "2027-02-20T12:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2027-02-20T15:00:00Z",
+   "status": "TIMED",
    "matchday": 26,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -2282,12 +1820,12 @@
     "winner": null
    },
    "id": 560808,
-   "utcDate": "2027-02-27T12:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2027-02-27T15:00:00Z",
+   "status": "TIMED",
    "matchday": 27,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 58,
     "name": "Aston Villa FC",
@@ -2341,12 +1879,12 @@
     "winner": null
    },
    "id": 560821,
-   "utcDate": "2027-03-03T12:00:00Z",
-   "status": "SCHEDULED",
+   "utcDate": "2027-03-03T20:00:00Z",
+   "status": "TIMED",
    "matchday": 28,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-07-02T09:12:48Z",
+   "lastUpdated": "2026-08-22T10:20:34Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -2360,6 +1898,242 @@
     "shortName": "Coventry City",
     "tla": "COV",
     "crest": "https://crests.football-data.org/1076.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2072,
+    "name": "England",
+    "code": "ENG",
+    "flag": "https://crests.football-data.org/770.svg"
+   },
+   "competition": {
+    "id": 2021,
+    "name": "Premier League",
+    "code": "PL",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/PL.png"
+   },
+   "season": {
+    "id": 2502,
+    "startDate": "2026-08-21",
+    "endDate": "2027-05-30",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 560828,
+   "utcDate": "2027-03-13T15:00:00Z",
+   "status": "TIMED",
+   "matchday": 29,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T10:20:34Z",
+   "homeTeam": {
+    "id": 61,
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE",
+    "crest": "https://crests.football-data.org/61.png"
+   },
+   "awayTeam": {
+    "id": 57,
+    "name": "Arsenal FC",
+    "shortName": "Arsenal",
+    "tla": "ARS",
+    "crest": "https://crests.football-data.org/57.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2072,
+    "name": "England",
+    "code": "ENG",
+    "flag": "https://crests.football-data.org/770.svg"
+   },
+   "competition": {
+    "id": 2021,
+    "name": "Premier League",
+    "code": "PL",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/PL.png"
+   },
+   "season": {
+    "id": 2502,
+    "startDate": "2026-08-21",
+    "endDate": "2027-05-30",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 560838,
+   "utcDate": "2027-03-20T15:00:00Z",
+   "status": "TIMED",
+   "matchday": 30,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T10:20:34Z",
+   "homeTeam": {
+    "id": 322,
+    "name": "Hull City AFC",
+    "shortName": "Hull City",
+    "tla": "HUL",
+    "crest": "https://crests.football-data.org/322.png"
+   },
+   "awayTeam": {
+    "id": 61,
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE",
+    "crest": "https://crests.football-data.org/61.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2072,
+    "name": "England",
+    "code": "ENG",
+    "flag": "https://crests.football-data.org/770.svg"
+   },
+   "competition": {
+    "id": 2021,
+    "name": "Premier League",
+    "code": "PL",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/PL.png"
+   },
+   "season": {
+    "id": 2502,
+    "startDate": "2026-08-21",
+    "endDate": "2027-05-30",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 560845,
+   "utcDate": "2027-04-10T14:00:00Z",
+   "status": "TIMED",
+   "matchday": 31,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T10:20:34Z",
+   "homeTeam": {
+    "id": 61,
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE",
+    "crest": "https://crests.football-data.org/61.png"
+   },
+   "awayTeam": {
+    "id": 63,
+    "name": "Fulham FC",
+    "shortName": "Fulham",
+    "tla": "FUL",
+    "crest": "https://crests.football-data.org/63.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2072,
+    "name": "England",
+    "code": "ENG",
+    "flag": "https://crests.football-data.org/770.svg"
+   },
+   "competition": {
+    "id": 2021,
+    "name": "Premier League",
+    "code": "PL",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/PL.png"
+   },
+   "season": {
+    "id": 2502,
+    "startDate": "2026-08-21",
+    "endDate": "2027-05-30",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 560852,
+   "utcDate": "2027-04-17T14:00:00Z",
+   "status": "TIMED",
+   "matchday": 32,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-08-22T10:20:34Z",
+   "homeTeam": {
+    "id": 397,
+    "name": "Brighton & Hove Albion FC",
+    "shortName": "Brighton Hove",
+    "tla": "BHA",
+    "crest": "https://crests.football-data.org/397.png"
+   },
+   "awayTeam": {
+    "id": 61,
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE",
+    "crest": "https://crests.football-data.org/61.png"
    },
    "score": {
     "winner": null,

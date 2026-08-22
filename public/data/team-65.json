@@ -43,7 +43,246 @@
    "until": null
   }
  },
- "squad": [],
+ "squad": [
+  {
+   "id": 6,
+   "name": "Géronimo Rulli",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1992-05-20",
+   "nationality": "Argentina"
+  },
+  {
+   "id": 1731,
+   "name": "Gianluigi Donnarumma",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1999-02-25",
+   "nationality": "Italy"
+  },
+  {
+   "id": 3953,
+   "name": "Marcus Bettinelli",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1992-05-24",
+   "nationality": "England"
+  },
+  {
+   "id": 153874,
+   "name": "James Trafford",
+   "position": "Goalkeeper",
+   "dateOfBirth": "2002-10-10",
+   "nationality": "England"
+  },
+  {
+   "id": 8642,
+   "name": "Rayan Aït Nouri",
+   "position": "Defence",
+   "dateOfBirth": "2001-06-06",
+   "nationality": "Algeria"
+  },
+  {
+   "id": 10183,
+   "name": "Rúben Dias",
+   "position": "Defence",
+   "dateOfBirth": "1997-05-14",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 91512,
+   "name": "Matheus Nunes",
+   "position": "Defence",
+   "dateOfBirth": "1998-08-27",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 118489,
+   "name": "Marc Guéhi",
+   "position": "Defence",
+   "dateOfBirth": "2000-07-13",
+   "nationality": "England"
+  },
+  {
+   "id": 122266,
+   "name": "Joško Gvardiol",
+   "position": "Defence",
+   "dateOfBirth": "2002-01-23",
+   "nationality": "Croatia"
+  },
+  {
+   "id": 123574,
+   "name": "Issa Kaboré",
+   "position": "Defence",
+   "dateOfBirth": "2001-05-12",
+   "nationality": "Burkina Faso"
+  },
+  {
+   "id": 172791,
+   "name": "Josh Wilson-Esbrand",
+   "position": "Defence",
+   "dateOfBirth": "2002-12-26",
+   "nationality": "England"
+  },
+  {
+   "id": 187202,
+   "name": "Rico Lewis",
+   "position": "Defence",
+   "dateOfBirth": "2004-11-21",
+   "nationality": "England"
+  },
+  {
+   "id": 206743,
+   "name": "Nico O'Reilly",
+   "position": "Defence",
+   "dateOfBirth": "2005-03-21",
+   "nationality": "England"
+  },
+  {
+   "id": 212868,
+   "name": "Abdukodir Khusanov",
+   "position": "Defence",
+   "dateOfBirth": "2004-02-29",
+   "nationality": "Uzbekistan"
+  },
+  {
+   "id": 244856,
+   "name": "Max Alleyne",
+   "position": "Defence",
+   "dateOfBirth": "2005-07-21",
+   "nationality": "England"
+  },
+  {
+   "id": 249196,
+   "name": "Vitor Reis",
+   "position": "Defence",
+   "dateOfBirth": "2006-01-12",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 273121,
+   "name": "Juma Bah",
+   "position": "Defence",
+   "dateOfBirth": "2006-04-11",
+   "nationality": "Sierra Leone"
+  },
+  {
+   "id": 65,
+   "name": "Mateo Kovačić",
+   "position": "Midfield",
+   "dateOfBirth": "1994-05-06",
+   "nationality": "Croatia"
+  },
+  {
+   "id": 3199,
+   "name": "Rodri",
+   "position": "Midfield",
+   "dateOfBirth": "1996-06-22",
+   "nationality": "Spain"
+  },
+  {
+   "id": 4147,
+   "name": "Kalvin Phillips",
+   "position": "Midfield",
+   "dateOfBirth": "1995-12-02",
+   "nationality": "England"
+  },
+  {
+   "id": 7696,
+   "name": "Tijjani Reijnders",
+   "position": "Midfield",
+   "dateOfBirth": "1998-07-29",
+   "nationality": "Netherlands"
+  },
+  {
+   "id": 7888,
+   "name": "Phil Foden",
+   "position": "Midfield",
+   "dateOfBirth": "2000-05-28",
+   "nationality": "England"
+  },
+  {
+   "id": 107330,
+   "name": "Elliot Anderson",
+   "position": "Midfield",
+   "dateOfBirth": "2002-11-06",
+   "nationality": "England"
+  },
+  {
+   "id": 133242,
+   "name": "Rayan Cherki",
+   "position": "Midfield",
+   "dateOfBirth": "2003-08-17",
+   "nationality": "France"
+  },
+  {
+   "id": 171986,
+   "name": "Nico Gonzalez",
+   "position": "Midfield",
+   "dateOfBirth": "2002-01-03",
+   "nationality": "Spain"
+  },
+  {
+   "id": 206908,
+   "name": "Claudio Echeverri",
+   "position": "Midfield",
+   "dateOfBirth": "2006-01-02",
+   "nationality": "Argentina"
+  },
+  {
+   "id": 3895,
+   "name": "Jack Grealish",
+   "position": "Offence",
+   "dateOfBirth": "1995-09-10",
+   "nationality": "England"
+  },
+  {
+   "id": 4417,
+   "name": "Antoine Semenyo",
+   "position": "Offence",
+   "dateOfBirth": "2000-01-07",
+   "nationality": "Ghana"
+  },
+  {
+   "id": 38101,
+   "name": "Erling Haaland",
+   "position": "Offence",
+   "dateOfBirth": "2000-07-21",
+   "nationality": "Norway"
+  },
+  {
+   "id": 66896,
+   "name": "Omar Marmoush",
+   "position": "Offence",
+   "dateOfBirth": "1999-02-07",
+   "nationality": "Egypt"
+  },
+  {
+   "id": 99775,
+   "name": "Jeremy Doku",
+   "position": "Offence",
+   "dateOfBirth": "2002-05-27",
+   "nationality": "Belgium"
+  },
+  {
+   "id": 146352,
+   "name": "Sávio",
+   "position": "Offence",
+   "dateOfBirth": "2004-04-10",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 275171,
+   "name": "Jeremy Monga",
+   "position": "Offence",
+   "dateOfBirth": "2009-07-10",
+   "nationality": "England"
+  },
+  {
+   "id": 286950,
+   "name": "Ryan McAidoo",
+   "position": "Offence",
+   "dateOfBirth": "2008-06-24",
+   "nationality": "England"
+  }
+ ],
  "staff": [],
  "lastUpdated": "2022-02-10T19:48:37Z"
 }

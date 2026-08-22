@@ -36,7 +36,218 @@
    "until": null
   }
  },
- "squad": [],
+ "squad": [
+  {
+   "id": 1959,
+   "name": "Mattia Perin",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1992-11-10",
+   "nationality": "Italy"
+  },
+  {
+   "id": 2023,
+   "name": "Carlo Pinsoglio",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1990-03-16",
+   "nationality": "Italy"
+  },
+  {
+   "id": 3086,
+   "name": "Guglielmo Vicario",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1996-10-07",
+   "nationality": "Italy"
+  },
+  {
+   "id": 41381,
+   "name": "Michele Di Gregorio",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1997-07-27",
+   "nationality": "Italy"
+  },
+  {
+   "id": 1106,
+   "name": "Bremer",
+   "position": "Defence",
+   "dateOfBirth": "1997-03-18",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 2027,
+   "name": "Daniele Rugani",
+   "position": "Defence",
+   "dateOfBirth": "1994-07-29",
+   "nationality": "Italy"
+  },
+  {
+   "id": 4393,
+   "name": "Lloyd Kelly",
+   "position": "Defence",
+   "dateOfBirth": "1998-10-06",
+   "nationality": "England"
+  },
+  {
+   "id": 22113,
+   "name": "Jhon Lucumí",
+   "position": "Defence",
+   "dateOfBirth": "1998-06-26",
+   "nationality": "Colombia"
+  },
+  {
+   "id": 29622,
+   "name": "Zeki Çelik",
+   "position": "Defence",
+   "dateOfBirth": "1997-02-17",
+   "nationality": "Turkey"
+  },
+  {
+   "id": 121860,
+   "name": "Juan Cabal",
+   "position": "Defence",
+   "dateOfBirth": "2001-01-08",
+   "nationality": "Colombia"
+  },
+  {
+   "id": 124865,
+   "name": "Andrea Cambiaso",
+   "position": "Defence",
+   "dateOfBirth": "2000-02-20",
+   "nationality": "Italy"
+  },
+  {
+   "id": 141295,
+   "name": "Pierre Kalulu",
+   "position": "Defence",
+   "dateOfBirth": "2000-06-05",
+   "nationality": "France"
+  },
+  {
+   "id": 153130,
+   "name": "Federico Gatti",
+   "position": "Defence",
+   "dateOfBirth": "1998-06-24",
+   "nationality": "Italy"
+  },
+  {
+   "id": 1148,
+   "name": "Arthur",
+   "position": "Midfield",
+   "dateOfBirth": "1996-08-12",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 1751,
+   "name": "Manuel Locatelli",
+   "position": "Midfield",
+   "dateOfBirth": "1998-01-08",
+   "nationality": "Italy"
+  },
+  {
+   "id": 6507,
+   "name": "Weston McKennie",
+   "position": "Midfield",
+   "dateOfBirth": "1998-08-28",
+   "nationality": "USA"
+  },
+  {
+   "id": 7693,
+   "name": "Teun Koopmeiners",
+   "position": "Midfield",
+   "dateOfBirth": "1998-02-28",
+   "nationality": "Netherlands"
+  },
+  {
+   "id": 33525,
+   "name": "Douglas Luiz",
+   "position": "Midfield",
+   "dateOfBirth": "1998-05-09",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 99251,
+   "name": "Khéphren Thuram-Ulie",
+   "position": "Midfield",
+   "dateOfBirth": "2001-03-26",
+   "nationality": "France"
+  },
+  {
+   "id": 161142,
+   "name": "Fabio Miretti",
+   "position": "Midfield",
+   "dateOfBirth": "2003-08-03",
+   "nationality": "Italy"
+  },
+  {
+   "id": 2105,
+   "name": "Arkadiusz Milik",
+   "position": "Offence",
+   "dateOfBirth": "1994-02-28",
+   "nationality": "Poland"
+  },
+  {
+   "id": 4121,
+   "name": "Jérémie Boga",
+   "position": "Offence",
+   "dateOfBirth": "1997-01-03",
+   "nationality": "Ivory Coast"
+  },
+  {
+   "id": 8708,
+   "name": "Randal Kolo Muani",
+   "position": "Offence",
+   "dateOfBirth": "1998-12-05",
+   "nationality": "France"
+  },
+  {
+   "id": 8924,
+   "name": "Jonathan David",
+   "position": "Offence",
+   "dateOfBirth": "2000-01-14",
+   "nationality": "Canada"
+  },
+  {
+   "id": 8990,
+   "name": "Edon Zhegrova",
+   "position": "Offence",
+   "dateOfBirth": "1999-03-31",
+   "nationality": "Kosovo"
+  },
+  {
+   "id": 45680,
+   "name": "Nicolás González",
+   "position": "Offence",
+   "dateOfBirth": "1998-04-06",
+   "nationality": "Argentina"
+  },
+  {
+   "id": 150791,
+   "name": "Francisco Conceição",
+   "position": "Offence",
+   "dateOfBirth": "2002-12-14",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 191712,
+   "name": "Kenan Yıldız",
+   "position": "Offence",
+   "dateOfBirth": "2005-05-04",
+   "nationality": "Turkey"
+  },
+  {
+   "id": 263662,
+   "name": "Jeff Ekhator",
+   "position": "Offence",
+   "dateOfBirth": "2006-11-11",
+   "nationality": "Italy"
+  },
+  {
+   "id": 272213,
+   "name": "Kerim Alajbegović",
+   "position": "Offence",
+   "dateOfBirth": "2007-09-21",
+   "nationality": "Bosnia-Herzegovina"
+  }
+ ],
  "staff": [],
  "lastUpdated": "2024-04-09T16:20:37Z"
 }

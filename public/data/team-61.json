@@ -36,7 +36,302 @@
    "until": null
   }
  },
- "squad": [],
+ "squad": [
+  {
+   "id": 135555,
+   "name": "Robert Sánchez",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1997-11-18",
+   "nationality": "Spain"
+  },
+  {
+   "id": 137544,
+   "name": "Gabriel Slonina",
+   "position": "Goalkeeper",
+   "dateOfBirth": "2004-05-15",
+   "nationality": "USA"
+  },
+  {
+   "id": 153828,
+   "name": "Filip Jörgensen",
+   "position": "Goalkeeper",
+   "dateOfBirth": "2002-04-16",
+   "nationality": "Denmark"
+  },
+  {
+   "id": 175910,
+   "name": "Teddy Sharman-Lowe",
+   "position": "Goalkeeper",
+   "dateOfBirth": "2003-01-19",
+   "nationality": "England"
+  },
+  {
+   "id": 191068,
+   "name": "Mike Penders",
+   "position": "Goalkeeper",
+   "dateOfBirth": "2005-07-31",
+   "nationality": "Belgium"
+  },
+  {
+   "id": 813,
+   "name": "Axel Disasi",
+   "position": "Defence",
+   "dateOfBirth": "1998-03-11",
+   "nationality": "France"
+  },
+  {
+   "id": 7810,
+   "name": "Trevoh Chalobah",
+   "position": "Defence",
+   "dateOfBirth": "1999-07-05",
+   "nationality": "England"
+  },
+  {
+   "id": 7880,
+   "name": "Tosin Adarabioyo",
+   "position": "Defence",
+   "dateOfBirth": "1997-09-24",
+   "nationality": "England"
+  },
+  {
+   "id": 8545,
+   "name": "Wesley Fofana",
+   "position": "Defence",
+   "dateOfBirth": "2000-12-17",
+   "nationality": "France"
+  },
+  {
+   "id": 56628,
+   "name": "Reece James",
+   "position": "Defence",
+   "dateOfBirth": "1999-12-08",
+   "nationality": "England"
+  },
+  {
+   "id": 82351,
+   "name": "Maxence Lacroix",
+   "position": "Defence",
+   "dateOfBirth": "2000-04-06",
+   "nationality": "France"
+  },
+  {
+   "id": 151251,
+   "name": "Pep Chavarría",
+   "position": "Defence",
+   "dateOfBirth": "1998-04-10",
+   "nationality": "Spain"
+  },
+  {
+   "id": 152498,
+   "name": "Malo Gusto",
+   "position": "Defence",
+   "dateOfBirth": "2003-05-19",
+   "nationality": "France"
+  },
+  {
+   "id": 170426,
+   "name": "Benoît Badiashile",
+   "position": "Defence",
+   "dateOfBirth": "2001-03-26",
+   "nationality": "France"
+  },
+  {
+   "id": 170440,
+   "name": "Levi Colwill",
+   "position": "Defence",
+   "dateOfBirth": "2003-02-26",
+   "nationality": "England"
+  },
+  {
+   "id": 177766,
+   "name": "Caleb Wiley",
+   "position": "Defence",
+   "dateOfBirth": "2004-12-22",
+   "nationality": "USA"
+  },
+  {
+   "id": 189477,
+   "name": "Jorrel Hato",
+   "position": "Defence",
+   "dateOfBirth": "2006-03-07",
+   "nationality": "Netherlands"
+  },
+  {
+   "id": 190866,
+   "name": "Mamadou Sarr",
+   "position": "Defence",
+   "dateOfBirth": "2005-08-29",
+   "nationality": "Senegal"
+  },
+  {
+   "id": 206136,
+   "name": "Marco Palestra",
+   "position": "Defence",
+   "dateOfBirth": "2005-03-03",
+   "nationality": "Italy"
+  },
+  {
+   "id": 209148,
+   "name": "Aaron Anselmino",
+   "position": "Defence",
+   "dateOfBirth": "2005-04-29",
+   "nationality": "Argentina"
+  },
+  {
+   "id": 249320,
+   "name": "Josh Acheampong",
+   "position": "Defence",
+   "dateOfBirth": "2006-05-05",
+   "nationality": "England"
+  },
+  {
+   "id": 296642,
+   "name": "Denner",
+   "position": "Defence",
+   "dateOfBirth": "2008-02-25",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 3320,
+   "name": "Jordan Henderson",
+   "position": "Midfield",
+   "dateOfBirth": "1990-06-17",
+   "nationality": "England"
+  },
+  {
+   "id": 82140,
+   "name": "Morgan Rogers",
+   "position": "Midfield",
+   "dateOfBirth": "2002-07-26",
+   "nationality": "England"
+  },
+  {
+   "id": 102603,
+   "name": "Enzo Fernández",
+   "position": "Midfield",
+   "dateOfBirth": "2001-01-17",
+   "nationality": "Argentina"
+  },
+  {
+   "id": 121103,
+   "name": "Moisés Caicedo",
+   "position": "Midfield",
+   "dateOfBirth": "2001-11-02",
+   "nationality": "Ecuador"
+  },
+  {
+   "id": 144892,
+   "name": "Cole Palmer",
+   "position": "Midfield",
+   "dateOfBirth": "2002-05-06",
+   "nationality": "England"
+  },
+  {
+   "id": 165314,
+   "name": "Dario Essugo",
+   "position": "Midfield",
+   "dateOfBirth": "2005-03-14",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 170261,
+   "name": "Valentin Barco",
+   "position": "Midfield",
+   "dateOfBirth": "2004-07-23",
+   "nationality": "Argentina"
+  },
+  {
+   "id": 172738,
+   "name": "Romeo Lavia",
+   "position": "Midfield",
+   "dateOfBirth": "2004-01-06",
+   "nationality": "Belgium"
+  },
+  {
+   "id": 2074,
+   "name": "Pedro Neto",
+   "position": "Offence",
+   "dateOfBirth": "2000-03-09",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 3328,
+   "name": "Danny Welbeck",
+   "position": "Offence",
+   "dateOfBirth": "1990-11-26",
+   "nationality": "England"
+  },
+  {
+   "id": 98978,
+   "name": "Mykhailo Mudryk",
+   "position": "Offence",
+   "dateOfBirth": "2001-01-05",
+   "nationality": "Ukraine"
+  },
+  {
+   "id": 103125,
+   "name": "João Pedro",
+   "position": "Offence",
+   "dateOfBirth": "2001-09-26",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 150599,
+   "name": "Emanuel Emegha",
+   "position": "Offence",
+   "dateOfBirth": "2003-02-03",
+   "nationality": "Netherlands"
+  },
+  {
+   "id": 151095,
+   "name": "Liam Delap",
+   "position": "Offence",
+   "dateOfBirth": "2003-02-08",
+   "nationality": "England"
+  },
+  {
+   "id": 152515,
+   "name": "Nicolas Jackson",
+   "position": "Offence",
+   "dateOfBirth": "2001-06-20",
+   "nationality": "Senegal"
+  },
+  {
+   "id": 179460,
+   "name": "Jamie Bynoe-Gittens",
+   "position": "Offence",
+   "dateOfBirth": "2004-08-08",
+   "nationality": "England"
+  },
+  {
+   "id": 181901,
+   "name": "Alejandro Garnacho",
+   "position": "Offence",
+   "dateOfBirth": "2004-07-01",
+   "nationality": "Argentina"
+  },
+  {
+   "id": 207109,
+   "name": "Marc Guiu",
+   "position": "Offence",
+   "dateOfBirth": "2006-01-04",
+   "nationality": "Spain"
+  },
+  {
+   "id": 229421,
+   "name": "Geovany Quenda",
+   "position": "Offence",
+   "dateOfBirth": "2007-04-30",
+   "nationality": "Guinea-Bissau"
+  },
+  {
+   "id": 244778,
+   "name": "Estevao",
+   "position": "Offence",
+   "dateOfBirth": "2007-04-24",
+   "nationality": "Brazil"
+  }
+ ],
  "staff": [],
  "lastUpdated": "2022-02-10T19:24:40Z"
 }

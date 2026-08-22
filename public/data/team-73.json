@@ -36,7 +36,267 @@
    "until": null
   }
  },
- "squad": [],
+ "squad": [
+  {
+   "id": 3086,
+   "name": "Guglielmo Vicario",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1996-10-07",
+   "nationality": "Italy"
+  },
+  {
+   "id": 7914,
+   "name": "Martin Dúbravka",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1989-01-15",
+   "nationality": "Slovakia"
+  },
+  {
+   "id": 133229,
+   "name": "Brandon Austin",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1999-01-08",
+   "nationality": "England"
+  },
+  {
+   "id": 255239,
+   "name": "Antonín Kinský",
+   "position": "Goalkeeper",
+   "dateOfBirth": "2003-03-13",
+   "nationality": "Czech Republic"
+  },
+  {
+   "id": 6655,
+   "name": "Kevin Danso",
+   "position": "Defence",
+   "dateOfBirth": "1998-09-19",
+   "nationality": "Austria"
+  },
+  {
+   "id": 7868,
+   "name": "Andrew Robertson",
+   "position": "Defence",
+   "dateOfBirth": "1994-03-11",
+   "nationality": "Scotland"
+  },
+  {
+   "id": 7994,
+   "name": "Ben Davies",
+   "position": "Defence",
+   "dateOfBirth": "1993-04-24",
+   "nationality": "Wales"
+  },
+  {
+   "id": 45735,
+   "name": "Christian Romero",
+   "position": "Defence",
+   "dateOfBirth": "1998-04-27",
+   "nationality": "Argentina"
+  },
+  {
+   "id": 46046,
+   "name": "Marcos Senesi",
+   "position": "Defence",
+   "dateOfBirth": "1997-05-10",
+   "nationality": "Argentina"
+  },
+  {
+   "id": 80775,
+   "name": "Djed Spence",
+   "position": "Defence",
+   "dateOfBirth": "2000-08-09",
+   "nationality": "England"
+  },
+  {
+   "id": 81037,
+   "name": "Pedro Porro",
+   "position": "Defence",
+   "dateOfBirth": "1999-09-13",
+   "nationality": "Spain"
+  },
+  {
+   "id": 98566,
+   "name": "Jan Paul van Hecke",
+   "position": "Defence",
+   "dateOfBirth": "2000-06-08",
+   "nationality": "Netherlands"
+  },
+  {
+   "id": 131177,
+   "name": "Mickey van de Ven",
+   "position": "Defence",
+   "dateOfBirth": "2001-04-19",
+   "nationality": "Netherlands"
+  },
+  {
+   "id": 170378,
+   "name": "Destiny Udogie",
+   "position": "Defence",
+   "dateOfBirth": "2002-11-28",
+   "nationality": "Italy"
+  },
+  {
+   "id": 176838,
+   "name": "Ashley Phillips",
+   "position": "Defence",
+   "dateOfBirth": "2005-06-26",
+   "nationality": "England"
+  },
+  {
+   "id": 181193,
+   "name": "Kota Takai",
+   "position": "Defence",
+   "dateOfBirth": "2004-09-04",
+   "nationality": "Japan"
+  },
+  {
+   "id": 249465,
+   "name": "Souza",
+   "position": "Defence",
+   "dateOfBirth": "2006-06-16",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 1859,
+   "name": "Dejan Kulusevski",
+   "position": "Midfield",
+   "dateOfBirth": "2000-04-25",
+   "nationality": "Sweden"
+  },
+  {
+   "id": 2041,
+   "name": "Rodrigo Bentancur",
+   "position": "Midfield",
+   "dateOfBirth": "1997-06-25",
+   "nationality": "Uruguay"
+  },
+  {
+   "id": 2563,
+   "name": "Sandro Tonali",
+   "position": "Midfield",
+   "dateOfBirth": "2000-05-08",
+   "nationality": "Italy"
+  },
+  {
+   "id": 3992,
+   "name": "James Maddison",
+   "position": "Midfield",
+   "dateOfBirth": "1996-11-23",
+   "nationality": "England"
+  },
+  {
+   "id": 119265,
+   "name": "Conor Gallagher",
+   "position": "Midfield",
+   "dateOfBirth": "2000-02-06",
+   "nationality": "England"
+  },
+  {
+   "id": 148289,
+   "name": "Xavi Simons",
+   "position": "Midfield",
+   "dateOfBirth": "2003-04-21",
+   "nationality": "Netherlands"
+  },
+  {
+   "id": 170391,
+   "name": "Pape Sarr",
+   "position": "Midfield",
+   "dateOfBirth": "2002-09-14",
+   "nationality": "Senegal"
+  },
+  {
+   "id": 177040,
+   "name": "Archie Gray",
+   "position": "Midfield",
+   "dateOfBirth": "2006-03-12",
+   "nationality": "England"
+  },
+  {
+   "id": 187216,
+   "name": "Mateus Fernandes",
+   "position": "Midfield",
+   "dateOfBirth": "2004-07-10",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 193622,
+   "name": "Lucas Bergvall",
+   "position": "Midfield",
+   "dateOfBirth": "2006-02-02",
+   "nationality": "Sweden"
+  },
+  {
+   "id": 7878,
+   "name": "Dominic Solanke",
+   "position": "Offence",
+   "dateOfBirth": "1997-09-14",
+   "nationality": "England"
+  },
+  {
+   "id": 8133,
+   "name": "Richarlison",
+   "position": "Offence",
+   "dateOfBirth": "1997-05-10",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 40541,
+   "name": "Manor Solomon",
+   "position": "Offence",
+   "dateOfBirth": "1999-07-24",
+   "nationality": "Israel"
+  },
+  {
+   "id": 77399,
+   "name": "Mohammed Kudus",
+   "position": "Offence",
+   "dateOfBirth": "2000-08-02",
+   "nationality": "Ghana"
+  },
+  {
+   "id": 156616,
+   "name": "Dane Scarlett",
+   "position": "Offence",
+   "dateOfBirth": "2004-03-24",
+   "nationality": "England"
+  },
+  {
+   "id": 171977,
+   "name": "Mathys Tel",
+   "position": "Offence",
+   "dateOfBirth": "2005-04-27",
+   "nationality": "France"
+  },
+  {
+   "id": 184999,
+   "name": "Wilson Odobert",
+   "position": "Offence",
+   "dateOfBirth": "2004-11-28",
+   "nationality": "France"
+  },
+  {
+   "id": 251079,
+   "name": "Mikey Moore",
+   "position": "Offence",
+   "dateOfBirth": "2007-08-11",
+   "nationality": "England"
+  },
+  {
+   "id": 254718,
+   "name": "Min-hyuk Yang",
+   "position": "Offence",
+   "dateOfBirth": "2006-04-16",
+   "nationality": "South Korea"
+  },
+  {
+   "id": 270684,
+   "name": "William Lankshear",
+   "position": "Offence",
+   "dateOfBirth": "2005-04-20",
+   "nationality": "England"
+  }
+ ],
  "staff": [],
  "lastUpdated": "2024-05-11T21:39:03Z"
 }

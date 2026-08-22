@@ -50,7 +50,211 @@
    "until": null
   }
  },
- "squad": [],
+ "squad": [
+  {
+   "id": 49244,
+   "name": "Matvei Safonov",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1999-02-25",
+   "nationality": "Russia"
+  },
+  {
+   "id": 147896,
+   "name": "Lucas Chevalier",
+   "position": "Goalkeeper",
+   "dateOfBirth": "2001-11-06",
+   "nationality": "France"
+  },
+  {
+   "id": 53,
+   "name": "Achraf Hakimi",
+   "position": "Defence",
+   "dateOfBirth": "1998-11-04",
+   "nationality": "Morocco"
+  },
+  {
+   "id": 3225,
+   "name": "Marquinhos",
+   "position": "Defence",
+   "dateOfBirth": "1994-05-14",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 3359,
+   "name": "Lucas Digne",
+   "position": "Defence",
+   "dateOfBirth": "1993-07-20",
+   "nationality": "France"
+  },
+  {
+   "id": 3365,
+   "name": "Lucas Hernández",
+   "position": "Defence",
+   "dateOfBirth": "1996-02-14",
+   "nationality": "France"
+  },
+  {
+   "id": 114102,
+   "name": "William Pacho",
+   "position": "Defence",
+   "dateOfBirth": "2001-10-16",
+   "nationality": "Ecuador"
+  },
+  {
+   "id": 143573,
+   "name": "Illia Zabarnyi",
+   "position": "Defence",
+   "dateOfBirth": "2002-09-01",
+   "nationality": "Ukraine"
+  },
+  {
+   "id": 144570,
+   "name": "Nuno Mendes",
+   "position": "Defence",
+   "dateOfBirth": "2002-06-19",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 169204,
+   "name": "Lucas Beraldo",
+   "position": "Defence",
+   "dateOfBirth": "2003-11-24",
+   "nationality": "Brazil"
+  },
+  {
+   "id": 246711,
+   "name": "Yoram Zague",
+   "position": "Defence",
+   "dateOfBirth": "2006-05-15",
+   "nationality": "France"
+  },
+  {
+   "id": 270300,
+   "name": "Naoufel El Hannach",
+   "position": "Defence",
+   "dateOfBirth": "2006-12-07",
+   "nationality": "Morocco"
+  },
+  {
+   "id": 22,
+   "name": "Fabián Ruiz",
+   "position": "Midfield",
+   "dateOfBirth": "1996-04-03",
+   "nationality": "Spain"
+  },
+  {
+   "id": 7988,
+   "name": "Renato Sanches",
+   "position": "Midfield",
+   "dateOfBirth": "1997-08-18",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 178722,
+   "name": "Vitinha",
+   "position": "Midfield",
+   "dateOfBirth": "2000-02-13",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 186089,
+   "name": "Warren Zaïre-Emery",
+   "position": "Midfield",
+   "dateOfBirth": "2006-03-08",
+   "nationality": "France"
+  },
+  {
+   "id": 190877,
+   "name": "Joao Neves",
+   "position": "Midfield",
+   "dateOfBirth": "2004-09-27",
+   "nationality": "Portugal"
+  },
+  {
+   "id": 246066,
+   "name": "Senny Mayulu",
+   "position": "Midfield",
+   "dateOfBirth": "2006-05-17",
+   "nationality": "France"
+  },
+  {
+   "id": 283413,
+   "name": "Pedro Fernández",
+   "position": "Midfield",
+   "dateOfBirth": "2008-01-12",
+   "nationality": "Spain"
+  },
+  {
+   "id": 3373,
+   "name": "Ousmane Dembélé",
+   "position": "Offence",
+   "dateOfBirth": "1997-05-15",
+   "nationality": "France"
+  },
+  {
+   "id": 8708,
+   "name": "Randal Kolo Muani",
+   "position": "Offence",
+   "dateOfBirth": "1998-12-05",
+   "nationality": "France"
+  },
+  {
+   "id": 33154,
+   "name": "Ferrán Torres",
+   "position": "Offence",
+   "dateOfBirth": "2000-02-29",
+   "nationality": "Spain"
+  },
+  {
+   "id": 113285,
+   "name": "Khvicha Kvaratskhelia",
+   "position": "Offence",
+   "dateOfBirth": "2001-02-12",
+   "nationality": "Georgia"
+  },
+  {
+   "id": 172762,
+   "name": "Bradley Barcola",
+   "position": "Offence",
+   "dateOfBirth": "2002-09-02",
+   "nationality": "France"
+  },
+  {
+   "id": 175701,
+   "name": "Maghnes Akliouche",
+   "position": "Offence",
+   "dateOfBirth": "2002-02-25",
+   "nationality": "France"
+  },
+  {
+   "id": 177522,
+   "name": "Desire Doue",
+   "position": "Offence",
+   "dateOfBirth": "2005-06-03",
+   "nationality": "France"
+  },
+  {
+   "id": 189574,
+   "name": "Mika Godts",
+   "position": "Offence",
+   "dateOfBirth": "2005-06-07",
+   "nationality": "Belgium"
+  },
+  {
+   "id": 265040,
+   "name": "Ibrahim M'Baye",
+   "position": "Offence",
+   "dateOfBirth": "2008-01-24",
+   "nationality": "Senegal"
+  },
+  {
+   "id": 278406,
+   "name": "Quentin Ndjantou",
+   "position": "Offence",
+   "dateOfBirth": "2007-07-23",
+   "nationality": "France"
+  }
+ ],
  "staff": [],
  "lastUpdated": "2022-02-10T19:07:11Z"
 }
