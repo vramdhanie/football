@@ -22,9 +22,8 @@ work:
   [football-data.org](https://www.football-data.org/) v4 API (free tier,
   throttled to respect the 10 calls/minute limit) and
   [api-football.com](https://www.api-football.com/) (squads), and commits the
-  result to `public/data/*.json`. Runs on demand; the 12-hourly schedule is
-  commented out until the 2026-27 season starts (~15 Aug 2026) — uncomment
-  the `schedule:` block then.
+  result to `public/data/*.json`. Runs every 12 hours on a cron schedule,
+  and on demand from the Actions tab.
 - **Deploy** (`deploy.yml`) builds the static site from the committed data
   and publishes it to GitHub Pages. Runs on every push, on demand, and
   automatically after each successful data refresh.
@@ -68,8 +67,7 @@ commit (it deploys on push) or discard.
 5. Push (or run the Deploy workflow manually from the Actions tab). Code
    pushes redeploy the site from committed data; run the **Fetch data**
    workflow to refresh the data (it commits the new JSON and triggers a
-   deploy). Uncomment the `schedule:` block in `fetch-data.yml` when the
-   season starts for automatic 12-hourly refreshes.
+   deploy). The schedule refreshes data automatically every 12 hours.
 
 > Note: on public repos GitHub disables scheduled workflows after 60 days
 > without repository activity — it emails a warning first, and one click (or
@@ -81,8 +79,7 @@ commit (it deploys on push) or discard.
   during the off-season fallback) + 12 team profiles + 12 squads + 12 team
   match lists), throttled to 1 call per 6.5 s.
 - Scores are delayed (no live scores on the free tier) — by design; the site
-  shows data as of the last refresh (every 12 hours once the schedule is
-  enabled).
+  shows data as of the last 12-hourly refresh.
 - Squads, lineups, and deep player stats are a paid add-on — the free tier
   returns empty squads, so the "players" feature is the per-league top
   scorers list (falls back to last season until the new one starts).
