@@ -1,10 +1,12 @@
 name: Fetch data
 
 on:
-  # Refresh every 12 hours during the season (off the top of the hour,
-  # UTC, to avoid GitHub's scheduling congestion).
+  # Refresh every 12 hours during the season. 11:23/23:23 UTC keeps the
+  # runs away from the hour around midnight UTC, where GitHub's cron
+  # scheduler is most congested and silently drops occurrences (which is
+  # exactly what happened to the original 23 */12 schedule).
   schedule:
-    - cron: "23 */12 * * *"
+    - cron: "23 11,23 * * *"
   workflow_dispatch:
 
 permissions:
