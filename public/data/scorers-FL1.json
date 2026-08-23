@@ -78,6 +78,37 @@
   },
   {
    "player": {
+    "id": 33154,
+    "name": "Ferrán Torres",
+    "firstName": "",
+    "lastName": "Ferran Torres",
+    "dateOfBirth": "2000-02-29",
+    "nationality": "Spain",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-09T17:00:05Z"
+   },
+   "team": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png",
+    "address": "24, rue de Commandant Guibaud Paris 7501",
+    "website": "http://www.psg.fr",
+    "founded": 1904,
+    "clubColors": "Red / Blue / White",
+    "venue": "Parc des Princes",
+    "lastUpdated": "2022-02-10T19:07:11Z"
+   },
+   "playedMatches": 1,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 250795,
     "name": "Keyliane Abdallah",
     "firstName": "Keyliane",
@@ -287,37 +318,6 @@
     "clubColors": "White / Blue",
     "venue": "Stade de l'Abbé Deschamps",
     "lastUpdated": "2022-07-26T18:03:55Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 856,
-    "name": "Romain Del Castillo",
-    "firstName": "Romain",
-    "lastName": "Del Castillo",
-    "dateOfBirth": "1996-03-29",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": 22,
-    "lastUpdated": "2026-07-27T19:57:39Z"
-   },
-   "team": {
-    "id": 512,
-    "name": "Stade Brestois 29",
-    "shortName": "Brest",
-    "tla": "BRE",
-    "crest": "https://crests.football-data.org/512.png",
-    "address": "Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
-    "website": "http://www.stade-brestois.com",
-    "founded": 1903,
-    "clubColors": "White / Red",
-    "venue": "Stade Francis-Le Blé",
-    "lastUpdated": "2026-07-04T12:08:19Z"
    },
    "playedMatches": 1,
    "goals": 1,

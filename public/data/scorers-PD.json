@@ -78,6 +78,68 @@
   },
   {
    "player": {
+    "id": 37428,
+    "name": "Raphinha",
+    "firstName": "",
+    "lastName": "Raphinha",
+    "dateOfBirth": "1996-12-14",
+    "nationality": "Brazil",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": 7,
+    "lastUpdated": "2026-06-01T11:16:32Z"
+   },
+   "team": {
+    "id": 81,
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/81.png",
+    "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+    "website": "http://www.fcbarcelona.com",
+    "founded": 1899,
+    "clubColors": "Red / Navy Blue / Orange",
+    "venue": "Camp Nou",
+    "lastUpdated": "2024-07-29T17:09:22Z"
+   },
+   "playedMatches": 1,
+   "goals": 2,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
+    "id": 214533,
+    "name": "Fermín López",
+    "firstName": "",
+    "lastName": "Fermín López",
+    "dateOfBirth": "2003-05-11",
+    "nationality": "Spain",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-09T17:00:05Z"
+   },
+   "team": {
+    "id": 81,
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/81.png",
+    "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+    "website": "http://www.fcbarcelona.com",
+    "founded": 1899,
+    "clubColors": "Red / Navy Blue / Orange",
+    "venue": "Camp Nou",
+    "lastUpdated": "2024-07-29T17:09:22Z"
+   },
+   "playedMatches": 1,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 46123,
     "name": "Nahuel Tenaglia",
     "firstName": "Facundo",
@@ -257,72 +319,10 @@
     "venue": "Campos de Sport de El Sardinero",
     "lastUpdated": "2023-04-28T08:38:16Z"
    },
-   "playedMatches": 1,
+   "playedMatches": 2,
    "goals": 1,
    "assists": null,
    "penalties": 1
-  },
-  {
-   "player": {
-    "id": 283400,
-    "name": "Sergio Martínez",
-    "firstName": "",
-    "lastName": "Sergio Martínez",
-    "dateOfBirth": "2007-05-15",
-    "nationality": "Spain",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2025-08-17T09:45:09Z"
-   },
-   "team": {
-    "id": 5335,
-    "name": "Real Racing Club de Santander",
-    "shortName": "Santander",
-    "tla": "SAN",
-    "crest": "https://crests.football-data.org/5335.png",
-    "address": "Calle Real Racing Club, s/n Santander 39005",
-    "website": "http://www.realracingclub.com",
-    "founded": 1913,
-    "clubColors": "White / Black / Green",
-    "venue": "Campos de Sport de El Sardinero",
-    "lastUpdated": "2023-04-28T08:38:16Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 633,
-    "name": "Pape Gueye",
-    "firstName": "Pape",
-    "lastName": "Gueye",
-    "dateOfBirth": "1999-01-24",
-    "nationality": "Senegal",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": 22,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 94,
-    "name": "Villarreal CF",
-    "shortName": "Villarreal",
-    "tla": "VIL",
-    "crest": "https://crests.football-data.org/94.png",
-    "address": "Camino Miralcamp, s/n Villarreal 12540",
-    "website": "http://www.villarrealcf.es",
-    "founded": 1923,
-    "clubColors": "Yellow / Blue",
-    "venue": "Estadio de la Cerámica",
-    "lastUpdated": "2022-02-22T18:26:04Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
   }
  ]
 }
