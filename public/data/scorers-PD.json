@@ -78,6 +78,37 @@
   },
   {
    "player": {
+    "id": 7801,
+    "name": "Pierre-Emerick Aubameyang",
+    "firstName": "Pierre-Emerick",
+    "lastName": "Aubameyang",
+    "dateOfBirth": "1989-06-18",
+    "nationality": "Gabon",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-09T17:00:06Z"
+   },
+   "team": {
+    "id": 560,
+    "name": "RC Deportivo La Coruña",
+    "shortName": "Deportivo",
+    "tla": "DEP",
+    "crest": "https://crests.football-data.org/560.png",
+    "address": "Plaza de Pontevedra, 19 A Coruña 15003",
+    "website": "http://www.rcdeportivo.es",
+    "founded": 1906,
+    "clubColors": "Blue / White",
+    "venue": "Estadio Abanca-Riazor",
+    "lastUpdated": "2024-07-29T17:11:14Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 37428,
     "name": "Raphinha",
     "firstName": "",
@@ -287,37 +318,6 @@
     "clubColors": "White / Red",
     "venue": "Estadio Ramón Sánchez Pizjuán",
     "lastUpdated": "2024-07-29T17:09:57Z"
-   },
-   "playedMatches": 2,
-   "goals": 1,
-   "assists": null,
-   "penalties": 1
-  },
-  {
-   "player": {
-    "id": 32679,
-    "name": "Andrés Martín",
-    "firstName": "",
-    "lastName": "Andrés Martín",
-    "dateOfBirth": "1999-07-11",
-    "nationality": "Spain",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2024-08-05T08:21:37Z"
-   },
-   "team": {
-    "id": 5335,
-    "name": "Real Racing Club de Santander",
-    "shortName": "Santander",
-    "tla": "SAN",
-    "crest": "https://crests.football-data.org/5335.png",
-    "address": "Calle Real Racing Club, s/n Santander 39005",
-    "website": "http://www.realracingclub.com",
-    "founded": 1913,
-    "clubColors": "White / Black / Green",
-    "venue": "Campos de Sport de El Sardinero",
-    "lastUpdated": "2023-04-28T08:38:16Z"
    },
    "playedMatches": 2,
    "goals": 1,

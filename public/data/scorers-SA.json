@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 7457,
+    "name": "Donyell Malen",
+    "firstName": "Donyell",
+    "lastName": "Malen",
+    "dateOfBirth": "1999-01-19",
+    "nationality": "Netherlands",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:16Z"
+   },
+   "team": {
+    "id": 100,
+    "name": "AS Roma",
+    "shortName": "Roma",
+    "tla": "ROM",
+    "crest": "https://crests.football-data.org/100.png",
+    "address": "Via di Trigoria km. 3,600 Roma 00128",
+    "website": "http://www.asroma.it",
+    "founded": 1927,
+    "clubColors": "Maroon / Orange / White",
+    "venue": "Stadio Olimpico",
+    "lastUpdated": "2025-02-17T16:53:31Z"
+   },
+   "playedMatches": 1,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 822,
     "name": "Hassane Kamara",
     "firstName": "Hassane",
@@ -287,37 +318,6 @@
     "clubColors": "Sky Blue / White",
     "venue": "Stadio San Paolo",
     "lastUpdated": "2025-02-17T16:51:11Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 274076,
-    "name": "Alessandro Romano",
-    "firstName": "Alessandro",
-    "lastName": "Romano",
-    "dateOfBirth": "2006-06-17",
-    "nationality": "Switzerland",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2025-05-15T09:42:53Z"
-   },
-   "team": {
-    "id": 104,
-    "name": "Cagliari Calcio",
-    "shortName": "Cagliari",
-    "tla": "CAG",
-    "crest": "https://crests.football-data.org/104.png",
-    "address": "Viale la Plaia 15 Cagliari 09123",
-    "website": "http://www.cagliaricalcio.net",
-    "founded": 1920,
-    "clubColors": "Red / Navy Blue / White",
-    "venue": "Sardegna Arena",
-    "lastUpdated": "2024-04-09T16:20:43Z"
    },
    "playedMatches": 1,
    "goals": 1,
