@@ -330,6 +330,13 @@
    "position": "Offence",
    "dateOfBirth": "2007-04-24",
    "nationality": "Brazil"
+  },
+  {
+   "id": 300099,
+   "name": "Reggie Watson",
+   "position": null,
+   "dateOfBirth": "2010-01-26",
+   "nationality": "England"
   }
  ],
  "staff": [],

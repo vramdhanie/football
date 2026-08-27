@@ -10,10 +10,72 @@
   "id": 2518,
   "startDate": "2026-08-16",
   "endDate": "2027-05-30",
-  "currentMatchday": 2,
+  "currentMatchday": 3,
   "winner": null
  },
  "scorers": [
+  {
+   "player": {
+    "id": 37428,
+    "name": "Raphinha",
+    "firstName": "",
+    "lastName": "Raphinha",
+    "dateOfBirth": "1996-12-14",
+    "nationality": "Brazil",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": 7,
+    "lastUpdated": "2026-06-01T11:16:32Z"
+   },
+   "team": {
+    "id": 81,
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/81.png",
+    "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+    "website": "http://www.fcbarcelona.com",
+    "founded": 1899,
+    "clubColors": "Red / Navy Blue / Orange",
+    "venue": "Camp Nou",
+    "lastUpdated": "2024-07-29T17:09:22Z"
+   },
+   "playedMatches": 2,
+   "goals": 3,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
+    "id": 214533,
+    "name": "Fermín López",
+    "firstName": "",
+    "lastName": "Fermín López",
+    "dateOfBirth": "2003-05-11",
+    "nationality": "Spain",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-09T17:00:05Z"
+   },
+   "team": {
+    "id": 81,
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/81.png",
+    "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+    "website": "http://www.fcbarcelona.com",
+    "founded": 1899,
+    "clubColors": "Red / Navy Blue / Orange",
+    "venue": "Camp Nou",
+    "lastUpdated": "2024-07-29T17:09:22Z"
+   },
+   "playedMatches": 2,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
   {
    "player": {
     "id": 3374,
@@ -134,68 +196,6 @@
     "lastUpdated": "2024-07-29T17:11:14Z"
    },
    "playedMatches": 2,
-   "goals": 2,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 37428,
-    "name": "Raphinha",
-    "firstName": "",
-    "lastName": "Raphinha",
-    "dateOfBirth": "1996-12-14",
-    "nationality": "Brazil",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": 7,
-    "lastUpdated": "2026-06-01T11:16:32Z"
-   },
-   "team": {
-    "id": 81,
-    "name": "FC Barcelona",
-    "shortName": "Barça",
-    "tla": "FCB",
-    "crest": "https://crests.football-data.org/81.png",
-    "address": "Avenida Arístides Maillol s/n Barcelona 08028",
-    "website": "http://www.fcbarcelona.com",
-    "founded": 1899,
-    "clubColors": "Red / Navy Blue / Orange",
-    "venue": "Camp Nou",
-    "lastUpdated": "2024-07-29T17:09:22Z"
-   },
-   "playedMatches": 1,
-   "goals": 2,
-   "assists": null,
-   "penalties": 1
-  },
-  {
-   "player": {
-    "id": 214533,
-    "name": "Fermín López",
-    "firstName": "",
-    "lastName": "Fermín López",
-    "dateOfBirth": "2003-05-11",
-    "nationality": "Spain",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-09T17:00:05Z"
-   },
-   "team": {
-    "id": 81,
-    "name": "FC Barcelona",
-    "shortName": "Barça",
-    "tla": "FCB",
-    "crest": "https://crests.football-data.org/81.png",
-    "address": "Avenida Arístides Maillol s/n Barcelona 08028",
-    "website": "http://www.fcbarcelona.com",
-    "founded": 1899,
-    "clubColors": "Red / Navy Blue / Orange",
-    "venue": "Camp Nou",
-    "lastUpdated": "2024-07-29T17:09:22Z"
-   },
-   "playedMatches": 1,
    "goals": 2,
    "assists": null,
    "penalties": null
