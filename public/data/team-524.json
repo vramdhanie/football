@@ -29,13 +29,6 @@
    "code": "TDC",
    "type": "CUP",
    "emblem": null
-  },
-  {
-   "id": 2157,
-   "name": "UEFA Super Cup",
-   "code": "ESC",
-   "type": "CUP",
-   "emblem": "https://crests.football-data.org/esc.png"
   }
  ],
  "coach": {

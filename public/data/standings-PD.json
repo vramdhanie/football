@@ -22,6 +22,25 @@
     {
      "position": 1,
      "team": {
+      "id": 86,
+      "name": "Real Madrid CF",
+      "shortName": "Real Madrid",
+      "tla": "RMA",
+      "crest": "https://crests.football-data.org/86.png"
+     },
+     "playedGames": 2,
+     "form": null,
+     "won": 2,
+     "draw": 0,
+     "lost": 0,
+     "points": 6,
+     "goalsFor": 6,
+     "goalsAgainst": 2,
+     "goalDifference": 4
+    },
+    {
+     "position": 2,
+     "team": {
       "id": 559,
       "name": "Sevilla FC",
       "shortName": "Sevilla FC",
@@ -39,7 +58,7 @@
      "goalDifference": 3
     },
     {
-     "position": 2,
+     "position": 3,
      "team": {
       "id": 90,
       "name": "Real Betis Balompié",
@@ -58,7 +77,7 @@
      "goalDifference": 2
     },
     {
-     "position": 3,
+     "position": 4,
      "team": {
       "id": 263,
       "name": "Deportivo Alavés",
@@ -77,7 +96,7 @@
      "goalDifference": 3
     },
     {
-     "position": 4,
+     "position": 5,
      "team": {
       "id": 78,
       "name": "Club Atlético de Madrid",
@@ -96,7 +115,7 @@
      "goalDifference": 2
     },
     {
-     "position": 5,
+     "position": 6,
      "team": {
       "id": 81,
       "name": "FC Barcelona",
@@ -115,7 +134,7 @@
      "goalDifference": 5
     },
     {
-     "position": 6,
+     "position": 7,
      "team": {
       "id": 80,
       "name": "RCD Espanyol de Barcelona",
@@ -132,25 +151,6 @@
      "goalsFor": 4,
      "goalsAgainst": 2,
      "goalDifference": 2
-    },
-    {
-     "position": 7,
-     "team": {
-      "id": 86,
-      "name": "Real Madrid CF",
-      "shortName": "Real Madrid",
-      "tla": "RMA",
-      "crest": "https://crests.football-data.org/86.png"
-     },
-     "playedGames": 1,
-     "form": null,
-     "won": 1,
-     "draw": 0,
-     "lost": 0,
-     "points": 3,
-     "goalsFor": 2,
-     "goalsAgainst": 1,
-     "goalDifference": 1
     },
     {
      "position": 8,
@@ -364,25 +364,6 @@
     {
      "position": 19,
      "team": {
-      "id": 92,
-      "name": "Real Sociedad de Fútbol",
-      "shortName": "Real Sociedad",
-      "tla": "RSO",
-      "crest": "https://crests.football-data.org/92.png"
-     },
-     "playedGames": 1,
-     "form": null,
-     "won": 0,
-     "draw": 0,
-     "lost": 1,
-     "points": 0,
-     "goalsFor": 0,
-     "goalsAgainst": 1,
-     "goalDifference": -1
-    },
-    {
-     "position": 20,
-     "team": {
       "id": 77,
       "name": "Athletic Club",
       "shortName": "Athletic",
@@ -398,6 +379,25 @@
      "goalsFor": 1,
      "goalsAgainst": 3,
      "goalDifference": -2
+    },
+    {
+     "position": 20,
+     "team": {
+      "id": 92,
+      "name": "Real Sociedad de Fútbol",
+      "shortName": "Real Sociedad",
+      "tla": "RSO",
+      "crest": "https://crests.football-data.org/92.png"
+     },
+     "playedGames": 2,
+     "form": null,
+     "won": 0,
+     "draw": 0,
+     "lost": 2,
+     "points": 0,
+     "goalsFor": 1,
+     "goalsAgainst": 5,
+     "goalDifference": -4
     }
    ]
   }

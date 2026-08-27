@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 3374,
+    "name": "Kylian Mbappé",
+    "firstName": "Kylian",
+    "lastName": "Mbappé",
+    "dateOfBirth": "1998-12-20",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 86,
+    "name": "Real Madrid CF",
+    "shortName": "Real Madrid",
+    "tla": "RMA",
+    "crest": "https://crests.football-data.org/86.png",
+    "address": "Avenida Concha Espina, 1 Madrid 28036",
+    "website": "http://www.realmadrid.com",
+    "founded": 1902,
+    "clubColors": "White / Purple",
+    "venue": "Estadio Santiago Bernabéu",
+    "lastUpdated": "2022-02-19T08:59:31Z"
+   },
+   "playedMatches": 2,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 8474,
     "name": "Mariano Díaz",
     "firstName": "Mariano",
@@ -274,37 +305,6 @@
     "position": null,
     "shirtNumber": null,
     "lastUpdated": "2026-08-09T17:00:06Z"
-   },
-   "team": {
-    "id": 559,
-    "name": "Sevilla FC",
-    "shortName": "Sevilla FC",
-    "tla": "SEV",
-    "crest": "https://crests.football-data.org/559.png",
-    "address": "Calle Sevilla Fútbol Club, s/n Sevilla 41005",
-    "website": "http://www.sevillafc.es",
-    "founded": 1905,
-    "clubColors": "White / Red",
-    "venue": "Estadio Ramón Sánchez Pizjuán",
-    "lastUpdated": "2024-07-29T17:09:57Z"
-   },
-   "playedMatches": 2,
-   "goals": 1,
-   "assists": null,
-   "penalties": 1
-  },
-  {
-   "player": {
-    "id": 185105,
-    "name": "Peque",
-    "firstName": "",
-    "lastName": "Peque",
-    "dateOfBirth": "2002-10-04",
-    "nationality": "Spain",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2024-08-23T10:11:37Z"
    },
    "team": {
     "id": 559,
