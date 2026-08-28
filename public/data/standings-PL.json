@@ -22,6 +22,25 @@
     {
      "position": 1,
      "team": {
+      "id": 65,
+      "name": "Manchester City FC",
+      "shortName": "Man City",
+      "tla": "MCI",
+      "crest": "https://crests.football-data.org/65.png"
+     },
+     "playedGames": 2,
+     "form": null,
+     "won": 2,
+     "draw": 0,
+     "lost": 0,
+     "points": 6,
+     "goalsFor": 6,
+     "goalsAgainst": 2,
+     "goalDifference": 4
+    },
+    {
+     "position": 2,
+     "team": {
       "id": 397,
       "name": "Brighton & Hove Albion FC",
       "shortName": "Brighton Hove",
@@ -39,7 +58,7 @@
      "goalDifference": 4
     },
     {
-     "position": 2,
+     "position": 3,
      "team": {
       "id": 57,
       "name": "Arsenal FC",
@@ -58,7 +77,7 @@
      "goalDifference": 3
     },
     {
-     "position": 2,
+     "position": 3,
      "team": {
       "id": 402,
       "name": "Brentford FC",
@@ -77,7 +96,7 @@
      "goalDifference": 3
     },
     {
-     "position": 4,
+     "position": 5,
      "team": {
       "id": 62,
       "name": "Everton FC",
@@ -96,7 +115,7 @@
      "goalDifference": 2
     },
     {
-     "position": 4,
+     "position": 5,
      "team": {
       "id": 322,
       "name": "Hull City AFC",
@@ -115,7 +134,7 @@
      "goalDifference": 2
     },
     {
-     "position": 6,
+     "position": 7,
      "team": {
       "id": 61,
       "name": "Chelsea FC",
@@ -134,32 +153,13 @@
      "goalDifference": 1
     },
     {
-     "position": 7,
+     "position": 8,
      "team": {
       "id": 349,
       "name": "Ipswich Town FC",
       "shortName": "Ipswich Town",
       "tla": "IPS",
       "crest": "https://crests.football-data.org/349.png"
-     },
-     "playedGames": 1,
-     "form": null,
-     "won": 1,
-     "draw": 0,
-     "lost": 0,
-     "points": 3,
-     "goalsFor": 2,
-     "goalsAgainst": 1,
-     "goalDifference": 1
-    },
-    {
-     "position": 7,
-     "team": {
-      "id": 65,
-      "name": "Manchester City FC",
-      "shortName": "Man City",
-      "tla": "MCI",
-      "crest": "https://crests.football-data.org/65.png"
      },
      "playedGames": 1,
      "form": null,
@@ -307,25 +307,6 @@
     {
      "position": 16,
      "team": {
-      "id": 354,
-      "name": "Crystal Palace FC",
-      "shortName": "Crystal Palace",
-      "tla": "CRY",
-      "crest": "https://crests.football-data.org/354.png"
-     },
-     "playedGames": 1,
-     "form": null,
-     "won": 0,
-     "draw": 0,
-     "lost": 1,
-     "points": 0,
-     "goalsFor": 0,
-     "goalsAgainst": 2,
-     "goalDifference": -2
-    },
-    {
-     "position": 16,
-     "team": {
       "id": 66,
       "name": "Manchester United FC",
       "shortName": "Man United",
@@ -343,7 +324,7 @@
      "goalDifference": -2
     },
     {
-     "position": 18,
+     "position": 17,
      "team": {
       "id": 1076,
       "name": "Coventry City FC",
@@ -362,7 +343,7 @@
      "goalDifference": -3
     },
     {
-     "position": 18,
+     "position": 17,
      "team": {
       "id": 73,
       "name": "Tottenham Hotspur FC",
@@ -381,7 +362,7 @@
      "goalDifference": -3
     },
     {
-     "position": 20,
+     "position": 19,
      "team": {
       "id": 58,
       "name": "Aston Villa FC",
@@ -398,6 +379,25 @@
      "goalsFor": 0,
      "goalsAgainst": 4,
      "goalDifference": -4
+    },
+    {
+     "position": 20,
+     "team": {
+      "id": 354,
+      "name": "Crystal Palace FC",
+      "shortName": "Crystal Palace",
+      "tla": "CRY",
+      "crest": "https://crests.football-data.org/354.png"
+     },
+     "playedGames": 2,
+     "form": null,
+     "won": 0,
+     "draw": 0,
+     "lost": 2,
+     "points": 0,
+     "goalsFor": 1,
+     "goalsAgainst": 6,
+     "goalDifference": -5
     }
    ]
   }

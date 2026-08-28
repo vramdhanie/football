@@ -246,6 +246,13 @@
    "position": "Offence",
    "dateOfBirth": "2007-07-23",
    "nationality": "France"
+  },
+  {
+   "id": 300106,
+   "name": "Alessandro Longoni",
+   "position": null,
+   "dateOfBirth": "2008-01-31",
+   "nationality": "Italy"
   }
  ],
  "staff": [],

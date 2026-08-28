@@ -7,25 +7,25 @@
   "emblem": "https://crests.football-data.org/BL1.png"
  },
  "season": {
-  "id": 2414,
-  "startDate": "2025-08-22",
-  "endDate": "2026-05-16",
-  "currentMatchday": 34,
+  "id": 2522,
+  "startDate": "2026-08-28",
+  "endDate": "2027-05-22",
+  "currentMatchday": 1,
   "winner": null
  },
  "scorers": [
   {
    "player": {
-    "id": 8004,
-    "name": "Harry Kane",
-    "firstName": "Harry",
-    "lastName": "Kane",
-    "dateOfBirth": "1993-07-28",
-    "nationality": "England",
-    "section": "Offence",
+    "id": 9541,
+    "name": "Dayot Upamecano",
+    "firstName": "Dayot",
+    "lastName": "Upamecano",
+    "dateOfBirth": "1998-10-27",
+    "nationality": "France",
+    "section": "Defence",
     "position": null,
     "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
+    "lastUpdated": "2026-06-01T11:16:30Z"
    },
    "team": {
     "id": 5,
@@ -40,23 +40,23 @@
     "venue": "Allianz Arena",
     "lastUpdated": "2024-07-09T17:26:37Z"
    },
-   "playedMatches": 32,
-   "goals": 36,
-   "assists": 4,
-   "penalties": 10
+   "playedMatches": 1,
+   "goals": 1,
+   "assists": null,
+   "penalties": null
   },
   {
    "player": {
-    "id": 6928,
-    "name": "Deniz Undav",
-    "firstName": "Deniz",
-    "lastName": "Undav",
-    "dateOfBirth": "1996-07-19",
+    "id": 6523,
+    "name": "Josha Vagnoman",
+    "firstName": "Josha",
+    "lastName": "Vagnoman",
+    "dateOfBirth": "2000-12-11",
     "nationality": "Germany",
-    "section": "Offence",
+    "section": "Defence",
     "position": null,
-    "shirtNumber": 9,
-    "lastUpdated": "2026-06-01T11:16:31Z"
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-20T16:51:42Z"
    },
    "team": {
     "id": 10,
@@ -71,72 +71,10 @@
     "venue": "Mercedes-Benz Arena",
     "lastUpdated": "2026-01-26T10:51:52Z"
    },
-   "playedMatches": 29,
-   "goals": 19,
-   "assists": 6,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 211,
-    "name": "Sehrou Guirassy",
-    "firstName": "Serhou",
-    "lastName": "Guirassy",
-    "dateOfBirth": "1996-03-12",
-    "nationality": "Guinea",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": 9,
-    "lastUpdated": "2026-07-20T16:51:43Z"
-   },
-   "team": {
-    "id": 4,
-    "name": "Borussia Dortmund",
-    "shortName": "Dortmund",
-    "tla": "BVB",
-    "crest": "https://crests.football-data.org/4.png",
-    "address": "Rheinlanddamm 207-209 Dortmund 44137",
-    "website": "http://www.bvb.de",
-    "founded": 1909,
-    "clubColors": "Black / Yellow",
-    "venue": "Signal Iduna Park",
-    "lastUpdated": "2022-02-25T16:50:16Z"
-   },
-   "playedMatches": 34,
-   "goals": 17,
+   "playedMatches": 1,
+   "goals": 1,
    "assists": null,
-   "penalties": 1
-  },
-  {
-   "player": {
-    "id": 1826,
-    "name": "Patrik Schick",
-    "firstName": "Patrik",
-    "lastName": "Schick",
-    "dateOfBirth": "1996-01-24",
-    "nationality": "Czech Republic",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T10:55:34Z"
-   },
-   "team": {
-    "id": 3,
-    "name": "Bayer 04 Leverkusen",
-    "shortName": "Leverkusen",
-    "tla": "B04",
-    "crest": "https://crests.football-data.org/3.png",
-    "address": "Bismarckstr. 122-124 Leverkusen 51373",
-    "website": "http://www.bayer04.de",
-    "founded": 1904,
-    "clubColors": "Red / White / Black",
-    "venue": "BayArena",
-    "lastUpdated": "2022-02-25T16:43:07Z"
-   },
-   "playedMatches": 28,
-   "goals": 16,
-   "assists": 2,
-   "penalties": 4
+   "penalties": null
   },
   {
    "player": {
@@ -164,9 +102,40 @@
     "venue": "Allianz Arena",
     "lastUpdated": "2024-07-09T17:26:37Z"
    },
-   "playedMatches": 33,
-   "goals": 15,
-   "assists": 19,
+   "playedMatches": 1,
+   "goals": 1,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 202665,
+    "name": "Aleksandar Pavlović",
+    "firstName": "Aleksandar",
+    "lastName": "Pavlović",
+    "dateOfBirth": "2004-05-03",
+    "nationality": "Germany",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:31Z"
+   },
+   "team": {
+    "id": 5,
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/5.png",
+    "address": "Säbenerstr. 51 München 81547",
+    "website": "http://www.fcbayern.de",
+    "founded": 1900,
+    "clubColors": "Red / White / Blue",
+    "venue": "Allianz Arena",
+    "lastUpdated": "2024-07-09T17:26:37Z"
+   },
+   "playedMatches": 1,
+   "goals": 1,
+   "assists": null,
    "penalties": null
   },
   {
@@ -195,134 +164,10 @@
     "venue": "Allianz Arena",
     "lastUpdated": "2024-07-09T17:26:37Z"
    },
-   "playedMatches": 32,
-   "goals": 15,
-   "assists": 12,
+   "playedMatches": 1,
+   "goals": 1,
+   "assists": null,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 318,
-    "name": "Andrej Kramarić",
-    "firstName": "Andrej",
-    "lastName": "Kramarić",
-    "dateOfBirth": "1991-06-19",
-    "nationality": "Croatia",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
-   },
-   "team": {
-    "id": 2,
-    "name": "TSG 1899 Hoffenheim",
-    "shortName": "Hoffenheim",
-    "tla": "TSG",
-    "crest": "https://crests.football-data.org/2.png",
-    "address": "Horrenberger Straße 58 Zuzenhausen 74939",
-    "website": "http://www.achtzehn99.de",
-    "founded": 1921,
-    "clubColors": "Blue / White",
-    "venue": "PreZero Arena",
-    "lastUpdated": "2022-02-25T16:49:58Z"
-   },
-   "playedMatches": 34,
-   "goals": 14,
-   "assists": 6,
-   "penalties": 5
-  },
-  {
-   "player": {
-    "id": 56829,
-    "name": "Christoph Baumgartner",
-    "firstName": "Christoph",
-    "lastName": "Baumgartner",
-    "dateOfBirth": "1999-08-01",
-    "nationality": "Austria",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
-   },
-   "team": {
-    "id": 721,
-    "name": "RB Leipzig",
-    "shortName": "RB Leipzig",
-    "tla": "RBL",
-    "crest": "https://crests.football-data.org/721.png",
-    "address": "Neumarkt 29-33 Leipzig 04109",
-    "website": "http://www.dierotenbullen.com",
-    "founded": 2009,
-    "clubColors": "White / Red",
-    "venue": "Red Bull Arena",
-    "lastUpdated": "2022-02-19T09:03:00Z"
-   },
-   "playedMatches": 33,
-   "goals": 13,
-   "assists": 8,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 247659,
-    "name": "Said El Mala",
-    "firstName": "Saïd",
-    "lastName": "El Mala",
-    "dateOfBirth": "2006-08-26",
-    "nationality": "Germany",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-03-31T09:41:39Z"
-   },
-   "team": {
-    "id": 1,
-    "name": "1. FC Köln",
-    "shortName": "1. FC Köln",
-    "tla": "KOE",
-    "crest": "https://crests.football-data.org/1.png",
-    "address": "Franz-Kremer-Allee 1 Köln 50937",
-    "website": "http://www.fc-koeln.de",
-    "founded": 1948,
-    "clubColors": "Red / White",
-    "venue": "RheinEnergieSTADION",
-    "lastUpdated": "2022-02-25T16:49:46Z"
-   },
-   "playedMatches": 34,
-   "goals": 13,
-   "assists": 4,
-   "penalties": 1
-  },
-  {
-   "player": {
-    "id": 82404,
-    "name": "Jonathan Burkardt",
-    "firstName": "Jonathan",
-    "lastName": "Burkardt",
-    "dateOfBirth": "2000-07-11",
-    "nationality": "Germany",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-20T16:51:41Z"
-   },
-   "team": {
-    "id": 19,
-    "name": "Eintracht Frankfurt",
-    "shortName": "Frankfurt",
-    "tla": "SGE",
-    "crest": "https://crests.football-data.org/19.png",
-    "address": "Mörfelder Landstraße 362 Frankfurt am Main 60528",
-    "website": "http://www.eintracht.de",
-    "founded": 1899,
-    "clubColors": "Red / Black",
-    "venue": "Deutsche Bank Park",
-    "lastUpdated": "2024-07-29T17:13:52Z"
-   },
-   "playedMatches": 22,
-   "goals": 13,
-   "assists": 1,
-   "penalties": 4
   }
  ]
 }

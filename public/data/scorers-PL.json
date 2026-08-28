@@ -47,6 +47,68 @@
   },
   {
    "player": {
+    "id": 38101,
+    "name": "Erling Haaland",
+    "firstName": "Erling",
+    "lastName": "Haaland",
+    "dateOfBirth": "2000-07-21",
+    "nationality": "Norway",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 65,
+    "name": "Manchester City FC",
+    "shortName": "Man City",
+    "tla": "MCI",
+    "crest": "https://crests.football-data.org/65.png",
+    "address": "SportCity Manchester M11 3FF",
+    "website": "https://www.mancity.com",
+    "founded": 1880,
+    "clubColors": "Sky Blue / White",
+    "venue": "Etihad Stadium",
+    "lastUpdated": "2022-02-10T19:48:37Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 133242,
+    "name": "Rayan Cherki",
+    "firstName": "Rayan",
+    "lastName": "Cherki",
+    "dateOfBirth": "2003-08-17",
+    "nationality": "France",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": 18,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 65,
+    "name": "Manchester City FC",
+    "shortName": "Man City",
+    "tla": "MCI",
+    "crest": "https://crests.football-data.org/65.png",
+    "address": "SportCity Manchester M11 3FF",
+    "website": "https://www.mancity.com",
+    "founded": 1880,
+    "clubColors": "Sky Blue / White",
+    "venue": "Etihad Stadium",
+    "lastUpdated": "2022-02-10T19:48:37Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": 2,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 171,
     "name": "Kai Havertz",
     "firstName": "Kai",
@@ -256,68 +318,6 @@
     "clubColors": "Red / White",
     "venue": "Stadium of Light",
     "lastUpdated": "2022-02-19T09:12:07Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 4158,
-    "name": "Jack Clarke",
-    "firstName": "Jack",
-    "lastName": "Clarke",
-    "dateOfBirth": "2000-11-23",
-    "nationality": "England",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-15T09:25:44Z"
-   },
-   "team": {
-    "id": 349,
-    "name": "Ipswich Town FC",
-    "shortName": "Ipswich Town",
-    "tla": "IPS",
-    "crest": "https://crests.football-data.org/349.png",
-    "address": "Portman Road Ipswich IP1 2DA",
-    "website": "http://www.itfc.co.uk",
-    "founded": 1887,
-    "clubColors": "Blue / White",
-    "venue": "Portman Road Stadium",
-    "lastUpdated": "2022-10-28T10:50:05Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 65843,
-    "name": "Anton Stach",
-    "firstName": "Anton",
-    "lastName": "Stach",
-    "dateOfBirth": "1998-11-15",
-    "nationality": "Germany",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-15T09:25:44Z"
-   },
-   "team": {
-    "id": 341,
-    "name": "Leeds United FC",
-    "shortName": "Leeds United",
-    "tla": "LEE",
-    "crest": "https://crests.football-data.org/341.png",
-    "address": "Elland Road Leeds LS11 0ES",
-    "website": "http://www.leedsunited.com",
-    "founded": 1904,
-    "clubColors": "White / Blue",
-    "venue": "Elland Road",
-    "lastUpdated": "2022-02-10T19:27:14Z"
    },
    "playedMatches": 1,
    "goals": 1,
