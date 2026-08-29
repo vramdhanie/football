@@ -109,6 +109,37 @@
   },
   {
    "player": {
+    "id": 265516,
+    "name": "Yassir Zabiri",
+    "firstName": "Yassir",
+    "lastName": "Zabiri",
+    "dateOfBirth": "2005-02-23",
+    "nationality": "Morocco",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:39Z"
+   },
+   "team": {
+    "id": 5335,
+    "name": "Real Racing Club de Santander",
+    "shortName": "Santander",
+    "tla": "SAN",
+    "crest": "https://crests.football-data.org/5335.png",
+    "address": "Calle Real Racing Club, s/n Santander 39005",
+    "website": "http://www.realracingclub.com",
+    "founded": 1913,
+    "clubColors": "White / Black / Green",
+    "venue": "Campos de Sport de El Sardinero",
+    "lastUpdated": "2023-04-28T08:38:16Z"
+   },
+   "playedMatches": 3,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 8474,
     "name": "Mariano Díaz",
     "firstName": "Mariano",
@@ -133,7 +164,7 @@
     "venue": "Estadio de Mendizorroza",
     "lastUpdated": "2022-02-19T08:23:45Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 2,
    "assists": 2,
    "penalties": null
@@ -226,7 +257,7 @@
     "venue": "Estadio de Mendizorroza",
     "lastUpdated": "2022-02-19T08:23:45Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 1,
    "assists": null,
    "penalties": null
@@ -257,7 +288,7 @@
     "venue": "Estadio de Mendizorroza",
     "lastUpdated": "2022-02-19T08:23:45Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 1,
    "assists": null,
    "penalties": null
@@ -292,37 +323,6 @@
    "goals": 1,
    "assists": null,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 33092,
-    "name": "Jon Guridi",
-    "firstName": "",
-    "lastName": "Jon Guridi",
-    "dateOfBirth": "1995-02-28",
-    "nationality": "Spain",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-09T17:00:06Z"
-   },
-   "team": {
-    "id": 559,
-    "name": "Sevilla FC",
-    "shortName": "Sevilla FC",
-    "tla": "SEV",
-    "crest": "https://crests.football-data.org/559.png",
-    "address": "Calle Sevilla Fútbol Club, s/n Sevilla 41005",
-    "website": "http://www.sevillafc.es",
-    "founded": 1905,
-    "clubColors": "White / Red",
-    "venue": "Estadio Ramón Sánchez Pizjuán",
-    "lastUpdated": "2024-07-29T17:09:57Z"
-   },
-   "playedMatches": 2,
-   "goals": 1,
-   "assists": null,
-   "penalties": 1
   }
  ]
 }
