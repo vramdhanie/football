@@ -29,6 +29,13 @@
    "code": "TDC",
    "type": "CUP",
    "emblem": null
+  },
+  {
+   "id": 2001,
+   "name": "UEFA Champions League",
+   "code": "CL",
+   "type": "CUP",
+   "emblem": "https://crests.football-data.org/CL.png"
   }
  ],
  "coach": {

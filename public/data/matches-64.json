@@ -291,7 +291,7 @@
    "matchday": 1,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 67,
     "name": "Newcastle United FC",
@@ -353,11 +353,11 @@
    },
    "id": 560552,
    "utcDate": "2026-08-29T11:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 2,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T15:28:50Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -373,21 +373,28 @@
     "crest": "https://crests.football-data.org/351.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 213813,
+     "name": "Sam Barrott",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -416,7 +423,7 @@
    "matchday": 3,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 349,
     "name": "Ipswich Town FC",
@@ -430,6 +437,65 @@
     "shortName": "Liverpool",
     "tla": "LIV",
     "crest": "https://crests.football-data.org/64.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575331,
+   "utcDate": "2026-09-09T19:00:00Z",
+   "status": "TIMED",
+   "matchday": 1,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:04:56Z",
+   "homeTeam": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png"
+   },
+   "awayTeam": {
+    "id": 78,
+    "name": "Club Atlético de Madrid",
+    "shortName": "Atleti",
+    "tla": "ATL",
+    "crest": "https://crests.football-data.org/78.png"
    },
    "score": {
     "winner": null,
@@ -475,7 +541,7 @@
    "matchday": 4,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -534,7 +600,7 @@
    "matchday": 5,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 1044,
     "name": "AFC Bournemouth",
@@ -593,7 +659,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -607,6 +673,65 @@
     "shortName": "Man City",
     "tla": "MCI",
     "crest": "https://crests.football-data.org/65.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575350,
+   "utcDate": "2026-10-14T16:45:00Z",
+   "status": "TIMED",
+   "matchday": 2,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:04:58Z",
+   "homeTeam": {
+    "id": 2016,
+    "name": "LASK Linz",
+    "shortName": "LASK",
+    "tla": "LIN",
+    "crest": "https://crests.football-data.org/2016.png"
+   },
+   "awayTeam": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png"
    },
    "score": {
     "winner": null,
@@ -652,7 +777,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 402,
     "name": "Brentford FC",
@@ -666,6 +791,65 @@
     "shortName": "Liverpool",
     "tla": "LIV",
     "crest": "https://crests.football-data.org/64.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575363,
+   "utcDate": "2026-10-20T19:00:00Z",
+   "status": "TIMED",
+   "matchday": 3,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:04:58Z",
+   "homeTeam": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png"
+   },
+   "awayTeam": {
+    "id": 94,
+    "name": "Villarreal CF",
+    "shortName": "Villarreal",
+    "tla": "VIL",
+    "crest": "https://crests.football-data.org/94.png"
    },
    "score": {
     "winner": null,
@@ -711,7 +895,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -770,7 +954,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -784,6 +968,65 @@
     "shortName": "Arsenal",
     "tla": "ARS",
     "crest": "https://crests.football-data.org/57.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575387,
+   "utcDate": "2026-11-04T17:45:00Z",
+   "status": "TIMED",
+   "matchday": 4,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:05:00Z",
+   "homeTeam": {
+    "id": 613,
+    "name": "Fenerbahçe SK",
+    "shortName": "Fenerbahçe",
+    "tla": "FEN",
+    "crest": "https://crests.football-data.org/613.png"
+   },
+   "awayTeam": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png"
    },
    "score": {
     "winner": null,
@@ -829,7 +1072,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 354,
     "name": "Crystal Palace FC",
@@ -888,7 +1131,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -902,6 +1145,65 @@
     "shortName": "Man United",
     "tla": "MUN",
     "crest": "https://crests.football-data.org/66.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575409,
+   "utcDate": "2026-11-25T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 5,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:05:03Z",
+   "homeTeam": {
+    "id": 851,
+    "name": "Club Brugge KV",
+    "shortName": "Club Brugge",
+    "tla": "BRU",
+    "crest": "https://crests.football-data.org/851.png"
+   },
+   "awayTeam": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png"
    },
    "score": {
     "winner": null,
@@ -947,7 +1249,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 62,
     "name": "Everton FC",
@@ -1006,7 +1308,7 @@
    "matchday": 13,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -1065,7 +1367,7 @@
    "matchday": 14,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -1079,6 +1381,65 @@
     "shortName": "Liverpool",
     "tla": "LIV",
     "crest": "https://crests.football-data.org/64.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575295,
+   "utcDate": "2026-12-09T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 6,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:14:49Z",
+   "homeTeam": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png"
+   },
+   "awayTeam": {
+    "id": 503,
+    "name": "FC Porto",
+    "shortName": "Porto",
+    "tla": "FCP",
+    "crest": "https://crests.football-data.org/503.png"
    },
    "score": {
     "winner": null,
@@ -1124,7 +1485,7 @@
    "matchday": 15,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -1183,7 +1544,7 @@
    "matchday": 16,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -1242,7 +1603,7 @@
    "matchday": 17,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 322,
     "name": "Hull City AFC",
@@ -1301,7 +1662,7 @@
    "matchday": 18,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 58,
     "name": "Aston Villa FC",
@@ -1360,7 +1721,7 @@
    "matchday": 19,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -1419,7 +1780,7 @@
    "matchday": 20,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 71,
     "name": "Sunderland AFC",
@@ -1478,7 +1839,7 @@
    "matchday": 21,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -1492,6 +1853,65 @@
     "shortName": "Crystal Palace",
     "tla": "CRY",
     "crest": "https://crests.football-data.org/354.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575285,
+   "utcDate": "2027-01-19T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 7,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:14:49Z",
+   "homeTeam": {
+    "id": 108,
+    "name": "FC Internazionale Milano",
+    "shortName": "Inter",
+    "tla": "INT",
+    "crest": "https://crests.football-data.org/108.png"
+   },
+   "awayTeam": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png"
    },
    "score": {
     "winner": null,
@@ -1537,7 +1957,7 @@
    "matchday": 22,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1551,6 +1971,65 @@
     "shortName": "Liverpool",
     "tla": "LIV",
     "crest": "https://crests.football-data.org/64.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575296,
+   "utcDate": "2027-01-27T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 8,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:42:42Z",
+   "homeTeam": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png"
+   },
+   "awayTeam": {
+    "id": 546,
+    "name": "Racing Club de Lens",
+    "shortName": "RC Lens",
+    "tla": "RCL",
+    "crest": "https://crests.football-data.org/546.png"
    },
    "score": {
     "winner": null,
@@ -1596,7 +2075,7 @@
    "matchday": 23,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -1655,7 +2134,7 @@
    "matchday": 24,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 57,
     "name": "Arsenal FC",
@@ -1714,7 +2193,7 @@
    "matchday": 25,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 1076,
     "name": "Coventry City FC",
@@ -1773,7 +2252,7 @@
    "matchday": 26,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -1832,7 +2311,7 @@
    "matchday": 27,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 73,
     "name": "Tottenham Hotspur FC",
@@ -1891,7 +2370,7 @@
    "matchday": 28,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -1950,7 +2429,7 @@
    "matchday": 29,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -2009,7 +2488,7 @@
    "matchday": 30,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 63,
     "name": "Fulham FC",
@@ -2068,7 +2547,7 @@
    "matchday": 31,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -2127,7 +2606,7 @@
    "matchday": 32,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 351,
     "name": "Nottingham Forest FC",
@@ -2186,7 +2665,7 @@
    "matchday": 33,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 341,
     "name": "Leeds United FC",

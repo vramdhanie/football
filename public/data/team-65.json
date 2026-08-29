@@ -29,6 +29,13 @@
    "code": "PL",
    "type": "LEAGUE",
    "emblem": "https://crests.football-data.org/PL.png"
+  },
+  {
+   "id": 2001,
+   "name": "UEFA Champions League",
+   "code": "CL",
+   "type": "CUP",
+   "emblem": "https://crests.football-data.org/CL.png"
   }
  ],
  "coach": {

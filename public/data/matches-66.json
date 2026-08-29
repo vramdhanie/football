@@ -291,7 +291,7 @@
    "matchday": 1,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 322,
     "name": "Hull City AFC",
@@ -357,7 +357,7 @@
    "matchday": 2,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -416,7 +416,7 @@
    "matchday": 3,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 62,
     "name": "Everton FC",
@@ -430,6 +430,65 @@
     "shortName": "Man United",
     "tla": "MUN",
     "crest": "https://crests.football-data.org/66.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575338,
+   "utcDate": "2026-09-10T19:00:00Z",
+   "status": "TIMED",
+   "matchday": 1,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:04:57Z",
+   "homeTeam": {
+    "id": 66,
+    "name": "Manchester United FC",
+    "shortName": "Man United",
+    "tla": "MUN",
+    "crest": "https://crests.football-data.org/66.png"
+   },
+   "awayTeam": {
+    "id": 10233,
+    "name": "Sabah FK",
+    "shortName": "Sabah FK",
+    "tla": "SAB",
+    "crest": "https://crests.football-data.org/10233.png"
    },
    "score": {
     "winner": null,
@@ -475,7 +534,7 @@
    "matchday": 4,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -534,7 +593,7 @@
    "matchday": 5,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 63,
     "name": "Fulham FC",
@@ -593,7 +652,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -607,6 +666,65 @@
     "shortName": "Tottenham",
     "tla": "TOT",
     "crest": "https://crests.football-data.org/73.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575345,
+   "utcDate": "2026-10-13T19:00:00Z",
+   "status": "TIMED",
+   "matchday": 2,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:04:57Z",
+   "homeTeam": {
+    "id": 78,
+    "name": "Club Atlético de Madrid",
+    "shortName": "Atleti",
+    "tla": "ATL",
+    "crest": "https://crests.football-data.org/78.png"
+   },
+   "awayTeam": {
+    "id": 66,
+    "name": "Manchester United FC",
+    "shortName": "Man United",
+    "tla": "MUN",
+    "crest": "https://crests.football-data.org/66.png"
    },
    "score": {
     "winner": null,
@@ -652,13 +770,72 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 341,
     "name": "Leeds United FC",
     "shortName": "Leeds United",
     "tla": "LEE",
     "crest": "https://crests.football-data.org/341.png"
+   },
+   "awayTeam": {
+    "id": 66,
+    "name": "Manchester United FC",
+    "shortName": "Man United",
+    "tla": "MUN",
+    "crest": "https://crests.football-data.org/66.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575368,
+   "utcDate": "2026-10-21T16:45:00Z",
+   "status": "TIMED",
+   "matchday": 3,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:04:59Z",
+   "homeTeam": {
+    "id": 7397,
+    "name": "Como 1907",
+    "shortName": "Como 1907",
+    "tla": "COM",
+    "crest": "https://crests.football-data.org/7397.png"
    },
    "awayTeam": {
     "id": 66,
@@ -711,7 +888,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -770,7 +947,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -784,6 +961,65 @@
     "shortName": "Man United",
     "tla": "MUN",
     "crest": "https://crests.football-data.org/66.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575383,
+   "utcDate": "2026-11-03T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 4,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:05:00Z",
+   "homeTeam": {
+    "id": 66,
+    "name": "Manchester United FC",
+    "shortName": "Man United",
+    "tla": "MUN",
+    "crest": "https://crests.football-data.org/66.png"
+   },
+   "awayTeam": {
+    "id": 100,
+    "name": "AS Roma",
+    "shortName": "Roma",
+    "tla": "ROM",
+    "crest": "https://crests.football-data.org/100.png"
    },
    "score": {
     "winner": null,
@@ -829,7 +1065,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -888,13 +1124,72 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
     "shortName": "Liverpool",
     "tla": "LIV",
     "crest": "https://crests.football-data.org/64.png"
+   },
+   "awayTeam": {
+    "id": 66,
+    "name": "Manchester United FC",
+    "shortName": "Man United",
+    "tla": "MUN",
+    "crest": "https://crests.football-data.org/66.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575411,
+   "utcDate": "2026-11-25T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 5,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:05:03Z",
+   "homeTeam": {
+    "id": 498,
+    "name": "Sporting Clube de Portugal",
+    "shortName": "Sporting CP",
+    "tla": "SPO",
+    "crest": "https://crests.football-data.org/498.png"
    },
    "awayTeam": {
     "id": 66,
@@ -947,7 +1242,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1006,7 +1301,7 @@
    "matchday": 13,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 67,
     "name": "Newcastle United FC",
@@ -1065,7 +1360,7 @@
    "matchday": 14,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1079,6 +1374,65 @@
     "shortName": "Coventry City",
     "tla": "COV",
     "crest": "https://crests.football-data.org/1076.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575420,
+   "utcDate": "2026-12-08T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 6,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:05:04Z",
+   "homeTeam": {
+    "id": 66,
+    "name": "Manchester United FC",
+    "shortName": "Man United",
+    "tla": "MUN",
+    "crest": "https://crests.football-data.org/66.png"
+   },
+   "awayTeam": {
+    "id": 721,
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL",
+    "crest": "https://crests.football-data.org/721.png"
    },
    "score": {
     "winner": null,
@@ -1124,7 +1478,7 @@
    "matchday": 15,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:35Z",
    "homeTeam": {
     "id": 354,
     "name": "Crystal Palace FC",
@@ -1183,7 +1537,7 @@
    "matchday": 16,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 57,
     "name": "Arsenal FC",
@@ -1242,7 +1596,7 @@
    "matchday": 17,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1301,7 +1655,7 @@
    "matchday": 18,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1360,7 +1714,7 @@
    "matchday": 19,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 397,
     "name": "Brighton & Hove Albion FC",
@@ -1419,7 +1773,7 @@
    "matchday": 20,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1478,7 +1832,7 @@
    "matchday": 21,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 58,
     "name": "Aston Villa FC",
@@ -1492,6 +1846,65 @@
     "shortName": "Man United",
     "tla": "MUN",
     "crest": "https://crests.football-data.org/66.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575300,
+   "utcDate": "2027-01-20T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 7,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:14:49Z",
+   "homeTeam": {
+    "id": 66,
+    "name": "Manchester United FC",
+    "shortName": "Man United",
+    "tla": "MUN",
+    "crest": "https://crests.football-data.org/66.png"
+   },
+   "awayTeam": {
+    "id": 5,
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/5.png"
    },
    "score": {
     "winner": null,
@@ -1537,7 +1950,7 @@
    "matchday": 22,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1551,6 +1964,65 @@
     "shortName": "Liverpool",
     "tla": "LIV",
     "crest": "https://crests.football-data.org/64.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2077,
+    "name": "Europe",
+    "code": "EUR",
+    "flag": "https://crests.football-data.org/EUR.svg"
+   },
+   "competition": {
+    "id": 2001,
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png"
+   },
+   "season": {
+    "id": 2557,
+    "startDate": "2026-09-08",
+    "endDate": "2027-01-27",
+    "currentMatchday": 1,
+    "winner": null
+   },
+   "id": 575310,
+   "utcDate": "2027-01-27T20:00:00Z",
+   "status": "TIMED",
+   "matchday": 8,
+   "stage": "LEAGUE_STAGE",
+   "group": null,
+   "lastUpdated": "2026-08-29T14:42:42Z",
+   "homeTeam": {
+    "id": 94,
+    "name": "Villarreal CF",
+    "shortName": "Villarreal",
+    "tla": "VIL",
+    "crest": "https://crests.football-data.org/94.png"
+   },
+   "awayTeam": {
+    "id": 66,
+    "name": "Manchester United FC",
+    "shortName": "Man United",
+    "tla": "MUN",
+    "crest": "https://crests.football-data.org/66.png"
    },
    "score": {
     "winner": null,
@@ -1596,7 +2068,7 @@
    "matchday": 23,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 402,
     "name": "Brentford FC",
@@ -1655,7 +2127,7 @@
    "matchday": 24,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1714,7 +2186,7 @@
    "matchday": 25,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1773,7 +2245,7 @@
    "matchday": 26,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 351,
     "name": "Nottingham Forest FC",
@@ -1832,7 +2304,7 @@
    "matchday": 27,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1891,7 +2363,7 @@
    "matchday": 28,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 71,
     "name": "Sunderland AFC",
@@ -1950,7 +2422,7 @@
    "matchday": 29,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -2009,7 +2481,7 @@
    "matchday": 30,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 65,
     "name": "Manchester City FC",
@@ -2068,7 +2540,7 @@
    "matchday": 31,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -2127,7 +2599,7 @@
    "matchday": 32,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 349,
     "name": "Ipswich Town FC",
@@ -2186,7 +2658,7 @@
    "matchday": 33,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-08-29T05:20:36Z",
+   "lastUpdated": "2026-08-29T10:20:36Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",

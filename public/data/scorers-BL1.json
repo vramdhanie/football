@@ -16,6 +16,68 @@
  "scorers": [
   {
    "player": {
+    "id": 192207,
+    "name": "Younes Ebnoutalib",
+    "firstName": "Younes",
+    "lastName": "Ebnoutalib",
+    "dateOfBirth": "2003-09-13",
+    "nationality": "Germany",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2023-05-01T19:39:32Z"
+   },
+   "team": {
+    "id": 19,
+    "name": "Eintracht Frankfurt",
+    "shortName": "Frankfurt",
+    "tla": "SGE",
+    "crest": "https://crests.football-data.org/19.png",
+    "address": "Mörfelder Landstraße 362 Frankfurt am Main 60528",
+    "website": "http://www.eintracht.de",
+    "founded": 1899,
+    "clubColors": "Red / Black",
+    "venue": "Deutsche Bank Park",
+    "lastUpdated": "2024-07-29T17:13:52Z"
+   },
+   "playedMatches": 1,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 9848,
+    "name": "Thijs Dallinga",
+    "firstName": "Thijs",
+    "lastName": "Dallinga",
+    "dateOfBirth": "2000-08-03",
+    "nationality": "Netherlands",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-21T10:30:03Z"
+   },
+   "team": {
+    "id": 1,
+    "name": "1. FC Köln",
+    "shortName": "1. FC Köln",
+    "tla": "KOE",
+    "crest": "https://crests.football-data.org/1.png",
+    "address": "Franz-Kremer-Allee 1 Köln 50937",
+    "website": "http://www.fc-koeln.de",
+    "founded": 1948,
+    "clubColors": "Red / White",
+    "venue": "RheinEnergieSTADION",
+    "lastUpdated": "2022-02-25T16:49:46Z"
+   },
+   "playedMatches": 1,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 9541,
     "name": "Dayot Upamecano",
     "firstName": "Dayot",
@@ -163,6 +225,99 @@
     "clubColors": "Red / White / Blue",
     "venue": "Allianz Arena",
     "lastUpdated": "2024-07-09T17:26:37Z"
+   },
+   "playedMatches": 1,
+   "goals": 1,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 6634,
+    "name": "Ridle Baku",
+    "firstName": "Ridle",
+    "lastName": "Baku",
+    "dateOfBirth": "1998-04-08",
+    "nationality": "Germany",
+    "section": "Defence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-20T16:51:41Z"
+   },
+   "team": {
+    "id": 721,
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL",
+    "crest": "https://crests.football-data.org/721.png",
+    "address": "Neumarkt 29-33 Leipzig 04109",
+    "website": "http://www.dierotenbullen.com",
+    "founded": 2009,
+    "clubColors": "White / Red",
+    "venue": "Red Bull Arena",
+    "lastUpdated": "2022-02-19T09:03:00Z"
+   },
+   "playedMatches": 1,
+   "goals": 1,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 169295,
+    "name": "Antonio Nusa",
+    "firstName": "Antonio",
+    "lastName": "Nusa",
+    "dateOfBirth": "2005-04-17",
+    "nationality": "Norway",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-20T16:51:41Z"
+   },
+   "team": {
+    "id": 721,
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL",
+    "crest": "https://crests.football-data.org/721.png",
+    "address": "Neumarkt 29-33 Leipzig 04109",
+    "website": "http://www.dierotenbullen.com",
+    "founded": 2009,
+    "clubColors": "White / Red",
+    "venue": "Red Bull Arena",
+    "lastUpdated": "2022-02-19T09:03:00Z"
+   },
+   "playedMatches": 1,
+   "goals": 1,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 150517,
+    "name": "Rocco Reitz",
+    "firstName": "Rocco",
+    "lastName": "Reitz",
+    "dateOfBirth": "2002-05-29",
+    "nationality": "Germany",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-20T16:51:41Z"
+   },
+   "team": {
+    "id": 721,
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL",
+    "crest": "https://crests.football-data.org/721.png",
+    "address": "Neumarkt 29-33 Leipzig 04109",
+    "website": "http://www.dierotenbullen.com",
+    "founded": 2009,
+    "clubColors": "White / Red",
+    "venue": "Red Bull Arena",
+    "lastUpdated": "2022-02-19T09:03:00Z"
    },
    "playedMatches": 1,
    "goals": 1,
