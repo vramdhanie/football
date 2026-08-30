@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 3370,
+    "name": "Florian Thauvin",
+    "firstName": "Florian",
+    "lastName": "Thauvin",
+    "dateOfBirth": "1993-01-26",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": 26,
+    "lastUpdated": "2025-02-18T17:35:56Z"
+   },
+   "team": {
+    "id": 546,
+    "name": "Racing Club de Lens",
+    "shortName": "RC Lens",
+    "tla": "RCL",
+    "crest": "https://crests.football-data.org/546.png",
+    "address": "33 rue Arthur Lamendin Avion 62210",
+    "website": "http://www.rclens.fr",
+    "founded": 1906,
+    "clubColors": "Red / Yellow",
+    "venue": "Stade Bollaert-Delelis",
+    "lastUpdated": "2026-01-19T12:05:38Z"
+   },
+   "playedMatches": 2,
+   "goals": 3,
+   "assists": 1,
+   "penalties": 3
+  },
+  {
+   "player": {
     "id": 8476,
     "name": "Amine Gouiri",
     "firstName": "Amine",
@@ -47,34 +78,34 @@
   },
   {
    "player": {
-    "id": 3370,
-    "name": "Florian Thauvin",
-    "firstName": "Florian",
-    "lastName": "Thauvin",
-    "dateOfBirth": "1993-01-26",
-    "nationality": "France",
-    "section": "Offence",
+    "id": 175942,
+    "name": "Kamory Doumbia",
+    "firstName": "Kamory",
+    "lastName": "Doumbia",
+    "dateOfBirth": "2003-02-18",
+    "nationality": "Mali",
+    "section": "Midfield",
     "position": null,
-    "shirtNumber": 26,
-    "lastUpdated": "2025-02-18T17:35:56Z"
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:39Z"
    },
    "team": {
-    "id": 546,
-    "name": "Racing Club de Lens",
-    "shortName": "RC Lens",
-    "tla": "RCL",
-    "crest": "https://crests.football-data.org/546.png",
-    "address": "33 rue Arthur Lamendin Avion 62210",
-    "website": "http://www.rclens.fr",
-    "founded": 1906,
-    "clubColors": "Red / Yellow",
-    "venue": "Stade Bollaert-Delelis",
-    "lastUpdated": "2026-01-19T12:05:38Z"
+    "id": 512,
+    "name": "Stade Brestois 29",
+    "shortName": "Brest",
+    "tla": "BRE",
+    "crest": "https://crests.football-data.org/512.png",
+    "address": "Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
+    "website": "http://www.stade-brestois.com",
+    "founded": 1903,
+    "clubColors": "White / Red",
+    "venue": "Stade Francis-Le Blé",
+    "lastUpdated": "2026-07-04T12:08:19Z"
    },
    "playedMatches": 2,
    "goals": 2,
    "assists": 1,
-   "penalties": 2
+   "penalties": null
   },
   {
    "player": {
@@ -101,6 +132,37 @@
     "clubColors": "Red / Blue / White",
     "venue": "Parc des Princes",
     "lastUpdated": "2022-02-10T19:07:11Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 245336,
+    "name": "Gessime Yassine",
+    "firstName": "Gessime",
+    "lastName": "Yassine",
+    "dateOfBirth": "2005-11-22",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-06T13:59:57Z"
+   },
+   "team": {
+    "id": 576,
+    "name": "RC Strasbourg Alsace",
+    "shortName": "Strasbourg",
+    "tla": "RC ",
+    "crest": "https://crests.football-data.org/576.png",
+    "address": "12 Rue Extenwoerth Strasbourg 67000",
+    "website": "http://www.rcstrasbourgalsace.fr",
+    "founded": 1906,
+    "clubColors": "Blue / White",
+    "venue": "Stade de la Meinau",
+    "lastUpdated": "2022-02-19T08:40:46Z"
    },
    "playedMatches": 2,
    "goals": 2,
@@ -257,72 +319,10 @@
     "venue": "Stade de l'Abbé Deschamps",
     "lastUpdated": "2022-07-26T18:03:55Z"
    },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": 1
-  },
-  {
-   "player": {
-    "id": 188468,
-    "name": "Pierre Ganiou",
-    "firstName": "Pierre-Ismaëlo",
-    "lastName": "Ganiou",
-    "dateOfBirth": "2005-03-14",
-    "nationality": "France",
-    "section": "Defence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-27T19:57:39Z"
-   },
-   "team": {
-    "id": 546,
-    "name": "Racing Club de Lens",
-    "shortName": "RC Lens",
-    "tla": "RCL",
-    "crest": "https://crests.football-data.org/546.png",
-    "address": "33 rue Arthur Lamendin Avion 62210",
-    "website": "http://www.rclens.fr",
-    "founded": 1906,
-    "clubColors": "Red / Yellow",
-    "venue": "Stade Bollaert-Delelis",
-    "lastUpdated": "2026-01-19T12:05:38Z"
-   },
    "playedMatches": 2,
    "goals": 1,
    "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 177412,
-    "name": "Lamine Sy",
-    "firstName": "Lamine",
-    "lastName": "Sy",
-    "dateOfBirth": "2002-08-10",
-    "nationality": "France",
-    "section": "Defence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-27T19:57:39Z"
-   },
-   "team": {
-    "id": 519,
-    "name": "AJ Auxerre",
-    "shortName": "Auxerre",
-    "tla": "AJA",
-    "crest": "https://crests.football-data.org/519.png",
-    "address": "Route de Vaux BP 349 Auxerre 89006",
-    "website": "http://www.aja.fr",
-    "founded": 1905,
-    "clubColors": "White / Blue",
-    "venue": "Stade de l'Abbé Deschamps",
-    "lastUpdated": "2022-07-26T18:03:55Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
+   "penalties": 1
   }
  ]
 }

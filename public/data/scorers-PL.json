@@ -47,6 +47,37 @@
   },
   {
    "player": {
+    "id": 166376,
+    "name": "Anthony Elanga",
+    "firstName": "Anthony",
+    "lastName": "Elanga",
+    "dateOfBirth": "2002-04-27",
+    "nationality": "Sweden",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:31Z"
+   },
+   "team": {
+    "id": 67,
+    "name": "Newcastle United FC",
+    "shortName": "Newcastle",
+    "tla": "NEW",
+    "crest": "https://crests.football-data.org/67.png",
+    "address": "Sports Direct Arena Newcastle upon Tyne NE1 4ST",
+    "website": "http://www.nufc.co.uk",
+    "founded": 1881,
+    "clubColors": "Black / White",
+    "venue": "St. James' Park",
+    "lastUpdated": "2022-09-28T18:51:07Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 38101,
     "name": "Erling Haaland",
     "firstName": "Erling",
@@ -287,37 +318,6 @@
     "clubColors": "Blue / White",
     "venue": "Portman Road Stadium",
     "lastUpdated": "2022-10-28T10:50:05Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 187375,
-    "name": "Nilson Angulo",
-    "firstName": "Nilson",
-    "lastName": "Angulo",
-    "dateOfBirth": "2003-06-19",
-    "nationality": "Ecuador",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-03T10:05:04Z"
-   },
-   "team": {
-    "id": 71,
-    "name": "Sunderland AFC",
-    "shortName": "Sunderland",
-    "tla": "SUN",
-    "crest": "https://crests.football-data.org/71.png",
-    "address": "The Sunderland Stadium of Light Sunderland SR5 1SU",
-    "website": "http://www.safc.com",
-    "founded": 1879,
-    "clubColors": "Red / White",
-    "venue": "Stadium of Light",
-    "lastUpdated": "2022-02-19T09:12:07Z"
    },
    "playedMatches": 1,
    "goals": 1,

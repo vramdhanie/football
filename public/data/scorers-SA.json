@@ -71,8 +71,70 @@
     "venue": "Dacia Arena",
     "lastUpdated": "2022-02-24T07:45:52Z"
    },
-   "playedMatches": 1,
-   "goals": 1,
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 252836,
+    "name": "Gustavo Varela",
+    "firstName": "",
+    "lastName": "Gustavo Varela",
+    "dateOfBirth": "2005-01-30",
+    "nationality": "Portugal",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2024-12-26T09:46:01Z"
+   },
+   "team": {
+    "id": 5911,
+    "name": "AC Monza",
+    "shortName": "Monza",
+    "tla": "MON",
+    "crest": "https://crests.football-data.org/5911.png",
+    "address": "Via Ragazzi del '99, 14 Monza 20900",
+    "website": "http://www.monza1912.it",
+    "founded": 1912,
+    "clubColors": "Red / White",
+    "venue": "Stadio Comunale Brianteo",
+    "lastUpdated": "2025-02-17T16:54:02Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 169216,
+    "name": "Antonio Raimondo",
+    "firstName": "Antonio",
+    "lastName": "Raimondo",
+    "dateOfBirth": "2004-03-18",
+    "nationality": "Italy",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:15Z"
+   },
+   "team": {
+    "id": 470,
+    "name": "Frosinone Calcio",
+    "shortName": "Frosinone",
+    "tla": "FRO",
+    "crest": "https://crests.football-data.org/470.png",
+    "address": "Via Marittima, 2 Frosinone 03100",
+    "website": "http://www.frosinonecalcio.com",
+    "founded": 1912,
+    "clubColors": "Yellow / Blue",
+    "venue": "Stadio Benito Stirpe",
+    "lastUpdated": "2022-03-20T17:51:41Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
    "assists": null,
    "penalties": null
   },
@@ -132,37 +194,6 @@
     "clubColors": "Blue / Black",
     "venue": "Stadio Giuseppe Meazza",
     "lastUpdated": "2021-11-24T14:55:58Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 252836,
-    "name": "Gustavo Varela",
-    "firstName": "",
-    "lastName": "Gustavo Varela",
-    "dateOfBirth": "2005-01-30",
-    "nationality": "Portugal",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2024-12-26T09:46:01Z"
-   },
-   "team": {
-    "id": 5911,
-    "name": "AC Monza",
-    "shortName": "Monza",
-    "tla": "MON",
-    "crest": "https://crests.football-data.org/5911.png",
-    "address": "Via Ragazzi del '99, 14 Monza 20900",
-    "website": "http://www.monza1912.it",
-    "founded": 1912,
-    "clubColors": "Red / White",
-    "venue": "Stadio Comunale Brianteo",
-    "lastUpdated": "2025-02-17T16:54:02Z"
    },
    "playedMatches": 1,
    "goals": 1,
@@ -291,37 +322,6 @@
    "playedMatches": 1,
    "goals": 1,
    "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 176944,
-    "name": "Antonio Vergara",
-    "firstName": "Antonio",
-    "lastName": "Vergara",
-    "dateOfBirth": "2003-01-16",
-    "nationality": "Italy",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2024-12-31T09:48:41Z"
-   },
-   "team": {
-    "id": 113,
-    "name": "SSC Napoli",
-    "shortName": "Napoli",
-    "tla": "NAP",
-    "crest": "https://crests.football-data.org/113.png",
-    "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
-    "website": "http://www.sscnapoli.it",
-    "founded": 1904,
-    "clubColors": "Sky Blue / White",
-    "venue": "Stadio San Paolo",
-    "lastUpdated": "2025-02-17T16:51:11Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
    "penalties": null
   }
  ]
