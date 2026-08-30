@@ -31,6 +31,13 @@
    "emblem": "https://crests.football-data.org/PL.png"
   },
   {
+   "id": 2139,
+   "name": "Football League Cup",
+   "code": "FLC",
+   "type": "CUP",
+   "emblem": "https://crests.football-data.org/carabao.png"
+  },
+  {
    "id": 2001,
    "name": "UEFA Champions League",
    "code": "CL",

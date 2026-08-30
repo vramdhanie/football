@@ -78,6 +78,68 @@
   },
   {
    "player": {
+    "id": 103125,
+    "name": "João Pedro",
+    "firstName": "",
+    "lastName": "João Pedro",
+    "dateOfBirth": "2001-09-26",
+    "nationality": "Brazil",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:25:42Z"
+   },
+   "team": {
+    "id": 61,
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE",
+    "crest": "https://crests.football-data.org/61.png",
+    "address": "Fulham Road London SW6 1HS",
+    "website": "http://www.chelseafc.com",
+    "founded": 1905,
+    "clubColors": "Royal Blue / White",
+    "venue": "Stamford Bridge",
+    "lastUpdated": "2022-02-10T19:24:40Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": 2,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 144892,
+    "name": "Cole Palmer",
+    "firstName": "Cole",
+    "lastName": "Palmer",
+    "dateOfBirth": "2002-05-06",
+    "nationality": "England",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:25:42Z"
+   },
+   "team": {
+    "id": 61,
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE",
+    "crest": "https://crests.football-data.org/61.png",
+    "address": "Fulham Road London SW6 1HS",
+    "website": "http://www.chelseafc.com",
+    "founded": 1905,
+    "clubColors": "Royal Blue / White",
+    "venue": "Stamford Bridge",
+    "lastUpdated": "2022-02-10T19:24:40Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 38101,
     "name": "Erling Haaland",
     "firstName": "Erling",
@@ -258,68 +320,6 @@
     "lastUpdated": "2022-02-22T14:19:00Z"
    },
    "playedMatches": 2,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 190558,
-    "name": "Nobel Mendy",
-    "firstName": "Nobel",
-    "lastName": "Mendy",
-    "dateOfBirth": "2004-08-16",
-    "nationality": "Senegal",
-    "section": "Defence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:31Z"
-   },
-   "team": {
-    "id": 322,
-    "name": "Hull City AFC",
-    "shortName": "Hull City",
-    "tla": "HUL",
-    "crest": "https://crests.football-data.org/322.png",
-    "address": "Walton Street Hull HU3 6HU",
-    "website": "http://www.hullcitytigers.com",
-    "founded": 1904,
-    "clubColors": "Orange / Black",
-    "venue": "Kingston Communications Stadium",
-    "lastUpdated": "2022-02-22T14:19:00Z"
-   },
-   "playedMatches": 2,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 176628,
-    "name": "Emersonn",
-    "firstName": "",
-    "lastName": "Emersonn",
-    "dateOfBirth": "2004-07-16",
-    "nationality": "Brazil",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-05-03T09:42:08Z"
-   },
-   "team": {
-    "id": 349,
-    "name": "Ipswich Town FC",
-    "shortName": "Ipswich Town",
-    "tla": "IPS",
-    "crest": "https://crests.football-data.org/349.png",
-    "address": "Portman Road Ipswich IP1 2DA",
-    "website": "http://www.itfc.co.uk",
-    "founded": 1887,
-    "clubColors": "Blue / White",
-    "venue": "Portman Road Stadium",
-    "lastUpdated": "2022-10-28T10:50:05Z"
-   },
-   "playedMatches": 1,
    "goals": 1,
    "assists": null,
    "penalties": null

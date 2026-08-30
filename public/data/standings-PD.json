@@ -41,6 +41,25 @@
     {
      "position": 2,
      "team": {
+      "id": 86,
+      "name": "Real Madrid CF",
+      "shortName": "Real Madrid",
+      "tla": "RMA",
+      "crest": "https://crests.football-data.org/86.png"
+     },
+     "playedGames": 3,
+     "form": null,
+     "won": 2,
+     "draw": 1,
+     "lost": 0,
+     "points": 7,
+     "goalsFor": 6,
+     "goalsAgainst": 2,
+     "goalDifference": 4
+    },
+    {
+     "position": 3,
+     "team": {
       "id": 263,
       "name": "Deportivo Alavés",
       "shortName": "Alavés",
@@ -58,7 +77,7 @@
      "goalDifference": 4
     },
     {
-     "position": 3,
+     "position": 4,
      "team": {
       "id": 81,
       "name": "FC Barcelona",
@@ -75,25 +94,6 @@
      "goalsFor": 7,
      "goalsAgainst": 0,
      "goalDifference": 7
-    },
-    {
-     "position": 4,
-     "team": {
-      "id": 86,
-      "name": "Real Madrid CF",
-      "shortName": "Real Madrid",
-      "tla": "RMA",
-      "crest": "https://crests.football-data.org/86.png"
-     },
-     "playedGames": 2,
-     "form": null,
-     "won": 2,
-     "draw": 0,
-     "lost": 0,
-     "points": 6,
-     "goalsFor": 6,
-     "goalsAgainst": 2,
-     "goalDifference": 4
     },
     {
      "position": 5,
@@ -288,6 +288,25 @@
     {
      "position": 15,
      "team": {
+      "id": 84,
+      "name": "Málaga CF",
+      "shortName": "Málaga",
+      "tla": "MAL",
+      "crest": "https://crests.football-data.org/84.png"
+     },
+     "playedGames": 3,
+     "form": null,
+     "won": 0,
+     "draw": 2,
+     "lost": 1,
+     "points": 2,
+     "goalsFor": 1,
+     "goalsAgainst": 3,
+     "goalDifference": -2
+    },
+    {
+     "position": 16,
+     "team": {
       "id": 87,
       "name": "Rayo Vallecano de Madrid",
       "shortName": "Rayo Vallecano",
@@ -305,7 +324,7 @@
      "goalDifference": -1
     },
     {
-     "position": 16,
+     "position": 17,
      "team": {
       "id": 558,
       "name": "RC Celta de Vigo",
@@ -324,7 +343,7 @@
      "goalDifference": -1
     },
     {
-     "position": 17,
+     "position": 18,
      "team": {
       "id": 95,
       "name": "Valencia CF",
@@ -341,25 +360,6 @@
      "goalsFor": 0,
      "goalsAgainst": 1,
      "goalDifference": -1
-    },
-    {
-     "position": 18,
-     "team": {
-      "id": 84,
-      "name": "Málaga CF",
-      "shortName": "Málaga",
-      "tla": "MAL",
-      "crest": "https://crests.football-data.org/84.png"
-     },
-     "playedGames": 2,
-     "form": null,
-     "won": 0,
-     "draw": 1,
-     "lost": 1,
-     "points": 1,
-     "goalsFor": 1,
-     "goalsAgainst": 3,
-     "goalDifference": -2
     },
     {
      "position": 19,

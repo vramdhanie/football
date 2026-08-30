@@ -47,6 +47,37 @@
   },
   {
    "player": {
+    "id": 145293,
+    "name": "Yuito Suzuki",
+    "firstName": "Yuito",
+    "lastName": "Suzuki",
+    "dateOfBirth": "2001-10-25",
+    "nationality": "Japan",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": 37,
+    "lastUpdated": "2026-07-20T16:51:42Z"
+   },
+   "team": {
+    "id": 17,
+    "name": "SC Freiburg",
+    "shortName": "Freiburg",
+    "tla": "SCF",
+    "crest": "https://crests.football-data.org/17.png",
+    "address": "Schwarzwaldstraße 193 Freiburg 79117",
+    "website": "http://www.scfreiburg.com",
+    "founded": 1912,
+    "clubColors": "Red / White",
+    "venue": "Schwarzwald-Stadion",
+    "lastUpdated": "2024-07-29T17:13:41Z"
+   },
+   "playedMatches": 1,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 9848,
     "name": "Thijs Dallinga",
     "firstName": "Thijs",
@@ -271,37 +302,6 @@
     "dateOfBirth": "2005-04-17",
     "nationality": "Norway",
     "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-20T16:51:41Z"
-   },
-   "team": {
-    "id": 721,
-    "name": "RB Leipzig",
-    "shortName": "RB Leipzig",
-    "tla": "RBL",
-    "crest": "https://crests.football-data.org/721.png",
-    "address": "Neumarkt 29-33 Leipzig 04109",
-    "website": "http://www.dierotenbullen.com",
-    "founded": 2009,
-    "clubColors": "White / Red",
-    "venue": "Red Bull Arena",
-    "lastUpdated": "2022-02-19T09:03:00Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 150517,
-    "name": "Rocco Reitz",
-    "firstName": "Rocco",
-    "lastName": "Reitz",
-    "dateOfBirth": "2002-05-29",
-    "nationality": "Germany",
-    "section": "Midfield",
     "position": null,
     "shirtNumber": null,
     "lastUpdated": "2026-07-20T16:51:41Z"

@@ -109,6 +109,37 @@
   },
   {
    "player": {
+    "id": 149850,
+    "name": "Esteban Lepaul",
+    "firstName": "Esteban",
+    "lastName": "Lepaul",
+    "dateOfBirth": "2000-04-18",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:39Z"
+   },
+   "team": {
+    "id": 529,
+    "name": "Stade Rennais FC 1901",
+    "shortName": "Stade Rennais",
+    "tla": "REN",
+    "crest": "https://crests.football-data.org/529.png",
+    "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
+    "website": "http://www.staderennais.com",
+    "founded": 1901,
+    "clubColors": "Red / Black",
+    "venue": "Roazhon Park",
+    "lastUpdated": "2022-03-20T11:21:26Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 33154,
     "name": "Ferrán Torres",
     "firstName": "",
@@ -292,37 +323,6 @@
    "goals": 1,
    "assists": null,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 4289,
-    "name": "Daniel Namaso",
-    "firstName": "Danny",
-    "lastName": "Namaso",
-    "dateOfBirth": "2000-08-28",
-    "nationality": "Cameroon",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-03-13T09:42:07Z"
-   },
-   "team": {
-    "id": 519,
-    "name": "AJ Auxerre",
-    "shortName": "Auxerre",
-    "tla": "AJA",
-    "crest": "https://crests.football-data.org/519.png",
-    "address": "Route de Vaux BP 349 Auxerre 89006",
-    "website": "http://www.aja.fr",
-    "founded": 1905,
-    "clubColors": "White / Blue",
-    "venue": "Stade de l'Abbé Deschamps",
-    "lastUpdated": "2022-07-26T18:03:55Z"
-   },
-   "playedMatches": 2,
-   "goals": 1,
-   "assists": null,
-   "penalties": 1
   }
  ]
 }

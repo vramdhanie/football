@@ -164,7 +164,7 @@
     "venue": "Estadio Santiago Bernabéu",
     "lastUpdated": "2022-02-19T08:59:31Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 3,
    "assists": null,
    "penalties": null
@@ -295,33 +295,33 @@
   },
   {
    "player": {
-    "id": 180282,
-    "name": "Brugui",
-    "firstName": "",
-    "lastName": "Roger Brugué",
-    "dateOfBirth": "1996-11-04",
-    "nationality": "Spain",
-    "section": "Offence",
+    "id": 125010,
+    "name": "Jude Bellingham",
+    "firstName": "Jude",
+    "lastName": "Bellingham",
+    "dateOfBirth": "2003-06-29",
+    "nationality": "England",
+    "section": "Midfield",
     "position": null,
     "shirtNumber": null,
-    "lastUpdated": "2024-08-25T09:45:46Z"
+    "lastUpdated": "2026-06-01T11:16:29Z"
    },
    "team": {
-    "id": 88,
-    "name": "Levante UD",
-    "shortName": "Levante",
-    "tla": "LEV",
-    "crest": "https://crests.football-data.org/88.png",
-    "address": "Calle San Vicente de Paúl, 44 Valencia 46019",
-    "website": "http://www.levanteud.com",
-    "founded": 1909,
-    "clubColors": "Crimson / Blue",
-    "venue": "Estadio Ciudad de Valencia",
-    "lastUpdated": "2024-07-29T17:11:36Z"
+    "id": 86,
+    "name": "Real Madrid CF",
+    "shortName": "Real Madrid",
+    "tla": "RMA",
+    "crest": "https://crests.football-data.org/86.png",
+    "address": "Avenida Concha Espina, 1 Madrid 28036",
+    "website": "http://www.realmadrid.com",
+    "founded": 1902,
+    "clubColors": "White / Purple",
+    "venue": "Estadio Santiago Bernabéu",
+    "lastUpdated": "2022-02-19T08:59:31Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 2,
-   "assists": null,
+   "assists": 2,
    "penalties": null
   }
  ]
