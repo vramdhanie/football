@@ -11,6 +11,15 @@
    "photo": null
   },
   {
+   "id": 3548,
+   "name": "Dominik Livaković",
+   "position": "Goalkeeper",
+   "number": null,
+   "age": 31,
+   "nationality": "Croatia",
+   "photo": null
+  },
+  {
    "id": 152506,
    "name": "Joan García",
    "position": "Goalkeeper",
@@ -296,6 +305,15 @@
    "number": null,
    "age": 19,
    "nationality": "Spain",
+   "photo": null
+  },
+  {
+   "id": 274542,
+   "name": "Hamza Abdelkarim",
+   "position": "Offence",
+   "number": null,
+   "age": 18,
+   "nationality": "Egypt",
    "photo": null
   },
   {

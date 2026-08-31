@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 3257,
+    "name": "Bruno Fernandes",
+    "firstName": "",
+    "lastName": "Bruno Fernandes",
+    "dateOfBirth": "1994-09-08",
+    "nationality": "Portugal",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:29Z"
+   },
+   "team": {
+    "id": 66,
+    "name": "Manchester United FC",
+    "shortName": "Man United",
+    "tla": "MUN",
+    "crest": "https://crests.football-data.org/66.png",
+    "address": "Sir Matt Busby Way Manchester M16 0RA",
+    "website": "http://www.manutd.com",
+    "founded": 1878,
+    "clubColors": "Red / White",
+    "venue": "Old Trafford",
+    "lastUpdated": "2022-02-10T19:27:46Z"
+   },
+   "playedMatches": 2,
+   "goals": 3,
+   "assists": 1,
+   "penalties": 1
+  },
+  {
+   "player": {
     "id": 190851,
     "name": "Jack Hinshelwood",
     "firstName": "Jack",
@@ -289,37 +320,6 @@
     "lastUpdated": "2022-02-10T19:48:56Z"
    },
    "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 6451,
-    "name": "Semi Ajayi",
-    "firstName": "Semi",
-    "lastName": "Ajayi",
-    "dateOfBirth": "1993-11-09",
-    "nationality": "Nigeria",
-    "section": "Defence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-15T09:25:44Z"
-   },
-   "team": {
-    "id": 322,
-    "name": "Hull City AFC",
-    "shortName": "Hull City",
-    "tla": "HUL",
-    "crest": "https://crests.football-data.org/322.png",
-    "address": "Walton Street Hull HU3 6HU",
-    "website": "http://www.hullcitytigers.com",
-    "founded": 1904,
-    "clubColors": "Orange / Black",
-    "venue": "Kingston Communications Stadium",
-    "lastUpdated": "2022-02-22T14:19:00Z"
-   },
-   "playedMatches": 2,
    "goals": 1,
    "assists": null,
    "penalties": null

@@ -45,6 +45,13 @@
  },
  "squad": [
   {
+   "id": 3141,
+   "name": "Emiliano Martínez",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1992-09-02",
+   "nationality": "Argentina"
+  },
+  {
    "id": 135555,
    "name": "Robert Sánchez",
    "position": "Goalkeeper",
@@ -255,6 +262,13 @@
    "nationality": "Belgium"
   },
   {
+   "id": 205684,
+   "name": "Ray Paez",
+   "position": "Midfield",
+   "dateOfBirth": "2007-05-04",
+   "nationality": "Ecuador"
+  },
+  {
    "id": 2074,
    "name": "Pedro Neto",
    "position": "Offence",
@@ -337,13 +351,6 @@
    "position": "Offence",
    "dateOfBirth": "2007-04-24",
    "nationality": "Brazil"
-  },
-  {
-   "id": 300099,
-   "name": "Reggie Watson",
-   "position": null,
-   "dateOfBirth": "2010-01-26",
-   "nationality": "England"
   }
  ],
  "staff": [],

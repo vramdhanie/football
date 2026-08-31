@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 3374,
+    "name": "Kylian Mbappé",
+    "firstName": "Kylian",
+    "lastName": "Mbappé",
+    "dateOfBirth": "1998-12-20",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 86,
+    "name": "Real Madrid CF",
+    "shortName": "Real Madrid",
+    "tla": "RMA",
+    "crest": "https://crests.football-data.org/86.png",
+    "address": "Avenida Concha Espina, 1 Madrid 28036",
+    "website": "http://www.realmadrid.com",
+    "founded": 1902,
+    "clubColors": "White / Purple",
+    "venue": "Estadio Santiago Bernabéu",
+    "lastUpdated": "2022-02-19T08:59:31Z"
+   },
+   "playedMatches": 3,
+   "goals": 4,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 180218,
     "name": "Roberto Fernández",
     "firstName": "",
@@ -39,6 +70,37 @@
     "clubColors": "Blue / White",
     "venue": "RCDE Stadium",
     "lastUpdated": "2024-07-29T17:09:12Z"
+   },
+   "playedMatches": 3,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 7801,
+    "name": "Pierre-Emerick Aubameyang",
+    "firstName": "Pierre-Emerick",
+    "lastName": "Aubameyang",
+    "dateOfBirth": "1989-06-18",
+    "nationality": "Gabon",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-09T17:00:06Z"
+   },
+   "team": {
+    "id": 560,
+    "name": "RC Deportivo La Coruña",
+    "shortName": "Deportivo",
+    "tla": "DEP",
+    "crest": "https://crests.football-data.org/560.png",
+    "address": "Plaza de Pontevedra, 19 A Coruña 15003",
+    "website": "http://www.rcdeportivo.es",
+    "founded": 1906,
+    "clubColors": "Blue / White",
+    "venue": "Estadio Abanca-Riazor",
+    "lastUpdated": "2024-07-29T17:11:14Z"
    },
    "playedMatches": 3,
    "goals": 3,
@@ -140,37 +202,6 @@
   },
   {
    "player": {
-    "id": 3374,
-    "name": "Kylian Mbappé",
-    "firstName": "Kylian",
-    "lastName": "Mbappé",
-    "dateOfBirth": "1998-12-20",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 86,
-    "name": "Real Madrid CF",
-    "shortName": "Real Madrid",
-    "tla": "RMA",
-    "crest": "https://crests.football-data.org/86.png",
-    "address": "Avenida Concha Espina, 1 Madrid 28036",
-    "website": "http://www.realmadrid.com",
-    "founded": 1902,
-    "clubColors": "White / Purple",
-    "venue": "Estadio Santiago Bernabéu",
-    "lastUpdated": "2022-02-19T08:59:31Z"
-   },
-   "playedMatches": 3,
-   "goals": 3,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
     "id": 265516,
     "name": "Yassir Zabiri",
     "firstName": "Yassir",
@@ -229,37 +260,6 @@
    "playedMatches": 3,
    "goals": 2,
    "assists": 2,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 7801,
-    "name": "Pierre-Emerick Aubameyang",
-    "firstName": "Pierre-Emerick",
-    "lastName": "Aubameyang",
-    "dateOfBirth": "1989-06-18",
-    "nationality": "Gabon",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-09T17:00:06Z"
-   },
-   "team": {
-    "id": 560,
-    "name": "RC Deportivo La Coruña",
-    "shortName": "Deportivo",
-    "tla": "DEP",
-    "crest": "https://crests.football-data.org/560.png",
-    "address": "Plaza de Pontevedra, 19 A Coruña 15003",
-    "website": "http://www.rcdeportivo.es",
-    "founded": 1906,
-    "clubColors": "Blue / White",
-    "venue": "Estadio Abanca-Riazor",
-    "lastUpdated": "2024-07-29T17:11:14Z"
-   },
-   "playedMatches": 2,
-   "goals": 2,
-   "assists": null,
    "penalties": null
   },
   {

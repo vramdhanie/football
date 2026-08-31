@@ -17,13 +17,6 @@
  "venue": "Etihad Stadium",
  "runningCompetitions": [
   {
-   "id": 2056,
-   "name": "FA Community Shield",
-   "code": "COM",
-   "type": "SUPER_CUP",
-   "emblem": "https://crests.football-data.org/com.png"
-  },
-  {
    "id": 2021,
    "name": "Premier League",
    "code": "PL",
@@ -239,6 +232,13 @@
    "position": "Midfield",
    "dateOfBirth": "2006-01-02",
    "nationality": "Argentina"
+  },
+  {
+   "id": 221819,
+   "name": "Ayyoub Bouaddi",
+   "position": "Midfield",
+   "dateOfBirth": "2007-10-02",
+   "nationality": "France"
   },
   {
    "id": 3895,

@@ -137,15 +137,6 @@
    "photo": null
   },
   {
-   "id": 211559,
-   "name": "Patrick Dorgu",
-   "position": "Defence",
-   "number": null,
-   "age": 21,
-   "nationality": "Denmark",
-   "photo": null
-  },
-  {
    "id": 247644,
    "name": "Ayden Heaven",
    "position": "Defence",
@@ -206,6 +197,15 @@
    "number": null,
    "age": 22,
    "nationality": "Brazil",
+   "photo": null
+  },
+  {
+   "id": 178604,
+   "name": "Carlos Baleba",
+   "position": "Midfield",
+   "number": null,
+   "age": 22,
+   "nationality": "Cameroon",
    "photo": null
   },
   {
@@ -314,6 +314,15 @@
    "number": null,
    "age": 24,
    "nationality": "Ivory Coast",
+   "photo": null
+  },
+  {
+   "id": 211559,
+   "name": "Patrick Dorgu",
+   "position": "Offence",
+   "number": null,
+   "age": 21,
+   "nationality": "Denmark",
    "photo": null
   },
   {

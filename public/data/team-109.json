@@ -22,6 +22,13 @@
    "code": "SA",
    "type": "LEAGUE",
    "emblem": "https://crests.football-data.org/c111.png"
+  },
+  {
+   "id": 2146,
+   "name": "UEFA Europa League",
+   "code": "EL",
+   "type": "CUP",
+   "emblem": "https://crests.football-data.org/EL.png"
   }
  ],
  "coach": {
@@ -64,6 +71,13 @@
    "position": "Goalkeeper",
    "dateOfBirth": "1997-07-27",
    "nationality": "Italy"
+  },
+  {
+   "id": 92854,
+   "name": "Kamil Grabara",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1999-01-08",
+   "nationality": "Poland"
   },
   {
    "id": 1106,

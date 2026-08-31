@@ -52,6 +52,13 @@
    "nationality": "Poland"
   },
   {
+   "id": 3548,
+   "name": "Dominik Livaković",
+   "position": "Goalkeeper",
+   "dateOfBirth": "1995-01-09",
+   "nationality": "Croatia"
+  },
+  {
    "id": 152506,
    "name": "Joan García",
    "position": "Goalkeeper",
@@ -274,6 +281,13 @@
    "position": "Offence",
    "dateOfBirth": "2007-07-13",
    "nationality": "Spain"
+  },
+  {
+   "id": 274542,
+   "name": "Hamza Abdelkarim",
+   "position": "Offence",
+   "dateOfBirth": "2008-01-01",
+   "nationality": "Egypt"
   },
   {
    "id": 298634,

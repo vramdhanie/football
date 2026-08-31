@@ -78,6 +78,68 @@
   },
   {
    "player": {
+    "id": 43285,
+    "name": "Anastasios Douvikas",
+    "firstName": "Anastasios",
+    "lastName": "Douvikas",
+    "dateOfBirth": "1999-08-02",
+    "nationality": "Greece",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:16Z"
+   },
+   "team": {
+    "id": 7397,
+    "name": "Como 1907",
+    "shortName": "Como 1907",
+    "tla": "COM",
+    "crest": "https://crests.football-data.org/7397.png",
+    "address": "Viale Sinigaglia 2 Como 22100",
+    "website": "http://www.como1907.net/",
+    "founded": 1907,
+    "clubColors": "Sky Blue / White",
+    "venue": "Stadio Giuseppe Sinigaglia",
+    "lastUpdated": "2025-02-17T16:52:41Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 1754,
+    "name": "Hakan Çalhanoğlu",
+    "firstName": "Hakan",
+    "lastName": "Çalhanoğlu",
+    "dateOfBirth": "1994-02-08",
+    "nationality": "Turkey",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:31Z"
+   },
+   "team": {
+    "id": 108,
+    "name": "FC Internazionale Milano",
+    "shortName": "Inter",
+    "tla": "INT",
+    "crest": "https://crests.football-data.org/108.png",
+    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+    "website": "http://www.inter.it",
+    "founded": 1908,
+    "clubColors": "Blue / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "lastUpdated": "2021-11-24T14:55:58Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 252836,
     "name": "Gustavo Varela",
     "firstName": "",
@@ -101,6 +163,37 @@
     "clubColors": "Red / White",
     "venue": "Stadio Comunale Brianteo",
     "lastUpdated": "2025-02-17T16:54:02Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 2200,
+    "name": "Davide Frattesi",
+    "firstName": "Davide",
+    "lastName": "Frattesi",
+    "dateOfBirth": "1999-09-22",
+    "nationality": "Italy",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:16Z"
+   },
+   "team": {
+    "id": 110,
+    "name": "SS Lazio",
+    "shortName": "Lazio",
+    "tla": "LAZ",
+    "crest": "https://crests.football-data.org/110.png",
+    "address": "Via di Santa Cornelia, 1000 Formello 00060",
+    "website": "http://www.sslazio.it",
+    "founded": 1900,
+    "clubColors": "White / Sky Blue",
+    "venue": "Stadio Olimpico",
+    "lastUpdated": "2024-04-09T16:20:32Z"
    },
    "playedMatches": 2,
    "goals": 2,
@@ -140,68 +233,6 @@
   },
   {
    "player": {
-    "id": 43285,
-    "name": "Anastasios Douvikas",
-    "firstName": "Anastasios",
-    "lastName": "Douvikas",
-    "dateOfBirth": "1999-08-02",
-    "nationality": "Greece",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:16Z"
-   },
-   "team": {
-    "id": 7397,
-    "name": "Como 1907",
-    "shortName": "Como 1907",
-    "tla": "COM",
-    "crest": "https://crests.football-data.org/7397.png",
-    "address": "Viale Sinigaglia 2 Como 22100",
-    "website": "http://www.como1907.net/",
-    "founded": 1907,
-    "clubColors": "Sky Blue / White",
-    "venue": "Stadio Giuseppe Sinigaglia",
-    "lastUpdated": "2025-02-17T16:52:41Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 1754,
-    "name": "Hakan Çalhanoğlu",
-    "firstName": "Hakan",
-    "lastName": "Çalhanoğlu",
-    "dateOfBirth": "1994-02-08",
-    "nationality": "Turkey",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:31Z"
-   },
-   "team": {
-    "id": 108,
-    "name": "FC Internazionale Milano",
-    "shortName": "Inter",
-    "tla": "INT",
-    "crest": "https://crests.football-data.org/108.png",
-    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
-    "website": "http://www.inter.it",
-    "founded": 1908,
-    "clubColors": "Blue / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2021-11-24T14:55:58Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
     "id": 2097,
     "name": "Piotr Zieliński",
     "firstName": "Piotr",
@@ -226,7 +257,7 @@
     "venue": "Stadio Giuseppe Meazza",
     "lastUpdated": "2021-11-24T14:55:58Z"
    },
-   "playedMatches": 1,
+   "playedMatches": 2,
    "goals": 1,
    "assists": null,
    "penalties": null
@@ -257,7 +288,7 @@
     "venue": "Stadio Giuseppe Meazza",
     "lastUpdated": "2021-11-24T14:55:58Z"
    },
-   "playedMatches": 1,
+   "playedMatches": 2,
    "goals": 1,
    "assists": 1,
    "penalties": null
@@ -288,40 +319,9 @@
     "venue": "Stadio Giuseppe Meazza",
     "lastUpdated": "2021-11-24T14:55:58Z"
    },
-   "playedMatches": 1,
+   "playedMatches": 2,
    "goals": 1,
    "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 3654,
-    "name": "Kevin De Bruyne",
-    "firstName": "Kevin",
-    "lastName": "De Bruyne",
-    "dateOfBirth": "1991-06-28",
-    "nationality": "Belgium",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 113,
-    "name": "SSC Napoli",
-    "shortName": "Napoli",
-    "tla": "NAP",
-    "crest": "https://crests.football-data.org/113.png",
-    "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
-    "website": "http://www.sscnapoli.it",
-    "founded": 1904,
-    "clubColors": "Sky Blue / White",
-    "venue": "Stadio San Paolo",
-    "lastUpdated": "2025-02-17T16:51:11Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": 1,
    "penalties": null
   }
  ]

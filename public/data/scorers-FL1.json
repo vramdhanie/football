@@ -47,6 +47,68 @@
   },
   {
    "player": {
+    "id": 124178,
+    "name": "Louis Mafouta",
+    "firstName": "Louis",
+    "lastName": "Mafouta",
+    "dateOfBirth": "1994-07-02",
+    "nationality": "Central African Republic",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:38Z"
+   },
+   "team": {
+    "id": 535,
+    "name": "Le Mans FC",
+    "shortName": "Le Mans",
+    "tla": "LMF",
+    "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
+    "address": "La Pincenardière Le Mans 72230",
+    "website": "http://www.lemansfc.fr/",
+    "founded": 1985,
+    "clubColors": "Red / Yellow",
+    "venue": "MMArena",
+    "lastUpdated": "2026-05-01T08:34:30Z"
+   },
+   "playedMatches": 2,
+   "goals": 3,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
+    "id": 149850,
+    "name": "Esteban Lepaul",
+    "firstName": "Esteban",
+    "lastName": "Lepaul",
+    "dateOfBirth": "2000-04-18",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:39Z"
+   },
+   "team": {
+    "id": 529,
+    "name": "Stade Rennais FC 1901",
+    "shortName": "Stade Rennais",
+    "tla": "REN",
+    "crest": "https://crests.football-data.org/529.png",
+    "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
+    "website": "http://www.staderennais.com",
+    "founded": 1901,
+    "clubColors": "Red / Black",
+    "venue": "Roazhon Park",
+    "lastUpdated": "2022-03-20T11:21:26Z"
+   },
+   "playedMatches": 2,
+   "goals": 3,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
     "id": 8476,
     "name": "Amine Gouiri",
     "firstName": "Amine",
@@ -71,7 +133,7 @@
     "venue": "Orange Vélodrome",
     "lastUpdated": "2022-02-19T08:35:12Z"
    },
-   "playedMatches": 1,
+   "playedMatches": 2,
    "goals": 2,
    "assists": null,
    "penalties": 1
@@ -105,37 +167,6 @@
    "playedMatches": 2,
    "goals": 2,
    "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 149850,
-    "name": "Esteban Lepaul",
-    "firstName": "Esteban",
-    "lastName": "Lepaul",
-    "dateOfBirth": "2000-04-18",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-27T19:57:39Z"
-   },
-   "team": {
-    "id": 529,
-    "name": "Stade Rennais FC 1901",
-    "shortName": "Stade Rennais",
-    "tla": "REN",
-    "crest": "https://crests.football-data.org/529.png",
-    "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
-    "website": "http://www.staderennais.com",
-    "founded": 1901,
-    "clubColors": "Red / Black",
-    "venue": "Roazhon Park",
-    "lastUpdated": "2022-03-20T11:21:26Z"
-   },
-   "playedMatches": 2,
-   "goals": 2,
-   "assists": null,
    "penalties": null
   },
   {
@@ -202,6 +233,37 @@
   },
   {
    "player": {
+    "id": 244696,
+    "name": "Paris Brunner",
+    "firstName": "Paris",
+    "lastName": "Brunner",
+    "dateOfBirth": "2006-02-15",
+    "nationality": "Germany",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:38Z"
+   },
+   "team": {
+    "id": 548,
+    "name": "AS Monaco FC",
+    "shortName": "Monaco",
+    "tla": "ASM",
+    "crest": "https://crests.football-data.org/548.png",
+    "address": "Avenue des Castellans Monaco 98000",
+    "website": "http://www.asmonaco.com",
+    "founded": 1919,
+    "clubColors": "Red / White",
+    "venue": "Stade Louis II.",
+    "lastUpdated": "2021-11-06T13:27:09Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 250795,
     "name": "Keyliane Abdallah",
     "firstName": "Keyliane",
@@ -226,7 +288,7 @@
     "venue": "Orange Vélodrome",
     "lastUpdated": "2022-02-19T08:35:12Z"
    },
-   "playedMatches": 1,
+   "playedMatches": 2,
    "goals": 1,
    "assists": null,
    "penalties": null
@@ -257,69 +319,7 @@
     "venue": "Orange Vélodrome",
     "lastUpdated": "2022-02-19T08:35:12Z"
    },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 183643,
-    "name": "Franjo Ivanovic",
-    "firstName": "Franjo",
-    "lastName": "Ivanović",
-    "dateOfBirth": "2003-10-01",
-    "nationality": "Austria",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-14T18:17:01Z"
-   },
-   "team": {
-    "id": 546,
-    "name": "Racing Club de Lens",
-    "shortName": "RC Lens",
-    "tla": "RCL",
-    "crest": "https://crests.football-data.org/546.png",
-    "address": "33 rue Arthur Lamendin Avion 62210",
-    "website": "http://www.rclens.fr",
-    "founded": 1906,
-    "clubColors": "Red / Yellow",
-    "venue": "Stade Bollaert-Delelis",
-    "lastUpdated": "2026-01-19T12:05:38Z"
-   },
    "playedMatches": 2,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 129098,
-    "name": "Saud Abdulhamid",
-    "firstName": "Saud",
-    "lastName": "Abdulhamid",
-    "dateOfBirth": "1999-07-18",
-    "nationality": "Saudi Arabia",
-    "section": "Defence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 546,
-    "name": "Racing Club de Lens",
-    "shortName": "RC Lens",
-    "tla": "RCL",
-    "crest": "https://crests.football-data.org/546.png",
-    "address": "33 rue Arthur Lamendin Avion 62210",
-    "website": "http://www.rclens.fr",
-    "founded": 1906,
-    "clubColors": "Red / Yellow",
-    "venue": "Stade Bollaert-Delelis",
-    "lastUpdated": "2026-01-19T12:05:38Z"
-   },
-   "playedMatches": 1,
    "goals": 1,
    "assists": null,
    "penalties": null

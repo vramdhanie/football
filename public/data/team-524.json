@@ -24,13 +24,6 @@
    "emblem": "https://crests.football-data.org/FL1.png"
   },
   {
-   "id": 2136,
-   "name": "Trophée des Champions",
-   "code": "TDC",
-   "type": "CUP",
-   "emblem": null
-  },
-  {
    "id": 2001,
    "name": "UEFA Champions League",
    "code": "CL",
