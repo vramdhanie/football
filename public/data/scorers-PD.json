@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 37428,
+    "name": "Raphinha",
+    "firstName": "",
+    "lastName": "Raphinha",
+    "dateOfBirth": "1996-12-14",
+    "nationality": "Brazil",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": 7,
+    "lastUpdated": "2026-06-01T11:16:32Z"
+   },
+   "team": {
+    "id": 81,
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/81.png",
+    "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+    "website": "http://www.fcbarcelona.com",
+    "founded": 1899,
+    "clubColors": "Red / Navy Blue / Orange",
+    "venue": "Camp Nou",
+    "lastUpdated": "2024-07-29T17:09:22Z"
+   },
+   "playedMatches": 3,
+   "goals": 5,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
     "id": 3374,
     "name": "Kylian Mbappé",
     "firstName": "Kylian",
@@ -140,34 +171,34 @@
   },
   {
    "player": {
-    "id": 37428,
-    "name": "Raphinha",
+    "id": 115175,
+    "name": "Sergio Camello",
     "firstName": "",
-    "lastName": "Raphinha",
-    "dateOfBirth": "1996-12-14",
-    "nationality": "Brazil",
+    "lastName": "Sergio Camello",
+    "dateOfBirth": "2001-02-10",
+    "nationality": "Spain",
     "section": "Offence",
     "position": null,
-    "shirtNumber": 7,
-    "lastUpdated": "2026-06-01T11:16:32Z"
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-09T17:00:05Z"
    },
    "team": {
-    "id": 81,
-    "name": "FC Barcelona",
-    "shortName": "Barça",
-    "tla": "FCB",
-    "crest": "https://crests.football-data.org/81.png",
-    "address": "Avenida Arístides Maillol s/n Barcelona 08028",
-    "website": "http://www.fcbarcelona.com",
-    "founded": 1899,
-    "clubColors": "Red / Navy Blue / Orange",
-    "venue": "Camp Nou",
-    "lastUpdated": "2024-07-29T17:09:22Z"
+    "id": 87,
+    "name": "Rayo Vallecano de Madrid",
+    "shortName": "Rayo Vallecano",
+    "tla": "RAY",
+    "crest": "https://crests.football-data.org/87.png",
+    "address": "Calle del Payaso Fofó, s/n Madrid 28018",
+    "website": "http://www.rayovallecano.es",
+    "founded": 1924,
+    "clubColors": "White / Red",
+    "venue": "Estadio del Rayo Vallecano",
+    "lastUpdated": "2024-07-29T17:10:35Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 3,
    "assists": null,
-   "penalties": 1
+   "penalties": null
   },
   {
    "player": {
@@ -195,7 +226,7 @@
     "venue": "Camp Nou",
     "lastUpdated": "2024-07-29T17:09:22Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 3,
    "assists": null,
    "penalties": null
@@ -291,37 +322,6 @@
    "playedMatches": 3,
    "goals": 2,
    "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 125010,
-    "name": "Jude Bellingham",
-    "firstName": "Jude",
-    "lastName": "Bellingham",
-    "dateOfBirth": "2003-06-29",
-    "nationality": "England",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
-   },
-   "team": {
-    "id": 86,
-    "name": "Real Madrid CF",
-    "shortName": "Real Madrid",
-    "tla": "RMA",
-    "crest": "https://crests.football-data.org/86.png",
-    "address": "Avenida Concha Espina, 1 Madrid 28036",
-    "website": "http://www.realmadrid.com",
-    "founded": 1902,
-    "clubColors": "White / Purple",
-    "venue": "Estadio Santiago Bernabéu",
-    "lastUpdated": "2022-02-19T08:59:31Z"
-   },
-   "playedMatches": 3,
-   "goals": 2,
-   "assists": 2,
    "penalties": null
   }
  ]

@@ -47,6 +47,37 @@
   },
   {
    "player": {
+    "id": 99813,
+    "name": "Bukayo Saka",
+    "firstName": "Bukayo",
+    "lastName": "Saka",
+    "dateOfBirth": "2001-09-05",
+    "nationality": "England",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:29Z"
+   },
+   "team": {
+    "id": 57,
+    "name": "Arsenal FC",
+    "shortName": "Arsenal",
+    "tla": "ARS",
+    "crest": "https://crests.football-data.org/57.png",
+    "address": "75 Drayton Park London N5 1BU",
+    "website": "http://www.arsenal.com",
+    "founded": 1886,
+    "clubColors": "Red / White",
+    "venue": "Emirates Stadium",
+    "lastUpdated": "2022-02-10T19:48:56Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 190851,
     "name": "Jack Hinshelwood",
     "firstName": "Jack",
@@ -257,38 +288,7 @@
     "venue": "Emirates Stadium",
     "lastUpdated": "2022-02-10T19:48:56Z"
    },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 99813,
-    "name": "Bukayo Saka",
-    "firstName": "Bukayo",
-    "lastName": "Saka",
-    "dateOfBirth": "2001-09-05",
-    "nationality": "England",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
-   },
-   "team": {
-    "id": 57,
-    "name": "Arsenal FC",
-    "shortName": "Arsenal",
-    "tla": "ARS",
-    "crest": "https://crests.football-data.org/57.png",
-    "address": "75 Drayton Park London N5 1BU",
-    "website": "http://www.arsenal.com",
-    "founded": 1886,
-    "clubColors": "Red / White",
-    "venue": "Emirates Stadium",
-    "lastUpdated": "2022-02-10T19:48:56Z"
-   },
-   "playedMatches": 1,
+   "playedMatches": 2,
    "goals": 1,
    "assists": null,
    "penalties": null
@@ -319,7 +319,7 @@
     "venue": "Emirates Stadium",
     "lastUpdated": "2022-02-10T19:48:56Z"
    },
-   "playedMatches": 1,
+   "playedMatches": 2,
    "goals": 1,
    "assists": null,
    "penalties": null
