@@ -11,30 +11,12 @@
    "photo": null
   },
   {
-   "id": 135555,
-   "name": "Robert Sánchez",
-   "position": "Goalkeeper",
-   "number": null,
-   "age": 28,
-   "nationality": "Spain",
-   "photo": null
-  },
-  {
    "id": 137544,
    "name": "Gabriel Slonina",
    "position": "Goalkeeper",
    "number": null,
    "age": 22,
    "nationality": "USA",
-   "photo": null
-  },
-  {
-   "id": 153828,
-   "name": "Filip Jörgensen",
-   "position": "Goalkeeper",
-   "number": null,
-   "age": 24,
-   "nationality": "Denmark",
    "photo": null
   },
   {
@@ -53,33 +35,6 @@
    "number": null,
    "age": 21,
    "nationality": "Belgium",
-   "photo": null
-  },
-  {
-   "id": 813,
-   "name": "Axel Disasi",
-   "position": "Defence",
-   "number": null,
-   "age": 28,
-   "nationality": "France",
-   "photo": null
-  },
-  {
-   "id": 7810,
-   "name": "Trevoh Chalobah",
-   "position": "Defence",
-   "number": null,
-   "age": 27,
-   "nationality": "England",
-   "photo": null
-  },
-  {
-   "id": 7880,
-   "name": "Tosin Adarabioyo",
-   "position": "Defence",
-   "number": null,
-   "age": 28,
-   "nationality": "England",
    "photo": null
   },
   {
@@ -128,15 +83,6 @@
    "photo": null
   },
   {
-   "id": 170426,
-   "name": "Benoît Badiashile",
-   "position": "Defence",
-   "number": null,
-   "age": 25,
-   "nationality": "France",
-   "photo": null
-  },
-  {
    "id": 170440,
    "name": "Levi Colwill",
    "position": "Defence",
@@ -146,30 +92,12 @@
    "photo": null
   },
   {
-   "id": 177766,
-   "name": "Caleb Wiley",
-   "position": "Defence",
-   "number": null,
-   "age": 21,
-   "nationality": "USA",
-   "photo": null
-  },
-  {
    "id": 189477,
    "name": "Jorrel Hato",
    "position": "Defence",
    "number": null,
    "age": 20,
    "nationality": "Netherlands",
-   "photo": null
-  },
-  {
-   "id": 190866,
-   "name": "Mamadou Sarr",
-   "position": "Defence",
-   "number": null,
-   "age": 21,
-   "nationality": "Senegal",
    "photo": null
   },
   {
@@ -200,15 +128,6 @@
    "photo": null
   },
   {
-   "id": 296642,
-   "name": "Denner",
-   "position": "Defence",
-   "number": null,
-   "age": 18,
-   "nationality": "Brazil",
-   "photo": null
-  },
-  {
    "id": 3320,
    "name": "Jordan Henderson",
    "position": "Midfield",
@@ -227,15 +146,6 @@
    "photo": null
   },
   {
-   "id": 102603,
-   "name": "Enzo Fernández",
-   "position": "Midfield",
-   "number": null,
-   "age": 25,
-   "nationality": "Argentina",
-   "photo": null
-  },
-  {
    "id": 121103,
    "name": "Moisés Caicedo",
    "position": "Midfield",
@@ -251,15 +161,6 @@
    "number": null,
    "age": 24,
    "nationality": "England",
-   "photo": null
-  },
-  {
-   "id": 165314,
-   "name": "Dario Essugo",
-   "position": "Midfield",
-   "number": null,
-   "age": 21,
-   "nationality": "Portugal",
    "photo": null
   },
   {
@@ -308,15 +209,6 @@
    "photo": null
   },
   {
-   "id": 98978,
-   "name": "Mykhailo Mudryk",
-   "position": "Offence",
-   "number": null,
-   "age": 25,
-   "nationality": "Ukraine",
-   "photo": null
-  },
-  {
    "id": 103125,
    "name": "João Pedro",
    "position": "Offence",
@@ -335,48 +227,12 @@
    "photo": null
   },
   {
-   "id": 151095,
-   "name": "Liam Delap",
-   "position": "Offence",
-   "number": null,
-   "age": 23,
-   "nationality": "England",
-   "photo": null
-  },
-  {
-   "id": 152515,
-   "name": "Nicolas Jackson",
-   "position": "Offence",
-   "number": null,
-   "age": 25,
-   "nationality": "Senegal",
-   "photo": null
-  },
-  {
    "id": 179460,
    "name": "Jamie Bynoe-Gittens",
    "position": "Offence",
    "number": null,
    "age": 22,
    "nationality": "England",
-   "photo": null
-  },
-  {
-   "id": 181901,
-   "name": "Alejandro Garnacho",
-   "position": "Offence",
-   "number": null,
-   "age": 22,
-   "nationality": "Argentina",
-   "photo": null
-  },
-  {
-   "id": 207109,
-   "name": "Marc Guiu",
-   "position": "Offence",
-   "number": null,
-   "age": 20,
-   "nationality": "Spain",
    "photo": null
   },
   {

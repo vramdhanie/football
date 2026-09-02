@@ -32,12 +32,12 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 133997,
+  "firstName": "Hansi",
+  "lastName": "Flick",
+  "name": "Hansi Flick",
+  "dateOfBirth": "1965-02-24",
+  "nationality": "Germany",
   "contract": {
    "start": null,
    "until": null
@@ -66,13 +66,6 @@
    "nationality": "Spain"
   },
   {
-   "id": 242551,
-   "name": "Áron Yaakobishvili",
-   "position": "Goalkeeper",
-   "dateOfBirth": "2006-03-06",
-   "nationality": "Hungary"
-  },
-  {
    "id": 2000,
    "name": "João Cancelo",
    "position": "Defence",
@@ -92,13 +85,6 @@
    "position": "Defence",
    "dateOfBirth": "1998-11-12",
    "nationality": "France"
-  },
-  {
-   "id": 28292,
-   "name": "Ronald Araújo",
-   "position": "Defence",
-   "dateOfBirth": "1999-03-07",
-   "nationality": "Uruguay"
   },
   {
    "id": 101345,
@@ -122,31 +108,10 @@
    "nationality": "Spain"
   },
   {
-   "id": 227023,
-   "name": "Héctor Fort",
-   "position": "Defence",
-   "dateOfBirth": "2006-08-02",
-   "nationality": "Spain"
-  },
-  {
    "id": 264320,
    "name": "Gerard Martín",
    "position": "Defence",
    "dateOfBirth": "2002-02-26",
-   "nationality": "Spain"
-  },
-  {
-   "id": 272984,
-   "name": "Álvaro Cortés",
-   "position": "Defence",
-   "dateOfBirth": "2005-03-17",
-   "nationality": "Spain"
-  },
-  {
-   "id": 283414,
-   "name": "Jofre Torrents",
-   "position": "Defence",
-   "dateOfBirth": "2007-01-28",
    "nationality": "Spain"
   },
   {
@@ -192,13 +157,6 @@
    "nationality": "Spain"
   },
   {
-   "id": 188817,
-   "name": "Marc Casado",
-   "position": "Midfield",
-   "dateOfBirth": "2003-09-14",
-   "nationality": "Spain"
-  },
-  {
    "id": 214533,
    "name": "Fermín López",
    "position": "Midfield",
@@ -213,27 +171,6 @@
    "nationality": "Spain"
   },
   {
-   "id": 270320,
-   "name": "Guille Fernández",
-   "position": "Midfield",
-   "dateOfBirth": "2008-06-18",
-   "nationality": "Spain"
-  },
-  {
-   "id": 270450,
-   "name": "Toni Fernández",
-   "position": "Midfield",
-   "dateOfBirth": "2008-07-15",
-   "nationality": "Spain"
-  },
-  {
-   "id": 289622,
-   "name": "Tomy Marqués",
-   "position": "Midfield",
-   "dateOfBirth": "2006-10-30",
-   "nationality": "Spain"
-  },
-  {
    "id": 298638,
    "name": "Brian Fariñas",
    "position": "Midfield",
@@ -241,18 +178,18 @@
    "nationality": "Spain"
   },
   {
+   "id": 3236,
+   "name": "Gabriel Jesus",
+   "position": "Offence",
+   "dateOfBirth": "1997-04-03",
+   "nationality": "Brazil"
+  },
+  {
    "id": 7848,
    "name": "Anthony Gordon",
    "position": "Offence",
    "dateOfBirth": "2001-02-24",
    "nationality": "England"
-  },
-  {
-   "id": 33154,
-   "name": "Ferrán Torres",
-   "position": "Offence",
-   "dateOfBirth": "2000-02-29",
-   "nationality": "Spain"
   },
   {
    "id": 37428,

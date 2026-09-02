@@ -39,12 +39,12 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 7903,
+  "firstName": "Michael",
+  "lastName": "Carrick",
+  "name": "Michael Carrick",
+  "dateOfBirth": "1980-12-29",
+  "nationality": "England",
   "contract": {
    "start": null,
    "until": null
@@ -66,25 +66,11 @@
    "nationality": "England"
   },
   {
-   "id": 29518,
-   "name": "Altay Bayındır",
-   "position": "Goalkeeper",
-   "dateOfBirth": "1998-04-14",
-   "nationality": "Turkey"
-  },
-  {
    "id": 129946,
    "name": "Senne Lammens",
    "position": "Goalkeeper",
    "dateOfBirth": "2002-07-07",
    "nationality": "Belgium"
-  },
-  {
-   "id": 188435,
-   "name": "Radek Vitek",
-   "position": "Goalkeeper",
-   "dateOfBirth": "2003-10-24",
-   "nationality": "Czech Republic"
   },
   {
    "id": 210730,
@@ -143,13 +129,6 @@
    "nationality": "France"
   },
   {
-   "id": 188291,
-   "name": "Tyler Fredricson",
-   "position": "Defence",
-   "dateOfBirth": "2005-02-23",
-   "nationality": "England"
-  },
-  {
    "id": 210150,
    "name": "Harry Amass",
    "position": "Defence",
@@ -162,13 +141,6 @@
    "position": "Defence",
    "dateOfBirth": "2006-09-22",
    "nationality": "England"
-  },
-  {
-   "id": 262921,
-   "name": "Diego León",
-   "position": "Defence",
-   "dateOfBirth": "2007-04-03",
-   "nationality": "Paraguay"
   },
   {
    "id": 3257,
@@ -220,20 +192,6 @@
    "nationality": "England"
   },
   {
-   "id": 217491,
-   "name": "Daniel Gore",
-   "position": "Midfield",
-   "dateOfBirth": "2004-09-26",
-   "nationality": "England"
-  },
-  {
-   "id": 248734,
-   "name": "Toby Collyer",
-   "position": "Midfield",
-   "dateOfBirth": "2004-01-03",
-   "nationality": "England"
-  },
-  {
    "id": 271941,
    "name": "Jack Fletcher",
    "position": "Midfield",
@@ -246,13 +204,6 @@
    "position": "Midfield",
    "dateOfBirth": "2007-03-19",
    "nationality": "England"
-  },
-  {
-   "id": 292183,
-   "name": "Jacob Devaney",
-   "position": "Midfield",
-   "dateOfBirth": "2007-06-11",
-   "nationality": "Ireland"
   },
   {
    "id": 3331,
@@ -301,20 +252,6 @@
    "name": "Patrick Dorgu",
    "position": "Offence",
    "dateOfBirth": "2004-10-26",
-   "nationality": "Denmark"
-  },
-  {
-   "id": 250421,
-   "name": "Ethan Wheatley",
-   "position": "Offence",
-   "dateOfBirth": "2006-01-20",
-   "nationality": "England"
-  },
-  {
-   "id": 275522,
-   "name": "Chido Obi-Martin",
-   "position": "Offence",
-   "dateOfBirth": "2007-11-29",
    "nationality": "Denmark"
   },
   {

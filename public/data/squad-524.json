@@ -92,39 +92,12 @@
    "photo": null
   },
   {
-   "id": 246711,
-   "name": "Yoram Zague",
-   "position": "Defence",
-   "number": null,
-   "age": 20,
-   "nationality": "France",
-   "photo": null
-  },
-  {
-   "id": 270300,
-   "name": "Naoufel El Hannach",
-   "position": "Defence",
-   "number": null,
-   "age": 19,
-   "nationality": "Morocco",
-   "photo": null
-  },
-  {
    "id": 22,
    "name": "Fabián Ruiz",
    "position": "Midfield",
    "number": null,
    "age": 30,
    "nationality": "Spain",
-   "photo": null
-  },
-  {
-   "id": 7988,
-   "name": "Renato Sanches",
-   "position": "Midfield",
-   "number": null,
-   "age": 29,
-   "nationality": "Portugal",
    "photo": null
   },
   {
@@ -182,15 +155,6 @@
    "photo": null
   },
   {
-   "id": 8708,
-   "name": "Randal Kolo Muani",
-   "position": "Offence",
-   "number": null,
-   "age": 27,
-   "nationality": "France",
-   "photo": null
-  },
-  {
    "id": 33154,
    "name": "Ferrán Torres",
    "position": "Offence",
@@ -206,15 +170,6 @@
    "number": null,
    "age": 25,
    "nationality": "Georgia",
-   "photo": null
-  },
-  {
-   "id": 172762,
-   "name": "Bradley Barcola",
-   "position": "Offence",
-   "number": null,
-   "age": 24,
-   "nationality": "France",
    "photo": null
   },
   {
@@ -245,30 +200,12 @@
    "photo": null
   },
   {
-   "id": 265040,
-   "name": "Ibrahim M'Baye",
-   "position": "Offence",
-   "number": null,
-   "age": 18,
-   "nationality": "Senegal",
-   "photo": null
-  },
-  {
    "id": 278406,
    "name": "Quentin Ndjantou",
    "position": "Offence",
    "number": null,
    "age": 19,
    "nationality": "France",
-   "photo": null
-  },
-  {
-   "id": 300106,
-   "name": "Alessandro Longoni",
-   "position": null,
-   "number": null,
-   "age": 18,
-   "nationality": "Italy",
    "photo": null
   }
  ]

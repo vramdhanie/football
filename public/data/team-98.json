@@ -32,12 +32,12 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 107164,
+  "firstName": "",
+  "lastName": "Rúben Amorim",
+  "name": "Ruben Amorim",
+  "dateOfBirth": "1985-01-27",
+  "nationality": "Portugal",
   "contract": {
    "start": null,
    "until": null
@@ -157,20 +157,6 @@
    "nationality": "Belgium"
   },
   {
-   "id": 81299,
-   "name": "Youssouf Fofana",
-   "position": "Midfield",
-   "dateOfBirth": "1999-01-10",
-   "nationality": "France"
-  },
-  {
-   "id": 115245,
-   "name": "Samuele Ricci",
-   "position": "Midfield",
-   "dateOfBirth": "2001-08-21",
-   "nationality": "Italy"
-  },
-  {
    "id": 144909,
    "name": "Ardon Jasari",
    "position": "Midfield",
@@ -220,32 +206,11 @@
    "nationality": "USA"
   },
   {
-   "id": 8484,
-   "name": "Christopher Nkunku",
-   "position": "Offence",
-   "dateOfBirth": "1997-11-14",
-   "nationality": "France"
-  },
-  {
-   "id": 15892,
-   "name": "Rafael Leão",
-   "position": "Offence",
-   "dateOfBirth": "1999-06-10",
-   "nationality": "Portugal"
-  },
-  {
    "id": 33124,
    "name": "Samuel Chukwueze",
    "position": "Offence",
    "dateOfBirth": "1999-05-22",
    "nationality": "Nigeria"
-  },
-  {
-   "id": 39635,
-   "name": "Santiago Giménez",
-   "position": "Offence",
-   "dateOfBirth": "2001-04-18",
-   "nationality": "Mexico"
   },
   {
    "id": 101431,
@@ -255,18 +220,18 @@
    "nationality": "Portugal"
   },
   {
+   "id": 177477,
+   "name": "Omari Hutchinson",
+   "position": "Offence",
+   "dateOfBirth": "2003-10-29",
+   "nationality": "England"
+  },
+  {
    "id": 242550,
    "name": "Francesco Camarda",
    "position": "Offence",
    "dateOfBirth": "2008-03-10",
    "nationality": "Italy"
-  },
-  {
-   "id": 254668,
-   "name": "Andrej Kostić",
-   "position": "Offence",
-   "dateOfBirth": "2007-01-16",
-   "nationality": "Montenegro"
   }
  ],
  "staff": [],

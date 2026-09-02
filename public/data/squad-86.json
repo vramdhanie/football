@@ -101,15 +101,6 @@
    "photo": null
   },
   {
-   "id": 270615,
-   "name": "David Jiménez",
-   "position": "Defence",
-   "number": null,
-   "age": 22,
-   "nationality": "Spain",
-   "photo": null
-  },
-  {
    "id": 272712,
    "name": "Raúl",
    "position": "Defence",
@@ -187,15 +178,6 @@
    "position": "Midfield",
    "number": null,
    "age": 20,
-   "nationality": "Spain",
-   "photo": null
-  },
-  {
-   "id": 291727,
-   "name": "Manuel Angel",
-   "position": "Midfield",
-   "number": null,
-   "age": 22,
    "nationality": "Spain",
    "photo": null
   },

@@ -146,24 +146,6 @@
    "photo": null
   },
   {
-   "id": 81299,
-   "name": "Youssouf Fofana",
-   "position": "Midfield",
-   "number": null,
-   "age": 27,
-   "nationality": "France",
-   "photo": null
-  },
-  {
-   "id": 115245,
-   "name": "Samuele Ricci",
-   "position": "Midfield",
-   "number": null,
-   "age": 25,
-   "nationality": "Italy",
-   "photo": null
-  },
-  {
    "id": 144909,
    "name": "Ardon Jasari",
    "position": "Midfield",
@@ -227,39 +209,12 @@
    "photo": null
   },
   {
-   "id": 8484,
-   "name": "Christopher Nkunku",
-   "position": "Offence",
-   "number": null,
-   "age": 28,
-   "nationality": "France",
-   "photo": null
-  },
-  {
-   "id": 15892,
-   "name": "Rafael Leão",
-   "position": "Offence",
-   "number": null,
-   "age": 27,
-   "nationality": "Portugal",
-   "photo": null
-  },
-  {
    "id": 33124,
    "name": "Samuel Chukwueze",
    "position": "Offence",
    "number": null,
    "age": 27,
    "nationality": "Nigeria",
-   "photo": null
-  },
-  {
-   "id": 39635,
-   "name": "Santiago Giménez",
-   "position": "Offence",
-   "number": null,
-   "age": 25,
-   "nationality": "Mexico",
    "photo": null
   },
   {
@@ -272,21 +227,21 @@
    "photo": null
   },
   {
+   "id": 177477,
+   "name": "Omari Hutchinson",
+   "position": "Offence",
+   "number": null,
+   "age": 22,
+   "nationality": "England",
+   "photo": null
+  },
+  {
    "id": 242550,
    "name": "Francesco Camarda",
    "position": "Offence",
    "number": null,
    "age": 18,
    "nationality": "Italy",
-   "photo": null
-  },
-  {
-   "id": 254668,
-   "name": "Andrej Kostić",
-   "position": "Offence",
-   "number": null,
-   "age": 19,
-   "nationality": "Montenegro",
    "photo": null
   }
  ]

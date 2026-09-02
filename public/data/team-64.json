@@ -39,12 +39,12 @@
   }
  ],
  "coach": {
-  "id": null,
+  "id": 206352,
   "firstName": null,
   "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "name": "Andoni Iraola",
+  "dateOfBirth": "1982-06-22",
+  "nationality": "Spain",
   "contract": {
    "start": null,
    "until": null
@@ -115,13 +115,6 @@
    "nationality": "Uruguay"
   },
   {
-   "id": 124778,
-   "name": "Calvin Ramsay",
-   "position": "Defence",
-   "dateOfBirth": "2003-07-31",
-   "nationality": "Scotland"
-  },
-  {
    "id": 128954,
    "name": "Jeremie Frimpong",
    "position": "Defence",
@@ -164,13 +157,6 @@
    "nationality": "Japan"
   },
   {
-   "id": 7873,
-   "name": "Curtis Jones",
-   "position": "Midfield",
-   "dateOfBirth": "2001-01-30",
-   "nationality": "England"
-  },
-  {
    "id": 16347,
    "name": "Dominik Szoboszlai",
    "position": "Midfield",
@@ -197,20 +183,6 @@
    "position": "Midfield",
    "dateOfBirth": "2002-05-16",
    "nationality": "Netherlands"
-  },
-  {
-   "id": 124824,
-   "name": "Harvey Elliott",
-   "position": "Midfield",
-   "dateOfBirth": "2003-04-04",
-   "nationality": "England"
-  },
-  {
-   "id": 191154,
-   "name": "Stefan Bajcetic",
-   "position": "Midfield",
-   "dateOfBirth": "2025-06-30",
-   "nationality": "Spain"
   },
   {
    "id": 230517,
@@ -245,6 +217,13 @@
    "name": "Hugo Ekitike",
    "position": "Offence",
    "dateOfBirth": "2002-06-20",
+   "nationality": "France"
+  },
+  {
+   "id": 172762,
+   "name": "Bradley Barcola",
+   "position": "Offence",
+   "dateOfBirth": "2002-09-02",
    "nationality": "France"
   },
   {

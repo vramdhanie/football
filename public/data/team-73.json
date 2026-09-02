@@ -32,25 +32,18 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 11109,
+  "firstName": "Roberto",
+  "lastName": "De Zerbi",
+  "name": "Roberto De Zerbi",
+  "dateOfBirth": "1979-06-06",
+  "nationality": "Italy",
   "contract": {
    "start": null,
    "until": null
   }
  },
  "squad": [
-  {
-   "id": 3086,
-   "name": "Guglielmo Vicario",
-   "position": "Goalkeeper",
-   "dateOfBirth": "1996-10-07",
-   "nationality": "Italy"
-  },
   {
    "id": 7914,
    "name": "Martin Dúbravka",
@@ -73,18 +66,18 @@
    "nationality": "Czech Republic"
   },
   {
-   "id": 6655,
-   "name": "Kevin Danso",
-   "position": "Defence",
-   "dateOfBirth": "1998-09-19",
-   "nationality": "Austria"
-  },
-  {
    "id": 7868,
    "name": "Andrew Robertson",
    "position": "Defence",
    "dateOfBirth": "1994-03-11",
    "nationality": "Scotland"
+  },
+  {
+   "id": 7880,
+   "name": "Tosin Adarabioyo",
+   "position": "Defence",
+   "dateOfBirth": "1997-09-24",
+   "nationality": "England"
   },
   {
    "id": 7994,
@@ -94,25 +87,11 @@
    "nationality": "Wales"
   },
   {
-   "id": 45735,
-   "name": "Christian Romero",
-   "position": "Defence",
-   "dateOfBirth": "1998-04-27",
-   "nationality": "Argentina"
-  },
-  {
    "id": 46046,
    "name": "Marcos Senesi",
    "position": "Defence",
    "dateOfBirth": "1997-05-10",
    "nationality": "Argentina"
-  },
-  {
-   "id": 80775,
-   "name": "Djed Spence",
-   "position": "Defence",
-   "dateOfBirth": "2000-08-09",
-   "nationality": "England"
   },
   {
    "id": 81037,
@@ -143,32 +122,11 @@
    "nationality": "Italy"
   },
   {
-   "id": 176838,
-   "name": "Ashley Phillips",
-   "position": "Defence",
-   "dateOfBirth": "2005-06-26",
-   "nationality": "England"
-  },
-  {
    "id": 177040,
    "name": "Archie Gray",
    "position": "Defence",
    "dateOfBirth": "2006-03-12",
    "nationality": "England"
-  },
-  {
-   "id": 181193,
-   "name": "Kota Takai",
-   "position": "Defence",
-   "dateOfBirth": "2004-09-04",
-   "nationality": "Japan"
-  },
-  {
-   "id": 249465,
-   "name": "Souza",
-   "position": "Defence",
-   "dateOfBirth": "2006-06-16",
-   "nationality": "Brazil"
   },
   {
    "id": 1859,
@@ -213,13 +171,6 @@
    "nationality": "Netherlands"
   },
   {
-   "id": 170391,
-   "name": "Pape Sarr",
-   "position": "Midfield",
-   "dateOfBirth": "2002-09-14",
-   "nationality": "Senegal"
-  },
-  {
    "id": 187216,
    "name": "Mateus Fernandes",
    "position": "Midfield",
@@ -248,13 +199,6 @@
    "nationality": "Brazil"
   },
   {
-   "id": 40541,
-   "name": "Manor Solomon",
-   "position": "Offence",
-   "dateOfBirth": "1999-07-24",
-   "nationality": "Israel"
-  },
-  {
    "id": 66896,
    "name": "Omar Marmoush",
    "position": "Offence",
@@ -269,18 +213,18 @@
    "nationality": "Ghana"
   },
   {
+   "id": 98978,
+   "name": "Mykhailo Mudryk",
+   "position": "Offence",
+   "dateOfBirth": "2001-01-05",
+   "nationality": "Ukraine"
+  },
+  {
    "id": 146352,
    "name": "Sávio",
    "position": "Offence",
    "dateOfBirth": "2004-04-10",
    "nationality": "Brazil"
-  },
-  {
-   "id": 156616,
-   "name": "Dane Scarlett",
-   "position": "Offence",
-   "dateOfBirth": "2004-03-24",
-   "nationality": "England"
   },
   {
    "id": 171977,
@@ -295,27 +239,6 @@
    "position": "Offence",
    "dateOfBirth": "2004-11-28",
    "nationality": "France"
-  },
-  {
-   "id": 251079,
-   "name": "Mikey Moore",
-   "position": "Offence",
-   "dateOfBirth": "2007-08-11",
-   "nationality": "England"
-  },
-  {
-   "id": 254718,
-   "name": "Min-hyuk Yang",
-   "position": "Offence",
-   "dateOfBirth": "2006-04-16",
-   "nationality": "South Korea"
-  },
-  {
-   "id": 270684,
-   "name": "William Lankshear",
-   "position": "Offence",
-   "dateOfBirth": "2005-04-20",
-   "nationality": "England"
   }
  ],
  "staff": [],

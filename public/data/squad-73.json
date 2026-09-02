@@ -2,15 +2,6 @@
  "source": "football-data.org",
  "players": [
   {
-   "id": 3086,
-   "name": "Guglielmo Vicario",
-   "position": "Goalkeeper",
-   "number": null,
-   "age": 29,
-   "nationality": "Italy",
-   "photo": null
-  },
-  {
    "id": 7914,
    "name": "Martin Dúbravka",
    "position": "Goalkeeper",
@@ -38,21 +29,21 @@
    "photo": null
   },
   {
-   "id": 6655,
-   "name": "Kevin Danso",
-   "position": "Defence",
-   "number": null,
-   "age": 27,
-   "nationality": "Austria",
-   "photo": null
-  },
-  {
    "id": 7868,
    "name": "Andrew Robertson",
    "position": "Defence",
    "number": null,
    "age": 32,
    "nationality": "Scotland",
+   "photo": null
+  },
+  {
+   "id": 7880,
+   "name": "Tosin Adarabioyo",
+   "position": "Defence",
+   "number": null,
+   "age": 28,
+   "nationality": "England",
    "photo": null
   },
   {
@@ -65,30 +56,12 @@
    "photo": null
   },
   {
-   "id": 45735,
-   "name": "Christian Romero",
-   "position": "Defence",
-   "number": null,
-   "age": 28,
-   "nationality": "Argentina",
-   "photo": null
-  },
-  {
    "id": 46046,
    "name": "Marcos Senesi",
    "position": "Defence",
    "number": null,
    "age": 29,
    "nationality": "Argentina",
-   "photo": null
-  },
-  {
-   "id": 80775,
-   "name": "Djed Spence",
-   "position": "Defence",
-   "number": null,
-   "age": 26,
-   "nationality": "England",
    "photo": null
   },
   {
@@ -128,39 +101,12 @@
    "photo": null
   },
   {
-   "id": 176838,
-   "name": "Ashley Phillips",
-   "position": "Defence",
-   "number": null,
-   "age": 21,
-   "nationality": "England",
-   "photo": null
-  },
-  {
    "id": 177040,
    "name": "Archie Gray",
    "position": "Defence",
    "number": null,
    "age": 20,
    "nationality": "England",
-   "photo": null
-  },
-  {
-   "id": 181193,
-   "name": "Kota Takai",
-   "position": "Defence",
-   "number": null,
-   "age": 21,
-   "nationality": "Japan",
-   "photo": null
-  },
-  {
-   "id": 249465,
-   "name": "Souza",
-   "position": "Defence",
-   "number": null,
-   "age": 20,
-   "nationality": "Brazil",
    "photo": null
   },
   {
@@ -218,15 +164,6 @@
    "photo": null
   },
   {
-   "id": 170391,
-   "name": "Pape Sarr",
-   "position": "Midfield",
-   "number": null,
-   "age": 23,
-   "nationality": "Senegal",
-   "photo": null
-  },
-  {
    "id": 187216,
    "name": "Mateus Fernandes",
    "position": "Midfield",
@@ -263,15 +200,6 @@
    "photo": null
   },
   {
-   "id": 40541,
-   "name": "Manor Solomon",
-   "position": "Offence",
-   "number": null,
-   "age": 27,
-   "nationality": "Israel",
-   "photo": null
-  },
-  {
    "id": 66896,
    "name": "Omar Marmoush",
    "position": "Offence",
@@ -290,21 +218,21 @@
    "photo": null
   },
   {
+   "id": 98978,
+   "name": "Mykhailo Mudryk",
+   "position": "Offence",
+   "number": null,
+   "age": 25,
+   "nationality": "Ukraine",
+   "photo": null
+  },
+  {
    "id": 146352,
    "name": "Sávio",
    "position": "Offence",
    "number": null,
    "age": 22,
    "nationality": "Brazil",
-   "photo": null
-  },
-  {
-   "id": 156616,
-   "name": "Dane Scarlett",
-   "position": "Offence",
-   "number": null,
-   "age": 22,
-   "nationality": "England",
    "photo": null
   },
   {
@@ -323,33 +251,6 @@
    "number": null,
    "age": 21,
    "nationality": "France",
-   "photo": null
-  },
-  {
-   "id": 251079,
-   "name": "Mikey Moore",
-   "position": "Offence",
-   "number": null,
-   "age": 19,
-   "nationality": "England",
-   "photo": null
-  },
-  {
-   "id": 254718,
-   "name": "Min-hyuk Yang",
-   "position": "Offence",
-   "number": null,
-   "age": 20,
-   "nationality": "South Korea",
-   "photo": null
-  },
-  {
-   "id": 270684,
-   "name": "William Lankshear",
-   "position": "Offence",
-   "number": null,
-   "age": 21,
-   "nationality": "England",
    "photo": null
   }
  ]

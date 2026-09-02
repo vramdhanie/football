@@ -39,12 +39,12 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 3644,
+  "firstName": "Vincent",
+  "lastName": "Kompany",
+  "name": "Vincent Kompany",
+  "dateOfBirth": "1986-04-10",
+  "nationality": "Belgium",
   "contract": {
    "start": null,
    "until": null
@@ -70,13 +70,6 @@
    "name": "Jonas Urbig",
    "position": "Goalkeeper",
    "dateOfBirth": "2003-08-08",
-   "nationality": "Germany"
-  },
-  {
-   "id": 270119,
-   "name": "Leon Klanac",
-   "position": "Goalkeeper",
-   "dateOfBirth": "2007-03-01",
    "nationality": "Germany"
   },
   {
@@ -143,25 +136,11 @@
    "nationality": "Germany"
   },
   {
-   "id": 212013,
-   "name": "Tarek Buchmann",
-   "position": "Defence",
-   "dateOfBirth": "2005-02-28",
-   "nationality": "Germany"
-  },
-  {
    "id": 359,
    "name": "Joshua Kimmich",
    "position": "Midfield",
    "dateOfBirth": "1995-02-08",
    "nationality": "Germany"
-  },
-  {
-   "id": 15884,
-   "name": "João Palhinha",
-   "position": "Midfield",
-   "dateOfBirth": "1995-07-09",
-   "nationality": "Portugal"
   },
   {
    "id": 130173,
@@ -190,13 +169,6 @@
    "position": "Midfield",
    "dateOfBirth": "2004-05-03",
    "nationality": "Germany"
-  },
-  {
-   "id": 270531,
-   "name": "Felipe Chavez",
-   "position": "Midfield",
-   "dateOfBirth": "2007-04-10",
-   "nationality": "Peru"
   },
   {
    "id": 277592,
@@ -246,27 +218,6 @@
    "position": "Offence",
    "dateOfBirth": "2001-12-12",
    "nationality": "France"
-  },
-  {
-   "id": 151458,
-   "name": "Armindo Sieb",
-   "position": "Offence",
-   "dateOfBirth": "2003-02-17",
-   "nationality": "Germany"
-  },
-  {
-   "id": 176899,
-   "name": "Arijon Ibrahimovic",
-   "position": "Offence",
-   "dateOfBirth": "2005-12-11",
-   "nationality": "Germany"
-  },
-  {
-   "id": 191403,
-   "name": "Bryan Zaragoza",
-   "position": "Offence",
-   "dateOfBirth": "2001-09-09",
-   "nationality": "Spain"
   }
  ],
  "staff": [],

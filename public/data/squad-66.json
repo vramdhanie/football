@@ -20,30 +20,12 @@
    "photo": null
   },
   {
-   "id": 29518,
-   "name": "Altay Bayındır",
-   "position": "Goalkeeper",
-   "number": null,
-   "age": 28,
-   "nationality": "Turkey",
-   "photo": null
-  },
-  {
    "id": 129946,
    "name": "Senne Lammens",
    "position": "Goalkeeper",
    "number": null,
    "age": 24,
    "nationality": "Belgium",
-   "photo": null
-  },
-  {
-   "id": 188435,
-   "name": "Radek Vitek",
-   "position": "Goalkeeper",
-   "number": null,
-   "age": 22,
-   "nationality": "Czech Republic",
    "photo": null
   },
   {
@@ -119,15 +101,6 @@
    "photo": null
   },
   {
-   "id": 188291,
-   "name": "Tyler Fredricson",
-   "position": "Defence",
-   "number": null,
-   "age": 21,
-   "nationality": "England",
-   "photo": null
-  },
-  {
    "id": 210150,
    "name": "Harry Amass",
    "position": "Defence",
@@ -143,15 +116,6 @@
    "number": null,
    "age": 19,
    "nationality": "England",
-   "photo": null
-  },
-  {
-   "id": 262921,
-   "name": "Diego León",
-   "position": "Defence",
-   "number": null,
-   "age": 19,
-   "nationality": "Paraguay",
    "photo": null
   },
   {
@@ -218,24 +182,6 @@
    "photo": null
   },
   {
-   "id": 217491,
-   "name": "Daniel Gore",
-   "position": "Midfield",
-   "number": null,
-   "age": 21,
-   "nationality": "England",
-   "photo": null
-  },
-  {
-   "id": 248734,
-   "name": "Toby Collyer",
-   "position": "Midfield",
-   "number": null,
-   "age": 22,
-   "nationality": "England",
-   "photo": null
-  },
-  {
    "id": 271941,
    "name": "Jack Fletcher",
    "position": "Midfield",
@@ -251,15 +197,6 @@
    "number": null,
    "age": 19,
    "nationality": "England",
-   "photo": null
-  },
-  {
-   "id": 292183,
-   "name": "Jacob Devaney",
-   "position": "Midfield",
-   "number": null,
-   "age": 19,
-   "nationality": "Ireland",
    "photo": null
   },
   {
@@ -322,24 +259,6 @@
    "position": "Offence",
    "number": null,
    "age": 21,
-   "nationality": "Denmark",
-   "photo": null
-  },
-  {
-   "id": 250421,
-   "name": "Ethan Wheatley",
-   "position": "Offence",
-   "number": null,
-   "age": 20,
-   "nationality": "England",
-   "photo": null
-  },
-  {
-   "id": 275522,
-   "name": "Chido Obi-Martin",
-   "position": "Offence",
-   "number": null,
-   "age": 18,
    "nationality": "Denmark",
    "photo": null
   },

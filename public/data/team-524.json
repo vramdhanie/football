@@ -32,12 +32,12 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 15874,
+  "firstName": "",
+  "lastName": "Luis Enrique",
+  "name": "Luis Enrique",
+  "dateOfBirth": "1970-05-08",
+  "nationality": "Spain",
   "contract": {
    "start": null,
    "until": null
@@ -115,32 +115,11 @@
    "nationality": "Brazil"
   },
   {
-   "id": 246711,
-   "name": "Yoram Zague",
-   "position": "Defence",
-   "dateOfBirth": "2006-05-15",
-   "nationality": "France"
-  },
-  {
-   "id": 270300,
-   "name": "Naoufel El Hannach",
-   "position": "Defence",
-   "dateOfBirth": "2006-12-07",
-   "nationality": "Morocco"
-  },
-  {
    "id": 22,
    "name": "Fabián Ruiz",
    "position": "Midfield",
    "dateOfBirth": "1996-04-03",
    "nationality": "Spain"
-  },
-  {
-   "id": 7988,
-   "name": "Renato Sanches",
-   "position": "Midfield",
-   "dateOfBirth": "1997-08-18",
-   "nationality": "Portugal"
   },
   {
    "id": 178722,
@@ -185,13 +164,6 @@
    "nationality": "France"
   },
   {
-   "id": 8708,
-   "name": "Randal Kolo Muani",
-   "position": "Offence",
-   "dateOfBirth": "1998-12-05",
-   "nationality": "France"
-  },
-  {
    "id": 33154,
    "name": "Ferrán Torres",
    "position": "Offence",
@@ -204,13 +176,6 @@
    "position": "Offence",
    "dateOfBirth": "2001-02-12",
    "nationality": "Georgia"
-  },
-  {
-   "id": 172762,
-   "name": "Bradley Barcola",
-   "position": "Offence",
-   "dateOfBirth": "2002-09-02",
-   "nationality": "France"
   },
   {
    "id": 175701,
@@ -234,25 +199,11 @@
    "nationality": "Belgium"
   },
   {
-   "id": 265040,
-   "name": "Ibrahim M'Baye",
-   "position": "Offence",
-   "dateOfBirth": "2008-01-24",
-   "nationality": "Senegal"
-  },
-  {
    "id": 278406,
    "name": "Quentin Ndjantou",
    "position": "Offence",
    "dateOfBirth": "2007-07-23",
    "nationality": "France"
-  },
-  {
-   "id": 300106,
-   "name": "Alessandro Longoni",
-   "position": null,
-   "dateOfBirth": "2008-01-31",
-   "nationality": "Italy"
   }
  ],
  "staff": [],

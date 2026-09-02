@@ -29,15 +29,6 @@
    "photo": null
   },
   {
-   "id": 171455,
-   "name": "Tommy Setford",
-   "position": "Goalkeeper",
-   "number": null,
-   "age": 20,
-   "nationality": "England",
-   "photo": null
-  },
-  {
    "id": 6154,
    "name": "Ben White",
    "position": "Defence",
@@ -164,24 +155,6 @@
    "photo": null
   },
   {
-   "id": 24102,
-   "name": "Christian Nørgaard",
-   "position": "Midfield",
-   "number": null,
-   "age": 32,
-   "nationality": "Denmark",
-   "photo": null
-  },
-  {
-   "id": 112948,
-   "name": "Fabio Vieira",
-   "position": "Midfield",
-   "number": null,
-   "age": 26,
-   "nationality": "Portugal",
-   "photo": null
-  },
-  {
    "id": 115035,
    "name": "Martín Zubimendi",
    "position": "Midfield",
@@ -191,39 +164,12 @@
    "photo": null
   },
   {
-   "id": 188476,
-   "name": "Ethan Nwaneri",
-   "position": "Midfield",
-   "number": null,
-   "age": 19,
-   "nationality": "England",
-   "photo": null
-  },
-  {
    "id": 171,
    "name": "Kai Havertz",
    "position": "Offence",
    "number": null,
    "age": 27,
    "nationality": "Germany",
-   "photo": null
-  },
-  {
-   "id": 3236,
-   "name": "Gabriel Jesus",
-   "position": "Offence",
-   "number": null,
-   "age": 29,
-   "nationality": "Brazil",
-   "photo": null
-  },
-  {
-   "id": 7799,
-   "name": "Reiss Nelson",
-   "position": "Offence",
-   "number": null,
-   "age": 26,
-   "nationality": "England",
    "photo": null
   },
   {

@@ -29,15 +29,6 @@
    "photo": null
   },
   {
-   "id": 270119,
-   "name": "Leon Klanac",
-   "position": "Goalkeeper",
-   "number": null,
-   "age": 19,
-   "nationality": "Germany",
-   "photo": null
-  },
-  {
    "id": 149,
    "name": "Jonathan Tah",
    "position": "Defence",
@@ -119,30 +110,12 @@
    "photo": null
   },
   {
-   "id": 212013,
-   "name": "Tarek Buchmann",
-   "position": "Defence",
-   "number": null,
-   "age": 21,
-   "nationality": "Germany",
-   "photo": null
-  },
-  {
    "id": 359,
    "name": "Joshua Kimmich",
    "position": "Midfield",
    "number": null,
    "age": 31,
    "nationality": "Germany",
-   "photo": null
-  },
-  {
-   "id": 15884,
-   "name": "João Palhinha",
-   "position": "Midfield",
-   "number": null,
-   "age": 31,
-   "nationality": "Portugal",
    "photo": null
   },
   {
@@ -179,15 +152,6 @@
    "number": null,
    "age": 22,
    "nationality": "Germany",
-   "photo": null
-  },
-  {
-   "id": 270531,
-   "name": "Felipe Chavez",
-   "position": "Midfield",
-   "number": null,
-   "age": 19,
-   "nationality": "Peru",
    "photo": null
   },
   {
@@ -251,33 +215,6 @@
    "number": null,
    "age": 24,
    "nationality": "France",
-   "photo": null
-  },
-  {
-   "id": 151458,
-   "name": "Armindo Sieb",
-   "position": "Offence",
-   "number": null,
-   "age": 23,
-   "nationality": "Germany",
-   "photo": null
-  },
-  {
-   "id": 176899,
-   "name": "Arijon Ibrahimovic",
-   "position": "Offence",
-   "number": null,
-   "age": 20,
-   "nationality": "Germany",
-   "photo": null
-  },
-  {
-   "id": 191403,
-   "name": "Bryan Zaragoza",
-   "position": "Offence",
-   "number": null,
-   "age": 24,
-   "nationality": "Spain",
    "photo": null
   }
  ]

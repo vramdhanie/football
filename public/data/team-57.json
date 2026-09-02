@@ -39,12 +39,12 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 179744,
+  "firstName": "",
+  "lastName": "Mikel Arteta",
+  "name": "Mikel Arteta",
+  "dateOfBirth": "1982-03-26",
+  "nationality": "Spain",
   "contract": {
    "start": null,
    "until": null
@@ -71,13 +71,6 @@
    "position": "Goalkeeper",
    "dateOfBirth": "2000-03-02",
    "nationality": "France"
-  },
-  {
-   "id": 171455,
-   "name": "Tommy Setford",
-   "position": "Goalkeeper",
-   "dateOfBirth": "2006-03-13",
-   "nationality": "England"
   },
   {
    "id": 6154,
@@ -178,20 +171,6 @@
    "nationality": "England"
   },
   {
-   "id": 24102,
-   "name": "Christian Nørgaard",
-   "position": "Midfield",
-   "dateOfBirth": "1994-03-10",
-   "nationality": "Denmark"
-  },
-  {
-   "id": 112948,
-   "name": "Fabio Vieira",
-   "position": "Midfield",
-   "dateOfBirth": "2000-05-30",
-   "nationality": "Portugal"
-  },
-  {
    "id": 115035,
    "name": "Martín Zubimendi",
    "position": "Midfield",
@@ -199,32 +178,11 @@
    "nationality": "Spain"
   },
   {
-   "id": 188476,
-   "name": "Ethan Nwaneri",
-   "position": "Midfield",
-   "dateOfBirth": "2007-03-21",
-   "nationality": "England"
-  },
-  {
    "id": 171,
    "name": "Kai Havertz",
    "position": "Offence",
    "dateOfBirth": "1999-06-11",
    "nationality": "Germany"
-  },
-  {
-   "id": 3236,
-   "name": "Gabriel Jesus",
-   "position": "Offence",
-   "dateOfBirth": "1997-04-03",
-   "nationality": "Brazil"
-  },
-  {
-   "id": 7799,
-   "name": "Reiss Nelson",
-   "position": "Offence",
-   "dateOfBirth": "1999-12-10",
-   "nationality": "England"
   },
   {
    "id": 8279,

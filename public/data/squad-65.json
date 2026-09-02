@@ -29,15 +29,6 @@
    "photo": null
   },
   {
-   "id": 153874,
-   "name": "James Trafford",
-   "position": "Goalkeeper",
-   "number": null,
-   "age": 23,
-   "nationality": "England",
-   "photo": null
-  },
-  {
    "id": 8642,
    "name": "Rayan Aït Nouri",
    "position": "Defence",
@@ -83,15 +74,6 @@
    "photo": null
   },
   {
-   "id": 123574,
-   "name": "Issa Kaboré",
-   "position": "Defence",
-   "number": null,
-   "age": 25,
-   "nationality": "Burkina Faso",
-   "photo": null
-  },
-  {
    "id": 172791,
    "name": "Josh Wilson-Esbrand",
    "position": "Defence",
@@ -128,30 +110,12 @@
    "photo": null
   },
   {
-   "id": 244856,
-   "name": "Max Alleyne",
-   "position": "Defence",
-   "number": null,
-   "age": 21,
-   "nationality": "England",
-   "photo": null
-  },
-  {
    "id": 249196,
    "name": "Vitor Reis",
    "position": "Defence",
    "number": null,
    "age": 20,
    "nationality": "Brazil",
-   "photo": null
-  },
-  {
-   "id": 273121,
-   "name": "Juma Bah",
-   "position": "Defence",
-   "number": null,
-   "age": 20,
-   "nationality": "Sierra Leone",
    "photo": null
   },
   {
@@ -164,39 +128,21 @@
    "photo": null
   },
   {
-   "id": 3199,
-   "name": "Rodri",
-   "position": "Midfield",
-   "number": null,
-   "age": 30,
-   "nationality": "Spain",
-   "photo": null
-  },
-  {
-   "id": 4147,
-   "name": "Kalvin Phillips",
-   "position": "Midfield",
-   "number": null,
-   "age": 30,
-   "nationality": "England",
-   "photo": null
-  },
-  {
-   "id": 7696,
-   "name": "Tijjani Reijnders",
-   "position": "Midfield",
-   "number": null,
-   "age": 28,
-   "nationality": "Netherlands",
-   "photo": null
-  },
-  {
    "id": 7888,
    "name": "Phil Foden",
    "position": "Midfield",
    "number": null,
    "age": 26,
    "nationality": "England",
+   "photo": null
+  },
+  {
+   "id": 102603,
+   "name": "Enzo Fernández",
+   "position": "Midfield",
+   "number": null,
+   "age": 25,
+   "nationality": "Argentina",
    "photo": null
   },
   {
@@ -218,15 +164,6 @@
    "photo": null
   },
   {
-   "id": 171986,
-   "name": "Nico Gonzalez",
-   "position": "Midfield",
-   "number": null,
-   "age": 24,
-   "nationality": "Spain",
-   "photo": null
-  },
-  {
    "id": 206908,
    "name": "Claudio Echeverri",
    "position": "Midfield",
@@ -242,15 +179,6 @@
    "number": null,
    "age": 18,
    "nationality": "France",
-   "photo": null
-  },
-  {
-   "id": 3895,
-   "name": "Jack Grealish",
-   "position": "Offence",
-   "number": null,
-   "age": 30,
-   "nationality": "England",
    "photo": null
   },
   {
@@ -272,12 +200,12 @@
    "photo": null
   },
   {
-   "id": 66896,
-   "name": "Omar Marmoush",
+   "id": 94091,
+   "name": "Iliman Ndiaye",
    "position": "Offence",
    "number": null,
-   "age": 27,
-   "nationality": "Egypt",
+   "age": 26,
+   "nationality": "Senegal",
    "photo": null
   },
   {
@@ -290,8 +218,8 @@
    "photo": null
   },
   {
-   "id": 146352,
-   "name": "Sávio",
+   "id": 274216,
+   "name": "Allan",
    "position": "Offence",
    "number": null,
    "age": 22,

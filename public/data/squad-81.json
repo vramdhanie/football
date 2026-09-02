@@ -29,15 +29,6 @@
    "photo": null
   },
   {
-   "id": 242551,
-   "name": "Áron Yaakobishvili",
-   "position": "Goalkeeper",
-   "number": null,
-   "age": 20,
-   "nationality": "Hungary",
-   "photo": null
-  },
-  {
    "id": 2000,
    "name": "João Cancelo",
    "position": "Defence",
@@ -62,15 +53,6 @@
    "number": null,
    "age": 27,
    "nationality": "France",
-   "photo": null
-  },
-  {
-   "id": 28292,
-   "name": "Ronald Araújo",
-   "position": "Defence",
-   "number": null,
-   "age": 27,
-   "nationality": "Uruguay",
    "photo": null
   },
   {
@@ -101,38 +83,11 @@
    "photo": null
   },
   {
-   "id": 227023,
-   "name": "Héctor Fort",
-   "position": "Defence",
-   "number": null,
-   "age": 20,
-   "nationality": "Spain",
-   "photo": null
-  },
-  {
    "id": 264320,
    "name": "Gerard Martín",
    "position": "Defence",
    "number": null,
    "age": 24,
-   "nationality": "Spain",
-   "photo": null
-  },
-  {
-   "id": 272984,
-   "name": "Álvaro Cortés",
-   "position": "Defence",
-   "number": null,
-   "age": 21,
-   "nationality": "Spain",
-   "photo": null
-  },
-  {
-   "id": 283414,
-   "name": "Jofre Torrents",
-   "position": "Defence",
-   "number": null,
-   "age": 19,
    "nationality": "Spain",
    "photo": null
   },
@@ -191,15 +146,6 @@
    "photo": null
   },
   {
-   "id": 188817,
-   "name": "Marc Casado",
-   "position": "Midfield",
-   "number": null,
-   "age": 22,
-   "nationality": "Spain",
-   "photo": null
-  },
-  {
    "id": 214533,
    "name": "Fermín López",
    "position": "Midfield",
@@ -218,33 +164,6 @@
    "photo": null
   },
   {
-   "id": 270320,
-   "name": "Guille Fernández",
-   "position": "Midfield",
-   "number": null,
-   "age": 18,
-   "nationality": "Spain",
-   "photo": null
-  },
-  {
-   "id": 270450,
-   "name": "Toni Fernández",
-   "position": "Midfield",
-   "number": null,
-   "age": 18,
-   "nationality": "Spain",
-   "photo": null
-  },
-  {
-   "id": 289622,
-   "name": "Tomy Marqués",
-   "position": "Midfield",
-   "number": null,
-   "age": 19,
-   "nationality": "Spain",
-   "photo": null
-  },
-  {
    "id": 298638,
    "name": "Brian Fariñas",
    "position": "Midfield",
@@ -254,21 +173,21 @@
    "photo": null
   },
   {
+   "id": 3236,
+   "name": "Gabriel Jesus",
+   "position": "Offence",
+   "number": null,
+   "age": 29,
+   "nationality": "Brazil",
+   "photo": null
+  },
+  {
    "id": 7848,
    "name": "Anthony Gordon",
    "position": "Offence",
    "number": null,
    "age": 25,
    "nationality": "England",
-   "photo": null
-  },
-  {
-   "id": 33154,
-   "name": "Ferrán Torres",
-   "position": "Offence",
-   "number": null,
-   "age": 26,
-   "nationality": "Spain",
    "photo": null
   },
   {

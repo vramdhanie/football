@@ -2,15 +2,6 @@
  "source": "football-data.org",
  "players": [
   {
-   "id": 1959,
-   "name": "Mattia Perin",
-   "position": "Goalkeeper",
-   "number": null,
-   "age": 33,
-   "nationality": "Italy",
-   "photo": null
-  },
-  {
    "id": 2023,
    "name": "Carlo Pinsoglio",
    "position": "Goalkeeper",
@@ -22,15 +13,6 @@
   {
    "id": 3086,
    "name": "Guglielmo Vicario",
-   "position": "Goalkeeper",
-   "number": null,
-   "age": 29,
-   "nationality": "Italy",
-   "photo": null
-  },
-  {
-   "id": 41381,
-   "name": "Michele Di Gregorio",
    "position": "Goalkeeper",
    "number": null,
    "age": 29,
@@ -128,15 +110,6 @@
    "photo": null
   },
   {
-   "id": 1148,
-   "name": "Arthur",
-   "position": "Midfield",
-   "number": null,
-   "age": 30,
-   "nationality": "Brazil",
-   "photo": null
-  },
-  {
    "id": 1751,
    "name": "Manuel Locatelli",
    "position": "Midfield",
@@ -182,12 +155,12 @@
    "photo": null
   },
   {
-   "id": 161142,
-   "name": "Fabio Miretti",
+   "id": 170391,
+   "name": "Pape Sarr",
    "position": "Midfield",
    "number": null,
    "age": 23,
-   "nationality": "Italy",
+   "nationality": "Senegal",
    "photo": null
   },
   {
@@ -218,15 +191,6 @@
    "photo": null
   },
   {
-   "id": 8924,
-   "name": "Jonathan David",
-   "position": "Offence",
-   "number": null,
-   "age": 26,
-   "nationality": "Canada",
-   "photo": null
-  },
-  {
    "id": 8990,
    "name": "Edon Zhegrova",
    "position": "Offence",
@@ -242,6 +206,15 @@
    "number": null,
    "age": 28,
    "nationality": "Argentina",
+   "photo": null
+  },
+  {
+   "id": 133547,
+   "name": "Nick Woltemade",
+   "position": "Offence",
+   "number": null,
+   "age": 24,
+   "nationality": "Germany",
    "photo": null
   },
   {

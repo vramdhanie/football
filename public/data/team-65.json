@@ -39,12 +39,12 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 172279,
+  "firstName": "Enzo",
+  "lastName": "Maresca",
+  "name": "Enzo Maresca",
+  "dateOfBirth": "1980-02-10",
+  "nationality": "Italy",
   "contract": {
    "start": null,
    "until": null
@@ -70,13 +70,6 @@
    "name": "Marcus Bettinelli",
    "position": "Goalkeeper",
    "dateOfBirth": "1992-05-24",
-   "nationality": "England"
-  },
-  {
-   "id": 153874,
-   "name": "James Trafford",
-   "position": "Goalkeeper",
-   "dateOfBirth": "2002-10-10",
    "nationality": "England"
   },
   {
@@ -115,13 +108,6 @@
    "nationality": "Croatia"
   },
   {
-   "id": 123574,
-   "name": "Issa Kaboré",
-   "position": "Defence",
-   "dateOfBirth": "2001-05-12",
-   "nationality": "Burkina Faso"
-  },
-  {
    "id": 172791,
    "name": "Josh Wilson-Esbrand",
    "position": "Defence",
@@ -150,25 +136,11 @@
    "nationality": "Uzbekistan"
   },
   {
-   "id": 244856,
-   "name": "Max Alleyne",
-   "position": "Defence",
-   "dateOfBirth": "2005-07-21",
-   "nationality": "England"
-  },
-  {
    "id": 249196,
    "name": "Vitor Reis",
    "position": "Defence",
    "dateOfBirth": "2006-01-12",
    "nationality": "Brazil"
-  },
-  {
-   "id": 273121,
-   "name": "Juma Bah",
-   "position": "Defence",
-   "dateOfBirth": "2006-04-11",
-   "nationality": "Sierra Leone"
   },
   {
    "id": 65,
@@ -178,32 +150,18 @@
    "nationality": "Croatia"
   },
   {
-   "id": 3199,
-   "name": "Rodri",
-   "position": "Midfield",
-   "dateOfBirth": "1996-06-22",
-   "nationality": "Spain"
-  },
-  {
-   "id": 4147,
-   "name": "Kalvin Phillips",
-   "position": "Midfield",
-   "dateOfBirth": "1995-12-02",
-   "nationality": "England"
-  },
-  {
-   "id": 7696,
-   "name": "Tijjani Reijnders",
-   "position": "Midfield",
-   "dateOfBirth": "1998-07-29",
-   "nationality": "Netherlands"
-  },
-  {
    "id": 7888,
    "name": "Phil Foden",
    "position": "Midfield",
    "dateOfBirth": "2000-05-28",
    "nationality": "England"
+  },
+  {
+   "id": 102603,
+   "name": "Enzo Fernández",
+   "position": "Midfield",
+   "dateOfBirth": "2001-01-17",
+   "nationality": "Argentina"
   },
   {
    "id": 107330,
@@ -220,13 +178,6 @@
    "nationality": "France"
   },
   {
-   "id": 171986,
-   "name": "Nico Gonzalez",
-   "position": "Midfield",
-   "dateOfBirth": "2002-01-03",
-   "nationality": "Spain"
-  },
-  {
    "id": 206908,
    "name": "Claudio Echeverri",
    "position": "Midfield",
@@ -239,13 +190,6 @@
    "position": "Midfield",
    "dateOfBirth": "2007-10-02",
    "nationality": "France"
-  },
-  {
-   "id": 3895,
-   "name": "Jack Grealish",
-   "position": "Offence",
-   "dateOfBirth": "1995-09-10",
-   "nationality": "England"
   },
   {
    "id": 4417,
@@ -262,11 +206,11 @@
    "nationality": "Norway"
   },
   {
-   "id": 66896,
-   "name": "Omar Marmoush",
+   "id": 94091,
+   "name": "Iliman Ndiaye",
    "position": "Offence",
-   "dateOfBirth": "1999-02-07",
-   "nationality": "Egypt"
+   "dateOfBirth": "2000-03-06",
+   "nationality": "Senegal"
   },
   {
    "id": 99775,
@@ -276,10 +220,10 @@
    "nationality": "Belgium"
   },
   {
-   "id": 146352,
-   "name": "Sávio",
+   "id": 274216,
+   "name": "Allan",
    "position": "Offence",
-   "dateOfBirth": "2004-04-10",
+   "dateOfBirth": "2004-04-19",
    "nationality": "Brazil"
   },
   {

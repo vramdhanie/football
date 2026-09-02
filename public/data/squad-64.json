@@ -83,15 +83,6 @@
    "photo": null
   },
   {
-   "id": 124778,
-   "name": "Calvin Ramsay",
-   "position": "Defence",
-   "number": null,
-   "age": 23,
-   "nationality": "Scotland",
-   "photo": null
-  },
-  {
    "id": 128954,
    "name": "Jeremie Frimpong",
    "position": "Defence",
@@ -146,15 +137,6 @@
    "photo": null
   },
   {
-   "id": 7873,
-   "name": "Curtis Jones",
-   "position": "Midfield",
-   "number": null,
-   "age": 25,
-   "nationality": "England",
-   "photo": null
-  },
-  {
    "id": 16347,
    "name": "Dominik Szoboszlai",
    "position": "Midfield",
@@ -188,24 +170,6 @@
    "number": null,
    "age": 24,
    "nationality": "Netherlands",
-   "photo": null
-  },
-  {
-   "id": 124824,
-   "name": "Harvey Elliott",
-   "position": "Midfield",
-   "number": null,
-   "age": 23,
-   "nationality": "England",
-   "photo": null
-  },
-  {
-   "id": 191154,
-   "name": "Stefan Bajcetic",
-   "position": "Midfield",
-   "number": null,
-   "age": 1,
-   "nationality": "Spain",
    "photo": null
   },
   {
@@ -247,6 +211,15 @@
   {
    "id": 152454,
    "name": "Hugo Ekitike",
+   "position": "Offence",
+   "number": null,
+   "age": 24,
+   "nationality": "France",
+   "photo": null
+  },
+  {
+   "id": 172762,
+   "name": "Bradley Barcola",
    "position": "Offence",
    "number": null,
    "age": 24,

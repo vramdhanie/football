@@ -32,12 +32,12 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 11613,
+  "firstName": "",
+  "lastName": "José Mourinho",
+  "name": "José Mourinho",
+  "dateOfBirth": "1963-01-26",
+  "nationality": "Portugal",
   "contract": {
    "start": null,
    "until": null
@@ -122,13 +122,6 @@
    "nationality": "Spain"
   },
   {
-   "id": 270615,
-   "name": "David Jiménez",
-   "position": "Defence",
-   "dateOfBirth": "2004-03-14",
-   "nationality": "Spain"
-  },
-  {
    "id": 272712,
    "name": "Raúl",
    "position": "Defence",
@@ -189,13 +182,6 @@
    "name": "Jorge Cestero",
    "position": "Midfield",
    "dateOfBirth": "2006-03-24",
-   "nationality": "Spain"
-  },
-  {
-   "id": 291727,
-   "name": "Manuel Angel",
-   "position": "Midfield",
-   "dateOfBirth": "2004-03-15",
    "nationality": "Spain"
   },
   {

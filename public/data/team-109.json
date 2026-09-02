@@ -32,25 +32,18 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 10997,
+  "firstName": "Luciano",
+  "lastName": "Spalletti",
+  "name": "Luciano Spalletti",
+  "dateOfBirth": "1959-03-07",
+  "nationality": "Italy",
   "contract": {
    "start": null,
    "until": null
   }
  },
  "squad": [
-  {
-   "id": 1959,
-   "name": "Mattia Perin",
-   "position": "Goalkeeper",
-   "dateOfBirth": "1992-11-10",
-   "nationality": "Italy"
-  },
   {
    "id": 2023,
    "name": "Carlo Pinsoglio",
@@ -63,13 +56,6 @@
    "name": "Guglielmo Vicario",
    "position": "Goalkeeper",
    "dateOfBirth": "1996-10-07",
-   "nationality": "Italy"
-  },
-  {
-   "id": 41381,
-   "name": "Michele Di Gregorio",
-   "position": "Goalkeeper",
-   "dateOfBirth": "1997-07-27",
    "nationality": "Italy"
   },
   {
@@ -143,13 +129,6 @@
    "nationality": "Italy"
   },
   {
-   "id": 1148,
-   "name": "Arthur",
-   "position": "Midfield",
-   "dateOfBirth": "1996-08-12",
-   "nationality": "Brazil"
-  },
-  {
    "id": 1751,
    "name": "Manuel Locatelli",
    "position": "Midfield",
@@ -185,11 +164,11 @@
    "nationality": "France"
   },
   {
-   "id": 161142,
-   "name": "Fabio Miretti",
+   "id": 170391,
+   "name": "Pape Sarr",
    "position": "Midfield",
-   "dateOfBirth": "2003-08-03",
-   "nationality": "Italy"
+   "dateOfBirth": "2002-09-14",
+   "nationality": "Senegal"
   },
   {
    "id": 2105,
@@ -213,13 +192,6 @@
    "nationality": "France"
   },
   {
-   "id": 8924,
-   "name": "Jonathan David",
-   "position": "Offence",
-   "dateOfBirth": "2000-01-14",
-   "nationality": "Canada"
-  },
-  {
    "id": 8990,
    "name": "Edon Zhegrova",
    "position": "Offence",
@@ -232,6 +204,13 @@
    "position": "Offence",
    "dateOfBirth": "1998-04-06",
    "nationality": "Argentina"
+  },
+  {
+   "id": 133547,
+   "name": "Nick Woltemade",
+   "position": "Offence",
+   "dateOfBirth": "2002-02-14",
+   "nationality": "Germany"
   },
   {
    "id": 150791,

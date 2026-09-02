@@ -32,12 +32,12 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 180279,
+  "firstName": "",
+  "lastName": "Xabi Alonso",
+  "name": "Xabi Alonso",
+  "dateOfBirth": "1981-11-25",
+  "nationality": "Spain",
   "contract": {
    "start": null,
    "until": null
@@ -52,25 +52,11 @@
    "nationality": "Argentina"
   },
   {
-   "id": 135555,
-   "name": "Robert Sánchez",
-   "position": "Goalkeeper",
-   "dateOfBirth": "1997-11-18",
-   "nationality": "Spain"
-  },
-  {
    "id": 137544,
    "name": "Gabriel Slonina",
    "position": "Goalkeeper",
    "dateOfBirth": "2004-05-15",
    "nationality": "USA"
-  },
-  {
-   "id": 153828,
-   "name": "Filip Jörgensen",
-   "position": "Goalkeeper",
-   "dateOfBirth": "2002-04-16",
-   "nationality": "Denmark"
   },
   {
    "id": 175910,
@@ -85,27 +71,6 @@
    "position": "Goalkeeper",
    "dateOfBirth": "2005-07-31",
    "nationality": "Belgium"
-  },
-  {
-   "id": 813,
-   "name": "Axel Disasi",
-   "position": "Defence",
-   "dateOfBirth": "1998-03-11",
-   "nationality": "France"
-  },
-  {
-   "id": 7810,
-   "name": "Trevoh Chalobah",
-   "position": "Defence",
-   "dateOfBirth": "1999-07-05",
-   "nationality": "England"
-  },
-  {
-   "id": 7880,
-   "name": "Tosin Adarabioyo",
-   "position": "Defence",
-   "dateOfBirth": "1997-09-24",
-   "nationality": "England"
   },
   {
    "id": 8545,
@@ -143,13 +108,6 @@
    "nationality": "France"
   },
   {
-   "id": 170426,
-   "name": "Benoît Badiashile",
-   "position": "Defence",
-   "dateOfBirth": "2001-03-26",
-   "nationality": "France"
-  },
-  {
    "id": 170440,
    "name": "Levi Colwill",
    "position": "Defence",
@@ -157,25 +115,11 @@
    "nationality": "England"
   },
   {
-   "id": 177766,
-   "name": "Caleb Wiley",
-   "position": "Defence",
-   "dateOfBirth": "2004-12-22",
-   "nationality": "USA"
-  },
-  {
    "id": 189477,
    "name": "Jorrel Hato",
    "position": "Defence",
    "dateOfBirth": "2006-03-07",
    "nationality": "Netherlands"
-  },
-  {
-   "id": 190866,
-   "name": "Mamadou Sarr",
-   "position": "Defence",
-   "dateOfBirth": "2005-08-29",
-   "nationality": "Senegal"
   },
   {
    "id": 206136,
@@ -199,13 +143,6 @@
    "nationality": "England"
   },
   {
-   "id": 296642,
-   "name": "Denner",
-   "position": "Defence",
-   "dateOfBirth": "2008-02-25",
-   "nationality": "Brazil"
-  },
-  {
    "id": 3320,
    "name": "Jordan Henderson",
    "position": "Midfield",
@@ -220,13 +157,6 @@
    "nationality": "England"
   },
   {
-   "id": 102603,
-   "name": "Enzo Fernández",
-   "position": "Midfield",
-   "dateOfBirth": "2001-01-17",
-   "nationality": "Argentina"
-  },
-  {
    "id": 121103,
    "name": "Moisés Caicedo",
    "position": "Midfield",
@@ -239,13 +169,6 @@
    "position": "Midfield",
    "dateOfBirth": "2002-05-06",
    "nationality": "England"
-  },
-  {
-   "id": 165314,
-   "name": "Dario Essugo",
-   "position": "Midfield",
-   "dateOfBirth": "2005-03-14",
-   "nationality": "Portugal"
   },
   {
    "id": 170261,
@@ -283,13 +206,6 @@
    "nationality": "England"
   },
   {
-   "id": 98978,
-   "name": "Mykhailo Mudryk",
-   "position": "Offence",
-   "dateOfBirth": "2001-01-05",
-   "nationality": "Ukraine"
-  },
-  {
    "id": 103125,
    "name": "João Pedro",
    "position": "Offence",
@@ -304,39 +220,11 @@
    "nationality": "Netherlands"
   },
   {
-   "id": 151095,
-   "name": "Liam Delap",
-   "position": "Offence",
-   "dateOfBirth": "2003-02-08",
-   "nationality": "England"
-  },
-  {
-   "id": 152515,
-   "name": "Nicolas Jackson",
-   "position": "Offence",
-   "dateOfBirth": "2001-06-20",
-   "nationality": "Senegal"
-  },
-  {
    "id": 179460,
    "name": "Jamie Bynoe-Gittens",
    "position": "Offence",
    "dateOfBirth": "2004-08-08",
    "nationality": "England"
-  },
-  {
-   "id": 181901,
-   "name": "Alejandro Garnacho",
-   "position": "Offence",
-   "dateOfBirth": "2004-07-01",
-   "nationality": "Argentina"
-  },
-  {
-   "id": 207109,
-   "name": "Marc Guiu",
-   "position": "Offence",
-   "dateOfBirth": "2006-01-04",
-   "nationality": "Spain"
   },
   {
    "id": 229421,
