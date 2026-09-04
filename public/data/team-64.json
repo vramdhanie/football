@@ -39,12 +39,12 @@
   }
  ],
  "coach": {
-  "id": 206352,
+  "id": null,
   "firstName": null,
   "lastName": null,
-  "name": "Andoni Iraola",
-  "dateOfBirth": "1982-06-22",
-  "nationality": "Spain",
+  "name": null,
+  "dateOfBirth": null,
+  "nationality": null,
   "contract": {
    "start": null,
    "until": null

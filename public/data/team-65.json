@@ -39,12 +39,12 @@
   }
  ],
  "coach": {
-  "id": 172279,
-  "firstName": "Enzo",
-  "lastName": "Maresca",
-  "name": "Enzo Maresca",
-  "dateOfBirth": "1980-02-10",
-  "nationality": "Italy",
+  "id": null,
+  "firstName": null,
+  "lastName": null,
+  "name": null,
+  "dateOfBirth": null,
+  "nationality": null,
   "contract": {
    "start": null,
    "until": null
@@ -178,13 +178,6 @@
    "nationality": "France"
   },
   {
-   "id": 206908,
-   "name": "Claudio Echeverri",
-   "position": "Midfield",
-   "dateOfBirth": "2006-01-02",
-   "nationality": "Argentina"
-  },
-  {
    "id": 221819,
    "name": "Ayyoub Bouaddi",
    "position": "Midfield",
@@ -225,13 +218,6 @@
    "position": "Offence",
    "dateOfBirth": "2004-04-19",
    "nationality": "Brazil"
-  },
-  {
-   "id": 275171,
-   "name": "Jeremy Monga",
-   "position": "Offence",
-   "dateOfBirth": "2009-07-10",
-   "nationality": "England"
   },
   {
    "id": 286950,

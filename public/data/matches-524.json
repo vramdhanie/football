@@ -296,7 +296,7 @@
    "matchday": 1,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 529,
     "name": "Stade Rennais FC 1901",
@@ -362,7 +362,7 @@
    "matchday": 2,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 521,
     "name": "Lille OSC",
@@ -428,7 +428,7 @@
    "matchday": 3,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T01:32:00Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -487,7 +487,7 @@
    "matchday": 1,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:33Z",
+   "lastUpdated": "2026-09-04T15:20:38Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -546,7 +546,7 @@
    "matchday": 4,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 512,
     "name": "Stade Brestois 29",
@@ -605,7 +605,7 @@
    "matchday": 5,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 516,
     "name": "Olympique de Marseille",
@@ -664,7 +664,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -723,7 +723,7 @@
    "matchday": 2,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:33Z",
+   "lastUpdated": "2026-09-04T15:20:38Z",
    "homeTeam": {
     "id": 65,
     "name": "Manchester City FC",
@@ -782,7 +782,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 576,
     "name": "RC Strasbourg Alsace",
@@ -841,7 +841,7 @@
    "matchday": 3,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:33Z",
+   "lastUpdated": "2026-09-04T15:20:38Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -900,7 +900,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -959,7 +959,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 533,
     "name": "Le Havre AC",
@@ -1018,7 +1018,7 @@
    "matchday": 4,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:33Z",
+   "lastUpdated": "2026-09-04T15:20:38Z",
    "homeTeam": {
     "id": 94,
     "name": "Villarreal CF",
@@ -1077,7 +1077,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1136,7 +1136,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 522,
     "name": "OGC Nice",
@@ -1195,7 +1195,7 @@
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:33Z",
+   "lastUpdated": "2026-09-04T15:20:38Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1254,7 +1254,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1313,7 +1313,7 @@
    "matchday": 13,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 511,
     "name": "Toulouse FC",
@@ -1372,7 +1372,7 @@
    "matchday": 6,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:33Z",
+   "lastUpdated": "2026-09-04T15:20:38Z",
    "homeTeam": {
     "id": 58,
     "name": "Aston Villa FC",
@@ -1431,7 +1431,7 @@
    "matchday": 14,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1490,7 +1490,7 @@
    "matchday": 15,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 546,
     "name": "Racing Club de Lens",
@@ -1549,7 +1549,7 @@
    "matchday": 16,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 532,
     "name": "Angers SCO",
@@ -1608,7 +1608,7 @@
    "matchday": 7,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:33Z",
+   "lastUpdated": "2026-09-04T15:20:38Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -1667,7 +1667,7 @@
    "matchday": 17,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1726,7 +1726,7 @@
    "matchday": 8,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:33Z",
+   "lastUpdated": "2026-09-04T15:20:38Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1785,7 +1785,7 @@
    "matchday": 18,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 548,
     "name": "AS Monaco FC",
@@ -1844,7 +1844,7 @@
    "matchday": 19,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1903,7 +1903,7 @@
    "matchday": 20,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 535,
     "name": "Le Mans FC",
@@ -1962,7 +1962,7 @@
    "matchday": 21,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2021,7 +2021,7 @@
    "matchday": 22,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2080,7 +2080,7 @@
    "matchday": 23,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2139,7 +2139,7 @@
    "matchday": 24,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 519,
     "name": "AJ Auxerre",
@@ -2198,7 +2198,7 @@
    "matchday": 25,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2257,7 +2257,7 @@
    "matchday": 26,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 1045,
     "name": "Paris FC",
@@ -2316,7 +2316,7 @@
    "matchday": 27,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2375,7 +2375,7 @@
    "matchday": 28,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2434,7 +2434,7 @@
    "matchday": 29,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 525,
     "name": "FC Lorient",
@@ -2493,7 +2493,7 @@
    "matchday": 30,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-04T00:20:34Z",
+   "lastUpdated": "2026-09-04T15:20:39Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",

@@ -32,12 +32,12 @@
   }
  ],
  "coach": {
-  "id": 180279,
-  "firstName": "",
-  "lastName": "Xabi Alonso",
-  "name": "Xabi Alonso",
-  "dateOfBirth": "1981-11-25",
-  "nationality": "Spain",
+  "id": null,
+  "firstName": null,
+  "lastName": null,
+  "name": null,
+  "dateOfBirth": null,
+  "nationality": null,
   "contract": {
    "start": null,
    "until": null

@@ -164,15 +164,6 @@
    "photo": null
   },
   {
-   "id": 206908,
-   "name": "Claudio Echeverri",
-   "position": "Midfield",
-   "number": null,
-   "age": 20,
-   "nationality": "Argentina",
-   "photo": null
-  },
-  {
    "id": 221819,
    "name": "Ayyoub Bouaddi",
    "position": "Midfield",
@@ -224,15 +215,6 @@
    "number": null,
    "age": 22,
    "nationality": "Brazil",
-   "photo": null
-  },
-  {
-   "id": 275171,
-   "name": "Jeremy Monga",
-   "position": "Offence",
-   "number": null,
-   "age": 17,
-   "nationality": "England",
    "photo": null
   },
   {

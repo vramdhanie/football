@@ -39,12 +39,12 @@
   }
  ],
  "coach": {
-  "id": 179744,
-  "firstName": "",
-  "lastName": "Mikel Arteta",
-  "name": "Mikel Arteta",
-  "dateOfBirth": "1982-03-26",
-  "nationality": "Spain",
+  "id": null,
+  "firstName": null,
+  "lastName": null,
+  "name": null,
+  "dateOfBirth": null,
+  "nationality": null,
   "contract": {
    "start": null,
    "until": null
@@ -190,13 +190,6 @@
    "position": "Offence",
    "dateOfBirth": "1998-06-04",
    "nationality": "Sweden"
-  },
-  {
-   "id": 61450,
-   "name": "Martinelli",
-   "position": "Offence",
-   "dateOfBirth": "2001-06-18",
-   "nationality": "Brazil"
   },
   {
    "id": 99813,
