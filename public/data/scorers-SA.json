@@ -102,7 +102,7 @@
     "venue": "Stadio Giuseppe Sinigaglia",
     "lastUpdated": "2025-02-17T16:52:41Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 2,
    "assists": null,
    "penalties": null
@@ -233,6 +233,68 @@
   },
   {
    "player": {
+    "id": 156912,
+    "name": "Martin Baturina",
+    "firstName": "Martin",
+    "lastName": "Baturina",
+    "dateOfBirth": "2003-02-16",
+    "nationality": "Croatia",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2024-06-12T17:56:51Z"
+   },
+   "team": {
+    "id": 7397,
+    "name": "Como 1907",
+    "shortName": "Como 1907",
+    "tla": "COM",
+    "crest": "https://crests.football-data.org/7397.png",
+    "address": "Viale Sinigaglia 2 Como 22100",
+    "website": "http://www.como1907.net/",
+    "founded": 1907,
+    "clubColors": "Sky Blue / White",
+    "venue": "Stadio Giuseppe Sinigaglia",
+    "lastUpdated": "2025-02-17T16:52:41Z"
+   },
+   "playedMatches": 3,
+   "goals": 2,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 218474,
+    "name": "Assane Diao",
+    "firstName": "",
+    "lastName": "Assane Diao",
+    "dateOfBirth": "2005-09-07",
+    "nationality": "Senegal",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:31Z"
+   },
+   "team": {
+    "id": 7397,
+    "name": "Como 1907",
+    "shortName": "Como 1907",
+    "tla": "COM",
+    "crest": "https://crests.football-data.org/7397.png",
+    "address": "Viale Sinigaglia 2 Como 22100",
+    "website": "http://www.como1907.net/",
+    "founded": 1907,
+    "clubColors": "Sky Blue / White",
+    "venue": "Stadio Giuseppe Sinigaglia",
+    "lastUpdated": "2025-02-17T16:52:41Z"
+   },
+   "playedMatches": 3,
+   "goals": 2,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 2097,
     "name": "Piotr Zieliński",
     "firstName": "Piotr",
@@ -240,68 +302,6 @@
     "dateOfBirth": "1994-05-20",
     "nationality": "Poland",
     "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:16Z"
-   },
-   "team": {
-    "id": 108,
-    "name": "FC Internazionale Milano",
-    "shortName": "Inter",
-    "tla": "INT",
-    "crest": "https://crests.football-data.org/108.png",
-    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
-    "website": "http://www.inter.it",
-    "founded": 1908,
-    "clubColors": "Blue / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2021-11-24T14:55:58Z"
-   },
-   "playedMatches": 2,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 215433,
-    "name": "Francesco Esposito",
-    "firstName": "Francesco",
-    "lastName": "Esposito",
-    "dateOfBirth": "2005-06-28",
-    "nationality": "Italy",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-03-31T09:41:46Z"
-   },
-   "team": {
-    "id": 108,
-    "name": "FC Internazionale Milano",
-    "shortName": "Inter",
-    "tla": "INT",
-    "crest": "https://crests.football-data.org/108.png",
-    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
-    "website": "http://www.inter.it",
-    "founded": 1908,
-    "clubColors": "Blue / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2021-11-24T14:55:58Z"
-   },
-   "playedMatches": 2,
-   "goals": 1,
-   "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 193,
-    "name": "Yann Aurel Bisseck",
-    "firstName": "Yann",
-    "lastName": "Bisseck",
-    "dateOfBirth": "2000-11-29",
-    "nationality": "Germany",
-    "section": "Defence",
     "position": null,
     "shirtNumber": null,
     "lastUpdated": "2026-08-19T06:54:16Z"

@@ -195,7 +195,38 @@
     "venue": "Parc des Princes",
     "lastUpdated": "2022-02-10T19:07:11Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 3225,
+    "name": "Marquinhos",
+    "firstName": "",
+    "lastName": "Marquinhos",
+    "dateOfBirth": "1994-05-14",
+    "nationality": "Brazil",
+    "section": "Defence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:32Z"
+   },
+   "team": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png",
+    "address": "24, rue de Commandant Guibaud Paris 7501",
+    "website": "http://www.psg.fr",
+    "founded": 1904,
+    "clubColors": "Red / Blue / White",
+    "venue": "Parc des Princes",
+    "lastUpdated": "2022-02-10T19:07:11Z"
+   },
+   "playedMatches": 3,
    "goals": 2,
    "assists": null,
    "penalties": null
@@ -257,7 +288,7 @@
     "venue": "Stade Louis II.",
     "lastUpdated": "2021-11-06T13:27:09Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 2,
    "assists": null,
    "penalties": null
@@ -274,37 +305,6 @@
     "position": null,
     "shirtNumber": null,
     "lastUpdated": "2026-08-21T13:58:00Z"
-   },
-   "team": {
-    "id": 516,
-    "name": "Olympique de Marseille",
-    "shortName": "Marseille",
-    "tla": "MAR",
-    "crest": "https://crests.football-data.org/516.png",
-    "address": "La Commanderie, 33, traverse de La Martine Marseille 13012",
-    "website": "http://www.om.net",
-    "founded": 1898,
-    "clubColors": "White / Blue",
-    "venue": "Orange Vélodrome",
-    "lastUpdated": "2022-02-19T08:35:12Z"
-   },
-   "playedMatches": 2,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 8093,
-    "name": "Pierre Emile Højbjerg",
-    "firstName": "Pierre-Emile",
-    "lastName": "Højbjerg",
-    "dateOfBirth": "1995-08-05",
-    "nationality": "Denmark",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-27T19:57:39Z"
    },
    "team": {
     "id": 516,

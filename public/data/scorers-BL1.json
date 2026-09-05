@@ -78,6 +78,37 @@
   },
   {
    "player": {
+    "id": 6523,
+    "name": "Josha Vagnoman",
+    "firstName": "Josha",
+    "lastName": "Vagnoman",
+    "dateOfBirth": "2000-12-11",
+    "nationality": "Germany",
+    "section": "Defence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-20T16:51:42Z"
+   },
+   "team": {
+    "id": 10,
+    "name": "VfB Stuttgart",
+    "shortName": "Stuttgart",
+    "tla": "VFB",
+    "crest": "https://crests.football-data.org/10.png",
+    "address": "Mercedesstraße 109 Stuttgart 70372",
+    "website": "http://www.vfb.de",
+    "founded": 1893,
+    "clubColors": "White / Red",
+    "venue": "Mercedes-Benz Arena",
+    "lastUpdated": "2026-01-26T10:51:52Z"
+   },
+   "playedMatches": 2,
+   "goals": 2,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 9848,
     "name": "Thijs Dallinga",
     "firstName": "Thijs",
@@ -132,37 +163,6 @@
     "clubColors": "Red / White / Blue",
     "venue": "Allianz Arena",
     "lastUpdated": "2024-07-09T17:26:37Z"
-   },
-   "playedMatches": 1,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 6523,
-    "name": "Josha Vagnoman",
-    "firstName": "Josha",
-    "lastName": "Vagnoman",
-    "dateOfBirth": "2000-12-11",
-    "nationality": "Germany",
-    "section": "Defence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-20T16:51:42Z"
-   },
-   "team": {
-    "id": 10,
-    "name": "VfB Stuttgart",
-    "shortName": "Stuttgart",
-    "tla": "VFB",
-    "crest": "https://crests.football-data.org/10.png",
-    "address": "Mercedesstraße 109 Stuttgart 70372",
-    "website": "http://www.vfb.de",
-    "founded": 1893,
-    "clubColors": "White / Red",
-    "venue": "Mercedes-Benz Arena",
-    "lastUpdated": "2026-01-26T10:51:52Z"
    },
    "playedMatches": 1,
    "goals": 1,

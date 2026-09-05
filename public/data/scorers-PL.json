@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 6486,
+    "name": "Alexander Isak",
+    "firstName": "Alexander",
+    "lastName": "Isak",
+    "dateOfBirth": "1999-09-21",
+    "nationality": "Sweden",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:31Z"
+   },
+   "team": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png",
+    "address": "Anfield Road Liverpool L4 0TH",
+    "website": "http://www.liverpoolfc.tv",
+    "founded": 1892,
+    "clubColors": "Red / White",
+    "venue": "Anfield",
+    "lastUpdated": "2022-02-10T19:30:22Z"
+   },
+   "playedMatches": 3,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 3257,
     "name": "Bruno Fernandes",
     "firstName": "",
@@ -274,37 +305,6 @@
     "position": null,
     "shirtNumber": null,
     "lastUpdated": "2026-06-01T11:16:31Z"
-   },
-   "team": {
-    "id": 57,
-    "name": "Arsenal FC",
-    "shortName": "Arsenal",
-    "tla": "ARS",
-    "crest": "https://crests.football-data.org/57.png",
-    "address": "75 Drayton Park London N5 1BU",
-    "website": "http://www.arsenal.com",
-    "founded": 1886,
-    "clubColors": "Red / White",
-    "venue": "Emirates Stadium",
-    "lastUpdated": "2022-02-10T19:48:56Z"
-   },
-   "playedMatches": 2,
-   "goals": 1,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 7427,
-    "name": "Martin Ødegaard",
-    "firstName": "Martin",
-    "lastName": "Ødegaard",
-    "dateOfBirth": "1998-12-17",
-    "nationality": "Norway",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
    },
    "team": {
     "id": 57,
