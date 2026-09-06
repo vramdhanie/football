@@ -47,6 +47,37 @@
   },
   {
    "player": {
+    "id": 169216,
+    "name": "Antonio Raimondo",
+    "firstName": "Antonio",
+    "lastName": "Raimondo",
+    "dateOfBirth": "2004-03-18",
+    "nationality": "Italy",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:15Z"
+   },
+   "team": {
+    "id": 470,
+    "name": "Frosinone Calcio",
+    "shortName": "Frosinone",
+    "tla": "FRO",
+    "crest": "https://crests.football-data.org/470.png",
+    "address": "Via Marittima, 2 Frosinone 03100",
+    "website": "http://www.frosinonecalcio.com",
+    "founded": 1912,
+    "clubColors": "Yellow / Blue",
+    "venue": "Stadio Benito Stirpe",
+    "lastUpdated": "2022-03-20T17:51:41Z"
+   },
+   "playedMatches": 3,
+   "goals": 4,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 822,
     "name": "Hassane Kamara",
     "firstName": "Hassane",
@@ -225,37 +256,6 @@
     "clubColors": "White / Sky Blue",
     "venue": "Stadio Olimpico",
     "lastUpdated": "2024-04-09T16:20:32Z"
-   },
-   "playedMatches": 2,
-   "goals": 2,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 169216,
-    "name": "Antonio Raimondo",
-    "firstName": "Antonio",
-    "lastName": "Raimondo",
-    "dateOfBirth": "2004-03-18",
-    "nationality": "Italy",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:15Z"
-   },
-   "team": {
-    "id": 470,
-    "name": "Frosinone Calcio",
-    "shortName": "Frosinone",
-    "tla": "FRO",
-    "crest": "https://crests.football-data.org/470.png",
-    "address": "Via Marittima, 2 Frosinone 03100",
-    "website": "http://www.frosinonecalcio.com",
-    "founded": 1912,
-    "clubColors": "Yellow / Blue",
-    "venue": "Stadio Benito Stirpe",
-    "lastUpdated": "2022-03-20T17:51:41Z"
    },
    "playedMatches": 2,
    "goals": 2,
