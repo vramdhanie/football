@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 175942,
+    "name": "Kamory Doumbia",
+    "firstName": "Kamory",
+    "lastName": "Doumbia",
+    "dateOfBirth": "2003-02-18",
+    "nationality": "Mali",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:39Z"
+   },
+   "team": {
+    "id": 512,
+    "name": "Stade Brestois 29",
+    "shortName": "Brest",
+    "tla": "BRE",
+    "crest": "https://crests.football-data.org/512.png",
+    "address": "Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
+    "website": "http://www.stade-brestois.com",
+    "founded": 1903,
+    "clubColors": "White / Red",
+    "venue": "Stade Francis-Le Blé",
+    "lastUpdated": "2026-07-04T12:08:19Z"
+   },
+   "playedMatches": 3,
+   "goals": 4,
+   "assists": 1,
+   "penalties": 1
+  },
+  {
+   "player": {
     "id": 3370,
     "name": "Florian Thauvin",
     "firstName": "Florian",
@@ -40,7 +71,7 @@
     "venue": "Stade Bollaert-Delelis",
     "lastUpdated": "2026-01-19T12:05:38Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 3,
    "assists": 1,
    "penalties": 3
@@ -71,7 +102,7 @@
     "venue": "MMArena",
     "lastUpdated": "2026-05-01T08:34:30Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 3,
    "assists": null,
    "penalties": 1
@@ -137,37 +168,6 @@
    "goals": 2,
    "assists": null,
    "penalties": 1
-  },
-  {
-   "player": {
-    "id": 175942,
-    "name": "Kamory Doumbia",
-    "firstName": "Kamory",
-    "lastName": "Doumbia",
-    "dateOfBirth": "2003-02-18",
-    "nationality": "Mali",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-27T19:57:39Z"
-   },
-   "team": {
-    "id": 512,
-    "name": "Stade Brestois 29",
-    "shortName": "Brest",
-    "tla": "BRE",
-    "crest": "https://crests.football-data.org/512.png",
-    "address": "Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
-    "website": "http://www.stade-brestois.com",
-    "founded": 1903,
-    "clubColors": "White / Red",
-    "venue": "Stade Francis-Le Blé",
-    "lastUpdated": "2026-07-04T12:08:19Z"
-   },
-   "playedMatches": 2,
-   "goals": 2,
-   "assists": 1,
-   "penalties": null
   },
   {
    "player": {

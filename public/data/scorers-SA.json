@@ -40,7 +40,7 @@
     "venue": "Stadio Olimpico",
     "lastUpdated": "2025-02-17T16:53:31Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 5,
    "assists": null,
    "penalties": null
@@ -133,7 +133,7 @@
     "venue": "Stadio Giuseppe Meazza",
     "lastUpdated": "2021-11-24T14:55:58Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 2,
    "assists": null,
    "penalties": null
@@ -165,6 +165,37 @@
     "lastUpdated": "2025-02-17T16:54:02Z"
    },
    "playedMatches": 2,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 4119,
+    "name": "Che Adams",
+    "firstName": "Ché",
+    "lastName": "Adams",
+    "dateOfBirth": "1996-07-13",
+    "nationality": "Scotland",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:32Z"
+   },
+   "team": {
+    "id": 586,
+    "name": "Torino FC",
+    "shortName": "Torino",
+    "tla": "TOR",
+    "crest": "https://crests.football-data.org/586.png",
+    "address": "Via Arcivescovado 1 Torino 10122",
+    "website": "http://www.torinofc.it",
+    "founded": 1894,
+    "clubColors": "Brown / White",
+    "venue": "Stadio Olimpico di Torino",
+    "lastUpdated": "2024-04-09T16:20:07Z"
+   },
+   "playedMatches": 3,
    "goals": 2,
    "assists": null,
    "penalties": null
@@ -264,63 +295,32 @@
   },
   {
    "player": {
-    "id": 218474,
-    "name": "Assane Diao",
-    "firstName": "",
-    "lastName": "Assane Diao",
-    "dateOfBirth": "2005-09-07",
-    "nationality": "Senegal",
+    "id": 152770,
+    "name": "Rasmus Højlund",
+    "firstName": "Rasmus",
+    "lastName": "Højlund",
+    "dateOfBirth": "2003-02-04",
+    "nationality": "Denmark",
     "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:31Z"
-   },
-   "team": {
-    "id": 7397,
-    "name": "Como 1907",
-    "shortName": "Como 1907",
-    "tla": "COM",
-    "crest": "https://crests.football-data.org/7397.png",
-    "address": "Viale Sinigaglia 2 Como 22100",
-    "website": "http://www.como1907.net/",
-    "founded": 1907,
-    "clubColors": "Sky Blue / White",
-    "venue": "Stadio Giuseppe Sinigaglia",
-    "lastUpdated": "2025-02-17T16:52:41Z"
-   },
-   "playedMatches": 3,
-   "goals": 2,
-   "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 2097,
-    "name": "Piotr Zieliński",
-    "firstName": "Piotr",
-    "lastName": "Zieliński",
-    "dateOfBirth": "1994-05-20",
-    "nationality": "Poland",
-    "section": "Midfield",
     "position": null,
     "shirtNumber": null,
     "lastUpdated": "2026-08-19T06:54:16Z"
    },
    "team": {
-    "id": 108,
-    "name": "FC Internazionale Milano",
-    "shortName": "Inter",
-    "tla": "INT",
-    "crest": "https://crests.football-data.org/108.png",
-    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
-    "website": "http://www.inter.it",
-    "founded": 1908,
-    "clubColors": "Blue / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2021-11-24T14:55:58Z"
+    "id": 113,
+    "name": "SSC Napoli",
+    "shortName": "Napoli",
+    "tla": "NAP",
+    "crest": "https://crests.football-data.org/113.png",
+    "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+    "website": "http://www.sscnapoli.it",
+    "founded": 1904,
+    "clubColors": "Sky Blue / White",
+    "venue": "Stadio San Paolo",
+    "lastUpdated": "2025-02-17T16:51:11Z"
    },
-   "playedMatches": 2,
-   "goals": 1,
+   "playedMatches": 3,
+   "goals": 2,
    "assists": null,
    "penalties": null
   }
