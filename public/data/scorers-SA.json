@@ -202,6 +202,37 @@
   },
   {
    "player": {
+    "id": 192142,
+    "name": "Alphadjo Cisse",
+    "firstName": "Alphadjo",
+    "lastName": "Cissè",
+    "dateOfBirth": "2006-10-22",
+    "nationality": "Italy",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:15Z"
+   },
+   "team": {
+    "id": 98,
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png",
+    "address": "Via Filippo Turati 3 Milano 20121",
+    "website": "http://www.acmilan.com",
+    "founded": 1899,
+    "clubColors": "Red / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "lastUpdated": "2024-04-09T16:20:58Z"
+   },
+   "playedMatches": 3,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 4119,
     "name": "Che Adams",
     "firstName": "Ché",
@@ -291,37 +322,6 @@
    "playedMatches": 3,
    "goals": 2,
    "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 152770,
-    "name": "Rasmus Højlund",
-    "firstName": "Rasmus",
-    "lastName": "Højlund",
-    "dateOfBirth": "2003-02-04",
-    "nationality": "Denmark",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:16Z"
-   },
-   "team": {
-    "id": 113,
-    "name": "SSC Napoli",
-    "shortName": "Napoli",
-    "tla": "NAP",
-    "crest": "https://crests.football-data.org/113.png",
-    "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
-    "website": "http://www.sscnapoli.it",
-    "founded": 1904,
-    "clubColors": "Sky Blue / White",
-    "venue": "Stadio San Paolo",
-    "lastUpdated": "2025-02-17T16:51:11Z"
-   },
-   "playedMatches": 3,
-   "goals": 2,
-   "assists": null,
    "penalties": null
   }
  ]
