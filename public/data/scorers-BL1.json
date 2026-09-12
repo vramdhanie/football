@@ -40,7 +40,7 @@
     "venue": "Deutsche Bank Park",
     "lastUpdated": "2024-07-29T17:13:52Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 3,
    "assists": 1,
    "penalties": null
@@ -71,7 +71,7 @@
     "venue": "Schwarzwald-Stadion",
     "lastUpdated": "2024-07-29T17:13:41Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 3,
    "assists": null,
    "penalties": null
@@ -102,7 +102,7 @@
     "venue": "Mercedes-Benz Arena",
     "lastUpdated": "2026-01-26T10:51:52Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 2,
    "assists": 1,
    "penalties": null
@@ -226,9 +226,40 @@
     "venue": "BayArena",
     "lastUpdated": "2022-02-25T16:43:07Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 2,
    "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 274045,
+    "name": "Christian Kofane",
+    "firstName": "Christian",
+    "lastName": "Kofane",
+    "dateOfBirth": "2006-07-26",
+    "nationality": "Cameroon",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2025-02-07T09:44:56Z"
+   },
+   "team": {
+    "id": 3,
+    "name": "Bayer 04 Leverkusen",
+    "shortName": "Leverkusen",
+    "tla": "B04",
+    "crest": "https://crests.football-data.org/3.png",
+    "address": "Bismarckstr. 122-124 Leverkusen 51373",
+    "website": "http://www.bayer04.de",
+    "founded": 1904,
+    "clubColors": "Red / White / Black",
+    "venue": "BayArena",
+    "lastUpdated": "2022-02-25T16:43:07Z"
+   },
+   "playedMatches": 3,
+   "goals": 2,
+   "assists": null,
    "penalties": null
   },
   {
@@ -288,40 +319,9 @@
     "venue": "Signal Iduna Park",
     "lastUpdated": "2022-02-25T16:50:16Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
    "goals": 2,
-   "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 188201,
-    "name": "Hugo Bolin",
-    "firstName": "Hugo",
-    "lastName": "Bolin",
-    "dateOfBirth": "2003-07-24",
-    "nationality": "Sweden",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-20T16:51:43Z"
-   },
-   "team": {
-    "id": 18,
-    "name": "Borussia Mönchengladbach",
-    "shortName": "M'gladbach",
-    "tla": "BMG",
-    "crest": "https://crests.football-data.org/18.png",
-    "address": "Hennes-Weisweiler-Allee 1 Mönchengladbach 41179",
-    "website": "http://www.borussia.de",
-    "founded": 1900,
-    "clubColors": "Black / White / Green",
-    "venue": "Stadion im Borussia-Park",
-    "lastUpdated": "2023-02-28T07:59:45Z"
-   },
-   "playedMatches": 2,
-   "goals": 2,
-   "assists": null,
+   "assists": 2,
    "penalties": null
   }
  ]

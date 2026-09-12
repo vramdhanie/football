@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 82140,
+    "name": "Morgan Rogers",
+    "firstName": "Morgan",
+    "lastName": "Rogers",
+    "dateOfBirth": "2002-07-26",
+    "nationality": "England",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:29Z"
+   },
+   "team": {
+    "id": 61,
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE",
+    "crest": "https://crests.football-data.org/61.png",
+    "address": "Fulham Road London SW6 1HS",
+    "website": "http://www.chelseafc.com",
+    "founded": 1905,
+    "clubColors": "Royal Blue / White",
+    "venue": "Stamford Bridge",
+    "lastUpdated": "2022-02-10T19:24:40Z"
+   },
+   "playedMatches": 4,
+   "goals": 3,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 38101,
     "name": "Erling Haaland",
     "firstName": "Erling",
@@ -71,7 +102,7 @@
     "venue": "Anfield",
     "lastUpdated": "2022-02-10T19:30:22Z"
    },
-   "playedMatches": 3,
+   "playedMatches": 4,
    "goals": 3,
    "assists": null,
    "penalties": null
@@ -226,7 +257,7 @@
     "venue": "Griffin Park",
     "lastUpdated": "2022-04-03T16:24:00Z"
    },
-   "playedMatches": 3,
+   "playedMatches": 4,
    "goals": 2,
    "assists": null,
    "penalties": null
@@ -257,7 +288,7 @@
     "venue": "Vitality Stadium",
     "lastUpdated": "2024-08-29T08:54:34Z"
    },
-   "playedMatches": 3,
+   "playedMatches": 4,
    "goals": 2,
    "assists": null,
    "penalties": null
@@ -289,37 +320,6 @@
     "lastUpdated": "2024-07-29T17:18:23Z"
    },
    "playedMatches": 1,
-   "goals": 2,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 166376,
-    "name": "Anthony Elanga",
-    "firstName": "Anthony",
-    "lastName": "Elanga",
-    "dateOfBirth": "2002-04-27",
-    "nationality": "Sweden",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:31Z"
-   },
-   "team": {
-    "id": 67,
-    "name": "Newcastle United FC",
-    "shortName": "Newcastle",
-    "tla": "NEW",
-    "crest": "https://crests.football-data.org/67.png",
-    "address": "Sports Direct Arena Newcastle upon Tyne NE1 4ST",
-    "website": "http://www.nufc.co.uk",
-    "founded": 1881,
-    "clubColors": "Black / White",
-    "venue": "St. James' Park",
-    "lastUpdated": "2022-09-28T18:51:07Z"
-   },
-   "playedMatches": 3,
    "goals": 2,
    "assists": null,
    "penalties": null

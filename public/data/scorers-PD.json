@@ -78,6 +78,37 @@
   },
   {
    "player": {
+    "id": 265516,
+    "name": "Yassir Zabiri",
+    "firstName": "Yassir",
+    "lastName": "Zabiri",
+    "dateOfBirth": "2005-02-23",
+    "nationality": "Morocco",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:39Z"
+   },
+   "team": {
+    "id": 5335,
+    "name": "Real Racing Club de Santander",
+    "shortName": "Santander",
+    "tla": "SAN",
+    "crest": "https://crests.football-data.org/5335.png",
+    "address": "Calle Real Racing Club, s/n Santander 39005",
+    "website": "http://www.realracingclub.com",
+    "founded": 1913,
+    "clubColors": "White / Black / Green",
+    "venue": "Campos de Sport de El Sardinero",
+    "lastUpdated": "2023-04-28T08:38:16Z"
+   },
+   "playedMatches": 5,
+   "goals": 5,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 7801,
     "name": "Pierre-Emerick Aubameyang",
     "firstName": "Pierre-Emerick",
@@ -195,7 +226,7 @@
     "venue": "Estadio El Sadar",
     "lastUpdated": "2024-07-29T17:09:06Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 4,
    "assists": null,
    "penalties": 3
@@ -226,7 +257,7 @@
     "venue": "Estadio de Mendizorroza",
     "lastUpdated": "2022-02-19T08:23:45Z"
    },
-   "playedMatches": 3,
+   "playedMatches": 4,
    "goals": 4,
    "assists": null,
    "penalties": null
@@ -288,40 +319,9 @@
     "venue": "Estadio de Mendizorroza",
     "lastUpdated": "2022-02-19T08:23:45Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 3,
    "assists": 3,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 180218,
-    "name": "Roberto Fernández",
-    "firstName": "",
-    "lastName": "Roberto Fernández",
-    "dateOfBirth": "2002-07-03",
-    "nationality": "Spain",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-09T17:00:03Z"
-   },
-   "team": {
-    "id": 80,
-    "name": "RCD Espanyol de Barcelona",
-    "shortName": "Espanyol",
-    "tla": "ESP",
-    "crest": "https://crests.football-data.org/80.png",
-    "address": "Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940",
-    "website": "http://www.rcdespanyol.com",
-    "founded": 1900,
-    "clubColors": "Blue / White",
-    "venue": "RCDE Stadium",
-    "lastUpdated": "2024-07-29T17:09:12Z"
-   },
-   "playedMatches": 4,
-   "goals": 3,
-   "assists": null,
    "penalties": null
   }
  ]
