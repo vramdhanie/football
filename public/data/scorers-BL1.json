@@ -140,6 +140,37 @@
   },
   {
    "player": {
+    "id": 7029,
+    "name": "Tim Skarke",
+    "firstName": "Tim",
+    "lastName": "Skarke",
+    "dateOfBirth": "1996-09-07",
+    "nationality": "Germany",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-20T16:51:43Z"
+   },
+   "team": {
+    "id": 28,
+    "name": "1. FC Union Berlin",
+    "shortName": "Union Berlin",
+    "tla": "UNB",
+    "crest": "https://crests.football-data.org/28.png",
+    "address": "An der Wuhlheide 263 Berlin 12555",
+    "website": "http://www.fc-union-berlin.de",
+    "founded": 1906,
+    "clubColors": "Red / White",
+    "venue": "Stadion An der Alten Försterei",
+    "lastUpdated": "2024-07-29T17:14:25Z"
+   },
+   "playedMatches": 3,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 213737,
     "name": "David Mokwa Ntusu",
     "firstName": "David",
@@ -287,37 +318,6 @@
     "clubColors": "Black / White / Green",
     "venue": "Stadion im Borussia-Park",
     "lastUpdated": "2023-02-28T07:59:45Z"
-   },
-   "playedMatches": 2,
-   "goals": 2,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 183780,
-    "name": "Maurice Krattenmacher",
-    "firstName": "Maurice",
-    "lastName": "Krattenmacher",
-    "dateOfBirth": "2005-08-11",
-    "nationality": "Germany",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-20T16:51:42Z"
-   },
-   "team": {
-    "id": 719,
-    "name": "SV 07 Elversberg",
-    "shortName": "Elversberg",
-    "tla": "ELV",
-    "crest": "https://crests.football-data.org/719.png",
-    "address": "St. Ingberter Straße 8 Spiesen-Elversberg 66583",
-    "website": "http://www.sv07elversberg.de",
-    "founded": 1907,
-    "clubColors": "Black / White",
-    "venue": "Ursapharm-Arena an der Kaiserlinde",
-    "lastUpdated": "2022-07-22T08:44:52Z"
    },
    "playedMatches": 2,
    "goals": 2,

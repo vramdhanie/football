@@ -136,6 +136,25 @@
     {
      "position": 7,
      "team": {
+      "id": 6,
+      "name": "FC Schalke 04",
+      "shortName": "Schalke",
+      "tla": "S04",
+      "crest": "https://crests.football-data.org/6.png"
+     },
+     "playedGames": 3,
+     "form": null,
+     "won": 1,
+     "draw": 1,
+     "lost": 1,
+     "points": 4,
+     "goalsFor": 3,
+     "goalsAgainst": 4,
+     "goalDifference": -1
+    },
+    {
+     "position": 8,
+     "team": {
       "id": 3,
       "name": "Bayer 04 Leverkusen",
       "shortName": "Leverkusen",
@@ -153,7 +172,7 @@
      "goalDifference": 3
     },
     {
-     "position": 8,
+     "position": 9,
      "team": {
       "id": 721,
       "name": "RB Leipzig",
@@ -172,7 +191,7 @@
      "goalDifference": 1
     },
     {
-     "position": 9,
+     "position": 10,
      "team": {
       "id": 10,
       "name": "VfB Stuttgart",
@@ -191,7 +210,7 @@
      "goalDifference": -1
     },
     {
-     "position": 10,
+     "position": 11,
      "team": {
       "id": 12,
       "name": "SV Werder Bremen",
@@ -210,7 +229,7 @@
      "goalDifference": -1
     },
     {
-     "position": 11,
+     "position": 12,
      "team": {
       "id": 1,
       "name": "1. FC Köln",
@@ -229,7 +248,7 @@
      "goalDifference": -2
     },
     {
-     "position": 12,
+     "position": 13,
      "team": {
       "id": 29,
       "name": "SC Paderborn 07",
@@ -248,7 +267,7 @@
      "goalDifference": -1
     },
     {
-     "position": 13,
+     "position": 14,
      "team": {
       "id": 19,
       "name": "Eintracht Frankfurt",
@@ -267,25 +286,6 @@
      "goalDifference": -3
     },
     {
-     "position": 14,
-     "team": {
-      "id": 6,
-      "name": "FC Schalke 04",
-      "shortName": "Schalke",
-      "tla": "S04",
-      "crest": "https://crests.football-data.org/6.png"
-     },
-     "playedGames": 2,
-     "form": null,
-     "won": 0,
-     "draw": 1,
-     "lost": 1,
-     "points": 1,
-     "goalsFor": 0,
-     "goalsAgainst": 3,
-     "goalDifference": -3
-    },
-    {
      "position": 15,
      "team": {
       "id": 28,
@@ -294,15 +294,15 @@
       "tla": "UNB",
       "crest": "https://crests.football-data.org/28.png"
      },
-     "playedGames": 2,
+     "playedGames": 3,
      "form": null,
      "won": 0,
      "draw": 1,
-     "lost": 1,
+     "lost": 2,
      "points": 1,
-     "goalsFor": 3,
-     "goalsAgainst": 7,
-     "goalDifference": -4
+     "goalsFor": 4,
+     "goalsAgainst": 10,
+     "goalDifference": -6
     },
     {
      "position": 16,
