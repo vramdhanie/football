@@ -133,7 +133,7 @@
     "venue": "Stade Bollaert-Delelis",
     "lastUpdated": "2026-01-19T12:05:38Z"
    },
-   "playedMatches": 3,
+   "playedMatches": 4,
    "goals": 3,
    "assists": 1,
    "penalties": 3
@@ -164,7 +164,7 @@
     "venue": "MMArena",
     "lastUpdated": "2026-05-01T08:34:30Z"
    },
-   "playedMatches": 3,
+   "playedMatches": 4,
    "goals": 3,
    "assists": null,
    "penalties": 1
@@ -233,6 +233,37 @@
   },
   {
    "player": {
+    "id": 188087,
+    "name": "Tiago Santos",
+    "firstName": "",
+    "lastName": "Tiago Santos",
+    "dateOfBirth": "2002-07-23",
+    "nationality": "Portugal",
+    "section": "Defence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:38Z"
+   },
+   "team": {
+    "id": 521,
+    "name": "Lille OSC",
+    "shortName": "Lille",
+    "tla": "LIL",
+    "crest": "https://crests.football-data.org/521.png",
+    "address": "Grand Rue 59, 780 Camphin-en-Pévèle Lille null",
+    "website": "http://www.losc.fr",
+    "founded": 1944,
+    "clubColors": "White / Red",
+    "venue": "Stade Pierre-Mauroy",
+    "lastUpdated": "2024-07-29T17:19:48Z"
+   },
+   "playedMatches": 4,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 33154,
     "name": "Ferrán Torres",
     "firstName": "",
@@ -291,37 +322,6 @@
    "playedMatches": 3,
    "goals": 2,
    "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 245336,
-    "name": "Gessime Yassine",
-    "firstName": "Gessime",
-    "lastName": "Yassine",
-    "dateOfBirth": "2005-11-22",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-06T13:59:57Z"
-   },
-   "team": {
-    "id": 576,
-    "name": "RC Strasbourg Alsace",
-    "shortName": "Strasbourg",
-    "tla": "RC ",
-    "crest": "https://crests.football-data.org/576.png",
-    "address": "12 Rue Extenwoerth Strasbourg 67000",
-    "website": "http://www.rcstrasbourgalsace.fr",
-    "founded": 1906,
-    "clubColors": "Blue / White",
-    "venue": "Stade de la Meinau",
-    "lastUpdated": "2022-02-19T08:40:46Z"
-   },
-   "playedMatches": 4,
-   "goals": 2,
-   "assists": 1,
    "penalties": null
   }
  ]

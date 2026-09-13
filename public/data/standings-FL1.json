@@ -39,7 +39,26 @@
      "goalDifference": 4
     },
     {
-     "position": 2,
+     "position": 1,
+     "team": {
+      "id": 521,
+      "name": "Lille OSC",
+      "shortName": "Lille",
+      "tla": "LIL",
+      "crest": "https://crests.football-data.org/521.png"
+     },
+     "playedGames": 4,
+     "form": null,
+     "won": 3,
+     "draw": 1,
+     "lost": 0,
+     "points": 10,
+     "goalsFor": 6,
+     "goalsAgainst": 2,
+     "goalDifference": 4
+    },
+    {
+     "position": 3,
      "team": {
       "id": 529,
       "name": "Stade Rennais FC 1901",
@@ -58,7 +77,7 @@
      "goalDifference": 3
     },
     {
-     "position": 3,
+     "position": 4,
      "team": {
       "id": 523,
       "name": "Olympique Lyonnais",
@@ -77,7 +96,7 @@
      "goalDifference": 4
     },
     {
-     "position": 3,
+     "position": 4,
      "team": {
       "id": 1045,
       "name": "Paris FC",
@@ -94,25 +113,6 @@
      "goalsFor": 6,
      "goalsAgainst": 2,
      "goalDifference": 4
-    },
-    {
-     "position": 5,
-     "team": {
-      "id": 521,
-      "name": "Lille OSC",
-      "shortName": "Lille",
-      "tla": "LIL",
-      "crest": "https://crests.football-data.org/521.png"
-     },
-     "playedGames": 3,
-     "form": null,
-     "won": 2,
-     "draw": 1,
-     "lost": 0,
-     "points": 7,
-     "goalsFor": 5,
-     "goalsAgainst": 2,
-     "goalDifference": 3
     },
     {
      "position": 6,
@@ -199,15 +199,15 @@
       "tla": "ETR",
       "crest": "https://crests.football-data.org/531.png"
      },
-     "playedGames": 3,
+     "playedGames": 4,
      "form": null,
      "won": 1,
      "draw": 1,
-     "lost": 1,
+     "lost": 2,
      "points": 4,
      "goalsFor": 4,
-     "goalsAgainst": 7,
-     "goalDifference": -3
+     "goalsAgainst": 8,
+     "goalDifference": -4
     },
     {
      "position": 11,

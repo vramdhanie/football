@@ -257,7 +257,38 @@
     "venue": "Red Bull Arena",
     "lastUpdated": "2022-02-19T09:03:00Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 169295,
+    "name": "Antonio Nusa",
+    "firstName": "Antonio",
+    "lastName": "Nusa",
+    "dateOfBirth": "2005-04-17",
+    "nationality": "Norway",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-20T16:51:41Z"
+   },
+   "team": {
+    "id": 721,
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL",
+    "crest": "https://crests.football-data.org/721.png",
+    "address": "Neumarkt 29-33 Leipzig 04109",
+    "website": "http://www.dierotenbullen.com",
+    "founded": 2009,
+    "clubColors": "White / Red",
+    "venue": "Red Bull Arena",
+    "lastUpdated": "2022-02-19T09:03:00Z"
+   },
+   "playedMatches": 3,
    "goals": 2,
    "assists": null,
    "penalties": null
@@ -289,37 +320,6 @@
     "lastUpdated": "2024-07-29T17:14:25Z"
    },
    "playedMatches": 3,
-   "goals": 2,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 213737,
-    "name": "David Mokwa Ntusu",
-    "firstName": "David",
-    "lastName": "Mokwa",
-    "dateOfBirth": "2004-05-03",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2025-01-19T09:41:21Z"
-   },
-   "team": {
-    "id": 719,
-    "name": "SV 07 Elversberg",
-    "shortName": "Elversberg",
-    "tla": "ELV",
-    "crest": "https://crests.football-data.org/719.png",
-    "address": "St. Ingberter Straße 8 Spiesen-Elversberg 66583",
-    "website": "http://www.sv07elversberg.de",
-    "founded": 1907,
-    "clubColors": "Black / White",
-    "venue": "Ursapharm-Arena an der Kaiserlinde",
-    "lastUpdated": "2022-07-22T08:44:52Z"
-   },
-   "playedMatches": 2,
    "goals": 2,
    "assists": null,
    "penalties": null

@@ -257,7 +257,38 @@
     "venue": "Stadio Comunale Brianteo",
     "lastUpdated": "2025-02-17T16:54:02Z"
    },
-   "playedMatches": 2,
+   "playedMatches": 3,
+   "goals": 2,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 246341,
+    "name": "Tiago Gabriel",
+    "firstName": "",
+    "lastName": "Tiago Gabriel",
+    "dateOfBirth": "2004-12-26",
+    "nationality": "Portugal",
+    "section": "Defence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:17Z"
+   },
+   "team": {
+    "id": 5890,
+    "name": "US Lecce",
+    "shortName": "Lecce",
+    "tla": "USL",
+    "crest": "https://crests.football-data.org/5890.png",
+    "address": "Via Templari 11 Lecce 73100",
+    "website": "http://www.uslecce.it",
+    "founded": 1908,
+    "clubColors": "Yellow / Red / Navy Blue",
+    "venue": "Stadio Comunale Via Del Mare",
+    "lastUpdated": "2022-02-22T14:17:48Z"
+   },
+   "playedMatches": 4,
    "goals": 2,
    "assists": null,
    "penalties": null
@@ -289,37 +320,6 @@
     "lastUpdated": "2024-04-09T16:20:58Z"
    },
    "playedMatches": 4,
-   "goals": 2,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 4119,
-    "name": "Che Adams",
-    "firstName": "Ché",
-    "lastName": "Adams",
-    "dateOfBirth": "1996-07-13",
-    "nationality": "Scotland",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:32Z"
-   },
-   "team": {
-    "id": 586,
-    "name": "Torino FC",
-    "shortName": "Torino",
-    "tla": "TOR",
-    "crest": "https://crests.football-data.org/586.png",
-    "address": "Via Arcivescovado 1 Torino 10122",
-    "website": "http://www.torinofc.it",
-    "founded": 1894,
-    "clubColors": "Brown / White",
-    "venue": "Stadio Olimpico di Torino",
-    "lastUpdated": "2024-04-09T16:20:07Z"
-   },
-   "playedMatches": 3,
    "goals": 2,
    "assists": null,
    "penalties": null
