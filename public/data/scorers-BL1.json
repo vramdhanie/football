@@ -47,6 +47,37 @@
   },
   {
    "player": {
+    "id": 1826,
+    "name": "Patrik Schick",
+    "firstName": "Patrik",
+    "lastName": "Schick",
+    "dateOfBirth": "1996-01-24",
+    "nationality": "Czech Republic",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T10:55:34Z"
+   },
+   "team": {
+    "id": 3,
+    "name": "Bayer 04 Leverkusen",
+    "shortName": "Leverkusen",
+    "tla": "B04",
+    "crest": "https://crests.football-data.org/3.png",
+    "address": "Bismarckstr. 122-124 Leverkusen 51373",
+    "website": "http://www.bayer04.de",
+    "founded": 1904,
+    "clubColors": "Red / White / Black",
+    "venue": "BayArena",
+    "lastUpdated": "2022-02-25T16:43:07Z"
+   },
+   "playedMatches": 3,
+   "goals": 3,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 145293,
     "name": "Yuito Suzuki",
     "firstName": "Yuito",
@@ -70,6 +101,99 @@
     "clubColors": "Red / White",
     "venue": "Schwarzwald-Stadion",
     "lastUpdated": "2024-07-29T17:13:41Z"
+   },
+   "playedMatches": 3,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 156629,
+    "name": "Igor Matanovic",
+    "firstName": "Igor",
+    "lastName": "Matanović",
+    "dateOfBirth": "2003-03-31",
+    "nationality": "Croatia",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:29Z"
+   },
+   "team": {
+    "id": 17,
+    "name": "SC Freiburg",
+    "shortName": "Freiburg",
+    "tla": "SCF",
+    "crest": "https://crests.football-data.org/17.png",
+    "address": "Schwarzwaldstraße 193 Freiburg 79117",
+    "website": "http://www.scfreiburg.com",
+    "founded": 1912,
+    "clubColors": "Red / White",
+    "venue": "Schwarzwald-Stadion",
+    "lastUpdated": "2024-07-29T17:13:41Z"
+   },
+   "playedMatches": 3,
+   "goals": 3,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 6661,
+    "name": "Michael Gregoritsch",
+    "firstName": "Michael",
+    "lastName": "Gregoritsch",
+    "dateOfBirth": "1994-04-18",
+    "nationality": "Austria",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:29Z"
+   },
+   "team": {
+    "id": 16,
+    "name": "FC Augsburg",
+    "shortName": "Augsburg",
+    "tla": "FCA",
+    "crest": "https://crests.football-data.org/16.png",
+    "address": "Donauwörther Straße 170 Augsburg 86154",
+    "website": "http://www.fcaugsburg.de",
+    "founded": 1907,
+    "clubColors": "Red / Green / White",
+    "venue": "WWK Arena",
+    "lastUpdated": "2023-02-28T07:59:40Z"
+   },
+   "playedMatches": 3,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 45593,
+    "name": "Phillip Tietz",
+    "firstName": "Phillip",
+    "lastName": "Tietz",
+    "dateOfBirth": "1997-07-09",
+    "nationality": "Germany",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-20T16:51:42Z"
+   },
+   "team": {
+    "id": 15,
+    "name": "1. FSV Mainz 05",
+    "shortName": "Mainz",
+    "tla": "M05",
+    "crest": "https://crests.football-data.org/15.png",
+    "address": "Dr.-Martin-Luther-King-Weg 20 Mainz 55122",
+    "website": "http://www.mainz05.de",
+    "founded": 1905,
+    "clubColors": "Red / White",
+    "venue": "Opel Arena",
+    "lastUpdated": "2023-02-28T07:59:34Z"
    },
    "playedMatches": 3,
    "goals": 3,
@@ -198,130 +322,6 @@
    "playedMatches": 2,
    "goals": 2,
    "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 1826,
-    "name": "Patrik Schick",
-    "firstName": "Patrik",
-    "lastName": "Schick",
-    "dateOfBirth": "1996-01-24",
-    "nationality": "Czech Republic",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T10:55:34Z"
-   },
-   "team": {
-    "id": 3,
-    "name": "Bayer 04 Leverkusen",
-    "shortName": "Leverkusen",
-    "tla": "B04",
-    "crest": "https://crests.football-data.org/3.png",
-    "address": "Bismarckstr. 122-124 Leverkusen 51373",
-    "website": "http://www.bayer04.de",
-    "founded": 1904,
-    "clubColors": "Red / White / Black",
-    "venue": "BayArena",
-    "lastUpdated": "2022-02-25T16:43:07Z"
-   },
-   "playedMatches": 3,
-   "goals": 2,
-   "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 274045,
-    "name": "Christian Kofane",
-    "firstName": "Christian",
-    "lastName": "Kofane",
-    "dateOfBirth": "2006-07-26",
-    "nationality": "Cameroon",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2025-02-07T09:44:56Z"
-   },
-   "team": {
-    "id": 3,
-    "name": "Bayer 04 Leverkusen",
-    "shortName": "Leverkusen",
-    "tla": "B04",
-    "crest": "https://crests.football-data.org/3.png",
-    "address": "Bismarckstr. 122-124 Leverkusen 51373",
-    "website": "http://www.bayer04.de",
-    "founded": 1904,
-    "clubColors": "Red / White / Black",
-    "venue": "BayArena",
-    "lastUpdated": "2022-02-25T16:43:07Z"
-   },
-   "playedMatches": 3,
-   "goals": 2,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 9848,
-    "name": "Thijs Dallinga",
-    "firstName": "Thijs",
-    "lastName": "Dallinga",
-    "dateOfBirth": "2000-08-03",
-    "nationality": "Netherlands",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-21T10:30:03Z"
-   },
-   "team": {
-    "id": 1,
-    "name": "1. FC Köln",
-    "shortName": "1. FC Köln",
-    "tla": "KOE",
-    "crest": "https://crests.football-data.org/1.png",
-    "address": "Franz-Kremer-Allee 1 Köln 50937",
-    "website": "http://www.fc-koeln.de",
-    "founded": 1948,
-    "clubColors": "Red / White",
-    "venue": "RheinEnergieSTADION",
-    "lastUpdated": "2022-02-25T16:49:46Z"
-   },
-   "playedMatches": 1,
-   "goals": 2,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 211,
-    "name": "Sehrou Guirassy",
-    "firstName": "Serhou",
-    "lastName": "Guirassy",
-    "dateOfBirth": "1996-03-12",
-    "nationality": "Guinea",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": 9,
-    "lastUpdated": "2026-07-20T16:51:43Z"
-   },
-   "team": {
-    "id": 4,
-    "name": "Borussia Dortmund",
-    "shortName": "Dortmund",
-    "tla": "BVB",
-    "crest": "https://crests.football-data.org/4.png",
-    "address": "Rheinlanddamm 207-209 Dortmund 44137",
-    "website": "http://www.bvb.de",
-    "founded": 1909,
-    "clubColors": "Black / Yellow",
-    "venue": "Signal Iduna Park",
-    "lastUpdated": "2022-02-25T16:50:16Z"
-   },
-   "playedMatches": 3,
-   "goals": 2,
-   "assists": 2,
    "penalties": null
   }
  ]

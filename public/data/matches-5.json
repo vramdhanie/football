@@ -225,7 +225,7 @@
    "matchday": 1,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -291,7 +291,7 @@
    "matchday": 3,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-12T10:20:31Z",
+   "lastUpdated": "2026-09-13T01:32:01Z",
    "homeTeam": {
     "id": 719,
     "name": "SV 07 Elversberg",
@@ -350,7 +350,7 @@
    "matchday": 4,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-12T10:20:31Z",
+   "lastUpdated": "2026-09-13T01:32:04Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -468,7 +468,7 @@
    "matchday": 2,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 5720,
     "name": "Viking FK",
@@ -586,7 +586,7 @@
    "matchday": 3,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -763,7 +763,7 @@
    "matchday": 4,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 78,
     "name": "Club Atlético de Madrid",
@@ -940,7 +940,7 @@
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 521,
     "name": "Lille OSC",
@@ -1117,7 +1117,7 @@
    "matchday": 6,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -1471,7 +1471,7 @@
    "matchday": 7,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1589,7 +1589,7 @@
    "matchday": 8,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",

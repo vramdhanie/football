@@ -353,11 +353,11 @@
    },
    "id": 558600,
    "utcDate": "2026-09-12T16:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 4,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-12T10:20:32Z",
+   "lastUpdated": "2026-09-12T19:55:20Z",
    "homeTeam": {
     "id": 110,
     "name": "SS Lazio",
@@ -373,15 +373,15 @@
     "crest": "https://crests.football-data.org/98.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 0
     }
    },
    "odds": {

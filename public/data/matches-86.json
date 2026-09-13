@@ -416,7 +416,7 @@
    "matchday": 1,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 86,
     "name": "Real Madrid CF",
@@ -478,11 +478,11 @@
    },
    "id": 564677,
    "utcDate": "2026-09-12T19:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 5,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-12T10:20:31Z",
+   "lastUpdated": "2026-09-12T22:59:52Z",
    "homeTeam": {
     "id": 86,
     "name": "Real Madrid CF",
@@ -498,21 +498,28 @@
     "crest": "https://crests.football-data.org/87.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 4,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 3,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 56995,
+     "name": "Víctor García Verdura",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
@@ -541,7 +548,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-12T10:20:31Z",
+   "lastUpdated": "2026-09-13T01:32:03Z",
    "homeTeam": {
     "id": 285,
     "name": "Elche CF",
@@ -718,7 +725,7 @@
    "matchday": 2,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 100,
     "name": "AS Roma",
@@ -836,7 +843,7 @@
    "matchday": 3,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 86,
     "name": "Real Madrid CF",
@@ -1013,7 +1020,7 @@
    "matchday": 4,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 1899,
     "name": "PAE AEK",
@@ -1190,7 +1197,7 @@
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 86,
     "name": "Real Madrid CF",
@@ -1367,7 +1374,7 @@
    "matchday": 6,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 57,
     "name": "Arsenal FC",
@@ -1721,7 +1728,7 @@
    "matchday": 7,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 86,
     "name": "Real Madrid CF",
@@ -1839,7 +1846,7 @@
    "matchday": 8,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-12T15:20:08Z",
+   "lastUpdated": "2026-09-12T20:20:16Z",
    "homeTeam": {
     "id": 1887,
     "name": "FK Shakhtar Donetsk",

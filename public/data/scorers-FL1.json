@@ -102,7 +102,7 @@
     "venue": "Stade Sébastien Charléty",
     "lastUpdated": "2022-06-19T00:04:35Z"
    },
-   "playedMatches": 3,
+   "playedMatches": 4,
    "goals": 4,
    "assists": null,
    "penalties": 2
@@ -202,6 +202,37 @@
   },
   {
    "player": {
+    "id": 244696,
+    "name": "Paris Brunner",
+    "firstName": "Paris",
+    "lastName": "Brunner",
+    "dateOfBirth": "2006-02-15",
+    "nationality": "Germany",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:38Z"
+   },
+   "team": {
+    "id": 548,
+    "name": "AS Monaco FC",
+    "shortName": "Monaco",
+    "tla": "ASM",
+    "crest": "https://crests.football-data.org/548.png",
+    "address": "Avenue des Castellans Monaco 98000",
+    "website": "http://www.asmonaco.com",
+    "founded": 1919,
+    "clubColors": "Red / White",
+    "venue": "Stade Louis II.",
+    "lastUpdated": "2021-11-06T13:27:09Z"
+   },
+   "playedMatches": 4,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 33154,
     "name": "Ferrán Torres",
     "firstName": "",
@@ -288,40 +319,9 @@
     "venue": "Stade de la Meinau",
     "lastUpdated": "2022-02-19T08:40:46Z"
    },
-   "playedMatches": 3,
+   "playedMatches": 4,
    "goals": 2,
    "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 244696,
-    "name": "Paris Brunner",
-    "firstName": "Paris",
-    "lastName": "Brunner",
-    "dateOfBirth": "2006-02-15",
-    "nationality": "Germany",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-27T19:57:38Z"
-   },
-   "team": {
-    "id": 548,
-    "name": "AS Monaco FC",
-    "shortName": "Monaco",
-    "tla": "ASM",
-    "crest": "https://crests.football-data.org/548.png",
-    "address": "Avenue des Castellans Monaco 98000",
-    "website": "http://www.asmonaco.com",
-    "founded": 1919,
-    "clubColors": "Red / White",
-    "venue": "Stade Louis II.",
-    "lastUpdated": "2021-11-06T13:27:09Z"
-   },
-   "playedMatches": 3,
-   "goals": 2,
-   "assists": null,
    "penalties": null
   }
  ]
