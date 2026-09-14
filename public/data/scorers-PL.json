@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 38101,
+    "name": "Erling Haaland",
+    "firstName": "Erling",
+    "lastName": "Haaland",
+    "dateOfBirth": "2000-07-21",
+    "nationality": "Norway",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 65,
+    "name": "Manchester City FC",
+    "shortName": "Man City",
+    "tla": "MCI",
+    "crest": "https://crests.football-data.org/65.png",
+    "address": "SportCity Manchester M11 3FF",
+    "website": "https://www.mancity.com",
+    "founded": 1880,
+    "clubColors": "Sky Blue / White",
+    "venue": "Etihad Stadium",
+    "lastUpdated": "2022-02-10T19:48:37Z"
+   },
+   "playedMatches": 4,
+   "goals": 4,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 99813,
     "name": "Bukayo Saka",
     "firstName": "Bukayo",
@@ -136,37 +167,6 @@
    "playedMatches": 4,
    "goals": 3,
    "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 38101,
-    "name": "Erling Haaland",
-    "firstName": "Erling",
-    "lastName": "Haaland",
-    "dateOfBirth": "2000-07-21",
-    "nationality": "Norway",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 65,
-    "name": "Manchester City FC",
-    "shortName": "Man City",
-    "tla": "MCI",
-    "crest": "https://crests.football-data.org/65.png",
-    "address": "SportCity Manchester M11 3FF",
-    "website": "https://www.mancity.com",
-    "founded": 1880,
-    "clubColors": "Sky Blue / White",
-    "venue": "Etihad Stadium",
-    "lastUpdated": "2022-02-10T19:48:37Z"
-   },
-   "playedMatches": 4,
-   "goals": 3,
-   "assists": null,
    "penalties": null
   },
   {
