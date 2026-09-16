@@ -16,6 +16,68 @@
  "scorers": [
   {
    "player": {
+    "id": 3374,
+    "name": "Kylian Mbappé",
+    "firstName": "Kylian",
+    "lastName": "Mbappé",
+    "dateOfBirth": "1998-12-20",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 86,
+    "name": "Real Madrid CF",
+    "shortName": "Real Madrid",
+    "tla": "RMA",
+    "crest": "https://crests.football-data.org/86.png",
+    "address": "Avenida Concha Espina, 1 Madrid 28036",
+    "website": "http://www.realmadrid.com",
+    "founded": 1902,
+    "clubColors": "White / Purple",
+    "venue": "Estadio Santiago Bernabéu",
+    "lastUpdated": "2022-02-19T08:59:31Z"
+   },
+   "playedMatches": 6,
+   "goals": 7,
+   "assists": 2,
+   "penalties": 1
+  },
+  {
+   "player": {
+    "id": 180218,
+    "name": "Roberto Fernández",
+    "firstName": "",
+    "lastName": "Roberto Fernández",
+    "dateOfBirth": "2002-07-03",
+    "nationality": "Spain",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-09T17:00:03Z"
+   },
+   "team": {
+    "id": 80,
+    "name": "RCD Espanyol de Barcelona",
+    "shortName": "Espanyol",
+    "tla": "ESP",
+    "crest": "https://crests.football-data.org/80.png",
+    "address": "Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940",
+    "website": "http://www.rcdespanyol.com",
+    "founded": 1900,
+    "clubColors": "Blue / White",
+    "venue": "RCDE Stadium",
+    "lastUpdated": "2024-07-29T17:09:12Z"
+   },
+   "playedMatches": 6,
+   "goals": 6,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 115175,
     "name": "Sergio Camello",
     "firstName": "",
@@ -40,7 +102,7 @@
     "venue": "Estadio del Rayo Vallecano",
     "lastUpdated": "2024-07-29T17:10:35Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 6,
    "assists": 1,
    "penalties": null
@@ -78,37 +140,6 @@
   },
   {
    "player": {
-    "id": 3374,
-    "name": "Kylian Mbappé",
-    "firstName": "Kylian",
-    "lastName": "Mbappé",
-    "dateOfBirth": "1998-12-20",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 86,
-    "name": "Real Madrid CF",
-    "shortName": "Real Madrid",
-    "tla": "RMA",
-    "crest": "https://crests.football-data.org/86.png",
-    "address": "Avenida Concha Espina, 1 Madrid 28036",
-    "website": "http://www.realmadrid.com",
-    "founded": 1902,
-    "clubColors": "White / Purple",
-    "venue": "Estadio Santiago Bernabéu",
-    "lastUpdated": "2022-02-19T08:59:31Z"
-   },
-   "playedMatches": 5,
-   "goals": 6,
-   "assists": 1,
-   "penalties": 1
-  },
-  {
-   "player": {
     "id": 202283,
     "name": "Lamine Yamal",
     "firstName": "",
@@ -137,37 +168,6 @@
    "goals": 6,
    "assists": null,
    "penalties": 1
-  },
-  {
-   "player": {
-    "id": 180218,
-    "name": "Roberto Fernández",
-    "firstName": "",
-    "lastName": "Roberto Fernández",
-    "dateOfBirth": "2002-07-03",
-    "nationality": "Spain",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-09T17:00:03Z"
-   },
-   "team": {
-    "id": 80,
-    "name": "RCD Espanyol de Barcelona",
-    "shortName": "Espanyol",
-    "tla": "ESP",
-    "crest": "https://crests.football-data.org/80.png",
-    "address": "Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940",
-    "website": "http://www.rcdespanyol.com",
-    "founded": 1900,
-    "clubColors": "Blue / White",
-    "venue": "RCDE Stadium",
-    "lastUpdated": "2024-07-29T17:09:12Z"
-   },
-   "playedMatches": 5,
-   "goals": 5,
-   "assists": null,
-   "penalties": null
   },
   {
    "player": {
@@ -319,7 +319,7 @@
     "venue": "Estadio de Mendizorroza",
     "lastUpdated": "2022-02-19T08:23:45Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 4,
    "assists": null,
    "penalties": null
