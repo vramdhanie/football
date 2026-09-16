@@ -19,6 +19,24 @@ export interface Broadcaster {
   url: string;
 }
 
+/** Streaming services I actually subscribe to (matched on `short`).
+ * Drives the My Schedule page and the highlighted broadcast badges. */
+export const MY_SERVICES = new Set(["Peacock", "P+"]);
+
+export function isOnMyServices(competitionCode: string): boolean {
+  const b = US_BROADCASTERS[competitionCode];
+  return b !== undefined && MY_SERVICES.has(b.short);
+}
+
+/** Distinct full names of subscribed services, for display. */
+export function myServiceNames(): string[] {
+  const names = new Set<string>();
+  for (const b of Object.values(US_BROADCASTERS)) {
+    if (MY_SERVICES.has(b.short)) names.add(b.name);
+  }
+  return [...names];
+}
+
 export const US_BROADCASTERS: Record<string, Broadcaster> = {
   PL: {
     name: "Peacock / NBC",
