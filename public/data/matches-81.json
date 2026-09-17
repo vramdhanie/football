@@ -336,7 +336,7 @@
    "matchday": 1,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-16T15:20:34Z",
+   "lastUpdated": "2026-09-17T00:20:28Z",
    "homeTeam": {
     "id": 81,
     "name": "FC Barcelona",
@@ -464,11 +464,11 @@
    },
    "id": 564687,
    "utcDate": "2026-09-16T19:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-16T15:20:35Z",
+   "lastUpdated": "2026-09-16T23:34:01Z",
    "homeTeam": {
     "id": 81,
     "name": "FC Barcelona",
@@ -484,21 +484,28 @@
     "crest": "https://crests.football-data.org/5335.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 7,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 4,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 206223,
+     "name": "José Munuera Montero",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
@@ -527,7 +534,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-16T15:20:35Z",
+   "lastUpdated": "2026-09-17T01:32:03Z",
    "homeTeam": {
     "id": 559,
     "name": "Sevilla FC",
@@ -645,7 +652,7 @@
    "matchday": 2,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-16T15:20:34Z",
+   "lastUpdated": "2026-09-17T00:20:28Z",
    "homeTeam": {
     "id": 610,
     "name": "Galatasaray SK",
@@ -763,7 +770,7 @@
    "matchday": 3,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-16T15:20:34Z",
+   "lastUpdated": "2026-09-17T00:20:28Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -940,7 +947,7 @@
    "matchday": 4,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-16T15:20:34Z",
+   "lastUpdated": "2026-09-17T00:20:28Z",
    "homeTeam": {
     "id": 81,
     "name": "FC Barcelona",
@@ -1117,7 +1124,7 @@
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-16T15:20:34Z",
+   "lastUpdated": "2026-09-17T00:20:28Z",
    "homeTeam": {
     "id": 10233,
     "name": "Sabah FK",
@@ -1294,7 +1301,7 @@
    "matchday": 6,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-16T15:20:34Z",
+   "lastUpdated": "2026-09-17T00:20:28Z",
    "homeTeam": {
     "id": 81,
     "name": "FC Barcelona",
@@ -1648,7 +1655,7 @@
    "matchday": 7,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-16T15:20:34Z",
+   "lastUpdated": "2026-09-17T00:20:28Z",
    "homeTeam": {
     "id": 498,
     "name": "Sporting Clube de Portugal",
@@ -1766,7 +1773,7 @@
    "matchday": 8,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-16T15:20:34Z",
+   "lastUpdated": "2026-09-17T00:20:28Z",
    "homeTeam": {
     "id": 81,
     "name": "FC Barcelona",
@@ -2599,6 +2606,65 @@
     "shortName": "Real Madrid",
     "tla": "RMA",
     "crest": "https://crests.football-data.org/86.png"
+   },
+   "awayTeam": {
+    "id": 81,
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/81.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2224,
+    "name": "Spain",
+    "code": "ESP",
+    "flag": "https://crests.football-data.org/760.svg"
+   },
+   "competition": {
+    "id": 2014,
+    "name": "Primera Division",
+    "code": "PD",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/laliga.png"
+   },
+   "season": {
+    "id": 2518,
+    "startDate": "2026-08-16",
+    "endDate": "2027-05-30",
+    "currentMatchday": 6,
+    "winner": null
+   },
+   "id": 564980,
+   "utcDate": "2027-05-16T00:00:00Z",
+   "status": "SCHEDULED",
+   "matchday": 36,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-09-16T15:20:35Z",
+   "homeTeam": {
+    "id": 92,
+    "name": "Real Sociedad de Fútbol",
+    "shortName": "Real Sociedad",
+    "tla": "RSO",
+    "crest": "https://crests.football-data.org/92.png"
    },
    "awayTeam": {
     "id": 81,
