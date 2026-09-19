@@ -171,6 +171,37 @@
   },
   {
    "player": {
+    "id": 136113,
+    "name": "Daniel Maldini",
+    "firstName": "Daniel",
+    "lastName": "Maldini",
+    "dateOfBirth": "2001-10-11",
+    "nationality": "Italy",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:16Z"
+   },
+   "team": {
+    "id": 104,
+    "name": "Cagliari Calcio",
+    "shortName": "Cagliari",
+    "tla": "CAG",
+    "crest": "https://crests.football-data.org/104.png",
+    "address": "Viale la Plaia 15 Cagliari 09123",
+    "website": "http://www.cagliaricalcio.net",
+    "founded": 1920,
+    "clubColors": "Red / Navy Blue / White",
+    "venue": "Sardegna Arena",
+    "lastUpdated": "2024-04-09T16:20:43Z"
+   },
+   "playedMatches": 5,
+   "goals": 3,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
     "id": 250304,
     "name": "Franco Mastantuono",
     "firstName": "Franco",
@@ -226,7 +257,7 @@
     "venue": "Dacia Arena",
     "lastUpdated": "2022-02-24T07:45:52Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 2,
    "assists": 1,
    "penalties": null
@@ -291,37 +322,6 @@
    "playedMatches": 3,
    "goals": 2,
    "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 215433,
-    "name": "Francesco Esposito",
-    "firstName": "Francesco",
-    "lastName": "Esposito",
-    "dateOfBirth": "2005-06-28",
-    "nationality": "Italy",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-03-31T09:41:46Z"
-   },
-   "team": {
-    "id": 108,
-    "name": "FC Internazionale Milano",
-    "shortName": "Inter",
-    "tla": "INT",
-    "crest": "https://crests.football-data.org/108.png",
-    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
-    "website": "http://www.inter.it",
-    "founded": 1908,
-    "clubColors": "Blue / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2021-11-24T14:55:58Z"
-   },
-   "playedMatches": 4,
-   "goals": 2,
-   "assists": 1,
    "penalties": null
   }
  ]

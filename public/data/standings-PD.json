@@ -123,12 +123,12 @@
       "tla": "ALA",
       "crest": "https://crests.football-data.org/263.png"
      },
-     "playedGames": 6,
+     "playedGames": 7,
      "form": null,
      "won": 3,
-     "draw": 1,
+     "draw": 2,
      "lost": 2,
-     "points": 10,
+     "points": 11,
      "goalsFor": 11,
      "goalsAgainst": 6,
      "goalDifference": 5
@@ -161,18 +161,56 @@
       "tla": "ATH",
       "crest": "https://crests.football-data.org/77.png"
      },
-     "playedGames": 5,
+     "playedGames": 6,
      "form": null,
      "won": 2,
-     "draw": 1,
+     "draw": 2,
      "lost": 2,
-     "points": 7,
+     "points": 8,
      "goalsFor": 7,
      "goalsAgainst": 6,
      "goalDifference": 1
     },
     {
      "position": 9,
+     "team": {
+      "id": 87,
+      "name": "Rayo Vallecano de Madrid",
+      "shortName": "Rayo Vallecano",
+      "tla": "RAY",
+      "crest": "https://crests.football-data.org/87.png"
+     },
+     "playedGames": 7,
+     "form": null,
+     "won": 2,
+     "draw": 2,
+     "lost": 3,
+     "points": 8,
+     "goalsFor": 11,
+     "goalsAgainst": 16,
+     "goalDifference": -5
+    },
+    {
+     "position": 10,
+     "team": {
+      "id": 79,
+      "name": "CA Osasuna",
+      "shortName": "Osasuna",
+      "tla": "OSA",
+      "crest": "https://crests.football-data.org/79.png"
+     },
+     "playedGames": 7,
+     "form": null,
+     "won": 2,
+     "draw": 2,
+     "lost": 3,
+     "points": 8,
+     "goalsFor": 6,
+     "goalsAgainst": 13,
+     "goalDifference": -7
+    },
+    {
+     "position": 11,
      "team": {
       "id": 80,
       "name": "RCD Espanyol de Barcelona",
@@ -191,7 +229,7 @@
      "goalDifference": 0
     },
     {
-     "position": 10,
+     "position": 12,
      "team": {
       "id": 5335,
       "name": "Real Racing Club de Santander",
@@ -210,26 +248,7 @@
      "goalDifference": -5
     },
     {
-     "position": 11,
-     "team": {
-      "id": 87,
-      "name": "Rayo Vallecano de Madrid",
-      "shortName": "Rayo Vallecano",
-      "tla": "RAY",
-      "crest": "https://crests.football-data.org/87.png"
-     },
-     "playedGames": 6,
-     "form": null,
-     "won": 2,
-     "draw": 1,
-     "lost": 3,
-     "points": 7,
-     "goalsFor": 10,
-     "goalsAgainst": 15,
-     "goalDifference": -5
-    },
-    {
-     "position": 12,
+     "position": 13,
      "team": {
       "id": 92,
       "name": "Real Sociedad de Fútbol",
@@ -246,25 +265,6 @@
      "goalsFor": 6,
      "goalsAgainst": 11,
      "goalDifference": -5
-    },
-    {
-     "position": 13,
-     "team": {
-      "id": 79,
-      "name": "CA Osasuna",
-      "shortName": "Osasuna",
-      "tla": "OSA",
-      "crest": "https://crests.football-data.org/79.png"
-     },
-     "playedGames": 6,
-     "form": null,
-     "won": 2,
-     "draw": 1,
-     "lost": 3,
-     "points": 7,
-     "goalsFor": 5,
-     "goalsAgainst": 12,
-     "goalDifference": -7
     },
     {
      "position": 14,
