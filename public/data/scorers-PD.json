@@ -133,7 +133,7 @@
     "venue": "RCDE Stadium",
     "lastUpdated": "2024-07-29T17:09:12Z"
    },
-   "playedMatches": 6,
+   "playedMatches": 7,
    "goals": 6,
    "assists": null,
    "penalties": null
@@ -233,6 +233,37 @@
   },
   {
    "player": {
+    "id": 214497,
+    "name": "Fer Niño",
+    "firstName": "",
+    "lastName": "Fer Niño",
+    "dateOfBirth": "2000-10-24",
+    "nationality": "Spain",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2023-09-18T09:02:26Z"
+   },
+   "team": {
+    "id": 285,
+    "name": "Elche CF",
+    "shortName": "Elche",
+    "tla": "ELC",
+    "crest": "https://crests.football-data.org/285.png",
+    "address": "Avenida Manuel Martínez Valero, 3 Elche 03208",
+    "website": "http://www.elchecf.es",
+    "founded": 1923,
+    "clubColors": "White / Green",
+    "venue": "Estadio Manuel Martínez Valero",
+    "lastUpdated": "2022-02-24T07:42:28Z"
+   },
+   "playedMatches": 7,
+   "goals": 5,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 213278,
     "name": "Álex Baena",
     "firstName": "",
@@ -292,37 +323,6 @@
    "goals": 4,
    "assists": 2,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 2237,
-    "name": "Ante Budimir",
-    "firstName": "Ante",
-    "lastName": "Budimir",
-    "dateOfBirth": "1991-07-22",
-    "nationality": "Croatia",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
-   },
-   "team": {
-    "id": 79,
-    "name": "CA Osasuna",
-    "shortName": "Osasuna",
-    "tla": "OSA",
-    "crest": "https://crests.football-data.org/79.png",
-    "address": "Calle del Sadar, s/n Pamplona 31006",
-    "website": "http://www.osasuna.es",
-    "founded": 1920,
-    "clubColors": "Red / Navy Blue",
-    "venue": "Estadio El Sadar",
-    "lastUpdated": "2024-07-29T17:09:06Z"
-   },
-   "playedMatches": 6,
-   "goals": 4,
-   "assists": null,
-   "penalties": 3
   }
  ]
 }

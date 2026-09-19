@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 113765,
+    "name": "Michael Olise",
+    "firstName": "Michael",
+    "lastName": "Olise",
+    "dateOfBirth": "2001-12-12",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 5,
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/5.png",
+    "address": "Säbenerstr. 51 München 81547",
+    "website": "http://www.fcbayern.de",
+    "founded": 1900,
+    "clubColors": "Red / White / Blue",
+    "venue": "Allianz Arena",
+    "lastUpdated": "2024-07-09T17:26:37Z"
+   },
+   "playedMatches": 4,
+   "goals": 4,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 192207,
     "name": "Younes Ebnoutalib",
     "firstName": "Younes",
@@ -233,6 +264,37 @@
   },
   {
    "player": {
+    "id": 8004,
+    "name": "Harry Kane",
+    "firstName": "Harry",
+    "lastName": "Kane",
+    "dateOfBirth": "1993-07-28",
+    "nationality": "England",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:29Z"
+   },
+   "team": {
+    "id": 5,
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/5.png",
+    "address": "Säbenerstr. 51 München 81547",
+    "website": "http://www.fcbayern.de",
+    "founded": 1900,
+    "clubColors": "Red / White / Blue",
+    "venue": "Allianz Arena",
+    "lastUpdated": "2024-07-09T17:26:37Z"
+   },
+   "playedMatches": 4,
+   "goals": 3,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
     "id": 6523,
     "name": "Josha Vagnoman",
     "firstName": "Josha",
@@ -260,68 +322,6 @@
    "playedMatches": 3,
    "goals": 2,
    "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 6634,
-    "name": "Ridle Baku",
-    "firstName": "Ridle",
-    "lastName": "Baku",
-    "dateOfBirth": "1998-04-08",
-    "nationality": "Germany",
-    "section": "Defence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-20T16:51:41Z"
-   },
-   "team": {
-    "id": 721,
-    "name": "RB Leipzig",
-    "shortName": "RB Leipzig",
-    "tla": "RBL",
-    "crest": "https://crests.football-data.org/721.png",
-    "address": "Neumarkt 29-33 Leipzig 04109",
-    "website": "http://www.dierotenbullen.com",
-    "founded": 2009,
-    "clubColors": "White / Red",
-    "venue": "Red Bull Arena",
-    "lastUpdated": "2022-02-19T09:03:00Z"
-   },
-   "playedMatches": 3,
-   "goals": 2,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 169295,
-    "name": "Antonio Nusa",
-    "firstName": "Antonio",
-    "lastName": "Nusa",
-    "dateOfBirth": "2005-04-17",
-    "nationality": "Norway",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-20T16:51:41Z"
-   },
-   "team": {
-    "id": 721,
-    "name": "RB Leipzig",
-    "shortName": "RB Leipzig",
-    "tla": "RBL",
-    "crest": "https://crests.football-data.org/721.png",
-    "address": "Neumarkt 29-33 Leipzig 04109",
-    "website": "http://www.dierotenbullen.com",
-    "founded": 2009,
-    "clubColors": "White / Red",
-    "venue": "Red Bull Arena",
-    "lastUpdated": "2022-02-19T09:03:00Z"
-   },
-   "playedMatches": 3,
-   "goals": 2,
-   "assists": 2,
    "penalties": null
   }
  ]
