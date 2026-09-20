@@ -40,7 +40,7 @@
     "venue": "Stadio Olimpico",
     "lastUpdated": "2025-02-17T16:53:31Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 6,
    "assists": null,
    "penalties": null
@@ -109,6 +109,37 @@
   },
   {
    "player": {
+    "id": 3220,
+    "name": "Lautaro Martínez",
+    "firstName": "Lautaro",
+    "lastName": "Martínez",
+    "dateOfBirth": "1997-08-22",
+    "nationality": "Argentina",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:29Z"
+   },
+   "team": {
+    "id": 108,
+    "name": "FC Internazionale Milano",
+    "shortName": "Inter",
+    "tla": "INT",
+    "crest": "https://crests.football-data.org/108.png",
+    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+    "website": "http://www.inter.it",
+    "founded": 1908,
+    "clubColors": "Blue / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "lastUpdated": "2021-11-24T14:55:58Z"
+   },
+   "playedMatches": 5,
+   "goals": 4,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 2200,
     "name": "Davide Frattesi",
     "firstName": "Davide",
@@ -133,7 +164,7 @@
     "venue": "Stadio Olimpico",
     "lastUpdated": "2024-04-09T16:20:32Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 3,
    "assists": null,
    "penalties": null
@@ -289,37 +320,6 @@
     "lastUpdated": "2025-02-17T16:52:41Z"
    },
    "playedMatches": 4,
-   "goals": 2,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 1754,
-    "name": "Hakan Çalhanoğlu",
-    "firstName": "Hakan",
-    "lastName": "Çalhanoğlu",
-    "dateOfBirth": "1994-02-08",
-    "nationality": "Turkey",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:31Z"
-   },
-   "team": {
-    "id": 108,
-    "name": "FC Internazionale Milano",
-    "shortName": "Inter",
-    "tla": "INT",
-    "crest": "https://crests.football-data.org/108.png",
-    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
-    "website": "http://www.inter.it",
-    "founded": 1908,
-    "clubColors": "Blue / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2021-11-24T14:55:58Z"
-   },
-   "playedMatches": 3,
    "goals": 2,
    "assists": null,
    "penalties": null

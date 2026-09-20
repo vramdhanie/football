@@ -40,8 +40,8 @@
     "venue": "Camp Nou",
     "lastUpdated": "2024-07-29T17:09:22Z"
    },
-   "playedMatches": 6,
-   "goals": 9,
+   "playedMatches": 7,
+   "goals": 12,
    "assists": 2,
    "penalties": 3
   },
@@ -133,9 +133,9 @@
     "venue": "Camp Nou",
     "lastUpdated": "2024-07-29T17:09:22Z"
    },
-   "playedMatches": 6,
+   "playedMatches": 7,
    "goals": 7,
-   "assists": 2,
+   "assists": 4,
    "penalties": 1
   },
   {
@@ -195,7 +195,7 @@
     "venue": "Campos de Sport de El Sardinero",
     "lastUpdated": "2023-04-28T08:38:16Z"
    },
-   "playedMatches": 6,
+   "playedMatches": 7,
    "goals": 6,
    "assists": null,
    "penalties": null

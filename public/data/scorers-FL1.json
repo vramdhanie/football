@@ -102,9 +102,9 @@
     "venue": "Stade Sébastien Charléty",
     "lastUpdated": "2022-06-19T00:04:35Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 4,
-   "assists": null,
+   "assists": 1,
    "penalties": 2
   },
   {
@@ -195,7 +195,7 @@
     "venue": "MMArena",
     "lastUpdated": "2026-05-01T08:34:30Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 3,
    "assists": null,
    "penalties": 1
@@ -226,7 +226,7 @@
     "venue": "Roazhon Park",
     "lastUpdated": "2022-03-20T11:21:26Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 3,
    "assists": null,
    "penalties": 1
@@ -264,64 +264,64 @@
   },
   {
    "player": {
-    "id": 183643,
-    "name": "Franjo Ivanovic",
-    "firstName": "Franjo",
-    "lastName": "Ivanović",
-    "dateOfBirth": "2003-10-01",
-    "nationality": "Austria",
+    "id": 184726,
+    "name": "Ernest Nuamah",
+    "firstName": "Ernest",
+    "lastName": "Nuamah",
+    "dateOfBirth": "2003-11-01",
+    "nationality": "Ghana",
     "section": "Offence",
     "position": null,
     "shirtNumber": null,
-    "lastUpdated": "2026-07-14T18:17:01Z"
+    "lastUpdated": "2026-06-03T11:27:01Z"
    },
    "team": {
-    "id": 546,
-    "name": "Racing Club de Lens",
-    "shortName": "RC Lens",
-    "tla": "RCL",
-    "crest": "https://crests.football-data.org/546.png",
-    "address": "33 rue Arthur Lamendin Avion 62210",
-    "website": "http://www.rclens.fr",
-    "founded": 1906,
-    "clubColors": "Red / Yellow",
-    "venue": "Stade Bollaert-Delelis",
-    "lastUpdated": "2026-01-19T12:05:38Z"
+    "id": 523,
+    "name": "Olympique Lyonnais",
+    "shortName": "Olympique Lyon",
+    "tla": "LYO",
+    "crest": "https://crests.football-data.org/523.png",
+    "address": "350 avenue Jean Jaurès Lyon 69007",
+    "website": "http://www.olweb.fr",
+    "founded": 1896,
+    "clubColors": "White / Red / Blue",
+    "venue": "Groupama Stadium",
+    "lastUpdated": "2024-07-29T17:19:54Z"
    },
    "playedMatches": 5,
-   "goals": 2,
-   "assists": null,
+   "goals": 3,
+   "assists": 1,
    "penalties": null
   },
   {
    "player": {
-    "id": 188087,
-    "name": "Tiago Santos",
-    "firstName": "",
-    "lastName": "Tiago Santos",
-    "dateOfBirth": "2002-07-23",
-    "nationality": "Portugal",
-    "section": "Defence",
+    "id": 292172,
+    "name": "Adil Bourabaa",
+    "firstName": "Adil",
+    "lastName": "Bourabaa",
+    "dateOfBirth": "2005-03-09",
+    "nationality": "Algeria",
+    "section": "Midfield",
     "position": null,
     "shirtNumber": null,
-    "lastUpdated": "2026-07-27T19:57:38Z"
+    "lastUpdated": "2026-05-09T09:46:41Z"
    },
    "team": {
-    "id": 521,
-    "name": "Lille OSC",
-    "shortName": "Lille",
-    "tla": "LIL",
-    "crest": "https://crests.football-data.org/521.png",
-    "address": "Grand Rue 59, 780 Camphin-en-Pévèle Lille null",
-    "website": "http://www.losc.fr",
-    "founded": 1944,
-    "clubColors": "White / Red",
-    "venue": "Stade Pierre-Mauroy",
-    "lastUpdated": "2024-07-29T17:19:48Z"
+    "id": 535,
+    "name": "Le Mans FC",
+    "shortName": "Le Mans",
+    "tla": "LMF",
+    "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
+    "address": "La Pincenardière Le Mans 72230",
+    "website": "http://www.lemansfc.fr/",
+    "founded": 1985,
+    "clubColors": "Red / Yellow",
+    "venue": "MMArena",
+    "lastUpdated": "2026-05-01T08:34:30Z"
    },
-   "playedMatches": 4,
-   "goals": 2,
-   "assists": null,
+   "playedMatches": 5,
+   "goals": 3,
+   "assists": 2,
    "penalties": null
   }
  ]

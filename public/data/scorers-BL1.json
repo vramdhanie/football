@@ -78,6 +78,37 @@
   },
   {
    "player": {
+    "id": 145293,
+    "name": "Yuito Suzuki",
+    "firstName": "Yuito",
+    "lastName": "Suzuki",
+    "dateOfBirth": "2001-10-25",
+    "nationality": "Japan",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": 37,
+    "lastUpdated": "2026-07-20T16:51:42Z"
+   },
+   "team": {
+    "id": 17,
+    "name": "SC Freiburg",
+    "shortName": "Freiburg",
+    "tla": "SCF",
+    "crest": "https://crests.football-data.org/17.png",
+    "address": "Schwarzwaldstraße 193 Freiburg 79117",
+    "website": "http://www.scfreiburg.com",
+    "founded": 1912,
+    "clubColors": "Red / White",
+    "venue": "Schwarzwald-Stadion",
+    "lastUpdated": "2024-07-29T17:13:41Z"
+   },
+   "playedMatches": 4,
+   "goals": 4,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 45593,
     "name": "Phillip Tietz",
     "firstName": "Phillip",
@@ -140,37 +171,6 @@
   },
   {
    "player": {
-    "id": 145293,
-    "name": "Yuito Suzuki",
-    "firstName": "Yuito",
-    "lastName": "Suzuki",
-    "dateOfBirth": "2001-10-25",
-    "nationality": "Japan",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": 37,
-    "lastUpdated": "2026-07-20T16:51:42Z"
-   },
-   "team": {
-    "id": 17,
-    "name": "SC Freiburg",
-    "shortName": "Freiburg",
-    "tla": "SCF",
-    "crest": "https://crests.football-data.org/17.png",
-    "address": "Schwarzwaldstraße 193 Freiburg 79117",
-    "website": "http://www.scfreiburg.com",
-    "founded": 1912,
-    "clubColors": "Red / White",
-    "venue": "Schwarzwald-Stadion",
-    "lastUpdated": "2024-07-29T17:13:41Z"
-   },
-   "playedMatches": 4,
-   "goals": 3,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
     "id": 156629,
     "name": "Igor Matanovic",
     "firstName": "Igor",
@@ -225,6 +225,37 @@
     "clubColors": "Red / Green / White",
     "venue": "WWK Arena",
     "lastUpdated": "2023-02-28T07:59:40Z"
+   },
+   "playedMatches": 4,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 304,
+    "name": "Niclas Füllkrug",
+    "firstName": "Niclas",
+    "lastName": "Füllkrug",
+    "dateOfBirth": "1993-02-09",
+    "nationality": "Germany",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:33:22Z"
+   },
+   "team": {
+    "id": 12,
+    "name": "SV Werder Bremen",
+    "shortName": "Bremen",
+    "tla": "SVW",
+    "crest": "https://crests.football-data.org/12.png",
+    "address": "Franz-Böhmert-Str. 1c Bremen 28205",
+    "website": "http://www.werder.de",
+    "founded": 1899,
+    "clubColors": "Green / White",
+    "venue": "Weserstadion",
+    "lastUpdated": "2024-07-29T17:13:29Z"
    },
    "playedMatches": 4,
    "goals": 3,
@@ -292,37 +323,6 @@
    "goals": 3,
    "assists": 1,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 8004,
-    "name": "Harry Kane",
-    "firstName": "Harry",
-    "lastName": "Kane",
-    "dateOfBirth": "1993-07-28",
-    "nationality": "England",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
-   },
-   "team": {
-    "id": 5,
-    "name": "FC Bayern München",
-    "shortName": "Bayern",
-    "tla": "FCB",
-    "crest": "https://crests.football-data.org/5.png",
-    "address": "Säbenerstr. 51 München 81547",
-    "website": "http://www.fcbayern.de",
-    "founded": 1900,
-    "clubColors": "Red / White / Blue",
-    "venue": "Allianz Arena",
-    "lastUpdated": "2024-07-09T17:26:37Z"
-   },
-   "playedMatches": 4,
-   "goals": 3,
-   "assists": null,
-   "penalties": 1
   }
  ]
 }
