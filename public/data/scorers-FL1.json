@@ -71,7 +71,7 @@
     "venue": "Stade Francis-Le Blé",
     "lastUpdated": "2026-07-04T12:08:19Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 4,
    "assists": 1,
    "penalties": 1
@@ -264,6 +264,37 @@
   },
   {
    "player": {
+    "id": 128242,
+    "name": "Cameron Archer",
+    "firstName": "Cameron",
+    "lastName": "Archer",
+    "dateOfBirth": "2001-07-21",
+    "nationality": "England",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:33:22Z"
+   },
+   "team": {
+    "id": 519,
+    "name": "AJ Auxerre",
+    "shortName": "Auxerre",
+    "tla": "AJA",
+    "crest": "https://crests.football-data.org/519.png",
+    "address": "Route de Vaux BP 349 Auxerre 89006",
+    "website": "http://www.aja.fr",
+    "founded": 1905,
+    "clubColors": "White / Blue",
+    "venue": "Stade de l'Abbé Deschamps",
+    "lastUpdated": "2022-07-26T18:03:55Z"
+   },
+   "playedMatches": 3,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 184726,
     "name": "Ernest Nuamah",
     "firstName": "Ernest",
@@ -291,37 +322,6 @@
    "playedMatches": 5,
    "goals": 3,
    "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 292172,
-    "name": "Adil Bourabaa",
-    "firstName": "Adil",
-    "lastName": "Bourabaa",
-    "dateOfBirth": "2005-03-09",
-    "nationality": "Algeria",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-05-09T09:46:41Z"
-   },
-   "team": {
-    "id": 535,
-    "name": "Le Mans FC",
-    "shortName": "Le Mans",
-    "tla": "LMF",
-    "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
-    "address": "La Pincenardière Le Mans 72230",
-    "website": "http://www.lemansfc.fr/",
-    "founded": 1985,
-    "clubColors": "Red / Yellow",
-    "venue": "MMArena",
-    "lastUpdated": "2026-05-01T08:34:30Z"
-   },
-   "playedMatches": 5,
-   "goals": 3,
-   "assists": 2,
    "penalties": null
   }
  ]

@@ -40,7 +40,38 @@
     "venue": "Etihad Stadium",
     "lastUpdated": "2022-02-10T19:48:37Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
+   "goals": 4,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 6486,
+    "name": "Alexander Isak",
+    "firstName": "Alexander",
+    "lastName": "Isak",
+    "dateOfBirth": "1999-09-21",
+    "nationality": "Sweden",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:31Z"
+   },
+   "team": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png",
+    "address": "Anfield Road Liverpool L4 0TH",
+    "website": "http://www.liverpoolfc.tv",
+    "founded": 1892,
+    "clubColors": "Red / White",
+    "venue": "Anfield",
+    "lastUpdated": "2022-02-10T19:30:22Z"
+   },
+   "playedMatches": 5,
    "goals": 4,
    "assists": null,
    "penalties": null
@@ -102,7 +133,7 @@
     "venue": "Vitality Stadium",
     "lastUpdated": "2024-08-29T08:54:34Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 3,
    "assists": null,
    "penalties": null
@@ -171,33 +202,33 @@
   },
   {
    "player": {
-    "id": 6486,
-    "name": "Alexander Isak",
-    "firstName": "Alexander",
-    "lastName": "Isak",
-    "dateOfBirth": "1999-09-21",
-    "nationality": "Sweden",
-    "section": "Offence",
+    "id": 133242,
+    "name": "Rayan Cherki",
+    "firstName": "Rayan",
+    "lastName": "Cherki",
+    "dateOfBirth": "2003-08-17",
+    "nationality": "France",
+    "section": "Midfield",
     "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:31Z"
+    "shirtNumber": 18,
+    "lastUpdated": "2026-06-01T11:16:30Z"
    },
    "team": {
-    "id": 64,
-    "name": "Liverpool FC",
-    "shortName": "Liverpool",
-    "tla": "LIV",
-    "crest": "https://crests.football-data.org/64.png",
-    "address": "Anfield Road Liverpool L4 0TH",
-    "website": "http://www.liverpoolfc.tv",
-    "founded": 1892,
-    "clubColors": "Red / White",
-    "venue": "Anfield",
-    "lastUpdated": "2022-02-10T19:30:22Z"
+    "id": 65,
+    "name": "Manchester City FC",
+    "shortName": "Man City",
+    "tla": "MCI",
+    "crest": "https://crests.football-data.org/65.png",
+    "address": "SportCity Manchester M11 3FF",
+    "website": "https://www.mancity.com",
+    "founded": 1880,
+    "clubColors": "Sky Blue / White",
+    "venue": "Etihad Stadium",
+    "lastUpdated": "2022-02-10T19:48:37Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 3,
-   "assists": null,
+   "assists": 2,
    "penalties": null
   },
   {
@@ -288,41 +319,10 @@
     "venue": "Old Trafford",
     "lastUpdated": "2022-02-10T19:27:46Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 3,
    "assists": 1,
    "penalties": 1
-  },
-  {
-   "player": {
-    "id": 171,
-    "name": "Kai Havertz",
-    "firstName": "Kai",
-    "lastName": "Havertz",
-    "dateOfBirth": "1999-06-11",
-    "nationality": "Germany",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:31Z"
-   },
-   "team": {
-    "id": 57,
-    "name": "Arsenal FC",
-    "shortName": "Arsenal",
-    "tla": "ARS",
-    "crest": "https://crests.football-data.org/57.png",
-    "address": "75 Drayton Park London N5 1BU",
-    "website": "http://www.arsenal.com",
-    "founded": 1886,
-    "clubColors": "Red / White",
-    "venue": "Emirates Stadium",
-    "lastUpdated": "2022-02-10T19:48:56Z"
-   },
-   "playedMatches": 5,
-   "goals": 2,
-   "assists": null,
-   "penalties": null
   }
  ]
 }
