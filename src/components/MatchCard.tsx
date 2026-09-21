@@ -32,11 +32,19 @@ function TeamName({ team, won }: { team: ApiTeamRef; won: boolean }) {
   );
 }
 
-export default function MatchCard({ match }: { match: ApiMatch }) {
+export default function MatchCard({
+  match,
+  forceHideScore = false,
+}: {
+  match: ApiMatch;
+  /** Hide the score regardless of the global toggle (e.g. the viewing
+   * schedule, where results must never show unprompted). */
+  forceHideScore?: boolean;
+}) {
   const finished = isFinished(match);
   const [hideScores] = useHideScores();
   const [revealed, setRevealed] = useState(false);
-  const spoilerHidden = finished && hideScores && !revealed;
+  const spoilerHidden = finished && (forceHideScore || hideScores) && !revealed;
   const bothTracked = TEAM_IDS.has(match.homeTeam.id) && TEAM_IDS.has(match.awayTeam.id);
   const postponed = match.status === "POSTPONED" || match.status === "CANCELLED";
 
