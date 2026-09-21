@@ -295,33 +295,33 @@
   },
   {
    "player": {
-    "id": 822,
-    "name": "Hassane Kamara",
-    "firstName": "Hassane",
-    "lastName": "Kamara",
-    "dateOfBirth": "1994-03-05",
-    "nationality": "Ivory Coast",
-    "section": "Defence",
+    "id": 182192,
+    "name": "Diego Moreira",
+    "firstName": "",
+    "lastName": "Diego Moreira",
+    "dateOfBirth": "2004-08-06",
+    "nationality": "Belgium",
+    "section": "Midfield",
     "position": null,
-    "shirtNumber": 13,
-    "lastUpdated": "2026-08-19T06:54:15Z"
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
    },
    "team": {
-    "id": 115,
-    "name": "Udinese Calcio",
-    "shortName": "Udinese",
-    "tla": "UDI",
-    "crest": "https://crests.football-data.org/115.png",
-    "address": "Via Agostino e Angelo Candolini 2 Udine 33100",
-    "website": "http://www.udinese.it",
-    "founded": 1896,
-    "clubColors": "White / Black",
-    "venue": "Dacia Arena",
-    "lastUpdated": "2022-02-24T07:45:52Z"
+    "id": 98,
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png",
+    "address": "Via Filippo Turati 3 Milano 20121",
+    "website": "http://www.acmilan.com",
+    "founded": 1899,
+    "clubColors": "Red / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "lastUpdated": "2024-04-09T16:20:58Z"
    },
    "playedMatches": 5,
-   "goals": 2,
-   "assists": 1,
+   "goals": 3,
+   "assists": null,
    "penalties": null
   }
  ]

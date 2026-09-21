@@ -40,9 +40,9 @@
     "venue": "Orange Vélodrome",
     "lastUpdated": "2022-02-19T08:35:12Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 4,
-   "assists": null,
+   "assists": 1,
    "penalties": 1
   },
   {
@@ -75,6 +75,37 @@
    "goals": 4,
    "assists": 1,
    "penalties": 1
+  },
+  {
+   "player": {
+    "id": 33154,
+    "name": "Ferrán Torres",
+    "firstName": "",
+    "lastName": "Ferran Torres",
+    "dateOfBirth": "2000-02-29",
+    "nationality": "Spain",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-09T17:00:05Z"
+   },
+   "team": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png",
+    "address": "24, rue de Commandant Guibaud Paris 7501",
+    "website": "http://www.psg.fr",
+    "founded": 1904,
+    "clubColors": "Red / Blue / White",
+    "venue": "Parc des Princes",
+    "lastUpdated": "2022-02-10T19:07:11Z"
+   },
+   "playedMatches": 5,
+   "goals": 4,
+   "assists": null,
+   "penalties": null
   },
   {
    "player": {
@@ -233,16 +264,16 @@
   },
   {
    "player": {
-    "id": 33154,
-    "name": "Ferrán Torres",
+    "id": 3225,
+    "name": "Marquinhos",
     "firstName": "",
-    "lastName": "Ferran Torres",
-    "dateOfBirth": "2000-02-29",
-    "nationality": "Spain",
-    "section": "Offence",
+    "lastName": "Marquinhos",
+    "dateOfBirth": "1994-05-14",
+    "nationality": "Brazil",
+    "section": "Defence",
     "position": null,
     "shirtNumber": null,
-    "lastUpdated": "2026-08-09T17:00:05Z"
+    "lastUpdated": "2026-06-01T11:16:32Z"
    },
    "team": {
     "id": 524,
@@ -257,7 +288,7 @@
     "venue": "Parc des Princes",
     "lastUpdated": "2022-02-10T19:07:11Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 3,
    "assists": null,
    "penalties": null
@@ -291,37 +322,6 @@
    "playedMatches": 3,
    "goals": 3,
    "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 184726,
-    "name": "Ernest Nuamah",
-    "firstName": "Ernest",
-    "lastName": "Nuamah",
-    "dateOfBirth": "2003-11-01",
-    "nationality": "Ghana",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-03T11:27:01Z"
-   },
-   "team": {
-    "id": 523,
-    "name": "Olympique Lyonnais",
-    "shortName": "Olympique Lyon",
-    "tla": "LYO",
-    "crest": "https://crests.football-data.org/523.png",
-    "address": "350 avenue Jean Jaurès Lyon 69007",
-    "website": "http://www.olweb.fr",
-    "founded": 1896,
-    "clubColors": "White / Red / Blue",
-    "venue": "Groupama Stadium",
-    "lastUpdated": "2024-07-29T17:19:54Z"
-   },
-   "playedMatches": 5,
-   "goals": 3,
-   "assists": 1,
    "penalties": null
   }
  ]
