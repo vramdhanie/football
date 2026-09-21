@@ -1,10 +1,12 @@
 "use client";
 
 import Link from "next/link";
+import { useState } from "react";
 
 import { TEAM_IDS, teamById } from "@/config/teams";
 import { isFinished } from "@/lib/data";
 import { formatMatchDate, formatMatchTime, scoreLine } from "@/lib/format";
+import { useHideScores } from "@/lib/spoiler";
 import type { ApiMatch, ApiTeamRef } from "@/lib/types";
 import BroadcastBadge from "./BroadcastBadge";
 import TeamCrest from "./TeamCrest";
@@ -32,6 +34,9 @@ function TeamName({ team, won }: { team: ApiTeamRef; won: boolean }) {
 
 export default function MatchCard({ match }: { match: ApiMatch }) {
   const finished = isFinished(match);
+  const [hideScores] = useHideScores();
+  const [revealed, setRevealed] = useState(false);
+  const spoilerHidden = finished && hideScores && !revealed;
   const bothTracked = TEAM_IDS.has(match.homeTeam.id) && TEAM_IDS.has(match.awayTeam.id);
   const postponed = match.status === "POSTPONED" || match.status === "CANCELLED";
 
@@ -42,11 +47,19 @@ export default function MatchCard({ match }: { match: ApiMatch }) {
       }`}
     >
       <div className="flex justify-end text-right text-sm">
-        <TeamName team={match.homeTeam} won={match.score.winner === "HOME_TEAM"} />
+        <TeamName team={match.homeTeam} won={!spoilerHidden && match.score.winner === "HOME_TEAM"} />
       </div>
 
       <div className="flex w-24 flex-col items-center text-center">
-        {finished ? (
+        {spoilerHidden ? (
+          <button
+            onClick={() => setRevealed(true)}
+            title="Score hidden (spoiler-free mode) — click to reveal"
+            className="rounded bg-white/10 px-2 py-0.5 text-xs font-semibold tracking-wide text-neutral-300 hover:bg-white/20"
+          >
+            FT · show
+          </button>
+        ) : finished ? (
           <span className="text-base font-semibold tabular-nums">{scoreLine(match)}</span>
         ) : (
           <span className="text-sm font-medium tabular-nums">
@@ -59,7 +72,7 @@ export default function MatchCard({ match }: { match: ApiMatch }) {
       </div>
 
       <div className="flex justify-start text-sm">
-        <TeamName team={match.awayTeam} won={match.score.winner === "AWAY_TEAM"} />
+        <TeamName team={match.awayTeam} won={!spoilerHidden && match.score.winner === "AWAY_TEAM"} />
       </div>
 
       <div className="col-span-3 -mt-1 flex items-center justify-center gap-1.5 text-center text-[10px] text-neutral-500">

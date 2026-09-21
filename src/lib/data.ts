@@ -83,3 +83,41 @@ export function isUpcoming(m: ApiMatch): boolean {
 export function isFinished(m: ApiMatch): boolean {
   return m.status === "FINISHED" || m.status === "AWARDED";
 }
+
+/** Every competition the week-schedule pulls fixtures for. */
+const FIXTURE_COMPS = ["PL", "BL1", "SA", "PD", "FL1", "CL"];
+
+interface FixturesFile {
+  matches: ApiMatch[];
+}
+
+/** All upcoming matches across every competition (next ~8 days),
+ * deduplicated and sorted. null until the fixtures files exist. */
+export function useWeekFixtures(): Loadable<ApiMatch[]> {
+  const [state, setState] = useState<Loadable<ApiMatch[]>>({
+    data: null,
+    loading: true,
+  });
+
+  useEffect(() => {
+    let cancelled = false;
+    Promise.all(
+      FIXTURE_COMPS.map((code) => loadJson<FixturesFile>(`/data/fixtures-${code}.json`)),
+    ).then((files) => {
+      if (cancelled) return;
+      const byId = new Map<number, ApiMatch>();
+      for (const file of files) {
+        for (const match of file?.matches ?? []) {
+          byId.set(match.id, match);
+        }
+      }
+      const merged = [...byId.values()].sort((a, b) => a.utcDate.localeCompare(b.utcDate));
+      setState({ data: files.every((f) => f === null) ? null : merged, loading: false });
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  return state;
+}

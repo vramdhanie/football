@@ -164,6 +164,31 @@ async function main() {
     }
   }
 
+  // 2b. Upcoming fixtures across every competition (next 8 days) — feeds
+  // the spoiler-free "This Week" schedule. CL has no standings call above,
+  // so it is added here explicitly. The API ignores dateFrom/dateTo on this
+  // endpoint (the filters echo only the season), so we take the season's
+  // SCHEDULED matches and slim to the window ourselves.
+  for (const code of [...leagueCodes, "CL"]) {
+    try {
+      const data = await apiGet(token, `/competitions/${code}/matches?status=SCHEDULED`);
+      const from = isoDate(0);
+      // A generous window so international breaks still leave the page
+      // something to show ("next fixtures on ...").
+      const to = isoDate(30);
+      const matches = (data.matches ?? []).filter(
+        (m) => m.utcDate >= from && m.utcDate <= `${to}T23:59:59Z`,
+      );
+      await writeJson(`fixtures-${code}.json`, {
+        competition: data.competition,
+        fetchedAt: new Date().toISOString(),
+        matches,
+      });
+    } catch (err) {
+      errors.push(`fixtures ${code}: ${err.message}`);
+    }
+  }
+
   // 3. Per team: profile, normalized squad, then matches.
   // football-data.org returns an empty squad on the free tier (paid "deep
   // data" add-on), so when API_FOOTBALL_KEY is configured we fill the squad
