@@ -129,13 +129,6 @@
    "nationality": "Spain"
   },
   {
-   "id": 244120,
-   "name": "Myles Lewis-Skelly",
-   "position": "Defence",
-   "dateOfBirth": "2006-09-26",
-   "nationality": "England"
-  },
-  {
    "id": 1684,
    "name": "Bruno Guimarães",
    "position": "Midfield",
@@ -176,6 +169,13 @@
    "position": "Midfield",
    "dateOfBirth": "1999-02-02",
    "nationality": "Spain"
+  },
+  {
+   "id": 244120,
+   "name": "Myles Lewis-Skelly",
+   "position": "Midfield",
+   "dateOfBirth": "2006-09-26",
+   "nationality": "England"
   },
   {
    "id": 171,

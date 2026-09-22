@@ -101,15 +101,6 @@
    "photo": null
   },
   {
-   "id": 244120,
-   "name": "Myles Lewis-Skelly",
-   "position": "Defence",
-   "number": null,
-   "age": 19,
-   "nationality": "England",
-   "photo": null
-  },
-  {
    "id": 1684,
    "name": "Bruno Guimarães",
    "position": "Midfield",
@@ -161,6 +152,15 @@
    "number": null,
    "age": 27,
    "nationality": "Spain",
+   "photo": null
+  },
+  {
+   "id": 244120,
+   "name": "Myles Lewis-Skelly",
+   "position": "Midfield",
+   "number": null,
+   "age": 19,
+   "nationality": "England",
    "photo": null
   },
   {
