@@ -18,7 +18,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565776,
@@ -27,7 +27,7 @@
    "matchday": 1,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -84,7 +84,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565789,
@@ -93,7 +93,7 @@
    "matchday": 2,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 6,
     "name": "FC Schalke 04",
@@ -159,7 +159,7 @@
    "matchday": 1,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -216,7 +216,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565800,
@@ -225,7 +225,7 @@
    "matchday": 3,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 719,
     "name": "SV 07 Elversberg",
@@ -282,7 +282,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565804,
@@ -291,7 +291,7 @@
    "matchday": 4,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -348,7 +348,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565819,
@@ -357,7 +357,7 @@
    "matchday": 5,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 16,
     "name": "FC Augsburg",
@@ -416,7 +416,7 @@
    "matchday": 2,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5720,
     "name": "Viking FK",
@@ -466,7 +466,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565825,
@@ -475,7 +475,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -534,7 +534,7 @@
    "matchday": 3,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -584,7 +584,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565836,
@@ -593,7 +593,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 17,
     "name": "SC Freiburg",
@@ -643,7 +643,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565845,
@@ -652,7 +652,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -711,7 +711,7 @@
    "matchday": 4,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 78,
     "name": "Club Atlético de Madrid",
@@ -761,7 +761,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565851,
@@ -770,7 +770,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 15,
     "name": "1. FSV Mainz 05",
@@ -820,7 +820,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565859,
@@ -829,7 +829,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -888,7 +888,7 @@
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 521,
     "name": "Lille OSC",
@@ -938,7 +938,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565874,
@@ -947,7 +947,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 7,
     "name": "Hamburger SV",
@@ -997,7 +997,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565882,
@@ -1006,7 +1006,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -1065,7 +1065,7 @@
    "matchday": 6,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -1115,7 +1115,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565891,
@@ -1124,7 +1124,7 @@
    "matchday": 13,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 2,
     "name": "TSG 1899 Hoffenheim",
@@ -1174,7 +1174,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565894,
@@ -1183,7 +1183,7 @@
    "matchday": 14,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -1233,7 +1233,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565907,
@@ -1242,7 +1242,7 @@
    "matchday": 15,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 18,
     "name": "Borussia Mönchengladbach",
@@ -1292,7 +1292,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565916,
@@ -1301,7 +1301,7 @@
    "matchday": 16,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -1351,7 +1351,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565921,
@@ -1360,7 +1360,7 @@
    "matchday": 17,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 19,
     "name": "Eintracht Frankfurt",
@@ -1419,7 +1419,7 @@
    "matchday": 7,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1469,7 +1469,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565934,
@@ -1478,7 +1478,7 @@
    "matchday": 18,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 10,
     "name": "VfB Stuttgart",
@@ -1537,7 +1537,7 @@
    "matchday": 8,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -1587,7 +1587,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565946,
@@ -1596,7 +1596,7 @@
    "matchday": 19,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -1646,7 +1646,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565954,
@@ -1655,7 +1655,7 @@
    "matchday": 20,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -1705,7 +1705,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565958,
@@ -1714,7 +1714,7 @@
    "matchday": 21,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 28,
     "name": "1. FC Union Berlin",
@@ -1764,7 +1764,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565972,
@@ -1773,7 +1773,7 @@
    "matchday": 22,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -1823,7 +1823,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565981,
@@ -1832,7 +1832,7 @@
    "matchday": 23,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 721,
     "name": "RB Leipzig",
@@ -1882,7 +1882,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565986,
@@ -1891,7 +1891,7 @@
    "matchday": 24,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -1941,7 +1941,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 565992,
@@ -1950,7 +1950,7 @@
    "matchday": 25,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 4,
     "name": "Borussia Dortmund",
@@ -2000,7 +2000,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 566008,
@@ -2009,7 +2009,7 @@
    "matchday": 26,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -2059,7 +2059,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 566016,
@@ -2068,7 +2068,7 @@
    "matchday": 27,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 1,
     "name": "1. FC Köln",
@@ -2118,7 +2118,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 566021,
@@ -2127,7 +2127,7 @@
    "matchday": 28,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -2177,7 +2177,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 566029,
@@ -2186,7 +2186,7 @@
    "matchday": 29,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 29,
     "name": "SC Paderborn 07",
@@ -2236,7 +2236,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 566040,
@@ -2245,7 +2245,7 @@
    "matchday": 30,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -2295,7 +2295,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 566046,
@@ -2304,7 +2304,7 @@
    "matchday": 31,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 12,
     "name": "SV Werder Bremen",
@@ -2354,7 +2354,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 566063,
@@ -2363,7 +2363,7 @@
    "matchday": 32,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -2413,7 +2413,7 @@
     "id": 2522,
     "startDate": "2026-08-28",
     "endDate": "2027-05-22",
-    "currentMatchday": 4,
+    "currentMatchday": 5,
     "winner": null
    },
    "id": 566069,
@@ -2422,7 +2422,7 @@
    "matchday": 33,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-23T00:20:31Z",
+   "lastUpdated": "2026-09-23T15:20:32Z",
    "homeTeam": {
     "id": 3,
     "name": "Bayer 04 Leverkusen",
