@@ -6,74 +6,8 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/laliga.png"
  },
- "fetchedAt": "2026-09-26T15:02:22.596Z",
+ "fetchedAt": "2026-09-27T01:36:01.155Z",
  "matches": [
-  {
-   "area": {
-    "id": 2224,
-    "name": "Spain",
-    "code": "ESP",
-    "flag": "https://crests.football-data.org/760.svg"
-   },
-   "competition": {
-    "id": 2014,
-    "name": "Primera Division",
-    "code": "PD",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/laliga.png"
-   },
-   "season": {
-    "id": 2518,
-    "startDate": "2026-08-16",
-    "endDate": "2027-05-30",
-    "currentMatchday": 8,
-    "winner": null
-   },
-   "id": 564692,
-   "utcDate": "2026-09-18T19:00:00Z",
-   "status": "FINISHED",
-   "matchday": 7,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
-   "homeTeam": {
-    "id": 80,
-    "name": "RCD Espanyol de Barcelona",
-    "shortName": "Espanyol",
-    "tla": "ESP",
-    "crest": "https://crests.football-data.org/80.png"
-   },
-   "awayTeam": {
-    "id": 285,
-    "name": "Elche CF",
-    "shortName": "Elche",
-    "tla": "ELC",
-    "crest": "https://crests.football-data.org/285.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 1,
-     "away": 3
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 2
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 214122,
-     "name": "Jon González Esteban",
-     "type": "REFEREE",
-     "nationality": "Spain"
-    }
-   ]
-  },
   {
    "area": {
     "id": 2224,
@@ -101,7 +35,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 79,
     "name": "CA Osasuna",
@@ -167,7 +101,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 77,
     "name": "Athletic Club",
@@ -233,7 +167,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 558,
     "name": "RC Celta de Vigo",
@@ -299,7 +233,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 559,
     "name": "Sevilla FC",
@@ -365,7 +299,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 82,
     "name": "Getafe CF",
@@ -431,7 +365,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 78,
     "name": "Club Atlético de Madrid",
@@ -497,7 +431,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 560,
     "name": "RC Deportivo La Coruña",
@@ -563,7 +497,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 94,
     "name": "Villarreal CF",
@@ -629,7 +563,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 95,
     "name": "Valencia CF",
@@ -695,7 +629,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 84,
     "name": "Málaga CF",
@@ -754,7 +688,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 87,
     "name": "Rayo Vallecano de Madrid",
@@ -813,7 +747,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 263,
     "name": "Deportivo Alavés",
@@ -872,7 +806,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 81,
     "name": "FC Barcelona",
@@ -931,7 +865,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 86,
     "name": "Real Madrid CF",
@@ -990,7 +924,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 285,
     "name": "Elche CF",
@@ -1049,7 +983,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 92,
     "name": "Real Sociedad de Fútbol",
@@ -1108,7 +1042,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 90,
     "name": "Real Betis Balompié",
@@ -1167,7 +1101,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 5335,
     "name": "Real Racing Club de Santander",
@@ -1226,7 +1160,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 88,
     "name": "Levante UD",
@@ -1285,7 +1219,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 560,
     "name": "RC Deportivo La Coruña",
@@ -1344,7 +1278,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 80,
     "name": "RCD Espanyol de Barcelona",
@@ -1403,7 +1337,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 94,
     "name": "Villarreal CF",
@@ -1462,7 +1396,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 90,
     "name": "Real Betis Balompié",
@@ -1521,7 +1455,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 95,
     "name": "Valencia CF",
@@ -1580,7 +1514,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 79,
     "name": "CA Osasuna",
@@ -1639,7 +1573,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 558,
     "name": "RC Celta de Vigo",
@@ -1698,7 +1632,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 84,
     "name": "Málaga CF",
@@ -1757,7 +1691,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 86,
     "name": "Real Madrid CF",
@@ -1816,7 +1750,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 82,
     "name": "Getafe CF",
@@ -1875,7 +1809,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 88,
     "name": "Levante UD",
@@ -1941,7 +1875,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 263,
     "name": "Deportivo Alavés",
@@ -2000,7 +1934,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 87,
     "name": "Rayo Vallecano de Madrid",
@@ -2059,7 +1993,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 5335,
     "name": "Real Racing Club de Santander",
@@ -2118,7 +2052,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 95,
     "name": "Valencia CF",
@@ -2177,7 +2111,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 78,
     "name": "Club Atlético de Madrid",
@@ -2236,7 +2170,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 77,
     "name": "Athletic Club",
@@ -2295,7 +2229,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 558,
     "name": "RC Celta de Vigo",
@@ -2354,7 +2288,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 92,
     "name": "Real Sociedad de Fútbol",
@@ -2413,7 +2347,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 81,
     "name": "FC Barcelona",
@@ -2472,7 +2406,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-09-26T00:20:32Z",
+   "lastUpdated": "2026-09-27T00:20:33Z",
    "homeTeam": {
     "id": 559,
     "name": "Sevilla FC",
