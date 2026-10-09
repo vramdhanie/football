@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/BL1.png"
  },
- "fetchedAt": "2026-10-09T03:00:36.847Z",
+ "fetchedAt": "2026-10-09T17:29:53.363Z",
  "matches": [
   {
    "area": {
@@ -65,7 +65,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57526,
+     "name": "Christian Dingert",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {

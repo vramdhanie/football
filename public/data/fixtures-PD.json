@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/laliga.png"
  },
- "fetchedAt": "2026-10-09T03:00:52.677Z",
+ "fetchedAt": "2026-10-09T17:30:10.603Z",
  "matches": [
   {
    "area": {
@@ -65,7 +65,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 214213,
+     "name": "Francisco Hernández Maeso",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
