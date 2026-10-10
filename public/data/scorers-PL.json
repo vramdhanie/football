@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 103125,
+    "name": "João Pedro",
+    "firstName": "",
+    "lastName": "João Pedro",
+    "dateOfBirth": "2001-09-26",
+    "nationality": "Brazil",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:25:42Z"
+   },
+   "team": {
+    "id": 61,
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE",
+    "crest": "https://crests.football-data.org/61.png",
+    "address": "Fulham Road London SW6 1HS",
+    "website": "http://www.chelseafc.com",
+    "founded": 1905,
+    "clubColors": "Royal Blue / White",
+    "venue": "Stamford Bridge",
+    "lastUpdated": "2022-02-10T19:24:40Z"
+   },
+   "playedMatches": 5,
+   "goals": 5,
+   "assists": 3,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 38101,
     "name": "Erling Haaland",
     "firstName": "Erling",
@@ -43,6 +74,37 @@
    "playedMatches": 5,
    "goals": 5,
    "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 82140,
+    "name": "Morgan Rogers",
+    "firstName": "Morgan",
+    "lastName": "Rogers",
+    "dateOfBirth": "2002-07-26",
+    "nationality": "England",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:29Z"
+   },
+   "team": {
+    "id": 61,
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE",
+    "crest": "https://crests.football-data.org/61.png",
+    "address": "Fulham Road London SW6 1HS",
+    "website": "http://www.chelseafc.com",
+    "founded": 1905,
+    "clubColors": "Royal Blue / White",
+    "venue": "Stamford Bridge",
+    "lastUpdated": "2022-02-10T19:24:40Z"
+   },
+   "playedMatches": 6,
+   "goals": 4,
+   "assists": 1,
    "penalties": null
   },
   {
@@ -102,7 +164,7 @@
     "venue": "Emirates Stadium",
     "lastUpdated": "2022-02-10T19:48:56Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 3,
    "assists": null,
    "penalties": 1
@@ -133,71 +195,9 @@
     "venue": "Vitality Stadium",
     "lastUpdated": "2024-08-29T08:54:34Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 3,
    "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 103125,
-    "name": "João Pedro",
-    "firstName": "",
-    "lastName": "João Pedro",
-    "dateOfBirth": "2001-09-26",
-    "nationality": "Brazil",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-15T09:25:42Z"
-   },
-   "team": {
-    "id": 61,
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png",
-    "address": "Fulham Road London SW6 1HS",
-    "website": "http://www.chelseafc.com",
-    "founded": 1905,
-    "clubColors": "Royal Blue / White",
-    "venue": "Stamford Bridge",
-    "lastUpdated": "2022-02-10T19:24:40Z"
-   },
-   "playedMatches": 4,
-   "goals": 3,
-   "assists": 3,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 82140,
-    "name": "Morgan Rogers",
-    "firstName": "Morgan",
-    "lastName": "Rogers",
-    "dateOfBirth": "2002-07-26",
-    "nationality": "England",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
-   },
-   "team": {
-    "id": 61,
-    "name": "Chelsea FC",
-    "shortName": "Chelsea",
-    "tla": "CHE",
-    "crest": "https://crests.football-data.org/61.png",
-    "address": "Fulham Road London SW6 1HS",
-    "website": "http://www.chelseafc.com",
-    "founded": 1905,
-    "clubColors": "Royal Blue / White",
-    "venue": "Stamford Bridge",
-    "lastUpdated": "2022-02-10T19:24:40Z"
-   },
-   "playedMatches": 5,
-   "goals": 3,
-   "assists": 1,
    "penalties": null
   },
   {
@@ -257,9 +257,9 @@
     "venue": "The American Express Community Stadium",
     "lastUpdated": "2024-07-29T17:18:23Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 3,
-   "assists": 3,
+   "assists": 4,
    "penalties": 1
   },
   {
@@ -288,7 +288,7 @@
     "venue": "Griffin Park",
     "lastUpdated": "2022-04-03T16:24:00Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 3,
    "assists": null,
    "penalties": null
@@ -319,7 +319,7 @@
     "venue": "Old Trafford",
     "lastUpdated": "2022-02-10T19:27:46Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 3,
    "assists": 1,
    "penalties": 1

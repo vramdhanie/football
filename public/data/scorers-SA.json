@@ -133,7 +133,7 @@
     "venue": "Stadio Giuseppe Meazza",
     "lastUpdated": "2021-11-24T14:55:58Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 4,
    "assists": null,
    "penalties": null
@@ -167,6 +167,37 @@
    "playedMatches": 5,
    "goals": 3,
    "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 67743,
+    "name": "Milutin Osmajić",
+    "firstName": "Milutin",
+    "lastName": "Osmajić",
+    "dateOfBirth": "1999-07-25",
+    "nationality": "Montenegro",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:33:21Z"
+   },
+   "team": {
+    "id": 107,
+    "name": "Genoa CFC",
+    "shortName": "Genoa",
+    "tla": "GEN",
+    "crest": "https://crests.football-data.org/107.png",
+    "address": "Via Ronchi, 67 Genova 16155",
+    "website": "http://www.genoacfc.it",
+    "founded": 1893,
+    "clubColors": "Red / Navy Blue",
+    "venue": "Stadio Comunale Luigi Ferraris",
+    "lastUpdated": "2024-04-09T16:20:41Z"
+   },
+   "playedMatches": 5,
+   "goals": 3,
+   "assists": 1,
    "penalties": null
   },
   {
@@ -288,38 +319,7 @@
     "venue": "Stadio Artemio Franchi",
     "lastUpdated": "2024-04-09T16:20:54Z"
    },
-   "playedMatches": 5,
-   "goals": 3,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 182192,
-    "name": "Diego Moreira",
-    "firstName": "",
-    "lastName": "Diego Moreira",
-    "dateOfBirth": "2004-08-06",
-    "nationality": "Belgium",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 98,
-    "name": "AC Milan",
-    "shortName": "Milan",
-    "tla": "MIL",
-    "crest": "https://crests.football-data.org/98.png",
-    "address": "Via Filippo Turati 3 Milano 20121",
-    "website": "http://www.acmilan.com",
-    "founded": 1899,
-    "clubColors": "Red / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2024-04-09T16:20:58Z"
-   },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 3,
    "assists": null,
    "penalties": null

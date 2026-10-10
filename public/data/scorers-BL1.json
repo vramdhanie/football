@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 1826,
+    "name": "Patrik Schick",
+    "firstName": "Patrik",
+    "lastName": "Schick",
+    "dateOfBirth": "1996-01-24",
+    "nationality": "Czech Republic",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T10:55:34Z"
+   },
+   "team": {
+    "id": 3,
+    "name": "Bayer 04 Leverkusen",
+    "shortName": "Leverkusen",
+    "tla": "B04",
+    "crest": "https://crests.football-data.org/3.png",
+    "address": "Bismarckstr. 122-124 Leverkusen 51373",
+    "website": "http://www.bayer04.de",
+    "founded": 1904,
+    "clubColors": "Red / White / Black",
+    "venue": "BayArena",
+    "lastUpdated": "2022-02-25T16:43:07Z"
+   },
+   "playedMatches": 5,
+   "goals": 5,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 113765,
     "name": "Michael Olise",
     "firstName": "Michael",
@@ -40,7 +71,7 @@
     "venue": "Allianz Arena",
     "lastUpdated": "2024-07-09T17:26:37Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 4,
    "assists": 1,
    "penalties": null
@@ -71,38 +102,7 @@
     "venue": "Deutsche Bank Park",
     "lastUpdated": "2024-07-29T17:13:52Z"
    },
-   "playedMatches": 4,
-   "goals": 4,
-   "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 1826,
-    "name": "Patrik Schick",
-    "firstName": "Patrik",
-    "lastName": "Schick",
-    "dateOfBirth": "1996-01-24",
-    "nationality": "Czech Republic",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T10:55:34Z"
-   },
-   "team": {
-    "id": 3,
-    "name": "Bayer 04 Leverkusen",
-    "shortName": "Leverkusen",
-    "tla": "B04",
-    "crest": "https://crests.football-data.org/3.png",
-    "address": "Bismarckstr. 122-124 Leverkusen 51373",
-    "website": "http://www.bayer04.de",
-    "founded": 1904,
-    "clubColors": "Red / White / Black",
-    "venue": "BayArena",
-    "lastUpdated": "2022-02-25T16:43:07Z"
-   },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 4,
    "assists": 1,
    "penalties": null
@@ -195,7 +195,7 @@
     "venue": "Opel Arena",
     "lastUpdated": "2023-02-28T07:59:34Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 4,
    "assists": null,
    "penalties": null
@@ -257,7 +257,7 @@
     "venue": "WWK Arena",
     "lastUpdated": "2023-02-28T07:59:40Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 3,
    "assists": null,
    "penalties": null
@@ -288,7 +288,7 @@
     "venue": "Ursapharm-Arena an der Kaiserlinde",
     "lastUpdated": "2022-07-22T08:44:52Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 3,
    "assists": null,
    "penalties": null
@@ -319,7 +319,7 @@
     "venue": "Deutsche Bank Park",
     "lastUpdated": "2024-07-29T17:13:52Z"
    },
-   "playedMatches": 4,
+   "playedMatches": 5,
    "goals": 3,
    "assists": 1,
    "penalties": null

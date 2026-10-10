@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/FL1.png"
  },
- "fetchedAt": "2026-10-10T02:28:13.409Z",
+ "fetchedAt": "2026-10-10T16:18:40.761Z",
  "matches": [
   {
    "area": {
@@ -97,11 +97,11 @@
    },
    "id": 559674,
    "utcDate": "2026-10-10T15:15:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-10T00:20:37Z",
+   "lastUpdated": "2026-10-10T16:12:51Z",
    "homeTeam": {
     "id": 521,
     "name": "Lille OSC",
@@ -117,21 +117,28 @@
     "crest": "https://crests.football-data.org/533.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57088,
+     "name": "Bastien Dechepy",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {

@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/c111.png"
  },
- "fetchedAt": "2026-10-10T02:27:58.392Z",
+ "fetchedAt": "2026-10-10T16:18:26.068Z",
  "matches": [
   {
    "area": {
@@ -31,11 +31,11 @@
    },
    "id": 558588,
    "utcDate": "2026-10-10T13:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-10T00:20:37Z",
+   "lastUpdated": "2026-10-10T15:03:31Z",
    "homeTeam": {
     "id": 107,
     "name": "Genoa CFC",
@@ -51,21 +51,28 @@
     "crest": "https://crests.football-data.org/99.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 10977,
+     "name": "Fabio Maresca",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -90,11 +97,11 @@
    },
    "id": 558582,
    "utcDate": "2026-10-10T16:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-10T00:20:37Z",
+   "lastUpdated": "2026-10-10T16:17:39Z",
    "homeTeam": {
     "id": 108,
     "name": "FC Internazionale Milano",
@@ -110,11 +117,11 @@
     "crest": "https://crests.football-data.org/112.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     },
     "halfTime": {
      "home": null,
@@ -124,7 +131,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 188502,
+     "name": "Kevin Bonacina",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {

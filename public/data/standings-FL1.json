@@ -22,6 +22,25 @@
     {
      "position": 1,
      "team": {
+      "id": 521,
+      "name": "Lille OSC",
+      "shortName": "Lille",
+      "tla": "LIL",
+      "crest": "https://crests.football-data.org/521.png"
+     },
+     "playedGames": 6,
+     "form": null,
+     "won": 4,
+     "draw": 1,
+     "lost": 1,
+     "points": 13,
+     "goalsFor": 9,
+     "goalsAgainst": 4,
+     "goalDifference": 5
+    },
+    {
+     "position": 2,
+     "team": {
       "id": 548,
       "name": "AS Monaco FC",
       "shortName": "Monaco",
@@ -39,7 +58,7 @@
      "goalDifference": 5
     },
     {
-     "position": 2,
+     "position": 3,
      "team": {
       "id": 523,
       "name": "Olympique Lyonnais",
@@ -58,7 +77,7 @@
      "goalDifference": 7
     },
     {
-     "position": 3,
+     "position": 4,
      "team": {
       "id": 1045,
       "name": "Paris FC",
@@ -75,25 +94,6 @@
      "goalsFor": 8,
      "goalsAgainst": 3,
      "goalDifference": 5
-    },
-    {
-     "position": 4,
-     "team": {
-      "id": 521,
-      "name": "Lille OSC",
-      "shortName": "Lille",
-      "tla": "LIL",
-      "crest": "https://crests.football-data.org/521.png"
-     },
-     "playedGames": 5,
-     "form": null,
-     "won": 3,
-     "draw": 1,
-     "lost": 1,
-     "points": 10,
-     "goalsFor": 8,
-     "goalsAgainst": 4,
-     "goalDifference": 4
     },
     {
      "position": 5,
@@ -351,15 +351,15 @@
       "tla": "HAC",
       "crest": "https://crests.football-data.org/533.png"
      },
-     "playedGames": 5,
+     "playedGames": 6,
      "form": null,
      "won": 0,
      "draw": 2,
-     "lost": 3,
+     "lost": 4,
      "points": 2,
      "goalsFor": 4,
-     "goalsAgainst": 7,
-     "goalDifference": -3
+     "goalsAgainst": 8,
+     "goalDifference": -4
     }
    ]
   }
