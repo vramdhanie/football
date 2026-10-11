@@ -47,6 +47,37 @@
   },
   {
    "player": {
+    "id": 124178,
+    "name": "Louis Mafouta",
+    "firstName": "Louis",
+    "lastName": "Mafouta",
+    "dateOfBirth": "1994-07-02",
+    "nationality": "Central African Republic",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:38Z"
+   },
+   "team": {
+    "id": 535,
+    "name": "Le Mans FC",
+    "shortName": "Le Mans",
+    "tla": "LMF",
+    "crest": "https://crests.football-data.org/535.png",
+    "address": "La Pincenardière Le Mans 72230",
+    "website": "http://www.lemansfc.fr/",
+    "founded": 1985,
+    "clubColors": "Red / Yellow",
+    "venue": "MMArena",
+    "lastUpdated": "2026-09-21T11:19:51Z"
+   },
+   "playedMatches": 6,
+   "goals": 4,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
     "id": 175942,
     "name": "Kamory Doumbia",
     "firstName": "Kamory",
@@ -71,7 +102,7 @@
     "venue": "Stade Francis-Le Blé",
     "lastUpdated": "2026-07-04T12:08:19Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 4,
    "assists": 1,
    "penalties": 1
@@ -102,7 +133,7 @@
     "venue": "Parc des Princes",
     "lastUpdated": "2022-02-10T19:07:11Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 4,
    "assists": null,
    "penalties": null
@@ -133,7 +164,7 @@
     "venue": "Stade Sébastien Charléty",
     "lastUpdated": "2022-06-19T00:04:35Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 4,
    "assists": 1,
    "penalties": 2
@@ -171,6 +202,37 @@
   },
   {
    "player": {
+    "id": 129381,
+    "name": "Casper Tengstedt",
+    "firstName": "Casper",
+    "lastName": "Tengstedt",
+    "dateOfBirth": "2000-06-01",
+    "nationality": "Denmark",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-22T15:39:09Z"
+   },
+   "team": {
+    "id": 511,
+    "name": "Toulouse FC",
+    "shortName": "Toulouse",
+    "tla": "TOU",
+    "crest": "https://crests.football-data.org/511.png",
+    "address": "1 allée Gabriel Biénèsm, BP 54023 Toulouse 31028",
+    "website": "http://www.tfc.info",
+    "founded": 1937,
+    "clubColors": "Violet / White",
+    "venue": "Stadium Municipal",
+    "lastUpdated": "2026-07-04T12:07:20Z"
+   },
+   "playedMatches": 4,
+   "goals": 4,
+   "assists": 1,
+   "penalties": 2
+  },
+  {
+   "player": {
     "id": 3370,
     "name": "Florian Thauvin",
     "firstName": "Florian",
@@ -199,37 +261,6 @@
    "goals": 3,
    "assists": 5,
    "penalties": 3
-  },
-  {
-   "player": {
-    "id": 124178,
-    "name": "Louis Mafouta",
-    "firstName": "Louis",
-    "lastName": "Mafouta",
-    "dateOfBirth": "1994-07-02",
-    "nationality": "Central African Republic",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-27T19:57:38Z"
-   },
-   "team": {
-    "id": 535,
-    "name": "Le Mans FC",
-    "shortName": "Le Mans",
-    "tla": "LMF",
-    "crest": "https://crests.football-data.org/535.png",
-    "address": "La Pincenardière Le Mans 72230",
-    "website": "http://www.lemansfc.fr/",
-    "founded": 1985,
-    "clubColors": "Red / Yellow",
-    "venue": "MMArena",
-    "lastUpdated": "2026-09-21T11:19:51Z"
-   },
-   "playedMatches": 5,
-   "goals": 3,
-   "assists": null,
-   "penalties": 1
   },
   {
    "player": {
@@ -288,38 +319,7 @@
     "venue": "Parc des Princes",
     "lastUpdated": "2022-02-10T19:07:11Z"
    },
-   "playedMatches": 5,
-   "goals": 3,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 128242,
-    "name": "Cameron Archer",
-    "firstName": "Cameron",
-    "lastName": "Archer",
-    "dateOfBirth": "2001-07-21",
-    "nationality": "England",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-15T09:33:22Z"
-   },
-   "team": {
-    "id": 519,
-    "name": "AJ Auxerre",
-    "shortName": "Auxerre",
-    "tla": "AJA",
-    "crest": "https://crests.football-data.org/519.png",
-    "address": "Route de Vaux BP 349 Auxerre 89006",
-    "website": "http://www.aja.fr",
-    "founded": 1905,
-    "clubColors": "White / Blue",
-    "venue": "Stade de l'Abbé Deschamps",
-    "lastUpdated": "2022-07-26T18:03:55Z"
-   },
-   "playedMatches": 3,
+   "playedMatches": 6,
    "goals": 3,
    "assists": null,
    "penalties": null

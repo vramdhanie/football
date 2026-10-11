@@ -102,7 +102,7 @@
     "venue": "Stadio Benito Stirpe",
     "lastUpdated": "2022-03-20T17:51:41Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 4,
    "assists": null,
    "penalties": null
@@ -137,6 +137,68 @@
    "goals": 4,
    "assists": null,
    "penalties": null
+  },
+  {
+   "player": {
+    "id": 1754,
+    "name": "Hakan Çalhanoğlu",
+    "firstName": "Hakan",
+    "lastName": "Çalhanoğlu",
+    "dateOfBirth": "1994-02-08",
+    "nationality": "Turkey",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:31Z"
+   },
+   "team": {
+    "id": 108,
+    "name": "FC Internazionale Milano",
+    "shortName": "Inter",
+    "tla": "INT",
+    "crest": "https://crests.football-data.org/108.png",
+    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+    "website": "http://www.inter.it",
+    "founded": 1908,
+    "clubColors": "Blue / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "lastUpdated": "2021-11-24T14:55:58Z"
+   },
+   "playedMatches": 4,
+   "goals": 3,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
+    "id": 3654,
+    "name": "Kevin De Bruyne",
+    "firstName": "Kevin",
+    "lastName": "De Bruyne",
+    "dateOfBirth": "1991-06-28",
+    "nationality": "Belgium",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 113,
+    "name": "SSC Napoli",
+    "shortName": "Napoli",
+    "tla": "NAP",
+    "crest": "https://crests.football-data.org/113.png",
+    "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+    "website": "http://www.sscnapoli.it",
+    "founded": 1904,
+    "clubColors": "Sky Blue / White",
+    "venue": "Stadio San Paolo",
+    "lastUpdated": "2025-02-17T16:51:11Z"
+   },
+   "playedMatches": 6,
+   "goals": 3,
+   "assists": 1,
+   "penalties": 1
   },
   {
    "player": {
@@ -202,6 +264,37 @@
   },
   {
    "player": {
+    "id": 8685,
+    "name": "Marcus Thuram-Ulien",
+    "firstName": "Marcus",
+    "lastName": "Thuram",
+    "dateOfBirth": "1997-08-06",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 108,
+    "name": "FC Internazionale Milano",
+    "shortName": "Inter",
+    "tla": "INT",
+    "crest": "https://crests.football-data.org/108.png",
+    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+    "website": "http://www.inter.it",
+    "founded": 1908,
+    "clubColors": "Blue / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "lastUpdated": "2021-11-24T14:55:58Z"
+   },
+   "playedMatches": 6,
+   "goals": 3,
+   "assists": 2,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 211564,
     "name": "Giorgi Kvernadze",
     "firstName": "Giorgi",
@@ -226,102 +319,9 @@
     "venue": "Stadio Benito Stirpe",
     "lastUpdated": "2022-03-20T17:51:41Z"
    },
-   "playedMatches": 5,
-   "goals": 3,
-   "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 183018,
-    "name": "Vasilije Adzic",
-    "firstName": "Vasilije",
-    "lastName": "Adžić",
-    "dateOfBirth": "2006-05-12",
-    "nationality": "Montenegro",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:16Z"
-   },
-   "team": {
-    "id": 471,
-    "name": "US Sassuolo Calcio",
-    "shortName": "Sassuolo",
-    "tla": "SAS",
-    "crest": "https://crests.football-data.org/471.png",
-    "address": "Piazza Risorgimento, 47 Sassuolo 41049",
-    "website": "http://www.sassuolocalcio.it",
-    "founded": 1920,
-    "clubColors": "Green / Black",
-    "venue": "Mapei Stadium - Città del Tricolore",
-    "lastUpdated": "2024-04-09T16:20:13Z"
-   },
-   "playedMatches": 5,
-   "goals": 3,
-   "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 136113,
-    "name": "Daniel Maldini",
-    "firstName": "Daniel",
-    "lastName": "Maldini",
-    "dateOfBirth": "2001-10-11",
-    "nationality": "Italy",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:16Z"
-   },
-   "team": {
-    "id": 104,
-    "name": "Cagliari Calcio",
-    "shortName": "Cagliari",
-    "tla": "CAG",
-    "crest": "https://crests.football-data.org/104.png",
-    "address": "Viale la Plaia 15 Cagliari 09123",
-    "website": "http://www.cagliaricalcio.net",
-    "founded": 1920,
-    "clubColors": "Red / Navy Blue / White",
-    "venue": "Sardegna Arena",
-    "lastUpdated": "2024-04-09T16:20:43Z"
-   },
-   "playedMatches": 5,
-   "goals": 3,
-   "assists": null,
-   "penalties": 1
-  },
-  {
-   "player": {
-    "id": 250304,
-    "name": "Franco Mastantuono",
-    "firstName": "Franco",
-    "lastName": "Mastantuono",
-    "dateOfBirth": "2007-08-14",
-    "nationality": "Argentina",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:16Z"
-   },
-   "team": {
-    "id": 99,
-    "name": "ACF Fiorentina",
-    "shortName": "Fiorentina",
-    "tla": "FIO",
-    "crest": "https://crests.football-data.org/99.png",
-    "address": "Viale Manfredo Fanti 4 Firenze 50137",
-    "website": "http://www.acffiorentina.it",
-    "founded": 1926,
-    "clubColors": "Purple / White",
-    "venue": "Stadio Artemio Franchi",
-    "lastUpdated": "2024-04-09T16:20:54Z"
-   },
    "playedMatches": 6,
    "goals": 3,
-   "assists": null,
+   "assists": 1,
    "penalties": null
   }
  ]

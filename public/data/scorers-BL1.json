@@ -202,6 +202,68 @@
   },
   {
    "player": {
+    "id": 8484,
+    "name": "Christopher Nkunku",
+    "firstName": "Christopher",
+    "lastName": "Nkunku",
+    "dateOfBirth": "1997-11-14",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:15Z"
+   },
+   "team": {
+    "id": 721,
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL",
+    "crest": "https://crests.football-data.org/721.png",
+    "address": "Neumarkt 29-33 Leipzig 04109",
+    "website": "http://www.dierotenbullen.com",
+    "founded": 2009,
+    "clubColors": "White / Red",
+    "venue": "Red Bull Arena",
+    "lastUpdated": "2022-02-19T09:03:00Z"
+   },
+   "playedMatches": 5,
+   "goals": 4,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 169295,
+    "name": "Antonio Nusa",
+    "firstName": "Antonio",
+    "lastName": "Nusa",
+    "dateOfBirth": "2005-04-17",
+    "nationality": "Norway",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-20T16:51:41Z"
+   },
+   "team": {
+    "id": 721,
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL",
+    "crest": "https://crests.football-data.org/721.png",
+    "address": "Neumarkt 29-33 Leipzig 04109",
+    "website": "http://www.dierotenbullen.com",
+    "founded": 2009,
+    "clubColors": "White / Red",
+    "venue": "Red Bull Arena",
+    "lastUpdated": "2022-02-19T09:03:00Z"
+   },
+   "playedMatches": 5,
+   "goals": 3,
+   "assists": 3,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 156629,
     "name": "Igor Matanovic",
     "firstName": "Igor",
@@ -260,68 +322,6 @@
    "playedMatches": 5,
    "goals": 3,
    "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 183780,
-    "name": "Maurice Krattenmacher",
-    "firstName": "Maurice",
-    "lastName": "Krattenmacher",
-    "dateOfBirth": "2005-08-11",
-    "nationality": "Germany",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-20T16:51:42Z"
-   },
-   "team": {
-    "id": 719,
-    "name": "SV 07 Elversberg",
-    "shortName": "Elversberg",
-    "tla": "ELV",
-    "crest": "https://crests.football-data.org/719.png",
-    "address": "St. Ingberter Straße 8 Spiesen-Elversberg 66583",
-    "website": "http://www.sv07elversberg.de",
-    "founded": 1907,
-    "clubColors": "Black / White",
-    "venue": "Ursapharm-Arena an der Kaiserlinde",
-    "lastUpdated": "2022-07-22T08:44:52Z"
-   },
-   "playedMatches": 5,
-   "goals": 3,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 82404,
-    "name": "Jonathan Burkardt",
-    "firstName": "Jonathan",
-    "lastName": "Burkardt",
-    "dateOfBirth": "2000-07-11",
-    "nationality": "Germany",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-20T16:51:41Z"
-   },
-   "team": {
-    "id": 19,
-    "name": "Eintracht Frankfurt",
-    "shortName": "Frankfurt",
-    "tla": "SGE",
-    "crest": "https://crests.football-data.org/19.png",
-    "address": "Mörfelder Landstraße 362 Frankfurt am Main 60528",
-    "website": "http://www.eintracht.de",
-    "founded": 1899,
-    "clubColors": "Red / Black",
-    "venue": "Deutsche Bank Park",
-    "lastUpdated": "2024-07-29T17:13:52Z"
-   },
-   "playedMatches": 5,
-   "goals": 3,
-   "assists": 1,
    "penalties": null
   }
  ]
