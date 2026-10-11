@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/FL1.png"
  },
- "fetchedAt": "2026-10-11T02:01:40.977Z",
+ "fetchedAt": "2026-10-11T16:42:22.479Z",
  "matches": [
   {
    "area": {
@@ -427,11 +427,11 @@
    },
    "id": 559670,
    "utcDate": "2026-10-11T13:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T01:32:00Z",
+   "lastUpdated": "2026-10-11T14:59:47Z",
    "homeTeam": {
     "id": 522,
     "name": "OGC Nice",
@@ -447,21 +447,28 @@
     "crest": "https://crests.football-data.org/576.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57073,
+     "name": "Jérémie Pignard",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
@@ -486,11 +493,11 @@
    },
    "id": 559667,
    "utcDate": "2026-10-11T15:15:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T01:32:01Z",
+   "lastUpdated": "2026-10-11T16:41:39Z",
    "homeTeam": {
     "id": 529,
     "name": "Stade Rennais FC 1901",
@@ -506,21 +513,28 @@
     "crest": "https://crests.football-data.org/519.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57042,
+     "name": "Willy Delajod",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {

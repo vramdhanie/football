@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/c111.png"
  },
- "fetchedAt": "2026-10-11T02:01:25.908Z",
+ "fetchedAt": "2026-10-11T16:42:07.626Z",
  "matches": [
   {
    "area": {
@@ -229,11 +229,11 @@
    },
    "id": 558585,
    "utcDate": "2026-10-11T10:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T01:32:00Z",
+   "lastUpdated": "2026-10-11T12:37:23Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -249,21 +249,28 @@
     "crest": "https://crests.football-data.org/100.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 10985,
+     "name": "Michael Fabbri",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -288,11 +295,11 @@
    },
    "id": 558581,
    "utcDate": "2026-10-11T13:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T01:32:01Z",
+   "lastUpdated": "2026-10-11T15:04:35Z",
    "homeTeam": {
     "id": 5890,
     "name": "US Lecce",
@@ -308,21 +315,28 @@
     "crest": "https://crests.football-data.org/103.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11002,
+     "name": "Luca Pairetto",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -347,11 +361,11 @@
    },
    "id": 558583,
    "utcDate": "2026-10-11T13:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T01:32:01Z",
+   "lastUpdated": "2026-10-11T14:59:47Z",
    "homeTeam": {
     "id": 110,
     "name": "SS Lazio",
@@ -367,21 +381,28 @@
     "crest": "https://crests.football-data.org/5911.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 3,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 97848,
+     "name": "Giuseppe Collu",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -406,11 +427,11 @@
    },
    "id": 558580,
    "utcDate": "2026-10-11T16:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-11T16:41:07Z",
    "homeTeam": {
     "id": 471,
     "name": "US Sassuolo Calcio",
@@ -426,11 +447,11 @@
     "crest": "https://crests.football-data.org/98.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     },
     "halfTime": {
      "home": null,
@@ -440,7 +461,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11129,
+     "name": "Francesco Fourneau",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {

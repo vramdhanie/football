@@ -109,6 +109,37 @@
   },
   {
    "player": {
+    "id": 149850,
+    "name": "Esteban Lepaul",
+    "firstName": "Esteban",
+    "lastName": "Lepaul",
+    "dateOfBirth": "2000-04-18",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:39Z"
+   },
+   "team": {
+    "id": 529,
+    "name": "Stade Rennais FC 1901",
+    "shortName": "Stade Rennais",
+    "tla": "REN",
+    "crest": "https://crests.football-data.org/529.png",
+    "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
+    "website": "http://www.staderennais.com",
+    "founded": 1901,
+    "clubColors": "Red / Black",
+    "venue": "Roazhon Park",
+    "lastUpdated": "2022-03-20T11:21:26Z"
+   },
+   "playedMatches": 6,
+   "goals": 4,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
     "id": 33154,
     "name": "Ferrán Torres",
     "firstName": "",
@@ -202,6 +233,37 @@
   },
   {
    "player": {
+    "id": 128242,
+    "name": "Cameron Archer",
+    "firstName": "Cameron",
+    "lastName": "Archer",
+    "dateOfBirth": "2001-07-21",
+    "nationality": "England",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:33:22Z"
+   },
+   "team": {
+    "id": 519,
+    "name": "AJ Auxerre",
+    "shortName": "Auxerre",
+    "tla": "AJA",
+    "crest": "https://crests.football-data.org/519.png",
+    "address": "Route de Vaux BP 349 Auxerre 89006",
+    "website": "http://www.aja.fr",
+    "founded": 1905,
+    "clubColors": "White / Blue",
+    "venue": "Stade de l'Abbé Deschamps",
+    "lastUpdated": "2022-07-26T18:03:55Z"
+   },
+   "playedMatches": 4,
+   "goals": 4,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 129381,
     "name": "Casper Tengstedt",
     "firstName": "Casper",
@@ -261,68 +323,6 @@
    "goals": 3,
    "assists": 5,
    "penalties": 3
-  },
-  {
-   "player": {
-    "id": 149850,
-    "name": "Esteban Lepaul",
-    "firstName": "Esteban",
-    "lastName": "Lepaul",
-    "dateOfBirth": "2000-04-18",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-27T19:57:39Z"
-   },
-   "team": {
-    "id": 529,
-    "name": "Stade Rennais FC 1901",
-    "shortName": "Stade Rennais",
-    "tla": "REN",
-    "crest": "https://crests.football-data.org/529.png",
-    "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
-    "website": "http://www.staderennais.com",
-    "founded": 1901,
-    "clubColors": "Red / Black",
-    "venue": "Roazhon Park",
-    "lastUpdated": "2022-03-20T11:21:26Z"
-   },
-   "playedMatches": 5,
-   "goals": 3,
-   "assists": null,
-   "penalties": 1
-  },
-  {
-   "player": {
-    "id": 3225,
-    "name": "Marquinhos",
-    "firstName": "",
-    "lastName": "Marquinhos",
-    "dateOfBirth": "1994-05-14",
-    "nationality": "Brazil",
-    "section": "Defence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:32Z"
-   },
-   "team": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png",
-    "address": "24, rue de Commandant Guibaud Paris 7501",
-    "website": "http://www.psg.fr",
-    "founded": 1904,
-    "clubColors": "Red / Blue / White",
-    "venue": "Parc des Princes",
-    "lastUpdated": "2022-02-10T19:07:11Z"
-   },
-   "playedMatches": 6,
-   "goals": 3,
-   "assists": null,
-   "penalties": null
   }
  ]
 }

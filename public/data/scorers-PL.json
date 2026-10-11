@@ -71,7 +71,7 @@
     "venue": "Etihad Stadium",
     "lastUpdated": "2022-02-10T19:48:37Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 5,
    "assists": null,
    "penalties": null
@@ -171,6 +171,37 @@
   },
   {
    "player": {
+    "id": 171995,
+    "name": "Thierno Barry",
+    "firstName": "Thierno",
+    "lastName": "Barry",
+    "dateOfBirth": "2000-01-12",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:25:44Z"
+   },
+   "team": {
+    "id": 62,
+    "name": "Everton FC",
+    "shortName": "Everton",
+    "tla": "EVE",
+    "crest": "https://crests.football-data.org/62.png",
+    "address": "Goodison Park Liverpool L4 4EL",
+    "website": "http://www.evertonfc.com",
+    "founded": 1878,
+    "clubColors": "Blue / White",
+    "venue": "Goodison Park",
+    "lastUpdated": "2022-02-10T19:47:42Z"
+   },
+   "playedMatches": 6,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 6396,
     "name": "Marcus Tavernier",
     "firstName": "Marcus",
@@ -226,7 +257,7 @@
     "venue": "Etihad Stadium",
     "lastUpdated": "2022-02-10T19:48:37Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 3,
    "assists": 2,
    "penalties": null
@@ -292,37 +323,6 @@
    "goals": 3,
    "assists": null,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 3257,
-    "name": "Bruno Fernandes",
-    "firstName": "",
-    "lastName": "Bruno Fernandes",
-    "dateOfBirth": "1994-09-08",
-    "nationality": "Portugal",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
-   },
-   "team": {
-    "id": 66,
-    "name": "Manchester United FC",
-    "shortName": "Man United",
-    "tla": "MUN",
-    "crest": "https://crests.football-data.org/66.png",
-    "address": "Sir Matt Busby Way Manchester M16 0RA",
-    "website": "http://www.manutd.com",
-    "founded": 1878,
-    "clubColors": "Red / White",
-    "venue": "Old Trafford",
-    "lastUpdated": "2022-02-10T19:27:46Z"
-   },
-   "playedMatches": 6,
-   "goals": 3,
-   "assists": 1,
-   "penalties": 1
   }
  ]
 }
