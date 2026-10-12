@@ -39,12 +39,12 @@
   }
  ],
  "coach": {
-  "id": null,
+  "id": 206352,
   "firstName": null,
   "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "name": "Andoni Iraola",
+  "dateOfBirth": "1982-06-22",
+  "nationality": "Spain",
   "contract": {
    "start": null,
    "until": null
@@ -185,6 +185,13 @@
    "nationality": "Netherlands"
   },
   {
+   "id": 214502,
+   "name": "James McConnell",
+   "position": "Midfield",
+   "dateOfBirth": "2004-09-13",
+   "nationality": "England"
+  },
+  {
    "id": 230517,
    "name": "Trey Nyoni",
    "position": "Midfield",
@@ -225,6 +232,13 @@
    "position": "Offence",
    "dateOfBirth": "2002-09-02",
    "nationality": "France"
+  },
+  {
+   "id": 244989,
+   "name": "Lewis Koumas",
+   "position": "Offence",
+   "dateOfBirth": "2005-09-19",
+   "nationality": "Wales"
   },
   {
    "id": 273423,

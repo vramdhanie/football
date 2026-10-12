@@ -182,12 +182,12 @@
    "photo": null
   },
   {
-   "id": 205684,
-   "name": "Ray Paez",
+   "id": 301113,
+   "name": "Mahdi Nicoll-Jazuli",
    "position": "Midfield",
    "number": null,
-   "age": 19,
-   "nationality": "Ecuador",
+   "age": 16,
+   "nationality": "England",
    "photo": null
   },
   {
@@ -251,15 +251,6 @@
    "number": null,
    "age": 19,
    "nationality": "Brazil",
-   "photo": null
-  },
-  {
-   "id": 301113,
-   "name": "Mahdi Nicoll-Jazuli",
-   "position": null,
-   "number": null,
-   "age": 16,
-   "nationality": "England",
    "photo": null
   }
  ]

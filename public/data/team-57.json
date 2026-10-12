@@ -39,12 +39,12 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 179744,
+  "firstName": "",
+  "lastName": "Mikel Arteta",
+  "name": "Mikel Arteta",
+  "dateOfBirth": "1982-03-26",
+  "nationality": "Spain",
   "contract": {
    "start": null,
    "until": null

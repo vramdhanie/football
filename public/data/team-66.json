@@ -39,12 +39,12 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 7903,
+  "firstName": "Michael",
+  "lastName": "Carrick",
+  "name": "Michael Carrick",
+  "dateOfBirth": "1980-12-29",
+  "nationality": "England",
   "contract": {
    "start": null,
    "until": null
@@ -189,13 +189,6 @@
    "name": "Kobbie Mainoo",
    "position": "Midfield",
    "dateOfBirth": "2005-04-19",
-   "nationality": "England"
-  },
-  {
-   "id": 271941,
-   "name": "Jack Fletcher",
-   "position": "Midfield",
-   "dateOfBirth": "2007-03-19",
    "nationality": "England"
   },
   {

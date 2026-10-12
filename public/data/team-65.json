@@ -39,12 +39,12 @@
   }
  ],
  "coach": {
-  "id": null,
-  "firstName": null,
-  "lastName": null,
-  "name": null,
-  "dateOfBirth": null,
-  "nationality": null,
+  "id": 172279,
+  "firstName": "Enzo",
+  "lastName": "Maresca",
+  "name": "Enzo Maresca",
+  "dateOfBirth": "1980-02-10",
+  "nationality": "Italy",
   "contract": {
    "start": null,
    "until": null
@@ -106,13 +106,6 @@
    "position": "Defence",
    "dateOfBirth": "2002-01-23",
    "nationality": "Croatia"
-  },
-  {
-   "id": 172791,
-   "name": "Josh Wilson-Esbrand",
-   "position": "Defence",
-   "dateOfBirth": "2002-12-26",
-   "nationality": "England"
   },
   {
    "id": 187202,
