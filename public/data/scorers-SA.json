@@ -140,6 +140,37 @@
   },
   {
    "player": {
+    "id": 136113,
+    "name": "Daniel Maldini",
+    "firstName": "Daniel",
+    "lastName": "Maldini",
+    "dateOfBirth": "2001-10-11",
+    "nationality": "Italy",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:16Z"
+   },
+   "team": {
+    "id": 104,
+    "name": "Cagliari Calcio",
+    "shortName": "Cagliari",
+    "tla": "CAG",
+    "crest": "https://crests.football-data.org/104.png",
+    "address": "Viale la Plaia 15 Cagliari 09123",
+    "website": "http://www.cagliaricalcio.net",
+    "founded": 1920,
+    "clubColors": "Red / Navy Blue / White",
+    "venue": "Sardegna Arena",
+    "lastUpdated": "2024-04-09T16:20:43Z"
+   },
+   "playedMatches": 6,
+   "goals": 4,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
     "id": 1754,
     "name": "Hakan Çalhanoğlu",
     "firstName": "Hakan",
@@ -202,6 +233,37 @@
   },
   {
    "player": {
+    "id": 3368,
+    "name": "Adrien Rabiot",
+    "firstName": "Adrien",
+    "lastName": "Rabiot",
+    "dateOfBirth": "1995-04-03",
+    "nationality": "France",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 98,
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png",
+    "address": "Via Filippo Turati 3 Milano 20121",
+    "website": "http://www.acmilan.com",
+    "founded": 1899,
+    "clubColors": "Red / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "lastUpdated": "2024-04-09T16:20:58Z"
+   },
+   "playedMatches": 6,
+   "goals": 3,
+   "assists": 2,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 2200,
     "name": "Davide Frattesi",
     "firstName": "Davide",
@@ -258,68 +320,6 @@
     "lastUpdated": "2024-04-09T16:20:41Z"
    },
    "playedMatches": 5,
-   "goals": 3,
-   "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 8685,
-    "name": "Marcus Thuram-Ulien",
-    "firstName": "Marcus",
-    "lastName": "Thuram",
-    "dateOfBirth": "1997-08-06",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 108,
-    "name": "FC Internazionale Milano",
-    "shortName": "Inter",
-    "tla": "INT",
-    "crest": "https://crests.football-data.org/108.png",
-    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
-    "website": "http://www.inter.it",
-    "founded": 1908,
-    "clubColors": "Blue / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2021-11-24T14:55:58Z"
-   },
-   "playedMatches": 6,
-   "goals": 3,
-   "assists": 2,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 211564,
-    "name": "Giorgi Kvernadze",
-    "firstName": "Giorgi",
-    "lastName": "Kvernadze",
-    "dateOfBirth": "2003-02-07",
-    "nationality": "Georgia",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:15Z"
-   },
-   "team": {
-    "id": 470,
-    "name": "Frosinone Calcio",
-    "shortName": "Frosinone",
-    "tla": "FRO",
-    "crest": "https://crests.football-data.org/470.png",
-    "address": "Via Marittima, 2 Frosinone 03100",
-    "website": "http://www.frosinonecalcio.com",
-    "founded": 1912,
-    "clubColors": "Yellow / Blue",
-    "venue": "Stadio Benito Stirpe",
-    "lastUpdated": "2022-03-20T17:51:41Z"
-   },
-   "playedMatches": 6,
    "goals": 3,
    "assists": 1,
    "penalties": null

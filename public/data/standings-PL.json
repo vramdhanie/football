@@ -30,13 +30,13 @@
      },
      "playedGames": 6,
      "form": null,
-     "won": 5,
-     "draw": 1,
+     "won": 6,
+     "draw": 0,
      "lost": 0,
-     "points": 16,
-     "goalsFor": 13,
+     "points": 18,
+     "goalsFor": 16,
      "goalsAgainst": 5,
-     "goalDifference": 8
+     "goalDifference": 11
     },
     {
      "position": 2,
@@ -117,25 +117,6 @@
     {
      "position": 6,
      "team": {
-      "id": 64,
-      "name": "Liverpool FC",
-      "shortName": "Liverpool",
-      "tla": "LIV",
-      "crest": "https://crests.football-data.org/64.png"
-     },
-     "playedGames": 6,
-     "form": null,
-     "won": 2,
-     "draw": 4,
-     "lost": 0,
-     "points": 10,
-     "goalsFor": 7,
-     "goalsAgainst": 4,
-     "goalDifference": 3
-    },
-    {
-     "position": 7,
-     "team": {
       "id": 61,
       "name": "Chelsea FC",
       "shortName": "Chelsea",
@@ -153,7 +134,7 @@
      "goalDifference": 2
     },
     {
-     "position": 8,
+     "position": 7,
      "team": {
       "id": 341,
       "name": "Leeds United FC",
@@ -172,7 +153,7 @@
      "goalDifference": 3
     },
     {
-     "position": 9,
+     "position": 8,
      "team": {
       "id": 322,
       "name": "Hull City AFC",
@@ -189,6 +170,25 @@
      "goalsFor": 8,
      "goalsAgainst": 6,
      "goalDifference": 2
+    },
+    {
+     "position": 9,
+     "team": {
+      "id": 64,
+      "name": "Liverpool FC",
+      "shortName": "Liverpool",
+      "tla": "LIV",
+      "crest": "https://crests.football-data.org/64.png"
+     },
+     "playedGames": 6,
+     "form": null,
+     "won": 2,
+     "draw": 3,
+     "lost": 1,
+     "points": 9,
+     "goalsFor": 7,
+     "goalsAgainst": 7,
+     "goalDifference": 0
     },
     {
      "position": 10,

@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/c111.png"
  },
- "fetchedAt": "2026-10-11T16:42:07.626Z",
+ "fetchedAt": "2026-10-12T02:31:24.138Z",
  "matches": [
   {
    "area": {
@@ -35,7 +35,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 107,
     "name": "Genoa CFC",
@@ -101,7 +101,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 108,
     "name": "FC Internazionale Milano",
@@ -167,7 +167,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 113,
     "name": "SSC Napoli",
@@ -233,7 +233,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T12:37:23Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -299,7 +299,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T15:04:35Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 5890,
     "name": "US Lecce",
@@ -365,7 +365,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T14:59:47Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 110,
     "name": "SS Lazio",
@@ -427,11 +427,11 @@
    },
    "id": 558580,
    "utcDate": "2026-10-11T16:00:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T16:41:07Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 471,
     "name": "US Sassuolo Calcio",
@@ -450,12 +450,12 @@
     "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": 0,
-     "away": 0
+     "home": 1,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
@@ -493,11 +493,11 @@
    },
    "id": 558584,
    "utcDate": "2026-10-11T18:45:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 104,
     "name": "Cagliari Calcio",
@@ -513,21 +513,28 @@
     "crest": "https://crests.football-data.org/109.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57868,
+     "name": "Matteo Marcenaro",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -556,7 +563,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 102,
     "name": "Atalanta BC",
@@ -615,7 +622,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T01:32:00Z",
    "homeTeam": {
     "id": 586,
     "name": "Torino FC",
@@ -674,7 +681,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T01:32:04Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 470,
     "name": "Frosinone Calcio",
@@ -733,7 +740,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T01:32:06Z",
+   "lastUpdated": "2026-10-12T01:32:03Z",
    "homeTeam": {
     "id": 454,
     "name": "Venezia FC",
@@ -792,7 +799,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T01:32:07Z",
+   "lastUpdated": "2026-10-12T01:32:04Z",
    "homeTeam": {
     "id": 103,
     "name": "Bologna FC 1909",
@@ -851,7 +858,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T01:32:07Z",
+   "lastUpdated": "2026-10-12T01:32:04Z",
    "homeTeam": {
     "id": 100,
     "name": "AS Roma",
@@ -910,7 +917,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T01:32:05Z",
    "homeTeam": {
     "id": 115,
     "name": "Udinese Calcio",
@@ -969,7 +976,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T01:32:05Z",
    "homeTeam": {
     "id": 99,
     "name": "ACF Fiorentina",
@@ -1028,7 +1035,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T01:32:06Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1087,7 +1094,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T01:32:06Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -1146,7 +1153,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 5911,
     "name": "AC Monza",
@@ -1205,7 +1212,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 112,
     "name": "Parma Calcio 1913",
@@ -1264,7 +1271,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 586,
     "name": "Torino FC",
@@ -1323,7 +1330,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 104,
     "name": "Cagliari Calcio",
@@ -1382,7 +1389,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -1441,7 +1448,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 113,
     "name": "SSC Napoli",
@@ -1500,7 +1507,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 110,
     "name": "SS Lazio",
@@ -1559,7 +1566,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 108,
     "name": "FC Internazionale Milano",
@@ -1618,7 +1625,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 102,
     "name": "Atalanta BC",
@@ -1677,7 +1684,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 107,
     "name": "Genoa CFC",
@@ -1736,7 +1743,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 5890,
     "name": "US Lecce",
@@ -1795,7 +1802,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 115,
     "name": "Udinese Calcio",
@@ -1854,7 +1861,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 471,
     "name": "US Sassuolo Calcio",
@@ -1913,7 +1920,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 100,
     "name": "AS Roma",
@@ -1972,7 +1979,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 586,
     "name": "Torino FC",
@@ -2031,7 +2038,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -2090,7 +2097,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 454,
     "name": "Venezia FC",
@@ -2149,7 +2156,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 112,
     "name": "Parma Calcio 1913",
@@ -2208,7 +2215,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 107,
     "name": "Genoa CFC",
@@ -2267,7 +2274,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 5911,
     "name": "AC Monza",
@@ -2326,7 +2333,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 470,
     "name": "Frosinone Calcio",
@@ -2385,7 +2392,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 99,
     "name": "ACF Fiorentina",
@@ -2444,7 +2451,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 103,
     "name": "Bologna FC 1909",
@@ -2503,7 +2510,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 115,
     "name": "Udinese Calcio",
@@ -2562,7 +2569,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -2621,7 +2628,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -2680,7 +2687,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 470,
     "name": "Frosinone Calcio",
@@ -2739,7 +2746,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 110,
     "name": "SS Lazio",
@@ -2798,7 +2805,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 5890,
     "name": "US Lecce",
@@ -2857,7 +2864,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -2916,7 +2923,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 471,
     "name": "US Sassuolo Calcio",
@@ -2975,7 +2982,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 102,
     "name": "Atalanta BC",
@@ -3034,7 +3041,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 454,
     "name": "Venezia FC",
@@ -3093,7 +3100,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 586,
     "name": "Torino FC",
@@ -3152,7 +3159,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 104,
     "name": "Cagliari Calcio",
@@ -3211,7 +3218,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 112,
     "name": "Parma Calcio 1913",
@@ -3270,7 +3277,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 100,
     "name": "AS Roma",
@@ -3329,7 +3336,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 113,
     "name": "SSC Napoli",
@@ -3388,7 +3395,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 107,
     "name": "Genoa CFC",
@@ -3447,7 +3454,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 5911,
     "name": "AC Monza",
@@ -3506,7 +3513,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 108,
     "name": "FC Internazionale Milano",
@@ -3565,7 +3572,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-11T00:20:32Z",
+   "lastUpdated": "2026-10-12T00:20:33Z",
    "homeTeam": {
     "id": 99,
     "name": "ACF Fiorentina",

@@ -79,6 +79,25 @@
     {
      "position": 4,
      "team": {
+      "id": 104,
+      "name": "Cagliari Calcio",
+      "shortName": "Cagliari",
+      "tla": "CAG",
+      "crest": "https://crests.football-data.org/104.png"
+     },
+     "playedGames": 6,
+     "form": null,
+     "won": 4,
+     "draw": 1,
+     "lost": 1,
+     "points": 13,
+     "goalsFor": 6,
+     "goalsAgainst": 3,
+     "goalDifference": 3
+    },
+    {
+     "position": 5,
+     "team": {
       "id": 98,
       "name": "AC Milan",
       "shortName": "Milan",
@@ -91,31 +110,31 @@
      "draw": 3,
      "lost": 0,
      "points": 12,
-     "goalsFor": 10,
-     "goalsAgainst": 4,
+     "goalsFor": 11,
+     "goalsAgainst": 5,
      "goalDifference": 6
     },
     {
-     "position": 5,
+     "position": 6,
      "team": {
-      "id": 104,
-      "name": "Cagliari Calcio",
-      "shortName": "Cagliari",
-      "tla": "CAG",
-      "crest": "https://crests.football-data.org/104.png"
+      "id": 109,
+      "name": "Juventus FC",
+      "shortName": "Juventus",
+      "tla": "JUV",
+      "crest": "https://crests.football-data.org/109.png"
      },
-     "playedGames": 5,
+     "playedGames": 6,
      "form": null,
-     "won": 4,
-     "draw": 0,
+     "won": 3,
+     "draw": 2,
      "lost": 1,
-     "points": 12,
-     "goalsFor": 5,
-     "goalsAgainst": 2,
-     "goalDifference": 3
+     "points": 11,
+     "goalsFor": 9,
+     "goalsAgainst": 5,
+     "goalDifference": 4
     },
     {
-     "position": 6,
+     "position": 7,
      "team": {
       "id": 7397,
       "name": "Como 1907",
@@ -134,7 +153,7 @@
      "goalDifference": 3
     },
     {
-     "position": 7,
+     "position": 8,
      "team": {
       "id": 113,
       "name": "SSC Napoli",
@@ -150,25 +169,6 @@
      "points": 10,
      "goalsFor": 10,
      "goalsAgainst": 6,
-     "goalDifference": 4
-    },
-    {
-     "position": 8,
-     "team": {
-      "id": 109,
-      "name": "Juventus FC",
-      "shortName": "Juventus",
-      "tla": "JUV",
-      "crest": "https://crests.football-data.org/109.png"
-     },
-     "playedGames": 5,
-     "form": null,
-     "won": 3,
-     "draw": 1,
-     "lost": 1,
-     "points": 10,
-     "goalsFor": 8,
-     "goalsAgainst": 4,
      "goalDifference": 4
     },
     {
@@ -205,8 +205,8 @@
      "draw": 2,
      "lost": 2,
      "points": 8,
-     "goalsFor": 9,
-     "goalsAgainst": 9,
+     "goalsFor": 10,
+     "goalsAgainst": 10,
      "goalDifference": 0
     },
     {
