@@ -6,7 +6,7 @@
   "type": "CUP",
   "emblem": "https://crests.football-data.org/CL.png"
  },
- "fetchedAt": "2026-10-13T03:41:10.497Z",
+ "fetchedAt": "2026-10-13T18:25:06.629Z",
  "matches": [
   {
    "area": {
@@ -31,11 +31,11 @@
    },
    "id": 575341,
    "utcDate": "2026-10-13T16:45:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 2,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-10-13T00:20:34Z",
+   "lastUpdated": "2026-10-13T18:24:25Z",
    "homeTeam": {
     "id": 546,
     "name": "Racing Club de Lens",
@@ -51,21 +51,28 @@
     "crest": "https://crests.football-data.org/498.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15115,
+     "name": "Igor Pajač",
+     "type": "REFEREE",
+     "nationality": "Croatia"
+    }
+   ]
   },
   {
    "area": {
@@ -90,11 +97,11 @@
    },
    "id": 575342,
    "utcDate": "2026-10-13T16:45:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 2,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-10-13T00:20:34Z",
+   "lastUpdated": "2026-10-13T18:24:25Z",
    "homeTeam": {
     "id": 10233,
     "name": "Sabah FK",
@@ -110,21 +117,28 @@
     "crest": "https://crests.football-data.org/930.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15473,
+     "name": "Sebastian Gishamer",
+     "type": "REFEREE",
+     "nationality": "Austria"
+    }
+   ]
   },
   {
    "area": {
@@ -183,7 +197,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 44921,
+     "name": "Rohit Saggi",
+     "type": "REFEREE",
+     "nationality": "Norway"
+    }
+   ]
   },
   {
    "area": {
@@ -242,7 +263,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11079,
+     "name": "Marco Guida",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -301,7 +329,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 30960,
+     "name": "Glenn Nyberg",
+     "type": "REFEREE",
+     "nationality": "Sweden"
+    }
+   ]
   },
   {
    "area": {
@@ -360,7 +395,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43878,
+     "name": "Felix Zwayer",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -419,7 +461,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15654,
+     "name": "Georgi Kabakov",
+     "type": "REFEREE",
+     "nationality": "Bulgaria"
+    }
+   ]
   },
   {
    "area": {
@@ -478,7 +527,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15510,
+     "name": "Nick Walsh",
+     "type": "REFEREE",
+     "nationality": "Scotland"
+    }
+   ]
   },
   {
    "area": {
@@ -537,7 +593,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15408,
+     "name": "Daniel Siebert",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
