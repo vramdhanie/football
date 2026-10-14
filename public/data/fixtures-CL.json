@@ -6,7 +6,7 @@
   "type": "CUP",
   "emblem": "https://crests.football-data.org/CL.png"
  },
- "fetchedAt": "2026-10-14T02:01:38.763Z",
+ "fetchedAt": "2026-10-14T15:53:27.061Z",
  "matches": [
   {
    "area": {
@@ -659,7 +659,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43943,
+     "name": "Tobias Stieler",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -718,7 +725,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43952,
+     "name": "Donatas Rumšas",
+     "type": "REFEREE",
+     "nationality": "Lithuania"
+    }
+   ]
   },
   {
    "area": {
