@@ -204,6 +204,13 @@
    "position": "Offence",
    "dateOfBirth": "2007-07-23",
    "nationality": "France"
+  },
+  {
+   "id": 302269,
+   "name": "Adam Mouak",
+   "position": null,
+   "dateOfBirth": "2009-06-01",
+   "nationality": "Morocco"
   }
  ],
  "staff": [],
