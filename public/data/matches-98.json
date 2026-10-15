@@ -18,7 +18,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558634,
@@ -27,7 +27,7 @@
    "matchday": 1,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 586,
     "name": "Torino FC",
@@ -84,7 +84,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558625,
@@ -93,7 +93,7 @@
    "matchday": 2,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -150,7 +150,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558618,
@@ -159,7 +159,7 @@
    "matchday": 3,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -216,7 +216,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558600,
@@ -225,7 +225,7 @@
    "matchday": 4,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 110,
     "name": "SS Lazio",
@@ -282,7 +282,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558597,
@@ -291,7 +291,7 @@
    "matchday": 5,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -348,7 +348,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558580,
@@ -357,7 +357,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 471,
     "name": "US Sassuolo Calcio",
@@ -414,7 +414,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558569,
@@ -423,7 +423,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -473,7 +473,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558559,
@@ -482,7 +482,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 115,
     "name": "Udinese Calcio",
@@ -532,7 +532,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558549,
@@ -541,7 +541,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -591,7 +591,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558548,
@@ -600,7 +600,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -650,7 +650,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558536,
@@ -659,7 +659,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 107,
     "name": "Genoa CFC",
@@ -709,7 +709,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558523,
@@ -718,7 +718,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -768,7 +768,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558510,
@@ -777,7 +777,7 @@
    "matchday": 13,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 104,
     "name": "Cagliari Calcio",
@@ -827,7 +827,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558505,
@@ -836,7 +836,7 @@
    "matchday": 14,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -886,7 +886,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558489,
@@ -895,7 +895,7 @@
    "matchday": 15,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 113,
     "name": "SSC Napoli",
@@ -945,7 +945,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558479,
@@ -954,7 +954,7 @@
    "matchday": 16,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1004,7 +1004,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558475,
@@ -1013,7 +1013,7 @@
    "matchday": 17,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 5911,
     "name": "AC Monza",
@@ -1063,7 +1063,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558464,
@@ -1072,7 +1072,7 @@
    "matchday": 18,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1122,7 +1122,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558458,
@@ -1131,7 +1131,7 @@
    "matchday": 19,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 100,
     "name": "AS Roma",
@@ -1181,7 +1181,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558439,
@@ -1190,7 +1190,7 @@
    "matchday": 20,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1240,7 +1240,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558433,
@@ -1249,7 +1249,7 @@
    "matchday": 21,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 470,
     "name": "Frosinone Calcio",
@@ -1299,7 +1299,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558419,
@@ -1308,7 +1308,7 @@
    "matchday": 22,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1358,7 +1358,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558417,
@@ -1367,7 +1367,7 @@
    "matchday": 23,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 103,
     "name": "Bologna FC 1909",
@@ -1417,7 +1417,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558408,
@@ -1426,7 +1426,7 @@
    "matchday": 24,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 108,
     "name": "FC Internazionale Milano",
@@ -1476,7 +1476,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558395,
@@ -1485,7 +1485,7 @@
    "matchday": 25,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1535,7 +1535,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558384,
@@ -1544,7 +1544,7 @@
    "matchday": 26,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -1594,7 +1594,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558377,
@@ -1603,7 +1603,7 @@
    "matchday": 27,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1653,7 +1653,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558361,
@@ -1662,7 +1662,7 @@
    "matchday": 28,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1712,7 +1712,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558358,
@@ -1721,7 +1721,7 @@
    "matchday": 29,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 102,
     "name": "Atalanta BC",
@@ -1771,7 +1771,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558344,
@@ -1780,7 +1780,7 @@
    "matchday": 30,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1830,7 +1830,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558338,
@@ -1839,7 +1839,7 @@
    "matchday": 31,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 99,
     "name": "ACF Fiorentina",
@@ -1889,7 +1889,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558327,
@@ -1898,7 +1898,7 @@
    "matchday": 32,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1948,7 +1948,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558316,
@@ -1957,7 +1957,7 @@
    "matchday": 33,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 5890,
     "name": "US Lecce",
@@ -2007,7 +2007,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558301,
@@ -2016,7 +2016,7 @@
    "matchday": 34,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -2066,7 +2066,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558289,
@@ -2075,7 +2075,7 @@
    "matchday": 35,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 112,
     "name": "Parma Calcio 1913",
@@ -2125,7 +2125,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558287,
@@ -2134,7 +2134,7 @@
    "matchday": 36,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -2184,7 +2184,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558277,
@@ -2193,7 +2193,7 @@
    "matchday": 37,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 454,
     "name": "Venezia FC",
@@ -2243,7 +2243,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 558259,
@@ -2252,7 +2252,7 @@
    "matchday": 38,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-15T15:20:35Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
