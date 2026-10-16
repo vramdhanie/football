@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/PL.png"
  },
- "fetchedAt": "2026-10-15T15:39:56.760Z",
+ "fetchedAt": "2026-10-16T01:31:42.386Z",
  "matches": [
   {
    "area": {
@@ -26,7 +26,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560593,
@@ -35,7 +35,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 57,
     "name": "Arsenal FC",
@@ -92,7 +92,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560592,
@@ -101,7 +101,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 71,
     "name": "Sunderland AFC",
@@ -158,7 +158,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560595,
@@ -167,7 +167,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -224,7 +224,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560599,
@@ -233,7 +233,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 349,
     "name": "Ipswich Town FC",
@@ -290,7 +290,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560601,
@@ -299,7 +299,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 58,
     "name": "Aston Villa FC",
@@ -356,7 +356,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560600,
@@ -365,7 +365,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -422,7 +422,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560594,
@@ -431,7 +431,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 322,
     "name": "Hull City AFC",
@@ -488,7 +488,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560596,
@@ -497,7 +497,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 354,
     "name": "Crystal Palace FC",
@@ -554,7 +554,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560598,
@@ -563,7 +563,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -620,7 +620,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560597,
@@ -629,7 +629,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 1076,
     "name": "Coventry City FC",
@@ -686,7 +686,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560603,
@@ -695,7 +695,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 62,
     "name": "Everton FC",
@@ -745,7 +745,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560602,
@@ -754,7 +754,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 63,
     "name": "Fulham FC",
@@ -804,7 +804,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560610,
@@ -813,7 +813,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 65,
     "name": "Manchester City FC",
@@ -863,7 +863,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560611,
@@ -872,7 +872,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 402,
     "name": "Brentford FC",
@@ -922,7 +922,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560607,
@@ -931,7 +931,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 67,
     "name": "Newcastle United FC",
@@ -981,7 +981,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560604,
@@ -990,7 +990,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 1044,
     "name": "AFC Bournemouth",
@@ -1040,7 +1040,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560605,
@@ -1049,7 +1049,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 341,
     "name": "Leeds United FC",
@@ -1099,7 +1099,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560609,
@@ -1108,7 +1108,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 397,
     "name": "Brighton & Hove Albion FC",
@@ -1158,7 +1158,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560608,
@@ -1167,7 +1167,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 351,
     "name": "Nottingham Forest FC",
@@ -1217,7 +1217,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560606,
@@ -1226,7 +1226,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 73,
     "name": "Tottenham Hotspur FC",
@@ -1276,7 +1276,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560620,
@@ -1285,7 +1285,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 349,
     "name": "Ipswich Town FC",
@@ -1335,7 +1335,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560614,
@@ -1344,7 +1344,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 58,
     "name": "Aston Villa FC",
@@ -1394,7 +1394,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560616,
@@ -1403,7 +1403,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 57,
     "name": "Arsenal FC",
@@ -1453,7 +1453,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560618,
@@ -1462,7 +1462,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 1076,
     "name": "Coventry City FC",
@@ -1512,7 +1512,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560617,
@@ -1521,7 +1521,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -1571,7 +1571,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560612,
@@ -1580,7 +1580,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -1630,7 +1630,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560613,
@@ -1639,7 +1639,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 354,
     "name": "Crystal Palace FC",
@@ -1689,7 +1689,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560615,
@@ -1698,7 +1698,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1748,7 +1748,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560619,
@@ -1757,7 +1757,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 322,
     "name": "Hull City AFC",
@@ -1807,7 +1807,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560621,
@@ -1816,7 +1816,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 71,
     "name": "Sunderland AFC",
@@ -1866,7 +1866,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560626,
@@ -1875,7 +1875,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 61,
     "name": "Chelsea FC",
@@ -1925,7 +1925,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560623,
@@ -1934,7 +1934,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 65,
     "name": "Manchester City FC",
@@ -1984,7 +1984,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560624,
@@ -1993,7 +1993,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 1044,
     "name": "AFC Bournemouth",
@@ -2043,7 +2043,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560625,
@@ -2052,7 +2052,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 1076,
     "name": "Coventry City FC",
@@ -2102,7 +2102,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560629,
@@ -2111,7 +2111,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 322,
     "name": "Hull City AFC",
@@ -2161,7 +2161,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560630,
@@ -2170,7 +2170,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 402,
     "name": "Brentford FC",
@@ -2220,7 +2220,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560627,
@@ -2229,7 +2229,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 73,
     "name": "Tottenham Hotspur FC",
@@ -2279,7 +2279,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560628,
@@ -2288,7 +2288,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 58,
     "name": "Aston Villa FC",
@@ -2338,7 +2338,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560631,
@@ -2347,7 +2347,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -2397,7 +2397,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560622,
@@ -2406,7 +2406,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 67,
     "name": "Newcastle United FC",
@@ -2456,7 +2456,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560634,
@@ -2465,7 +2465,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 62,
     "name": "Everton FC",
@@ -2515,7 +2515,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560632,
@@ -2524,7 +2524,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 341,
     "name": "Leeds United FC",
@@ -2574,7 +2574,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560640,
@@ -2583,7 +2583,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 57,
     "name": "Arsenal FC",
@@ -2633,7 +2633,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560633,
@@ -2642,7 +2642,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 63,
     "name": "Fulham FC",
@@ -2692,7 +2692,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560641,
@@ -2701,7 +2701,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 351,
     "name": "Nottingham Forest FC",
@@ -2751,7 +2751,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560635,
@@ -2760,7 +2760,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 354,
     "name": "Crystal Palace FC",
@@ -2810,7 +2810,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560636,
@@ -2819,7 +2819,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 71,
     "name": "Sunderland AFC",
@@ -2869,7 +2869,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560637,
@@ -2878,7 +2878,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 349,
     "name": "Ipswich Town FC",
@@ -2928,7 +2928,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560638,
@@ -2937,7 +2937,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 397,
     "name": "Brighton & Hove Albion FC",
@@ -2987,7 +2987,7 @@
     "id": 2502,
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "currentMatchday": 6,
+    "currentMatchday": 7,
     "winner": null
    },
    "id": 560639,
@@ -2996,7 +2996,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-15T00:20:33Z",
+   "lastUpdated": "2026-10-16T00:20:35Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
