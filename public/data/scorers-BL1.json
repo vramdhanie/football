@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 192207,
+    "name": "Younes Ebnoutalib",
+    "firstName": "Younes",
+    "lastName": "Ebnoutalib",
+    "dateOfBirth": "2003-09-13",
+    "nationality": "Germany",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2023-05-01T19:39:32Z"
+   },
+   "team": {
+    "id": 19,
+    "name": "Eintracht Frankfurt",
+    "shortName": "Frankfurt",
+    "tla": "SGE",
+    "crest": "https://crests.football-data.org/19.png",
+    "address": "Mörfelder Landstraße 362 Frankfurt am Main 60528",
+    "website": "http://www.eintracht.de",
+    "founded": 1899,
+    "clubColors": "Red / Black",
+    "venue": "Deutsche Bank Park",
+    "lastUpdated": "2024-07-29T17:13:52Z"
+   },
+   "playedMatches": 6,
+   "goals": 5,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 1826,
     "name": "Patrik Schick",
     "firstName": "Patrik",
@@ -70,37 +101,6 @@
     "clubColors": "Red / White / Blue",
     "venue": "Allianz Arena",
     "lastUpdated": "2024-07-09T17:26:37Z"
-   },
-   "playedMatches": 5,
-   "goals": 4,
-   "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 192207,
-    "name": "Younes Ebnoutalib",
-    "firstName": "Younes",
-    "lastName": "Ebnoutalib",
-    "dateOfBirth": "2003-09-13",
-    "nationality": "Germany",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2023-05-01T19:39:32Z"
-   },
-   "team": {
-    "id": 19,
-    "name": "Eintracht Frankfurt",
-    "shortName": "Frankfurt",
-    "tla": "SGE",
-    "crest": "https://crests.football-data.org/19.png",
-    "address": "Mörfelder Landstraße 362 Frankfurt am Main 60528",
-    "website": "http://www.eintracht.de",
-    "founded": 1899,
-    "clubColors": "Red / Black",
-    "venue": "Deutsche Bank Park",
-    "lastUpdated": "2024-07-29T17:13:52Z"
    },
    "playedMatches": 5,
    "goals": 4,

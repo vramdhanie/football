@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 129381,
+    "name": "Casper Tengstedt",
+    "firstName": "Casper",
+    "lastName": "Tengstedt",
+    "dateOfBirth": "2000-06-01",
+    "nationality": "Denmark",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-22T15:39:09Z"
+   },
+   "team": {
+    "id": 511,
+    "name": "Toulouse FC",
+    "shortName": "Toulouse",
+    "tla": "TOU",
+    "crest": "https://crests.football-data.org/511.png",
+    "address": "1 allée Gabriel Biénèsm, BP 54023 Toulouse 31028",
+    "website": "http://www.tfc.info",
+    "founded": 1937,
+    "clubColors": "Violet / White",
+    "venue": "Stadium Municipal",
+    "lastUpdated": "2026-07-04T12:07:20Z"
+   },
+   "playedMatches": 5,
+   "goals": 5,
+   "assists": 1,
+   "penalties": 2
+  },
+  {
+   "player": {
     "id": 8476,
     "name": "Amine Gouiri",
     "firstName": "Amine",
@@ -71,7 +102,7 @@
     "venue": "MMArena",
     "lastUpdated": "2026-09-21T11:19:51Z"
    },
-   "playedMatches": 6,
+   "playedMatches": 7,
    "goals": 4,
    "assists": null,
    "penalties": 1
@@ -261,37 +292,6 @@
    "goals": 4,
    "assists": null,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 129381,
-    "name": "Casper Tengstedt",
-    "firstName": "Casper",
-    "lastName": "Tengstedt",
-    "dateOfBirth": "2000-06-01",
-    "nationality": "Denmark",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-22T15:39:09Z"
-   },
-   "team": {
-    "id": 511,
-    "name": "Toulouse FC",
-    "shortName": "Toulouse",
-    "tla": "TOU",
-    "crest": "https://crests.football-data.org/511.png",
-    "address": "1 allée Gabriel Biénèsm, BP 54023 Toulouse 31028",
-    "website": "http://www.tfc.info",
-    "founded": 1937,
-    "clubColors": "Violet / White",
-    "venue": "Stadium Municipal",
-    "lastUpdated": "2026-07-04T12:07:20Z"
-   },
-   "playedMatches": 4,
-   "goals": 4,
-   "assists": 1,
-   "penalties": 2
   },
   {
    "player": {
