@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/FL1.png"
  },
- "fetchedAt": "2026-10-17T01:24:08.405Z",
+ "fetchedAt": "2026-10-17T14:18:33.975Z",
  "matches": [
   {
    "area": {
@@ -725,7 +725,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57042,
+     "name": "Willy Delajod",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {

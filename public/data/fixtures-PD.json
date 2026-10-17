@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/laliga.png"
  },
- "fetchedAt": "2026-10-17T01:24:00.998Z",
+ "fetchedAt": "2026-10-17T14:18:26.768Z",
  "matches": [
   {
    "area": {
@@ -757,11 +757,11 @@
    },
    "id": 564710,
    "utcDate": "2026-10-17T12:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-17T00:20:33Z",
+   "lastUpdated": "2026-10-17T14:00:57Z",
    "homeTeam": {
     "id": 80,
     "name": "RCD Espanyol de Barcelona",
@@ -777,21 +777,28 @@
     "crest": "https://crests.football-data.org/78.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 206208,
+     "name": "Alejandro Hernández Hernández",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
@@ -850,7 +857,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 56995,
+     "name": "Víctor García Verdura",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {

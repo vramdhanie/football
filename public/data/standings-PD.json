@@ -47,15 +47,15 @@
       "tla": "ATL",
       "crest": "https://crests.football-data.org/78.png"
      },
-     "playedGames": 8,
+     "playedGames": 9,
      "form": null,
-     "won": 6,
+     "won": 7,
      "draw": 1,
      "lost": 1,
-     "points": 19,
-     "goalsFor": 18,
+     "points": 22,
+     "goalsFor": 19,
      "goalsAgainst": 8,
-     "goalDifference": 10
+     "goalDifference": 11
     },
     {
      "position": 3,
@@ -237,15 +237,15 @@
       "tla": "ESP",
       "crest": "https://crests.football-data.org/80.png"
      },
-     "playedGames": 8,
+     "playedGames": 9,
      "form": null,
      "won": 2,
      "draw": 2,
-     "lost": 4,
+     "lost": 5,
      "points": 8,
      "goalsFor": 11,
-     "goalsAgainst": 11,
-     "goalDifference": 0
+     "goalsAgainst": 12,
+     "goalDifference": -1
     },
     {
      "position": 13,

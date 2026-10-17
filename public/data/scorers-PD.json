@@ -195,7 +195,7 @@
     "venue": "RCDE Stadium",
     "lastUpdated": "2024-07-29T17:09:12Z"
    },
-   "playedMatches": 8,
+   "playedMatches": 9,
    "goals": 6,
    "assists": null,
    "penalties": null
@@ -264,6 +264,37 @@
   },
   {
    "player": {
+    "id": 213278,
+    "name": "Álex Baena",
+    "firstName": "",
+    "lastName": "Álex Baena",
+    "dateOfBirth": "2001-07-20",
+    "nationality": "Spain",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 78,
+    "name": "Club Atlético de Madrid",
+    "shortName": "Atleti",
+    "tla": "ATL",
+    "crest": "https://crests.football-data.org/78.png",
+    "address": "Paseo Virgen del Puerto, 67 Madrid 28005",
+    "website": "http://www.clubatleticodemadrid.com",
+    "founded": 1903,
+    "clubColors": "Red / White / Blue",
+    "venue": "Estadio Wanda Metropolitano",
+    "lastUpdated": "2026-07-04T11:58:34Z"
+   },
+   "playedMatches": 9,
+   "goals": 5,
+   "assists": 2,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 214497,
     "name": "Fer Niño",
     "firstName": "",
@@ -288,41 +319,10 @@
     "venue": "Estadio Manuel Martínez Valero",
     "lastUpdated": "2022-02-24T07:42:28Z"
    },
-   "playedMatches": 8,
+   "playedMatches": 9,
    "goals": 5,
    "assists": null,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 11113,
-    "name": "Lucas Boyé",
-    "firstName": "Lucas",
-    "lastName": "Boyé",
-    "dateOfBirth": "1996-02-28",
-    "nationality": "Argentina",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2024-08-05T08:21:33Z"
-   },
-   "team": {
-    "id": 263,
-    "name": "Deportivo Alavés",
-    "shortName": "Alavés",
-    "tla": "ALA",
-    "crest": "https://crests.football-data.org/263.png",
-    "address": "Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",
-    "website": "http://www.alaves.com",
-    "founded": 1921,
-    "clubColors": "Blue / White",
-    "venue": "Estadio de Mendizorroza",
-    "lastUpdated": "2022-02-19T08:23:45Z"
-   },
-   "playedMatches": 7,
-   "goals": 5,
-   "assists": null,
-   "penalties": 1
   }
  ]
 }

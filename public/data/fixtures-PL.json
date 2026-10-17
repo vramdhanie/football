@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/PL.png"
  },
- "fetchedAt": "2026-10-17T01:23:38.095Z",
+ "fetchedAt": "2026-10-17T14:18:04.363Z",
  "matches": [
   {
    "area": {
@@ -691,11 +691,11 @@
    },
    "id": 560603,
    "utcDate": "2026-10-17T11:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-17T00:20:34Z",
+   "lastUpdated": "2026-10-17T13:40:41Z",
    "homeTeam": {
     "id": 62,
     "name": "Everton FC",
@@ -711,21 +711,28 @@
     "crest": "https://crests.football-data.org/61.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11520,
+     "name": "Paul Tierney",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -750,11 +757,11 @@
    },
    "id": 560602,
    "utcDate": "2026-10-17T14:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-17T00:20:34Z",
+   "lastUpdated": "2026-10-17T14:17:30Z",
    "homeTeam": {
     "id": 63,
     "name": "Fulham FC",
@@ -770,11 +777,11 @@
     "crest": "https://crests.football-data.org/322.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     },
     "halfTime": {
      "home": null,
@@ -784,7 +791,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11443,
+     "name": "Chris Kavanagh",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -809,11 +823,11 @@
    },
    "id": 560610,
    "utcDate": "2026-10-17T14:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-17T00:20:34Z",
+   "lastUpdated": "2026-10-17T14:18:01Z",
    "homeTeam": {
     "id": 65,
     "name": "Manchester City FC",
@@ -829,11 +843,11 @@
     "crest": "https://crests.football-data.org/349.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     },
     "halfTime": {
      "home": null,
@@ -843,7 +857,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 210717,
+     "name": "Farai Hallam",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -868,11 +889,11 @@
    },
    "id": 560611,
    "utcDate": "2026-10-17T14:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-17T00:20:34Z",
+   "lastUpdated": "2026-10-17T14:18:01Z",
    "homeTeam": {
     "id": 402,
     "name": "Brentford FC",
@@ -888,11 +909,11 @@
     "crest": "https://crests.football-data.org/64.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     },
     "halfTime": {
      "home": null,
@@ -902,7 +923,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11327,
+     "name": "John Brooks",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {

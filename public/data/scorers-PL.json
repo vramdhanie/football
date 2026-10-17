@@ -40,7 +40,7 @@
     "venue": "Etihad Stadium",
     "lastUpdated": "2022-02-10T19:48:37Z"
    },
-   "playedMatches": 6,
+   "playedMatches": 7,
    "goals": 6,
    "assists": null,
    "penalties": null
@@ -71,7 +71,7 @@
     "venue": "Stamford Bridge",
     "lastUpdated": "2022-02-10T19:24:40Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 5,
    "assists": 3,
    "penalties": null
@@ -102,7 +102,7 @@
     "venue": "Stamford Bridge",
     "lastUpdated": "2022-02-10T19:24:40Z"
    },
-   "playedMatches": 6,
+   "playedMatches": 7,
    "goals": 4,
    "assists": 1,
    "penalties": null
@@ -133,7 +133,7 @@
     "venue": "Etihad Stadium",
     "lastUpdated": "2022-02-10T19:48:37Z"
    },
-   "playedMatches": 6,
+   "playedMatches": 7,
    "goals": 4,
    "assists": 2,
    "penalties": null
@@ -164,7 +164,7 @@
     "venue": "Anfield",
     "lastUpdated": "2022-02-10T19:30:22Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 4,
    "assists": null,
    "penalties": null
@@ -226,7 +226,7 @@
     "venue": "Goodison Park",
     "lastUpdated": "2022-02-10T19:47:42Z"
    },
-   "playedMatches": 6,
+   "playedMatches": 7,
    "goals": 3,
    "assists": null,
    "penalties": null
@@ -264,6 +264,37 @@
   },
   {
    "player": {
+    "id": 2074,
+    "name": "Pedro Neto",
+    "firstName": "",
+    "lastName": "Pedro Neto",
+    "dateOfBirth": "2000-03-09",
+    "nationality": "Portugal",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:29Z"
+   },
+   "team": {
+    "id": 61,
+    "name": "Chelsea FC",
+    "shortName": "Chelsea",
+    "tla": "CHE",
+    "crest": "https://crests.football-data.org/61.png",
+    "address": "Fulham Road London SW6 1HS",
+    "website": "http://www.chelseafc.com",
+    "founded": 1905,
+    "clubColors": "Royal Blue / White",
+    "venue": "Stamford Bridge",
+    "lastUpdated": "2022-02-10T19:24:40Z"
+   },
+   "playedMatches": 7,
+   "goals": 3,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 8273,
     "name": "Pascal Groß",
     "firstName": "Pascal",
@@ -292,37 +323,6 @@
    "goals": 3,
    "assists": 4,
    "penalties": 1
-  },
-  {
-   "player": {
-    "id": 123286,
-    "name": "Kevin Schade",
-    "firstName": "Kevin",
-    "lastName": "Schade",
-    "dateOfBirth": "2001-11-27",
-    "nationality": "Germany",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": 16,
-    "lastUpdated": "2026-07-15T09:25:43Z"
-   },
-   "team": {
-    "id": 402,
-    "name": "Brentford FC",
-    "shortName": "Brentford",
-    "tla": "BRE",
-    "crest": "https://crests.football-data.org/402.png",
-    "address": "Braemar Road Brentford TW8 0NT",
-    "website": "http://www.brentfordfc.co.uk",
-    "founded": 1889,
-    "clubColors": "Red / White / Black",
-    "venue": "Griffin Park",
-    "lastUpdated": "2022-04-03T16:24:00Z"
-   },
-   "playedMatches": 6,
-   "goals": 3,
-   "assists": null,
-   "penalties": null
   }
  ]
 }
