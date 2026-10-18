@@ -140,6 +140,37 @@
   },
   {
    "player": {
+    "id": 2237,
+    "name": "Ante Budimir",
+    "firstName": "Ante",
+    "lastName": "Budimir",
+    "dateOfBirth": "1991-07-22",
+    "nationality": "Croatia",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:29Z"
+   },
+   "team": {
+    "id": 79,
+    "name": "CA Osasuna",
+    "shortName": "Osasuna",
+    "tla": "OSA",
+    "crest": "https://crests.football-data.org/79.png",
+    "address": "Calle del Sadar, s/n Pamplona 31006",
+    "website": "http://www.osasuna.es",
+    "founded": 1920,
+    "clubColors": "Red / Navy Blue",
+    "venue": "Estadio El Sadar",
+    "lastUpdated": "2024-07-29T17:09:06Z"
+   },
+   "playedMatches": 9,
+   "goals": 7,
+   "assists": null,
+   "penalties": 4
+  },
+  {
+   "player": {
     "id": 265516,
     "name": "Yassir Zabiri",
     "firstName": "Yassir",
@@ -164,7 +195,7 @@
     "venue": "Campos de Sport de El Sardinero",
     "lastUpdated": "2023-04-28T08:38:16Z"
    },
-   "playedMatches": 8,
+   "playedMatches": 9,
    "goals": 7,
    "assists": null,
    "penalties": null
@@ -199,37 +230,6 @@
    "goals": 6,
    "assists": null,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 2237,
-    "name": "Ante Budimir",
-    "firstName": "Ante",
-    "lastName": "Budimir",
-    "dateOfBirth": "1991-07-22",
-    "nationality": "Croatia",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
-   },
-   "team": {
-    "id": 79,
-    "name": "CA Osasuna",
-    "shortName": "Osasuna",
-    "tla": "OSA",
-    "crest": "https://crests.football-data.org/79.png",
-    "address": "Calle del Sadar, s/n Pamplona 31006",
-    "website": "http://www.osasuna.es",
-    "founded": 1920,
-    "clubColors": "Red / Navy Blue",
-    "venue": "Estadio El Sadar",
-    "lastUpdated": "2024-07-29T17:09:06Z"
-   },
-   "playedMatches": 8,
-   "goals": 6,
-   "assists": null,
-   "penalties": 3
   },
   {
    "player": {
