@@ -41,7 +41,7 @@
     "lastUpdated": "2022-02-10T19:48:37Z"
    },
    "playedMatches": 7,
-   "goals": 6,
+   "goals": 8,
    "assists": null,
    "penalties": null
   },
@@ -74,6 +74,37 @@
    "playedMatches": 6,
    "goals": 5,
    "assists": 3,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 6486,
+    "name": "Alexander Isak",
+    "firstName": "Alexander",
+    "lastName": "Isak",
+    "dateOfBirth": "1999-09-21",
+    "nationality": "Sweden",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:31Z"
+   },
+   "team": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png",
+    "address": "Anfield Road Liverpool L4 0TH",
+    "website": "http://www.liverpoolfc.tv",
+    "founded": 1892,
+    "clubColors": "Red / White",
+    "venue": "Anfield",
+    "lastUpdated": "2022-02-10T19:30:22Z"
+   },
+   "playedMatches": 6,
+   "goals": 5,
+   "assists": null,
    "penalties": null
   },
   {
@@ -136,37 +167,6 @@
    "playedMatches": 7,
    "goals": 4,
    "assists": 2,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 6486,
-    "name": "Alexander Isak",
-    "firstName": "Alexander",
-    "lastName": "Isak",
-    "dateOfBirth": "1999-09-21",
-    "nationality": "Sweden",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:31Z"
-   },
-   "team": {
-    "id": 64,
-    "name": "Liverpool FC",
-    "shortName": "Liverpool",
-    "tla": "LIV",
-    "crest": "https://crests.football-data.org/64.png",
-    "address": "Anfield Road Liverpool L4 0TH",
-    "website": "http://www.liverpoolfc.tv",
-    "founded": 1892,
-    "clubColors": "Red / White",
-    "venue": "Anfield",
-    "lastUpdated": "2022-02-10T19:30:22Z"
-   },
-   "playedMatches": 6,
-   "goals": 4,
-   "assists": null,
    "penalties": null
   },
   {

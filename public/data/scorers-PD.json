@@ -40,10 +40,41 @@
     "venue": "Camp Nou",
     "lastUpdated": "2024-07-29T17:09:22Z"
    },
-   "playedMatches": 7,
+   "playedMatches": 8,
    "goals": 12,
    "assists": 2,
    "penalties": 3
+  },
+  {
+   "player": {
+    "id": 202283,
+    "name": "Lamine Yamal",
+    "firstName": "",
+    "lastName": "Lamine Yamal",
+    "dateOfBirth": "2007-07-13",
+    "nationality": "Spain",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 81,
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/81.png",
+    "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+    "website": "http://www.fcbarcelona.com",
+    "founded": 1899,
+    "clubColors": "Red / Navy Blue / Orange",
+    "venue": "Camp Nou",
+    "lastUpdated": "2024-07-29T17:09:22Z"
+   },
+   "playedMatches": 9,
+   "goals": 8,
+   "assists": 6,
+   "penalties": 1
   },
   {
    "player": {
@@ -137,37 +168,6 @@
    "goals": 7,
    "assists": null,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 202283,
-    "name": "Lamine Yamal",
-    "firstName": "",
-    "lastName": "Lamine Yamal",
-    "dateOfBirth": "2007-07-13",
-    "nationality": "Spain",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 81,
-    "name": "FC Barcelona",
-    "shortName": "Barça",
-    "tla": "FCB",
-    "crest": "https://crests.football-data.org/81.png",
-    "address": "Avenida Arístides Maillol s/n Barcelona 08028",
-    "website": "http://www.fcbarcelona.com",
-    "founded": 1899,
-    "clubColors": "Red / Navy Blue / Orange",
-    "venue": "Camp Nou",
-    "lastUpdated": "2024-07-29T17:09:22Z"
-   },
-   "playedMatches": 8,
-   "goals": 7,
-   "assists": 5,
-   "penalties": 1
   },
   {
    "player": {
