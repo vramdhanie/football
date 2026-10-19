@@ -16,6 +16,68 @@
  "scorers": [
   {
    "player": {
+    "id": 149850,
+    "name": "Esteban Lepaul",
+    "firstName": "Esteban",
+    "lastName": "Lepaul",
+    "dateOfBirth": "2000-04-18",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:39Z"
+   },
+   "team": {
+    "id": 529,
+    "name": "Stade Rennais FC 1901",
+    "shortName": "Stade Rennais",
+    "tla": "REN",
+    "crest": "https://crests.football-data.org/529.png",
+    "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
+    "website": "http://www.staderennais.com",
+    "founded": 1901,
+    "clubColors": "Red / Black",
+    "venue": "Roazhon Park",
+    "lastUpdated": "2022-03-20T11:21:26Z"
+   },
+   "playedMatches": 7,
+   "goals": 7,
+   "assists": null,
+   "penalties": 4
+  },
+  {
+   "player": {
+    "id": 552,
+    "name": "Lassine Sinayoko",
+    "firstName": "Lassine",
+    "lastName": "Sinayoko",
+    "dateOfBirth": "1999-12-08",
+    "nationality": "Mali",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:39Z"
+   },
+   "team": {
+    "id": 1045,
+    "name": "Paris FC",
+    "shortName": "Paris FC",
+    "tla": "PFC",
+    "crest": "https://crests.football-data.org/1045.png",
+    "address": "17 rue Neuve Tolbiac Paris 75013",
+    "website": "http://www.parisfootballclub.com",
+    "founded": 1969,
+    "clubColors": "Navy Blue / Sky Blue",
+    "venue": "Stade Sébastien Charléty",
+    "lastUpdated": "2022-06-19T00:04:35Z"
+   },
+   "playedMatches": 7,
+   "goals": 6,
+   "assists": 3,
+   "penalties": 3
+  },
+  {
+   "player": {
     "id": 8476,
     "name": "Amine Gouiri",
     "firstName": "Amine",
@@ -140,37 +202,6 @@
   },
   {
    "player": {
-    "id": 149850,
-    "name": "Esteban Lepaul",
-    "firstName": "Esteban",
-    "lastName": "Lepaul",
-    "dateOfBirth": "2000-04-18",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-27T19:57:39Z"
-   },
-   "team": {
-    "id": 529,
-    "name": "Stade Rennais FC 1901",
-    "shortName": "Stade Rennais",
-    "tla": "REN",
-    "crest": "https://crests.football-data.org/529.png",
-    "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
-    "website": "http://www.staderennais.com",
-    "founded": 1901,
-    "clubColors": "Red / Black",
-    "venue": "Roazhon Park",
-    "lastUpdated": "2022-03-20T11:21:26Z"
-   },
-   "playedMatches": 7,
-   "goals": 4,
-   "assists": null,
-   "penalties": 1
-  },
-  {
-   "player": {
     "id": 33154,
     "name": "Ferrán Torres",
     "firstName": "",
@@ -199,37 +230,6 @@
    "goals": 4,
    "assists": 1,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 552,
-    "name": "Lassine Sinayoko",
-    "firstName": "Lassine",
-    "lastName": "Sinayoko",
-    "dateOfBirth": "1999-12-08",
-    "nationality": "Mali",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-27T19:57:39Z"
-   },
-   "team": {
-    "id": 1045,
-    "name": "Paris FC",
-    "shortName": "Paris FC",
-    "tla": "PFC",
-    "crest": "https://crests.football-data.org/1045.png",
-    "address": "17 rue Neuve Tolbiac Paris 75013",
-    "website": "http://www.parisfootballclub.com",
-    "founded": 1969,
-    "clubColors": "Navy Blue / Sky Blue",
-    "venue": "Stade Sébastien Charléty",
-    "lastUpdated": "2022-06-19T00:04:35Z"
-   },
-   "playedMatches": 7,
-   "goals": 4,
-   "assists": 1,
-   "penalties": 2
   },
   {
    "player": {
