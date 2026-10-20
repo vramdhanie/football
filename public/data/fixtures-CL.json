@@ -6,7 +6,7 @@
   "type": "CUP",
   "emblem": "https://crests.football-data.org/CL.png"
  },
- "fetchedAt": "2026-10-20T01:57:22.253Z",
+ "fetchedAt": "2026-10-20T15:43:21.315Z",
  "matches": [
   {
    "area": {
@@ -1253,7 +1253,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 80747,
+     "name": "Javier Alberola Rojas",
+     "type": "REFEREE",
+     "nationality": null
+    }
+   ]
   },
   {
    "area": {
@@ -1312,7 +1319,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15628,
+     "name": "Ricardo de Burgos",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
