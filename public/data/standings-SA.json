@@ -149,8 +149,8 @@
      "lost": 2,
      "points": 13,
      "goalsFor": 6,
-     "goalsAgainst": 4,
-     "goalDifference": 2
+     "goalsAgainst": 7,
+     "goalDifference": -1
     },
     {
      "position": 8,
@@ -193,6 +193,25 @@
     {
      "position": 10,
      "team": {
+      "id": 586,
+      "name": "Torino FC",
+      "shortName": "Torino",
+      "tla": "TOR",
+      "crest": "https://crests.football-data.org/586.png"
+     },
+     "playedGames": 7,
+     "form": null,
+     "won": 3,
+     "draw": 1,
+     "lost": 3,
+     "points": 10,
+     "goalsFor": 10,
+     "goalsAgainst": 9,
+     "goalDifference": 1
+    },
+    {
+     "position": 11,
+     "team": {
       "id": 102,
       "name": "Atalanta BC",
       "shortName": "Atalanta",
@@ -210,7 +229,7 @@
      "goalDifference": -1
     },
     {
-     "position": 11,
+     "position": 12,
      "team": {
       "id": 5890,
       "name": "US Lecce",
@@ -229,7 +248,7 @@
      "goalDifference": -3
     },
     {
-     "position": 12,
+     "position": 13,
      "team": {
       "id": 471,
       "name": "US Sassuolo Calcio",
@@ -248,25 +267,6 @@
      "goalDifference": -2
     },
     {
-     "position": 13,
-     "team": {
-      "id": 586,
-      "name": "Torino FC",
-      "shortName": "Torino",
-      "tla": "TOR",
-      "crest": "https://crests.football-data.org/586.png"
-     },
-     "playedGames": 6,
-     "form": null,
-     "won": 2,
-     "draw": 1,
-     "lost": 3,
-     "points": 7,
-     "goalsFor": 7,
-     "goalsAgainst": 9,
-     "goalDifference": -2
-    },
-    {
      "position": 14,
      "team": {
       "id": 5911,
@@ -281,9 +281,9 @@
      "draw": 1,
      "lost": 4,
      "points": 7,
-     "goalsFor": 10,
+     "goalsFor": 13,
      "goalsAgainst": 15,
-     "goalDifference": -5
+     "goalDifference": -2
     },
     {
      "position": 15,
@@ -307,25 +307,6 @@
     {
      "position": 16,
      "team": {
-      "id": 112,
-      "name": "Parma Calcio 1913",
-      "shortName": "Parma",
-      "tla": "PAR",
-      "crest": "https://crests.football-data.org/112.png"
-     },
-     "playedGames": 6,
-     "form": null,
-     "won": 1,
-     "draw": 1,
-     "lost": 4,
-     "points": 4,
-     "goalsFor": 4,
-     "goalsAgainst": 10,
-     "goalDifference": -6
-    },
-    {
-     "position": 17,
-     "team": {
       "id": 115,
       "name": "Udinese Calcio",
       "shortName": "Udinese",
@@ -343,7 +324,7 @@
      "goalDifference": -7
     },
     {
-     "position": 18,
+     "position": 17,
      "team": {
       "id": 107,
       "name": "Genoa CFC",
@@ -362,7 +343,7 @@
      "goalDifference": -8
     },
     {
-     "position": 19,
+     "position": 18,
      "team": {
       "id": 99,
       "name": "ACF Fiorentina",
@@ -378,6 +359,25 @@
      "points": 4,
      "goalsFor": 8,
      "goalsAgainst": 17,
+     "goalDifference": -9
+    },
+    {
+     "position": 19,
+     "team": {
+      "id": 112,
+      "name": "Parma Calcio 1913",
+      "shortName": "Parma",
+      "tla": "PAR",
+      "crest": "https://crests.football-data.org/112.png"
+     },
+     "playedGames": 7,
+     "form": null,
+     "won": 1,
+     "draw": 1,
+     "lost": 5,
+     "points": 4,
+     "goalsFor": 4,
+     "goalsAgainst": 13,
      "goalDifference": -9
     },
     {
