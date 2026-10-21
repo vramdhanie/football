@@ -6,7 +6,7 @@
   "type": "CUP",
   "emblem": "https://crests.football-data.org/CL.png"
  },
- "fetchedAt": "2026-10-21T01:44:39.074Z",
+ "fetchedAt": "2026-10-21T16:01:29.057Z",
  "matches": [
   {
    "area": {
@@ -1847,7 +1847,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15824,
+     "name": "Sven Jablonski",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -1906,7 +1913,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43936,
+     "name": "Rade Obrenović",
+     "type": "REFEREE",
+     "nationality": "Slovenia"
+    }
+   ]
   },
   {
    "area": {

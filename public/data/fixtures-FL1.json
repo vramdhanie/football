@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/FL1.png"
  },
- "fetchedAt": "2026-10-21T01:44:31.969Z",
+ "fetchedAt": "2026-10-21T16:01:21.949Z",
  "matches": [
   {
    "area": {
@@ -682,65 +682,6 @@
     "currentMatchday": 7,
     "winner": null
    },
-   "id": 559655,
-   "utcDate": "2026-10-24T15:15:00Z",
-   "status": "TIMED",
-   "matchday": 8,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-10-21T00:20:28Z",
-   "homeTeam": {
-    "id": 511,
-    "name": "Toulouse FC",
-    "shortName": "Toulouse",
-    "tla": "TOU",
-    "crest": "https://crests.football-data.org/511.png"
-   },
-   "awayTeam": {
-    "id": 531,
-    "name": "ES Troyes AC",
-    "shortName": "Troyes",
-    "tla": "ETR",
-    "crest": "https://crests.football-data.org/531.png"
-   },
-   "score": {
-    "winner": null,
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": null,
-     "away": null
-    },
-    "halfTime": {
-     "home": null,
-     "away": null
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": []
-  },
-  {
-   "area": {
-    "id": 2081,
-    "name": "France",
-    "code": "FRA",
-    "flag": "https://crests.football-data.org/773.svg"
-   },
-   "competition": {
-    "id": 2015,
-    "name": "Ligue 1",
-    "code": "FL1",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/FL1.png"
-   },
-   "season": {
-    "id": 2497,
-    "startDate": "2026-08-22",
-    "endDate": "2027-05-29",
-    "currentMatchday": 7,
-    "winner": null
-   },
    "id": 559652,
    "utcDate": "2026-10-24T18:45:00Z",
    "status": "TIMED",
@@ -997,6 +938,65 @@
     "shortName": "Lorient",
     "tla": "FCL",
     "crest": "https://crests.football-data.org/525.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2081,
+    "name": "France",
+    "code": "FRA",
+    "flag": "https://crests.football-data.org/773.svg"
+   },
+   "competition": {
+    "id": 2015,
+    "name": "Ligue 1",
+    "code": "FL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL1.png"
+   },
+   "season": {
+    "id": 2497,
+    "startDate": "2026-08-22",
+    "endDate": "2027-05-29",
+    "currentMatchday": 7,
+    "winner": null
+   },
+   "id": 559655,
+   "utcDate": "2026-10-25T16:15:00Z",
+   "status": "TIMED",
+   "matchday": 8,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-10-21T13:25:09Z",
+   "homeTeam": {
+    "id": 511,
+    "name": "Toulouse FC",
+    "shortName": "Toulouse",
+    "tla": "TOU",
+    "crest": "https://crests.football-data.org/511.png"
+   },
+   "awayTeam": {
+    "id": 531,
+    "name": "ES Troyes AC",
+    "shortName": "Troyes",
+    "tla": "ETR",
+    "crest": "https://crests.football-data.org/531.png"
    },
    "score": {
     "winner": null,
