@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/FL1.png"
  },
- "fetchedAt": "2026-10-23T01:40:38.351Z",
+ "fetchedAt": "2026-10-23T15:49:02.162Z",
  "matches": [
   {
    "area": {
@@ -1096,12 +1096,12 @@
     "winner": null
    },
    "id": 559648,
-   "utcDate": "2026-10-25T19:45:00Z",
+   "utcDate": "2026-10-26T19:30:00Z",
    "status": "TIMED",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-23T00:20:28Z",
+   "lastUpdated": "2026-10-23T13:25:10Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
