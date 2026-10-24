@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 252836,
+    "name": "Gustavo Varela",
+    "firstName": "",
+    "lastName": "Gustavo Varela",
+    "dateOfBirth": "2005-01-30",
+    "nationality": "Portugal",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2024-12-26T09:46:01Z"
+   },
+   "team": {
+    "id": 5911,
+    "name": "AC Monza",
+    "shortName": "Monza",
+    "tla": "MON",
+    "crest": "https://crests.football-data.org/5911.png",
+    "address": "Via Ragazzi del '99, 14 Monza 20900",
+    "website": "http://www.monza1912.it",
+    "founded": 1912,
+    "clubColors": "Red / White",
+    "venue": "Stadio Comunale Brianteo",
+    "lastUpdated": "2025-02-17T16:54:02Z"
+   },
+   "playedMatches": 7,
+   "goals": 7,
+   "assists": 1,
+   "penalties": 1
+  },
+  {
+   "player": {
     "id": 169216,
     "name": "Antonio Raimondo",
     "firstName": "Antonio",
@@ -44,37 +75,6 @@
    "goals": 7,
    "assists": null,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 252836,
-    "name": "Gustavo Varela",
-    "firstName": "",
-    "lastName": "Gustavo Varela",
-    "dateOfBirth": "2005-01-30",
-    "nationality": "Portugal",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2024-12-26T09:46:01Z"
-   },
-   "team": {
-    "id": 5911,
-    "name": "AC Monza",
-    "shortName": "Monza",
-    "tla": "MON",
-    "crest": "https://crests.football-data.org/5911.png",
-    "address": "Via Ragazzi del '99, 14 Monza 20900",
-    "website": "http://www.monza1912.it",
-    "founded": 1912,
-    "clubColors": "Red / White",
-    "venue": "Stadio Comunale Brianteo",
-    "lastUpdated": "2025-02-17T16:54:02Z"
-   },
-   "playedMatches": 6,
-   "goals": 6,
-   "assists": 1,
-   "penalties": 1
   },
   {
    "player": {
