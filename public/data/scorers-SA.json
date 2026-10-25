@@ -71,39 +71,8 @@
     "venue": "Stadio Benito Stirpe",
     "lastUpdated": "2022-03-20T17:51:41Z"
    },
-   "playedMatches": 7,
+   "playedMatches": 8,
    "goals": 7,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 7457,
-    "name": "Donyell Malen",
-    "firstName": "Donyell",
-    "lastName": "Malen",
-    "dateOfBirth": "1999-01-19",
-    "nationality": "Netherlands",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:16Z"
-   },
-   "team": {
-    "id": 100,
-    "name": "AS Roma",
-    "shortName": "Roma",
-    "tla": "ROM",
-    "crest": "https://crests.football-data.org/100.png",
-    "address": "Via di Trigoria km. 3,600 Roma 00128",
-    "website": "http://www.asroma.it",
-    "founded": 1927,
-    "clubColors": "Maroon / Orange / White",
-    "venue": "Stadio Olimpico",
-    "lastUpdated": "2025-02-17T16:53:31Z"
-   },
-   "playedMatches": 6,
-   "goals": 6,
    "assists": null,
    "penalties": null
   },
@@ -133,9 +102,102 @@
     "venue": "Stadio Atleti Azzurri d'Italia",
     "lastUpdated": "2024-04-09T16:20:48Z"
    },
-   "playedMatches": 7,
-   "goals": 4,
+   "playedMatches": 8,
+   "goals": 6,
    "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 7457,
+    "name": "Donyell Malen",
+    "firstName": "Donyell",
+    "lastName": "Malen",
+    "dateOfBirth": "1999-01-19",
+    "nationality": "Netherlands",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:16Z"
+   },
+   "team": {
+    "id": 100,
+    "name": "AS Roma",
+    "shortName": "Roma",
+    "tla": "ROM",
+    "crest": "https://crests.football-data.org/100.png",
+    "address": "Via di Trigoria km. 3,600 Roma 00128",
+    "website": "http://www.asroma.it",
+    "founded": 1927,
+    "clubColors": "Maroon / Orange / White",
+    "venue": "Stadio Olimpico",
+    "lastUpdated": "2025-02-17T16:53:31Z"
+   },
+   "playedMatches": 7,
+   "goals": 6,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 43285,
+    "name": "Anastasios Douvikas",
+    "firstName": "Anastasios",
+    "lastName": "Douvikas",
+    "dateOfBirth": "1999-08-02",
+    "nationality": "Greece",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:16Z"
+   },
+   "team": {
+    "id": 7397,
+    "name": "Como 1907",
+    "shortName": "Como 1907",
+    "tla": "COM",
+    "crest": "https://crests.football-data.org/7397.png",
+    "address": "Viale Sinigaglia 2 Como 22100",
+    "website": "http://www.como1907.net/",
+    "founded": 1907,
+    "clubColors": "Sky Blue / White",
+    "venue": "Stadio Giuseppe Sinigaglia",
+    "lastUpdated": "2025-02-17T16:52:41Z"
+   },
+   "playedMatches": 8,
+   "goals": 5,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 8685,
+    "name": "Marcus Thuram-Ulien",
+    "firstName": "Marcus",
+    "lastName": "Thuram",
+    "dateOfBirth": "1997-08-06",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 108,
+    "name": "FC Internazionale Milano",
+    "shortName": "Inter",
+    "tla": "INT",
+    "crest": "https://crests.football-data.org/108.png",
+    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+    "website": "http://www.inter.it",
+    "founded": 1908,
+    "clubColors": "Blue / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "lastUpdated": "2021-11-24T14:55:58Z"
+   },
+   "playedMatches": 8,
+   "goals": 5,
+   "assists": 2,
    "penalties": null
   },
   {
@@ -202,37 +264,6 @@
   },
   {
    "player": {
-    "id": 8685,
-    "name": "Marcus Thuram-Ulien",
-    "firstName": "Marcus",
-    "lastName": "Thuram",
-    "dateOfBirth": "1997-08-06",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 108,
-    "name": "FC Internazionale Milano",
-    "shortName": "Inter",
-    "tla": "INT",
-    "crest": "https://crests.football-data.org/108.png",
-    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
-    "website": "http://www.inter.it",
-    "founded": 1908,
-    "clubColors": "Blue / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2021-11-24T14:55:58Z"
-   },
-   "playedMatches": 7,
-   "goals": 4,
-   "assists": 2,
-   "penalties": null
-  },
-  {
-   "player": {
     "id": 136113,
     "name": "Daniel Maldini",
     "firstName": "Daniel",
@@ -257,41 +288,10 @@
     "venue": "Sardegna Arena",
     "lastUpdated": "2024-04-09T16:20:43Z"
    },
-   "playedMatches": 7,
+   "playedMatches": 8,
    "goals": 4,
    "assists": null,
    "penalties": 1
-  },
-  {
-   "player": {
-    "id": 43285,
-    "name": "Anastasios Douvikas",
-    "firstName": "Anastasios",
-    "lastName": "Douvikas",
-    "dateOfBirth": "1999-08-02",
-    "nationality": "Greece",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:16Z"
-   },
-   "team": {
-    "id": 7397,
-    "name": "Como 1907",
-    "shortName": "Como 1907",
-    "tla": "COM",
-    "crest": "https://crests.football-data.org/7397.png",
-    "address": "Viale Sinigaglia 2 Como 22100",
-    "website": "http://www.como1907.net/",
-    "founded": 1907,
-    "clubColors": "Sky Blue / White",
-    "venue": "Stadio Giuseppe Sinigaglia",
-    "lastUpdated": "2025-02-17T16:52:41Z"
-   },
-   "playedMatches": 7,
-   "goals": 3,
-   "assists": null,
-   "penalties": null
   },
   {
    "player": {
@@ -319,7 +319,7 @@
     "venue": "Stadio Giuseppe Meazza",
     "lastUpdated": "2021-11-24T14:55:58Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 3,
    "assists": null,
    "penalties": 1

@@ -71,9 +71,9 @@
     "venue": "Stade Sébastien Charléty",
     "lastUpdated": "2022-06-19T00:04:35Z"
    },
-   "playedMatches": 7,
+   "playedMatches": 8,
    "goals": 6,
-   "assists": 3,
+   "assists": 4,
    "penalties": 3
   },
   {
@@ -137,6 +137,37 @@
    "goals": 5,
    "assists": 1,
    "penalties": 2
+  },
+  {
+   "player": {
+    "id": 3370,
+    "name": "Florian Thauvin",
+    "firstName": "Florian",
+    "lastName": "Thauvin",
+    "dateOfBirth": "1993-01-26",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": 26,
+    "lastUpdated": "2025-02-18T17:35:56Z"
+   },
+   "team": {
+    "id": 546,
+    "name": "Racing Club de Lens",
+    "shortName": "RC Lens",
+    "tla": "RCL",
+    "crest": "https://crests.football-data.org/546.png",
+    "address": "33 rue Arthur Lamendin Avion 62210",
+    "website": "http://www.rclens.fr",
+    "founded": 1906,
+    "clubColors": "Red / Yellow",
+    "venue": "Stade Bollaert-Delelis",
+    "lastUpdated": "2026-01-19T12:05:38Z"
+   },
+   "playedMatches": 8,
+   "goals": 4,
+   "assists": 8,
+   "penalties": 3
   },
   {
    "player": {
@@ -257,7 +288,7 @@
     "venue": "Stade Louis II.",
     "lastUpdated": "2021-11-06T13:27:09Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 4,
    "assists": null,
    "penalties": null
@@ -292,37 +323,6 @@
    "goals": 4,
    "assists": null,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 3370,
-    "name": "Florian Thauvin",
-    "firstName": "Florian",
-    "lastName": "Thauvin",
-    "dateOfBirth": "1993-01-26",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": 26,
-    "lastUpdated": "2025-02-18T17:35:56Z"
-   },
-   "team": {
-    "id": 546,
-    "name": "Racing Club de Lens",
-    "shortName": "RC Lens",
-    "tla": "RCL",
-    "crest": "https://crests.football-data.org/546.png",
-    "address": "33 rue Arthur Lamendin Avion 62210",
-    "website": "http://www.rclens.fr",
-    "founded": 1906,
-    "clubColors": "Red / Yellow",
-    "venue": "Stade Bollaert-Delelis",
-    "lastUpdated": "2026-01-19T12:05:38Z"
-   },
-   "playedMatches": 7,
-   "goals": 3,
-   "assists": 7,
-   "penalties": 3
   }
  ]
 }

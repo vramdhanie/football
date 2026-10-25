@@ -60,6 +60,25 @@
     {
      "position": 3,
      "team": {
+      "id": 3,
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "tla": "B04",
+      "crest": "https://crests.football-data.org/3.png"
+     },
+     "playedGames": 7,
+     "form": null,
+     "won": 4,
+     "draw": 2,
+     "lost": 1,
+     "points": 14,
+     "goalsFor": 16,
+     "goalsAgainst": 9,
+     "goalDifference": 7
+    },
+    {
+     "position": 4,
+     "team": {
       "id": 17,
       "name": "SC Freiburg",
       "shortName": "Freiburg",
@@ -75,25 +94,6 @@
      "goalsFor": 15,
      "goalsAgainst": 6,
      "goalDifference": 9
-    },
-    {
-     "position": 4,
-     "team": {
-      "id": 3,
-      "name": "Bayer 04 Leverkusen",
-      "shortName": "Leverkusen",
-      "tla": "B04",
-      "crest": "https://crests.football-data.org/3.png"
-     },
-     "playedGames": 6,
-     "form": null,
-     "won": 4,
-     "draw": 1,
-     "lost": 1,
-     "points": 13,
-     "goalsFor": 16,
-     "goalsAgainst": 9,
-     "goalDifference": 7
     },
     {
      "position": 5,
@@ -275,12 +275,12 @@
       "tla": "TSG",
       "crest": "https://crests.football-data.org/2.png"
      },
-     "playedGames": 6,
+     "playedGames": 7,
      "form": null,
      "won": 2,
-     "draw": 0,
+     "draw": 1,
      "lost": 4,
-     "points": 6,
+     "points": 7,
      "goalsFor": 11,
      "goalsAgainst": 14,
      "goalDifference": -3

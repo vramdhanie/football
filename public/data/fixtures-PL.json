@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/PL.png"
  },
- "fetchedAt": "2026-10-25T01:19:51.035Z",
+ "fetchedAt": "2026-10-25T14:59:53.774Z",
  "matches": [
   {
    "area": {
@@ -1021,11 +1021,11 @@
    },
    "id": 560612,
    "utcDate": "2026-10-25T14:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-25T00:20:25Z",
+   "lastUpdated": "2026-10-25T14:54:46Z",
    "homeTeam": {
     "id": 64,
     "name": "Liverpool FC",
@@ -1041,21 +1041,28 @@
     "crest": "https://crests.football-data.org/397.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 213813,
+     "name": "Sam Barrott",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -1080,11 +1087,11 @@
    },
    "id": 560613,
    "utcDate": "2026-10-25T14:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-25T01:32:01Z",
+   "lastUpdated": "2026-10-25T14:51:34Z",
    "homeTeam": {
     "id": 354,
     "name": "Crystal Palace FC",
@@ -1100,21 +1107,28 @@
     "crest": "https://crests.football-data.org/67.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11520,
+     "name": "Paul Tierney",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -1139,11 +1153,11 @@
    },
    "id": 560615,
    "utcDate": "2026-10-25T14:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-25T01:32:01Z",
+   "lastUpdated": "2026-10-25T14:54:46Z",
    "homeTeam": {
     "id": 66,
     "name": "Manchester United FC",
@@ -1159,21 +1173,28 @@
     "crest": "https://crests.football-data.org/bournemouth.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 2
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 23568,
+     "name": "Jarred Gillett",
+     "type": "REFEREE",
+     "nationality": "Australia"
+    }
+   ]
   },
   {
    "area": {
@@ -1198,11 +1219,11 @@
    },
    "id": 560619,
    "utcDate": "2026-10-25T14:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-25T01:32:01Z",
+   "lastUpdated": "2026-10-25T14:53:42Z",
    "homeTeam": {
     "id": 322,
     "name": "Hull City AFC",
@@ -1218,21 +1239,28 @@
     "crest": "https://crests.football-data.org/402.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11446,
+     "name": "Robert Jones",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -1291,7 +1319,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11494,
+     "name": "Stuart Attwell",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {

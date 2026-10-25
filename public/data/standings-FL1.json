@@ -22,6 +22,25 @@
     {
      "position": 1,
      "team": {
+      "id": 521,
+      "name": "Lille OSC",
+      "shortName": "Lille",
+      "tla": "LIL",
+      "crest": "https://crests.football-data.org/521.png"
+     },
+     "playedGames": 8,
+     "form": null,
+     "won": 5,
+     "draw": 2,
+     "lost": 1,
+     "points": 17,
+     "goalsFor": 11,
+     "goalsAgainst": 5,
+     "goalDifference": 6
+    },
+    {
+     "position": 2,
+     "team": {
       "id": 523,
       "name": "Olympique Lyonnais",
       "shortName": "Olympique Lyon",
@@ -39,7 +58,7 @@
      "goalDifference": 8
     },
     {
-     "position": 2,
+     "position": 3,
      "team": {
       "id": 524,
       "name": "Paris Saint-Germain FC",
@@ -55,25 +74,6 @@
      "points": 14,
      "goalsFor": 14,
      "goalsAgainst": 9,
-     "goalDifference": 5
-    },
-    {
-     "position": 3,
-     "team": {
-      "id": 521,
-      "name": "Lille OSC",
-      "shortName": "Lille",
-      "tla": "LIL",
-      "crest": "https://crests.football-data.org/521.png"
-     },
-     "playedGames": 7,
-     "form": null,
-     "won": 4,
-     "draw": 2,
-     "lost": 1,
-     "points": 14,
-     "goalsFor": 10,
-     "goalsAgainst": 5,
      "goalDifference": 5
     },
     {
@@ -104,15 +104,15 @@
       "tla": "ASM",
       "crest": "https://crests.football-data.org/548.png"
      },
-     "playedGames": 7,
+     "playedGames": 8,
      "form": null,
      "won": 4,
      "draw": 2,
-     "lost": 1,
+     "lost": 2,
      "points": 14,
      "goalsFor": 10,
-     "goalsAgainst": 6,
-     "goalDifference": 4
+     "goalsAgainst": 7,
+     "goalDifference": 3
     },
     {
      "position": 6,
