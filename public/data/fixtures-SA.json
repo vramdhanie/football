@@ -6,74 +6,8 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/c111.png"
  },
- "fetchedAt": "2026-10-24T14:41:21.778Z",
+ "fetchedAt": "2026-10-25T01:20:05.801Z",
  "matches": [
-  {
-   "area": {
-    "id": 2114,
-    "name": "Italy",
-    "code": "ITA",
-    "flag": "https://crests.football-data.org/784.svg"
-   },
-   "competition": {
-    "id": 2019,
-    "name": "Serie A",
-    "code": "SA",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/c111.png"
-   },
-   "season": {
-    "id": 2494,
-    "startDate": "2026-08-23",
-    "endDate": "2027-05-30",
-    "currentMatchday": 8,
-    "winner": null
-   },
-   "id": 558573,
-   "utcDate": "2026-10-16T18:45:00Z",
-   "status": "FINISHED",
-   "matchday": 7,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-10-24T00:20:29Z",
-   "homeTeam": {
-    "id": 470,
-    "name": "Frosinone Calcio",
-    "shortName": "Frosinone",
-    "tla": "FRO",
-    "crest": "https://crests.football-data.org/470.png"
-   },
-   "awayTeam": {
-    "id": 471,
-    "name": "US Sassuolo Calcio",
-    "shortName": "Sassuolo",
-    "tla": "SAS",
-    "crest": "https://crests.football-data.org/471.png"
-   },
-   "score": {
-    "winner": "HOME_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 4,
-     "away": 2
-    },
-    "halfTime": {
-     "home": 3,
-     "away": 2
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 57762,
-     "name": "Matteo Marchetti",
-     "type": "REFEREE",
-     "nationality": "Italy"
-    }
-   ]
-  },
   {
    "area": {
     "id": 2114,
@@ -761,7 +695,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-24T01:32:01Z",
+   "lastUpdated": "2026-10-24T13:12:54Z",
    "homeTeam": {
     "id": 104,
     "name": "Cagliari Calcio",
@@ -820,7 +754,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-24T00:20:29Z",
+   "lastUpdated": "2026-10-24T13:16:06Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -879,7 +813,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-24T01:32:03Z",
+   "lastUpdated": "2026-10-24T16:14:45Z",
    "homeTeam": {
     "id": 113,
     "name": "SSC Napoli",
@@ -938,7 +872,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-24T00:20:29Z",
+   "lastUpdated": "2026-10-24T19:02:13Z",
    "homeTeam": {
     "id": 110,
     "name": "SS Lazio",

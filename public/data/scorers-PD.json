@@ -78,6 +78,37 @@
   },
   {
    "player": {
+    "id": 265516,
+    "name": "Yassir Zabiri",
+    "firstName": "Yassir",
+    "lastName": "Zabiri",
+    "dateOfBirth": "2005-02-23",
+    "nationality": "Morocco",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:39Z"
+   },
+   "team": {
+    "id": 5335,
+    "name": "Real Racing Club de Santander",
+    "shortName": "Santander",
+    "tla": "SAN",
+    "crest": "https://crests.football-data.org/5335.png",
+    "address": "Calle Real Racing Club, s/n Santander 39005",
+    "website": "http://www.realracingclub.com",
+    "founded": 1913,
+    "clubColors": "White / Black / Green",
+    "venue": "Campos de Sport de El Sardinero",
+    "lastUpdated": "2023-04-28T08:38:16Z"
+   },
+   "playedMatches": 10,
+   "goals": 8,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 202283,
     "name": "Lamine Yamal",
     "firstName": "",
@@ -133,7 +164,7 @@
     "venue": "Estadio del Rayo Vallecano",
     "lastUpdated": "2024-07-29T17:10:35Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 7,
    "assists": 1,
    "penalties": null
@@ -171,37 +202,6 @@
   },
   {
    "player": {
-    "id": 265516,
-    "name": "Yassir Zabiri",
-    "firstName": "Yassir",
-    "lastName": "Zabiri",
-    "dateOfBirth": "2005-02-23",
-    "nationality": "Morocco",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-27T19:57:39Z"
-   },
-   "team": {
-    "id": 5335,
-    "name": "Real Racing Club de Santander",
-    "shortName": "Santander",
-    "tla": "SAN",
-    "crest": "https://crests.football-data.org/5335.png",
-    "address": "Calle Real Racing Club, s/n Santander 39005",
-    "website": "http://www.realracingclub.com",
-    "founded": 1913,
-    "clubColors": "White / Black / Green",
-    "venue": "Campos de Sport de El Sardinero",
-    "lastUpdated": "2023-04-28T08:38:16Z"
-   },
-   "playedMatches": 9,
-   "goals": 7,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
     "id": 180218,
     "name": "Roberto Fernández",
     "firstName": "",
@@ -226,10 +226,41 @@
     "venue": "RCDE Stadium",
     "lastUpdated": "2024-07-29T17:09:12Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 6,
    "assists": null,
    "penalties": null
+  },
+  {
+   "player": {
+    "id": 214497,
+    "name": "Fer Niño",
+    "firstName": "",
+    "lastName": "Fer Niño",
+    "dateOfBirth": "2000-10-24",
+    "nationality": "Spain",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2023-09-18T09:02:26Z"
+   },
+   "team": {
+    "id": 285,
+    "name": "Elche CF",
+    "shortName": "Elche",
+    "tla": "ELC",
+    "crest": "https://crests.football-data.org/285.png",
+    "address": "Avenida Manuel Martínez Valero, 3 Elche 03208",
+    "website": "http://www.elchecf.es",
+    "founded": 1923,
+    "clubColors": "White / Green",
+    "venue": "Estadio Manuel Martínez Valero",
+    "lastUpdated": "2022-02-24T07:42:28Z"
+   },
+   "playedMatches": 10,
+   "goals": 6,
+   "assists": null,
+   "penalties": 1
   },
   {
    "player": {
@@ -288,40 +319,9 @@
     "venue": "Estadio Wanda Metropolitano",
     "lastUpdated": "2026-07-04T11:58:34Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 5,
    "assists": 2,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 214497,
-    "name": "Fer Niño",
-    "firstName": "",
-    "lastName": "Fer Niño",
-    "dateOfBirth": "2000-10-24",
-    "nationality": "Spain",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2023-09-18T09:02:26Z"
-   },
-   "team": {
-    "id": 285,
-    "name": "Elche CF",
-    "shortName": "Elche",
-    "tla": "ELC",
-    "crest": "https://crests.football-data.org/285.png",
-    "address": "Avenida Manuel Martínez Valero, 3 Elche 03208",
-    "website": "http://www.elchecf.es",
-    "founded": 1923,
-    "clubColors": "White / Green",
-    "venue": "Estadio Manuel Martínez Valero",
-    "lastUpdated": "2022-02-24T07:42:28Z"
-   },
-   "playedMatches": 9,
-   "goals": 5,
-   "assists": null,
    "penalties": null
   }
  ]

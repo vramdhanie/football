@@ -109,37 +109,6 @@
   },
   {
    "player": {
-    "id": 43285,
-    "name": "Anastasios Douvikas",
-    "firstName": "Anastasios",
-    "lastName": "Douvikas",
-    "dateOfBirth": "1999-08-02",
-    "nationality": "Greece",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:16Z"
-   },
-   "team": {
-    "id": 7397,
-    "name": "Como 1907",
-    "shortName": "Como 1907",
-    "tla": "COM",
-    "crest": "https://crests.football-data.org/7397.png",
-    "address": "Viale Sinigaglia 2 Como 22100",
-    "website": "http://www.como1907.net/",
-    "founded": 1907,
-    "clubColors": "Sky Blue / White",
-    "venue": "Stadio Giuseppe Sinigaglia",
-    "lastUpdated": "2025-02-17T16:52:41Z"
-   },
-   "playedMatches": 8,
-   "goals": 5,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
     "id": 120679,
     "name": "Nikola Krstović",
     "firstName": "Nikola",
@@ -288,10 +257,41 @@
     "venue": "Sardegna Arena",
     "lastUpdated": "2024-04-09T16:20:43Z"
    },
-   "playedMatches": 8,
+   "playedMatches": 7,
    "goals": 4,
    "assists": null,
    "penalties": 1
+  },
+  {
+   "player": {
+    "id": 43285,
+    "name": "Anastasios Douvikas",
+    "firstName": "Anastasios",
+    "lastName": "Douvikas",
+    "dateOfBirth": "1999-08-02",
+    "nationality": "Greece",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:16Z"
+   },
+   "team": {
+    "id": 7397,
+    "name": "Como 1907",
+    "shortName": "Como 1907",
+    "tla": "COM",
+    "crest": "https://crests.football-data.org/7397.png",
+    "address": "Viale Sinigaglia 2 Como 22100",
+    "website": "http://www.como1907.net/",
+    "founded": 1907,
+    "clubColors": "Sky Blue / White",
+    "venue": "Stadio Giuseppe Sinigaglia",
+    "lastUpdated": "2025-02-17T16:52:41Z"
+   },
+   "playedMatches": 7,
+   "goals": 3,
+   "assists": null,
+   "penalties": null
   },
   {
    "player": {
