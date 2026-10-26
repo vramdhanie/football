@@ -47,6 +47,37 @@
   },
   {
    "player": {
+    "id": 113765,
+    "name": "Michael Olise",
+    "firstName": "Michael",
+    "lastName": "Olise",
+    "dateOfBirth": "2001-12-12",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 5,
+    "name": "FC Bayern München",
+    "shortName": "Bayern",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/5.png",
+    "address": "Säbenerstr. 51 München 81547",
+    "website": "http://www.fcbayern.de",
+    "founded": 1900,
+    "clubColors": "Red / White / Blue",
+    "venue": "Allianz Arena",
+    "lastUpdated": "2024-07-09T17:26:37Z"
+   },
+   "playedMatches": 7,
+   "goals": 6,
+   "assists": 3,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 1826,
     "name": "Patrik Schick",
     "firstName": "Patrik",
@@ -73,37 +104,6 @@
    },
    "playedMatches": 7,
    "goals": 6,
-   "assists": 2,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 113765,
-    "name": "Michael Olise",
-    "firstName": "Michael",
-    "lastName": "Olise",
-    "dateOfBirth": "2001-12-12",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 5,
-    "name": "FC Bayern München",
-    "shortName": "Bayern",
-    "tla": "FCB",
-    "crest": "https://crests.football-data.org/5.png",
-    "address": "Säbenerstr. 51 München 81547",
-    "website": "http://www.fcbayern.de",
-    "founded": 1900,
-    "clubColors": "Red / White / Blue",
-    "venue": "Allianz Arena",
-    "lastUpdated": "2024-07-09T17:26:37Z"
-   },
-   "playedMatches": 6,
-   "goals": 5,
    "assists": 2,
    "penalties": null
   },
@@ -226,7 +226,7 @@
     "venue": "Schwarzwald-Stadion",
     "lastUpdated": "2024-07-29T17:13:41Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 4,
    "assists": null,
    "penalties": null
@@ -319,7 +319,7 @@
     "venue": "Allianz Arena",
     "lastUpdated": "2024-07-09T17:26:37Z"
    },
-   "playedMatches": 6,
+   "playedMatches": 7,
    "goals": 4,
    "assists": 4,
    "penalties": 1

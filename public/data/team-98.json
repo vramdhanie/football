@@ -232,6 +232,34 @@
    "position": "Offence",
    "dateOfBirth": "2008-03-10",
    "nationality": "Italy"
+  },
+  {
+   "id": 302645,
+   "name": "Lorenzo Ossola",
+   "position": null,
+   "dateOfBirth": "2007-02-13",
+   "nationality": "Italy"
+  },
+  {
+   "id": 302644,
+   "name": "El Hadji Cissé",
+   "position": null,
+   "dateOfBirth": "2008-01-05",
+   "nationality": "Senegal"
+  },
+  {
+   "id": 302643,
+   "name": "Luca Menon",
+   "position": null,
+   "dateOfBirth": "2009-03-07",
+   "nationality": "Italy"
+  },
+  {
+   "id": 302642,
+   "name": "Nirash Perera",
+   "position": null,
+   "dateOfBirth": "2007-01-02",
+   "nationality": "Italy"
   }
  ],
  "staff": [],

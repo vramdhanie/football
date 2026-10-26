@@ -6,206 +6,8 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/FL1.png"
  },
- "fetchedAt": "2026-10-25T15:00:27.555Z",
+ "fetchedAt": "2026-10-26T01:23:34.034Z",
  "matches": [
-  {
-   "area": {
-    "id": 2081,
-    "name": "France",
-    "code": "FRA",
-    "flag": "https://crests.football-data.org/773.svg"
-   },
-   "competition": {
-    "id": 2015,
-    "name": "Ligue 1",
-    "code": "FL1",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/FL1.png"
-   },
-   "season": {
-    "id": 2497,
-    "startDate": "2026-08-22",
-    "endDate": "2027-05-29",
-    "currentMatchday": 8,
-    "winner": null
-   },
-   "id": 559662,
-   "utcDate": "2026-10-17T15:15:00Z",
-   "status": "FINISHED",
-   "matchday": 7,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-10-25T00:20:24Z",
-   "homeTeam": {
-    "id": 576,
-    "name": "RC Strasbourg Alsace",
-    "shortName": "Strasbourg",
-    "tla": "RC ",
-    "crest": "https://crests.football-data.org/576.png"
-   },
-   "awayTeam": {
-    "id": 524,
-    "name": "Paris Saint-Germain FC",
-    "shortName": "PSG",
-    "tla": "PSG",
-    "crest": "https://crests.football-data.org/524.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 1,
-     "away": 3
-    },
-    "halfTime": {
-     "home": 1,
-     "away": 0
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 57042,
-     "name": "Willy Delajod",
-     "type": "REFEREE",
-     "nationality": "France"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2081,
-    "name": "France",
-    "code": "FRA",
-    "flag": "https://crests.football-data.org/773.svg"
-   },
-   "competition": {
-    "id": 2015,
-    "name": "Ligue 1",
-    "code": "FL1",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/FL1.png"
-   },
-   "season": {
-    "id": 2497,
-    "startDate": "2026-08-22",
-    "endDate": "2027-05-29",
-    "currentMatchday": 8,
-    "winner": null
-   },
-   "id": 559659,
-   "utcDate": "2026-10-17T18:45:00Z",
-   "status": "FINISHED",
-   "matchday": 7,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-10-25T00:20:24Z",
-   "homeTeam": {
-    "id": 531,
-    "name": "ES Troyes AC",
-    "shortName": "Troyes",
-    "tla": "ETR",
-    "crest": "https://crests.football-data.org/531.png"
-   },
-   "awayTeam": {
-    "id": 546,
-    "name": "Racing Club de Lens",
-    "shortName": "RC Lens",
-    "tla": "RCL",
-    "crest": "https://crests.football-data.org/546.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 1,
-     "away": 3
-    },
-    "halfTime": {
-     "home": 1,
-     "away": 2
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 57063,
-     "name": "Hakim Ben El Hadj Salem",
-     "type": "REFEREE",
-     "nationality": "France"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2081,
-    "name": "France",
-    "code": "FRA",
-    "flag": "https://crests.football-data.org/773.svg"
-   },
-   "competition": {
-    "id": 2015,
-    "name": "Ligue 1",
-    "code": "FL1",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/FL1.png"
-   },
-   "season": {
-    "id": 2497,
-    "startDate": "2026-08-22",
-    "endDate": "2027-05-29",
-    "currentMatchday": 8,
-    "winner": null
-   },
-   "id": 559660,
-   "utcDate": "2026-10-17T18:45:00Z",
-   "status": "FINISHED",
-   "matchday": 7,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-10-25T00:20:24Z",
-   "homeTeam": {
-    "id": 521,
-    "name": "Lille OSC",
-    "shortName": "Lille",
-    "tla": "LIL",
-    "crest": "https://crests.football-data.org/521.png"
-   },
-   "awayTeam": {
-    "id": 512,
-    "name": "Stade Brestois 29",
-    "shortName": "Brest",
-    "tla": "BRE",
-    "crest": "https://crests.football-data.org/512.png"
-   },
-   "score": {
-    "winner": "DRAW",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 1,
-     "away": 1
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 1
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 9374,
-     "name": "Clément Turpin",
-     "type": "REFEREE",
-     "nationality": "France"
-    }
-   ]
-  },
   {
    "area": {
     "id": 2081,
@@ -691,11 +493,11 @@
    },
    "id": 559650,
    "utcDate": "2026-10-25T14:00:00Z",
-   "status": "IN_PLAY",
+   "status": "TIMED",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-25T14:53:42Z",
+   "lastUpdated": "2026-10-25T01:32:01Z",
    "homeTeam": {
     "id": 548,
     "name": "AS Monaco FC",
@@ -711,15 +513,15 @@
     "crest": "https://crests.football-data.org/521.png"
    },
    "score": {
-    "winner": "AWAY_TEAM",
+    "winner": null,
     "duration": "REGULAR",
     "fullTime": {
-     "home": 0,
-     "away": 1
+     "home": null,
+     "away": null
     },
     "halfTime": {
-     "home": 0,
-     "away": 1
+     "home": null,
+     "away": null
     }
    },
    "odds": {

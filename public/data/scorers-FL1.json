@@ -102,10 +102,41 @@
     "venue": "Orange Vélodrome",
     "lastUpdated": "2022-02-19T08:35:12Z"
    },
-   "playedMatches": 7,
+   "playedMatches": 8,
    "goals": 5,
-   "assists": 1,
+   "assists": 2,
    "penalties": 1
+  },
+  {
+   "player": {
+    "id": 128242,
+    "name": "Cameron Archer",
+    "firstName": "Cameron",
+    "lastName": "Archer",
+    "dateOfBirth": "2001-07-21",
+    "nationality": "England",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:33:22Z"
+   },
+   "team": {
+    "id": 519,
+    "name": "AJ Auxerre",
+    "shortName": "Auxerre",
+    "tla": "AJA",
+    "crest": "https://crests.football-data.org/519.png",
+    "address": "Route de Vaux BP 349 Auxerre 89006",
+    "website": "http://www.aja.fr",
+    "founded": 1905,
+    "clubColors": "White / Blue",
+    "venue": "Stade de l'Abbé Deschamps",
+    "lastUpdated": "2022-07-26T18:03:55Z"
+   },
+   "playedMatches": 6,
+   "goals": 5,
+   "assists": null,
+   "penalties": null
   },
   {
    "player": {
@@ -133,7 +164,7 @@
     "venue": "Stadium Municipal",
     "lastUpdated": "2026-07-04T12:07:20Z"
    },
-   "playedMatches": 5,
+   "playedMatches": 6,
    "goals": 5,
    "assists": 1,
    "penalties": 2
@@ -195,7 +226,7 @@
     "venue": "MMArena",
     "lastUpdated": "2026-09-21T11:19:51Z"
    },
-   "playedMatches": 7,
+   "playedMatches": 8,
    "goals": 4,
    "assists": null,
    "penalties": 1
@@ -289,37 +320,6 @@
     "lastUpdated": "2021-11-06T13:27:09Z"
    },
    "playedMatches": 6,
-   "goals": 4,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 128242,
-    "name": "Cameron Archer",
-    "firstName": "Cameron",
-    "lastName": "Archer",
-    "dateOfBirth": "2001-07-21",
-    "nationality": "England",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-15T09:33:22Z"
-   },
-   "team": {
-    "id": 519,
-    "name": "AJ Auxerre",
-    "shortName": "Auxerre",
-    "tla": "AJA",
-    "crest": "https://crests.football-data.org/519.png",
-    "address": "Route de Vaux BP 349 Auxerre 89006",
-    "website": "http://www.aja.fr",
-    "founded": 1905,
-    "clubColors": "White / Blue",
-    "venue": "Stade de l'Abbé Deschamps",
-    "lastUpdated": "2022-07-26T18:03:55Z"
-   },
-   "playedMatches": 5,
    "goals": 4,
    "assists": null,
    "penalties": null
