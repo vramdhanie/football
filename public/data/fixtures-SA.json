@@ -6,140 +6,8 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/c111.png"
  },
- "fetchedAt": "2026-10-27T16:45:47.299Z",
+ "fetchedAt": "2026-10-28T02:27:09.093Z",
  "matches": [
-  {
-   "area": {
-    "id": 2114,
-    "name": "Italy",
-    "code": "ITA",
-    "flag": "https://crests.football-data.org/784.svg"
-   },
-   "competition": {
-    "id": 2019,
-    "name": "Serie A",
-    "code": "SA",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/c111.png"
-   },
-   "season": {
-    "id": 2494,
-    "startDate": "2026-08-23",
-    "endDate": "2027-05-30",
-    "currentMatchday": 9,
-    "winner": null
-   },
-   "id": 558576,
-   "utcDate": "2026-10-19T16:30:00Z",
-   "status": "FINISHED",
-   "matchday": 7,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
-   "homeTeam": {
-    "id": 5911,
-    "name": "AC Monza",
-    "shortName": "Monza",
-    "tla": "MON",
-    "crest": "https://crests.football-data.org/5911.png"
-   },
-   "awayTeam": {
-    "id": 104,
-    "name": "Cagliari Calcio",
-    "shortName": "Cagliari",
-    "tla": "CAG",
-    "crest": "https://crests.football-data.org/104.png"
-   },
-   "score": {
-    "winner": "HOME_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 4,
-     "away": 0
-    },
-    "halfTime": {
-     "home": 1,
-     "away": 0
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 160813,
-     "name": "Andrea Calzavara",
-     "type": "REFEREE",
-     "nationality": "Italy"
-    }
-   ]
-  },
-  {
-   "area": {
-    "id": 2114,
-    "name": "Italy",
-    "code": "ITA",
-    "flag": "https://crests.football-data.org/784.svg"
-   },
-   "competition": {
-    "id": 2019,
-    "name": "Serie A",
-    "code": "SA",
-    "type": "LEAGUE",
-    "emblem": "https://crests.football-data.org/c111.png"
-   },
-   "season": {
-    "id": 2494,
-    "startDate": "2026-08-23",
-    "endDate": "2027-05-30",
-    "currentMatchday": 9,
-    "winner": null
-   },
-   "id": 558578,
-   "utcDate": "2026-10-19T18:45:00Z",
-   "status": "FINISHED",
-   "matchday": 7,
-   "stage": "REGULAR_SEASON",
-   "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
-   "homeTeam": {
-    "id": 112,
-    "name": "Parma Calcio 1913",
-    "shortName": "Parma",
-    "tla": "PAR",
-    "crest": "https://crests.football-data.org/112.png"
-   },
-   "awayTeam": {
-    "id": 586,
-    "name": "Torino FC",
-    "shortName": "Torino",
-    "tla": "TOR",
-    "crest": "https://crests.football-data.org/586.png"
-   },
-   "score": {
-    "winner": "AWAY_TEAM",
-    "duration": "REGULAR",
-    "fullTime": {
-     "home": 0,
-     "away": 3
-    },
-    "halfTime": {
-     "home": 0,
-     "away": 2
-    }
-   },
-   "odds": {
-    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-   },
-   "referees": [
-    {
-     "id": 57842,
-     "name": "Giovanni Ayroldi",
-     "type": "REFEREE",
-     "nationality": "Italy"
-    }
-   ]
-  },
   {
    "area": {
     "id": 2114,
@@ -167,7 +35,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 586,
     "name": "Torino FC",
@@ -233,7 +101,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 104,
     "name": "Cagliari Calcio",
@@ -299,7 +167,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -365,7 +233,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 113,
     "name": "SSC Napoli",
@@ -431,7 +299,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 110,
     "name": "SS Lazio",
@@ -497,7 +365,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 108,
     "name": "FC Internazionale Milano",
@@ -563,7 +431,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 102,
     "name": "Atalanta BC",
@@ -629,7 +497,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 107,
     "name": "Genoa CFC",
@@ -695,7 +563,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 5890,
     "name": "US Lecce",
@@ -761,7 +629,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 115,
     "name": "Udinese Calcio",
@@ -823,11 +691,11 @@
    },
    "id": 558556,
    "utcDate": "2026-10-27T17:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 471,
     "name": "US Sassuolo Calcio",
@@ -843,15 +711,15 @@
     "crest": "https://crests.football-data.org/110.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 6
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 4
     }
    },
    "odds": {
@@ -889,11 +757,11 @@
    },
    "id": 558555,
    "utcDate": "2026-10-27T19:45:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 100,
     "name": "AS Roma",
@@ -909,21 +777,28 @@
     "crest": "https://crests.football-data.org/104.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 4,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57882,
+     "name": "Ermanno Feliciani",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -948,11 +823,11 @@
    },
    "id": 558557,
    "utcDate": "2026-10-27T19:45:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 586,
     "name": "Torino FC",
@@ -968,21 +843,28 @@
     "crest": "https://crests.football-data.org/7397.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 3
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 97848,
+     "name": "Giuseppe Collu",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -1011,7 +893,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T01:32:00Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1070,7 +952,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T01:32:00Z",
    "homeTeam": {
     "id": 454,
     "name": "Venezia FC",
@@ -1129,7 +1011,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 112,
     "name": "Parma Calcio 1913",
@@ -1188,7 +1070,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 107,
     "name": "Genoa CFC",
@@ -1247,7 +1129,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 5911,
     "name": "AC Monza",
@@ -1306,7 +1188,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 470,
     "name": "Frosinone Calcio",
@@ -1365,7 +1247,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 99,
     "name": "ACF Fiorentina",
@@ -1424,7 +1306,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 103,
     "name": "Bologna FC 1909",
@@ -1483,7 +1365,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 115,
     "name": "Udinese Calcio",
@@ -1542,7 +1424,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T01:32:04Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1601,7 +1483,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T01:32:04Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -1660,7 +1542,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 470,
     "name": "Frosinone Calcio",
@@ -1719,7 +1601,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T01:32:05Z",
    "homeTeam": {
     "id": 110,
     "name": "SS Lazio",
@@ -1778,7 +1660,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 5890,
     "name": "US Lecce",
@@ -1837,7 +1719,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -1896,7 +1778,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T01:32:06Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 471,
     "name": "US Sassuolo Calcio",
@@ -1955,7 +1837,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T01:32:06Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 102,
     "name": "Atalanta BC",
@@ -2014,7 +1896,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 454,
     "name": "Venezia FC",
@@ -2073,7 +1955,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 586,
     "name": "Torino FC",
@@ -2132,7 +2014,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 104,
     "name": "Cagliari Calcio",
@@ -2191,7 +2073,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 112,
     "name": "Parma Calcio 1913",
@@ -2250,7 +2132,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 100,
     "name": "AS Roma",
@@ -2309,7 +2191,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 113,
     "name": "SSC Napoli",
@@ -2368,7 +2250,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 107,
     "name": "Genoa CFC",
@@ -2427,7 +2309,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 5911,
     "name": "AC Monza",
@@ -2486,7 +2368,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 108,
     "name": "FC Internazionale Milano",
@@ -2545,7 +2427,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 99,
     "name": "ACF Fiorentina",
@@ -2604,7 +2486,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -2663,7 +2545,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 110,
     "name": "SS Lazio",
@@ -2722,7 +2604,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 112,
     "name": "Parma Calcio 1913",
@@ -2781,7 +2663,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 113,
     "name": "SSC Napoli",
@@ -2840,7 +2722,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -2899,7 +2781,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 103,
     "name": "Bologna FC 1909",
@@ -2958,7 +2840,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 471,
     "name": "US Sassuolo Calcio",
@@ -3017,7 +2899,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -3076,7 +2958,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 102,
     "name": "Atalanta BC",
@@ -3135,7 +3017,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-27T00:20:28Z",
+   "lastUpdated": "2026-10-28T00:20:28Z",
    "homeTeam": {
     "id": 5911,
     "name": "AC Monza",
@@ -3149,6 +3031,65 @@
     "shortName": "Fiorentina",
     "tla": "FIO",
     "crest": "https://crests.football-data.org/99.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2114,
+    "name": "Italy",
+    "code": "ITA",
+    "flag": "https://crests.football-data.org/784.svg"
+   },
+   "competition": {
+    "id": 2019,
+    "name": "Serie A",
+    "code": "SA",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/c111.png"
+   },
+   "season": {
+    "id": 2494,
+    "startDate": "2026-08-23",
+    "endDate": "2027-05-30",
+    "currentMatchday": 9,
+    "winner": null
+   },
+   "id": 558515,
+   "utcDate": "2026-11-27T19:45:00Z",
+   "status": "TIMED",
+   "matchday": 13,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-10-28T00:20:28Z",
+   "homeTeam": {
+    "id": 454,
+    "name": "Venezia FC",
+    "shortName": "Venezia FC",
+    "tla": "VEN",
+    "crest": "https://crests.football-data.org/454.png"
+   },
+   "awayTeam": {
+    "id": 103,
+    "name": "Bologna FC 1909",
+    "shortName": "Bologna",
+    "tla": "BOL",
+    "crest": "https://crests.football-data.org/103.png"
    },
    "score": {
     "winner": null,
