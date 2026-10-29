@@ -6,7 +6,7 @@
   "type": "CUP",
   "emblem": "https://crests.football-data.org/CL.png"
  },
- "fetchedAt": "2026-10-29T02:34:10.828Z",
+ "fetchedAt": "2026-10-29T17:29:43.891Z",
  "matches": [
   {
    "area": {
@@ -431,7 +431,7 @@
    "matchday": 3,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-10-29T00:20:24Z",
+   "lastUpdated": "2026-10-29T14:25:02Z",
    "homeTeam": {
     "id": 58,
     "name": "Aston Villa FC",

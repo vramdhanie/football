@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/c111.png"
  },
- "fetchedAt": "2026-10-29T02:33:49.202Z",
+ "fetchedAt": "2026-10-29T17:29:22.415Z",
  "matches": [
   {
    "area": {
@@ -1253,7 +1253,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11006,
+     "name": "Rosario Abisso",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
