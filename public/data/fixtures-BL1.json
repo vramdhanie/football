@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/BL1.png"
  },
- "fetchedAt": "2026-10-31T02:32:52.447Z",
+ "fetchedAt": "2026-10-31T16:13:06.351Z",
  "matches": [
   {
    "area": {
@@ -691,11 +691,11 @@
    },
    "id": 565839,
    "utcDate": "2026-10-31T14:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-31T00:20:27Z",
+   "lastUpdated": "2026-10-31T16:11:31Z",
    "homeTeam": {
     "id": 18,
     "name": "Borussia Mönchengladbach",
@@ -711,21 +711,28 @@
     "crest": "https://crests.football-data.org/29.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57527,
+     "name": "Timo Gerach",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -750,11 +757,11 @@
    },
    "id": 565840,
    "utcDate": "2026-10-31T14:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-31T01:32:01Z",
+   "lastUpdated": "2026-10-31T16:12:03Z",
    "homeTeam": {
     "id": 6,
     "name": "FC Schalke 04",
@@ -770,21 +777,28 @@
     "crest": "https://crests.football-data.org/721.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 58332,
+     "name": "Max Burda",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -809,11 +823,11 @@
    },
    "id": 565842,
    "utcDate": "2026-10-31T14:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-31T00:20:27Z",
+   "lastUpdated": "2026-10-31T16:12:03Z",
    "homeTeam": {
     "id": 16,
     "name": "FC Augsburg",
@@ -829,21 +843,28 @@
     "crest": "https://crests.football-data.org/17.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57526,
+     "name": "Christian Dingert",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -868,11 +889,11 @@
    },
    "id": 565843,
    "utcDate": "2026-10-31T14:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-31T01:32:01Z",
+   "lastUpdated": "2026-10-31T16:12:35Z",
    "homeTeam": {
     "id": 12,
     "name": "SV Werder Bremen",
@@ -888,21 +909,28 @@
     "crest": "https://crests.football-data.org/2.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57512,
+     "name": "Tobias Reichel",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -927,11 +955,11 @@
    },
    "id": 565847,
    "utcDate": "2026-10-31T14:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-31T00:20:27Z",
+   "lastUpdated": "2026-10-31T16:12:35Z",
    "homeTeam": {
     "id": 3,
     "name": "Bayer 04 Leverkusen",
@@ -947,21 +975,28 @@
     "crest": "https://crests.football-data.org/10.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 4
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 2
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43922,
+     "name": "Benjamin Brand",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -1020,7 +1055,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43943,
+     "name": "Tobias Stieler",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {

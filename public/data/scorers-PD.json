@@ -164,9 +164,9 @@
     "venue": "Estadio del Rayo Vallecano",
     "lastUpdated": "2024-07-29T17:10:35Z"
    },
-   "playedMatches": 10,
+   "playedMatches": 11,
    "goals": 7,
-   "assists": 1,
+   "assists": 2,
    "penalties": null
   },
   {
@@ -319,9 +319,9 @@
     "venue": "Estadio Wanda Metropolitano",
     "lastUpdated": "2026-07-04T11:58:34Z"
    },
-   "playedMatches": 10,
+   "playedMatches": 11,
    "goals": 5,
-   "assists": 2,
+   "assists": 3,
    "penalties": null
   }
  ]

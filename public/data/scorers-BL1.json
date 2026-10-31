@@ -40,10 +40,41 @@
     "venue": "Weserstadion",
     "lastUpdated": "2024-07-29T17:13:29Z"
    },
-   "playedMatches": 7,
-   "goals": 8,
+   "playedMatches": 8,
+   "goals": 9,
    "assists": null,
    "penalties": 3
+  },
+  {
+   "player": {
+    "id": 1826,
+    "name": "Patrik Schick",
+    "firstName": "Patrik",
+    "lastName": "Schick",
+    "dateOfBirth": "1996-01-24",
+    "nationality": "Czech Republic",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T10:55:34Z"
+   },
+   "team": {
+    "id": 3,
+    "name": "Bayer 04 Leverkusen",
+    "shortName": "Leverkusen",
+    "tla": "B04",
+    "crest": "https://crests.football-data.org/3.png",
+    "address": "Bismarckstr. 122-124 Leverkusen 51373",
+    "website": "http://www.bayer04.de",
+    "founded": 1904,
+    "clubColors": "Red / White / Black",
+    "venue": "BayArena",
+    "lastUpdated": "2022-02-25T16:43:07Z"
+   },
+   "playedMatches": 8,
+   "goals": 7,
+   "assists": 2,
+   "penalties": null
   },
   {
    "player": {
@@ -78,37 +109,6 @@
   },
   {
    "player": {
-    "id": 1826,
-    "name": "Patrik Schick",
-    "firstName": "Patrik",
-    "lastName": "Schick",
-    "dateOfBirth": "1996-01-24",
-    "nationality": "Czech Republic",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T10:55:34Z"
-   },
-   "team": {
-    "id": 3,
-    "name": "Bayer 04 Leverkusen",
-    "shortName": "Leverkusen",
-    "tla": "B04",
-    "crest": "https://crests.football-data.org/3.png",
-    "address": "Bismarckstr. 122-124 Leverkusen 51373",
-    "website": "http://www.bayer04.de",
-    "founded": 1904,
-    "clubColors": "Red / White / Black",
-    "venue": "BayArena",
-    "lastUpdated": "2022-02-25T16:43:07Z"
-   },
-   "playedMatches": 7,
-   "goals": 6,
-   "assists": 2,
-   "penalties": null
-  },
-  {
-   "player": {
     "id": 192207,
     "name": "Younes Ebnoutalib",
     "firstName": "Younes",
@@ -136,6 +136,68 @@
    "playedMatches": 7,
    "goals": 5,
    "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 6661,
+    "name": "Michael Gregoritsch",
+    "firstName": "Michael",
+    "lastName": "Gregoritsch",
+    "dateOfBirth": "1994-04-18",
+    "nationality": "Austria",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:29Z"
+   },
+   "team": {
+    "id": 16,
+    "name": "FC Augsburg",
+    "shortName": "Augsburg",
+    "tla": "FCA",
+    "crest": "https://crests.football-data.org/16.png",
+    "address": "Donauwörther Straße 170 Augsburg 86154",
+    "website": "http://www.fcaugsburg.de",
+    "founded": 1907,
+    "clubColors": "Red / Green / White",
+    "venue": "WWK Arena",
+    "lastUpdated": "2023-02-28T07:59:40Z"
+   },
+   "playedMatches": 8,
+   "goals": 5,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
+    "id": 33242,
+    "name": "Ermedin Demirovic",
+    "firstName": "Ermedin",
+    "lastName": "Demirović",
+    "dateOfBirth": "1998-03-25",
+    "nationality": "Bosnia-Herzegovina",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:32Z"
+   },
+   "team": {
+    "id": 10,
+    "name": "VfB Stuttgart",
+    "shortName": "Stuttgart",
+    "tla": "VFB",
+    "crest": "https://crests.football-data.org/10.png",
+    "address": "Mercedesstraße 109 Stuttgart 70372",
+    "website": "http://www.vfb.de",
+    "founded": 1893,
+    "clubColors": "White / Red",
+    "venue": "Mercedes-Benz Arena",
+    "lastUpdated": "2026-01-26T10:51:52Z"
+   },
+   "playedMatches": 8,
+   "goals": 5,
+   "assists": null,
    "penalties": null
   },
   {
@@ -202,6 +264,37 @@
   },
   {
    "player": {
+    "id": 169295,
+    "name": "Antonio Nusa",
+    "firstName": "Antonio",
+    "lastName": "Nusa",
+    "dateOfBirth": "2005-04-17",
+    "nationality": "Norway",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-20T16:51:41Z"
+   },
+   "team": {
+    "id": 721,
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig",
+    "tla": "RBL",
+    "crest": "https://crests.football-data.org/721.png",
+    "address": "Neumarkt 29-33 Leipzig 04109",
+    "website": "http://www.dierotenbullen.com",
+    "founded": 2009,
+    "clubColors": "White / Red",
+    "venue": "Red Bull Arena",
+    "lastUpdated": "2022-02-19T09:03:00Z"
+   },
+   "playedMatches": 8,
+   "goals": 4,
+   "assists": 6,
+   "penalties": 1
+  },
+  {
+   "player": {
     "id": 145293,
     "name": "Yuito Suzuki",
     "firstName": "Yuito",
@@ -226,102 +319,9 @@
     "venue": "Schwarzwald-Stadion",
     "lastUpdated": "2024-07-29T17:13:41Z"
    },
-   "playedMatches": 6,
-   "goals": 4,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 6661,
-    "name": "Michael Gregoritsch",
-    "firstName": "Michael",
-    "lastName": "Gregoritsch",
-    "dateOfBirth": "1994-04-18",
-    "nationality": "Austria",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
-   },
-   "team": {
-    "id": 16,
-    "name": "FC Augsburg",
-    "shortName": "Augsburg",
-    "tla": "FCA",
-    "crest": "https://crests.football-data.org/16.png",
-    "address": "Donauwörther Straße 170 Augsburg 86154",
-    "website": "http://www.fcaugsburg.de",
-    "founded": 1907,
-    "clubColors": "Red / Green / White",
-    "venue": "WWK Arena",
-    "lastUpdated": "2023-02-28T07:59:40Z"
-   },
    "playedMatches": 7,
    "goals": 4,
    "assists": null,
-   "penalties": 1
-  },
-  {
-   "player": {
-    "id": 183780,
-    "name": "Maurice Krattenmacher",
-    "firstName": "Maurice",
-    "lastName": "Krattenmacher",
-    "dateOfBirth": "2005-08-11",
-    "nationality": "Germany",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-20T16:51:42Z"
-   },
-   "team": {
-    "id": 719,
-    "name": "SV 07 Elversberg",
-    "shortName": "Elversberg",
-    "tla": "ELV",
-    "crest": "https://crests.football-data.org/719.png",
-    "address": "St. Ingberter Straße 8 Spiesen-Elversberg 66583",
-    "website": "http://www.sv07elversberg.de",
-    "founded": 1907,
-    "clubColors": "Black / White",
-    "venue": "Ursapharm-Arena an der Kaiserlinde",
-    "lastUpdated": "2022-07-22T08:44:52Z"
-   },
-   "playedMatches": 8,
-   "goals": 4,
-   "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 8484,
-    "name": "Christopher Nkunku",
-    "firstName": "Christopher",
-    "lastName": "Nkunku",
-    "dateOfBirth": "1997-11-14",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:15Z"
-   },
-   "team": {
-    "id": 721,
-    "name": "RB Leipzig",
-    "shortName": "RB Leipzig",
-    "tla": "RBL",
-    "crest": "https://crests.football-data.org/721.png",
-    "address": "Neumarkt 29-33 Leipzig 04109",
-    "website": "http://www.dierotenbullen.com",
-    "founded": 2009,
-    "clubColors": "White / Red",
-    "venue": "Red Bull Arena",
-    "lastUpdated": "2022-02-19T09:03:00Z"
-   },
-   "playedMatches": 6,
-   "goals": 4,
-   "assists": 1,
    "penalties": null
   }
  ]

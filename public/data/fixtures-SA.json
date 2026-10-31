@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/c111.png"
  },
- "fetchedAt": "2026-10-31T02:32:59.943Z",
+ "fetchedAt": "2026-10-31T16:13:13.741Z",
  "matches": [
   {
    "area": {
@@ -1351,11 +1351,11 @@
    },
    "id": 558539,
    "utcDate": "2026-10-31T14:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-31T00:20:28Z",
+   "lastUpdated": "2026-10-31T16:01:55Z",
    "homeTeam": {
     "id": 103,
     "name": "Bologna FC 1909",
@@ -1371,21 +1371,28 @@
     "crest": "https://crests.football-data.org/5911.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 191548,
+     "name": "Andrea Zanotti",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -1444,7 +1451,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 10977,
+     "name": "Fabio Maresca",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {

@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/laliga.png"
  },
- "fetchedAt": "2026-10-31T02:33:07.474Z",
+ "fetchedAt": "2026-10-31T16:13:21.202Z",
  "matches": [
   {
    "area": {
@@ -695,7 +695,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-31T00:20:27Z",
+   "lastUpdated": "2026-10-31T09:25:09Z",
    "homeTeam": {
     "id": 94,
     "name": "Villarreal CF",
@@ -727,10 +727,10 @@
    },
    "referees": [
     {
-     "id": 207080,
-     "name": "José Sánchez Martínez",
+     "id": 221462,
+     "name": "Nelson Sánchez",
      "type": "REFEREE",
-     "nationality": "Spain"
+     "nationality": "Peru"
     }
    ]
   },
@@ -757,11 +757,11 @@
    },
    "id": 564730,
    "utcDate": "2026-10-31T13:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-31T01:32:00Z",
+   "lastUpdated": "2026-10-31T14:57:55Z",
    "homeTeam": {
     "id": 88,
     "name": "Levante UD",
@@ -777,21 +777,28 @@
     "crest": "https://crests.football-data.org/78.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15628,
+     "name": "Ricardo de Burgos",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
@@ -816,11 +823,11 @@
    },
    "id": 564735,
    "utcDate": "2026-10-31T15:15:00Z",
-   "status": "TIMED",
+   "status": "PAUSED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-10-31T01:32:01Z",
+   "lastUpdated": "2026-10-31T16:12:04Z",
    "homeTeam": {
     "id": 87,
     "name": "Rayo Vallecano de Madrid",
@@ -836,21 +843,28 @@
     "crest": "https://crests.football-data.org/558.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 215612,
+     "name": "Manuel Orellana Cid",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
@@ -909,7 +923,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 217698,
+     "name": "Mateo Busquets Ferrer",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
