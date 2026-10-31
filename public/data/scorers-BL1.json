@@ -164,7 +164,7 @@
     "venue": "Opel Arena",
     "lastUpdated": "2023-02-28T07:59:34Z"
    },
-   "playedMatches": 7,
+   "playedMatches": 8,
    "goals": 5,
    "assists": null,
    "penalties": null
@@ -264,6 +264,37 @@
   },
   {
    "player": {
+    "id": 183780,
+    "name": "Maurice Krattenmacher",
+    "firstName": "Maurice",
+    "lastName": "Krattenmacher",
+    "dateOfBirth": "2005-08-11",
+    "nationality": "Germany",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-20T16:51:42Z"
+   },
+   "team": {
+    "id": 719,
+    "name": "SV 07 Elversberg",
+    "shortName": "Elversberg",
+    "tla": "ELV",
+    "crest": "https://crests.football-data.org/719.png",
+    "address": "St. Ingberter Straße 8 Spiesen-Elversberg 66583",
+    "website": "http://www.sv07elversberg.de",
+    "founded": 1907,
+    "clubColors": "Black / White",
+    "venue": "Ursapharm-Arena an der Kaiserlinde",
+    "lastUpdated": "2022-07-22T08:44:52Z"
+   },
+   "playedMatches": 8,
+   "goals": 4,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 8484,
     "name": "Christopher Nkunku",
     "firstName": "Christopher",
@@ -292,37 +323,6 @@
    "goals": 4,
    "assists": 1,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 8004,
-    "name": "Harry Kane",
-    "firstName": "Harry",
-    "lastName": "Kane",
-    "dateOfBirth": "1993-07-28",
-    "nationality": "England",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
-   },
-   "team": {
-    "id": 5,
-    "name": "FC Bayern München",
-    "shortName": "Bayern",
-    "tla": "FCB",
-    "crest": "https://crests.football-data.org/5.png",
-    "address": "Säbenerstr. 51 München 81547",
-    "website": "http://www.fcbayern.de",
-    "founded": 1900,
-    "clubColors": "Red / White / Blue",
-    "venue": "Allianz Arena",
-    "lastUpdated": "2024-07-09T17:26:37Z"
-   },
-   "playedMatches": 7,
-   "goals": 4,
-   "assists": 4,
-   "penalties": 1
   }
  ]
 }
