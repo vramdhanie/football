@@ -102,7 +102,7 @@
     "venue": "Stadio Benito Stirpe",
     "lastUpdated": "2022-03-20T17:51:41Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 8,
    "assists": null,
    "penalties": null
@@ -164,7 +164,7 @@
     "venue": "Stadio Giuseppe Sinigaglia",
     "lastUpdated": "2025-02-17T16:52:41Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 5,
    "assists": null,
    "penalties": null
@@ -257,9 +257,40 @@
     "venue": "Sardegna Arena",
     "lastUpdated": "2024-04-09T16:20:43Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 5,
    "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
+    "id": 40786,
+    "name": "Giacomo Calò",
+    "firstName": "Giacomo",
+    "lastName": "Calò",
+    "dateOfBirth": "1997-02-05",
+    "nationality": "Italy",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2023-07-30T17:08:57Z"
+   },
+   "team": {
+    "id": 470,
+    "name": "Frosinone Calcio",
+    "shortName": "Frosinone",
+    "tla": "FRO",
+    "crest": "https://crests.football-data.org/470.png",
+    "address": "Via Marittima, 2 Frosinone 03100",
+    "website": "http://www.frosinonecalcio.com",
+    "founded": 1912,
+    "clubColors": "Yellow / Blue",
+    "venue": "Stadio Benito Stirpe",
+    "lastUpdated": "2022-03-20T17:51:41Z"
+   },
+   "playedMatches": 10,
+   "goals": 5,
+   "assists": 1,
    "penalties": 1
   },
   {
@@ -292,37 +323,6 @@
    "goals": 4,
    "assists": 1,
    "penalties": 1
-  },
-  {
-   "player": {
-    "id": 192142,
-    "name": "Alphadjo Cisse",
-    "firstName": "Alphadjo",
-    "lastName": "Cissè",
-    "dateOfBirth": "2006-10-22",
-    "nationality": "Italy",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:15Z"
-   },
-   "team": {
-    "id": 98,
-    "name": "AC Milan",
-    "shortName": "Milan",
-    "tla": "MIL",
-    "crest": "https://crests.football-data.org/98.png",
-    "address": "Via Filippo Turati 3 Milano 20121",
-    "website": "http://www.acmilan.com",
-    "founded": 1899,
-    "clubColors": "Red / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2024-04-09T16:20:58Z"
-   },
-   "playedMatches": 10,
-   "goals": 4,
-   "assists": null,
-   "penalties": null
   }
  ]
 }

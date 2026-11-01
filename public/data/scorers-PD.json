@@ -71,10 +71,10 @@
     "venue": "Estadio Santiago Bernabéu",
     "lastUpdated": "2022-02-19T08:59:31Z"
    },
-   "playedMatches": 10,
-   "goals": 11,
+   "playedMatches": 11,
+   "goals": 12,
    "assists": 2,
-   "penalties": 2
+   "penalties": 3
   },
   {
    "player": {
@@ -133,7 +133,7 @@
     "venue": "Campos de Sport de El Sardinero",
     "lastUpdated": "2023-04-28T08:38:16Z"
    },
-   "playedMatches": 10,
+   "playedMatches": 11,
    "goals": 8,
    "assists": null,
    "penalties": null
@@ -257,7 +257,7 @@
     "venue": "Estadio Manuel Martínez Valero",
     "lastUpdated": "2022-02-24T07:42:28Z"
    },
-   "playedMatches": 10,
+   "playedMatches": 11,
    "goals": 6,
    "assists": null,
    "penalties": 1

@@ -71,7 +71,7 @@
     "venue": "Anfield",
     "lastUpdated": "2022-02-10T19:30:22Z"
    },
-   "playedMatches": 7,
+   "playedMatches": 8,
    "goals": 6,
    "assists": null,
    "penalties": null
@@ -295,16 +295,16 @@
   },
   {
    "player": {
-    "id": 99813,
-    "name": "Bukayo Saka",
-    "firstName": "Bukayo",
-    "lastName": "Saka",
-    "dateOfBirth": "2001-09-05",
-    "nationality": "England",
+    "id": 171,
+    "name": "Kai Havertz",
+    "firstName": "Kai",
+    "lastName": "Havertz",
+    "dateOfBirth": "1999-06-11",
+    "nationality": "Germany",
     "section": "Offence",
     "position": null,
     "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
+    "lastUpdated": "2026-06-01T11:16:31Z"
    },
    "team": {
     "id": 57,
@@ -319,10 +319,10 @@
     "venue": "Emirates Stadium",
     "lastUpdated": "2022-02-10T19:48:56Z"
    },
-   "playedMatches": 7,
+   "playedMatches": 9,
    "goals": 3,
    "assists": null,
-   "penalties": 1
+   "penalties": null
   }
  ]
 }
