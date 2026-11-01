@@ -47,6 +47,37 @@
   },
   {
    "player": {
+    "id": 7457,
+    "name": "Donyell Malen",
+    "firstName": "Donyell",
+    "lastName": "Malen",
+    "dateOfBirth": "1999-01-19",
+    "nationality": "Netherlands",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:16Z"
+   },
+   "team": {
+    "id": 100,
+    "name": "AS Roma",
+    "shortName": "Roma",
+    "tla": "ROM",
+    "crest": "https://crests.football-data.org/100.png",
+    "address": "Via di Trigoria km. 3,600 Roma 00128",
+    "website": "http://www.asroma.it",
+    "founded": 1927,
+    "clubColors": "Maroon / Orange / White",
+    "venue": "Stadio Olimpico",
+    "lastUpdated": "2025-02-17T16:53:31Z"
+   },
+   "playedMatches": 9,
+   "goals": 8,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 169216,
     "name": "Antonio Raimondo",
     "firstName": "Antonio",
@@ -74,37 +105,6 @@
    "playedMatches": 9,
    "goals": 8,
    "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 7457,
-    "name": "Donyell Malen",
-    "firstName": "Donyell",
-    "lastName": "Malen",
-    "dateOfBirth": "1999-01-19",
-    "nationality": "Netherlands",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:16Z"
-   },
-   "team": {
-    "id": 100,
-    "name": "AS Roma",
-    "shortName": "Roma",
-    "tla": "ROM",
-    "crest": "https://crests.football-data.org/100.png",
-    "address": "Via di Trigoria km. 3,600 Roma 00128",
-    "website": "http://www.asroma.it",
-    "founded": 1927,
-    "clubColors": "Maroon / Orange / White",
-    "venue": "Stadio Olimpico",
-    "lastUpdated": "2025-02-17T16:53:31Z"
-   },
-   "playedMatches": 8,
-   "goals": 7,
-   "assists": 1,
    "penalties": null
   },
   {
@@ -171,6 +171,37 @@
   },
   {
    "player": {
+    "id": 3368,
+    "name": "Adrien Rabiot",
+    "firstName": "Adrien",
+    "lastName": "Rabiot",
+    "dateOfBirth": "1995-04-03",
+    "nationality": "France",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 98,
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png",
+    "address": "Via Filippo Turati 3 Milano 20121",
+    "website": "http://www.acmilan.com",
+    "founded": 1899,
+    "clubColors": "Red / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "lastUpdated": "2024-04-09T16:20:58Z"
+   },
+   "playedMatches": 8,
+   "goals": 5,
+   "assists": 3,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 8685,
     "name": "Marcus Thuram-Ulien",
     "firstName": "Marcus",
@@ -195,7 +226,7 @@
     "venue": "Stadio Giuseppe Meazza",
     "lastUpdated": "2021-11-24T14:55:58Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 5,
    "assists": 2,
    "penalties": null
@@ -288,40 +319,9 @@
     "venue": "Stadio Giuseppe Meazza",
     "lastUpdated": "2024-04-09T16:20:58Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 4,
    "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 3368,
-    "name": "Adrien Rabiot",
-    "firstName": "Adrien",
-    "lastName": "Rabiot",
-    "dateOfBirth": "1995-04-03",
-    "nationality": "France",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 98,
-    "name": "AC Milan",
-    "shortName": "Milan",
-    "tla": "MIL",
-    "crest": "https://crests.football-data.org/98.png",
-    "address": "Via Filippo Turati 3 Milano 20121",
-    "website": "http://www.acmilan.com",
-    "founded": 1899,
-    "clubColors": "Red / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2024-04-09T16:20:58Z"
-   },
-   "playedMatches": 7,
-   "goals": 4,
-   "assists": 3,
    "penalties": null
   }
  ]

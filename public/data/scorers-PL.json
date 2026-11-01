@@ -171,6 +171,37 @@
   },
   {
    "player": {
+    "id": 152515,
+    "name": "Nicolas Jackson",
+    "firstName": "Nicolas",
+    "lastName": "Jackson",
+    "dateOfBirth": "2001-06-20",
+    "nationality": "Senegal",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:31Z"
+   },
+   "team": {
+    "id": 58,
+    "name": "Aston Villa FC",
+    "shortName": "Aston Villa",
+    "tla": "AVL",
+    "crest": "https://crests.football-data.org/58.png",
+    "address": "Villa Park Birmingham B6 6HE",
+    "website": "http://www.avfc.co.uk",
+    "founded": 1872,
+    "clubColors": "Claret / Sky Blue",
+    "venue": "Villa Park",
+    "lastUpdated": "2022-04-03T16:22:14Z"
+   },
+   "playedMatches": 8,
+   "goals": 5,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 133242,
     "name": "Rayan Cherki",
     "firstName": "Rayan",
@@ -227,37 +258,6 @@
     "lastUpdated": "2022-02-10T19:27:46Z"
    },
    "playedMatches": 9,
-   "goals": 4,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 152515,
-    "name": "Nicolas Jackson",
-    "firstName": "Nicolas",
-    "lastName": "Jackson",
-    "dateOfBirth": "2001-06-20",
-    "nationality": "Senegal",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:31Z"
-   },
-   "team": {
-    "id": 58,
-    "name": "Aston Villa FC",
-    "shortName": "Aston Villa",
-    "tla": "AVL",
-    "crest": "https://crests.football-data.org/58.png",
-    "address": "Villa Park Birmingham B6 6HE",
-    "website": "http://www.avfc.co.uk",
-    "founded": 1872,
-    "clubColors": "Claret / Sky Blue",
-    "venue": "Villa Park",
-    "lastUpdated": "2022-04-03T16:22:14Z"
-   },
-   "playedMatches": 7,
    "goals": 4,
    "assists": null,
    "penalties": null
