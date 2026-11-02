@@ -199,18 +199,37 @@
       "tla": "FCL",
       "crest": "https://crests.football-data.org/525.png"
      },
-     "playedGames": 8,
+     "playedGames": 9,
      "form": null,
      "won": 3,
-     "draw": 3,
+     "draw": 4,
      "lost": 2,
-     "points": 12,
+     "points": 13,
      "goalsFor": 7,
      "goalsAgainst": 6,
      "goalDifference": 1
     },
     {
      "position": 11,
+     "team": {
+      "id": 512,
+      "name": "Stade Brestois 29",
+      "shortName": "Brest",
+      "tla": "BRE",
+      "crest": "https://crests.football-data.org/512.png"
+     },
+     "playedGames": 9,
+     "form": null,
+     "won": 2,
+     "draw": 4,
+     "lost": 3,
+     "points": 10,
+     "goalsFor": 14,
+     "goalsAgainst": 12,
+     "goalDifference": 2
+    },
+    {
+     "position": 12,
      "team": {
       "id": 511,
       "name": "Toulouse FC",
@@ -229,7 +248,7 @@
      "goalDifference": -1
     },
     {
-     "position": 12,
+     "position": 13,
      "team": {
       "id": 576,
       "name": "RC Strasbourg Alsace",
@@ -248,7 +267,7 @@
      "goalDifference": -2
     },
     {
-     "position": 13,
+     "position": 14,
      "team": {
       "id": 519,
       "name": "AJ Auxerre",
@@ -265,25 +284,6 @@
      "goalsFor": 13,
      "goalsAgainst": 23,
      "goalDifference": -10
-    },
-    {
-     "position": 14,
-     "team": {
-      "id": 512,
-      "name": "Stade Brestois 29",
-      "shortName": "Brest",
-      "tla": "BRE",
-      "crest": "https://crests.football-data.org/512.png"
-     },
-     "playedGames": 8,
-     "form": null,
-     "won": 2,
-     "draw": 3,
-     "lost": 3,
-     "points": 9,
-     "goalsFor": 14,
-     "goalsAgainst": 12,
-     "goalDifference": 2
     },
     {
      "position": 15,

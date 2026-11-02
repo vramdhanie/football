@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/c111.png"
  },
- "fetchedAt": "2026-11-02T02:38:15.277Z",
+ "fetchedAt": "2026-11-02T20:51:17.556Z",
  "matches": [
   {
    "area": {
@@ -1549,11 +1549,11 @@
    },
    "id": 558541,
    "utcDate": "2026-11-02T17:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-02T00:20:31Z",
+   "lastUpdated": "2026-11-02T19:29:55Z",
    "homeTeam": {
     "id": 471,
     "name": "US Sassuolo Calcio",
@@ -1569,21 +1569,28 @@
     "crest": "https://crests.football-data.org/99.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 4
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57868,
+     "name": "Matteo Marcenaro",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -1608,11 +1615,11 @@
    },
    "id": 558545,
    "utcDate": "2026-11-02T19:45:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-02T01:32:00Z",
+   "lastUpdated": "2026-11-02T20:38:43Z",
    "homeTeam": {
     "id": 102,
     "name": "Atalanta BC",
@@ -1628,21 +1635,28 @@
     "crest": "https://crests.football-data.org/112.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 159361,
+     "name": "Valerio Crezzini",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
