@@ -104,15 +104,15 @@
       "tla": "RSO",
       "crest": "https://crests.football-data.org/92.png"
      },
-     "playedGames": 10,
+     "playedGames": 11,
      "form": null,
      "won": 6,
      "draw": 1,
-     "lost": 3,
+     "lost": 4,
      "points": 19,
-     "goalsFor": 19,
-     "goalsAgainst": 18,
-     "goalDifference": 1
+     "goalsFor": 20,
+     "goalsAgainst": 20,
+     "goalDifference": 0
     },
     {
      "position": 6,
@@ -142,15 +142,15 @@
       "tla": "ATH",
       "crest": "https://crests.football-data.org/77.png"
      },
-     "playedGames": 9,
+     "playedGames": 10,
      "form": null,
-     "won": 3,
+     "won": 4,
      "draw": 3,
      "lost": 3,
-     "points": 12,
-     "goalsFor": 12,
-     "goalsAgainst": 9,
-     "goalDifference": 3
+     "points": 15,
+     "goalsFor": 14,
+     "goalsAgainst": 10,
+     "goalDifference": 4
     },
     {
      "position": 8,
@@ -332,15 +332,15 @@
       "tla": "ELC",
       "crest": "https://crests.football-data.org/285.png"
      },
-     "playedGames": 10,
+     "playedGames": 11,
      "form": null,
      "won": 2,
      "draw": 4,
-     "lost": 4,
+     "lost": 5,
      "points": 10,
      "goalsFor": 14,
-     "goalsAgainst": 17,
-     "goalDifference": -3
+     "goalsAgainst": 18,
+     "goalDifference": -4
     },
     {
      "position": 18,
@@ -370,15 +370,15 @@
       "tla": "VAL",
       "crest": "https://crests.football-data.org/95.png"
      },
-     "playedGames": 10,
+     "playedGames": 11,
      "form": null,
-     "won": 1,
+     "won": 2,
      "draw": 3,
      "lost": 6,
-     "points": 6,
-     "goalsFor": 7,
+     "points": 9,
+     "goalsFor": 8,
      "goalsAgainst": 17,
-     "goalDifference": -10
+     "goalDifference": -9
     },
     {
      "position": 20,
