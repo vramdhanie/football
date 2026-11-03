@@ -155,21 +155,21 @@
     {
      "position": 8,
      "team": {
-      "id": 79,
-      "name": "CA Osasuna",
-      "shortName": "Osasuna",
-      "tla": "OSA",
-      "crest": "https://crests.football-data.org/79.png"
+      "id": 560,
+      "name": "RC Deportivo La Coruña",
+      "shortName": "Deportivo",
+      "tla": "DEP",
+      "crest": "https://crests.football-data.org/560.png"
      },
      "playedGames": 11,
      "form": null,
-     "won": 4,
-     "draw": 2,
-     "lost": 5,
+     "won": 3,
+     "draw": 5,
+     "lost": 3,
      "points": 14,
-     "goalsFor": 11,
-     "goalsAgainst": 20,
-     "goalDifference": -9
+     "goalsFor": 15,
+     "goalsAgainst": 14,
+     "goalDifference": 1
     },
     {
      "position": 9,
@@ -269,25 +269,6 @@
     {
      "position": 14,
      "team": {
-      "id": 560,
-      "name": "RC Deportivo La Coruña",
-      "shortName": "Deportivo",
-      "tla": "DEP",
-      "crest": "https://crests.football-data.org/560.png"
-     },
-     "playedGames": 11,
-     "form": null,
-     "won": 2,
-     "draw": 5,
-     "lost": 4,
-     "points": 11,
-     "goalsFor": 13,
-     "goalsAgainst": 14,
-     "goalDifference": -1
-    },
-    {
-     "position": 14,
-     "team": {
       "id": 80,
       "name": "RCD Espanyol de Barcelona",
       "shortName": "Espanyol",
@@ -303,6 +284,25 @@
      "goalsFor": 13,
      "goalsAgainst": 14,
      "goalDifference": -1
+    },
+    {
+     "position": 15,
+     "team": {
+      "id": 79,
+      "name": "CA Osasuna",
+      "shortName": "Osasuna",
+      "tla": "OSA",
+      "crest": "https://crests.football-data.org/79.png"
+     },
+     "playedGames": 11,
+     "form": null,
+     "won": 3,
+     "draw": 2,
+     "lost": 6,
+     "points": 11,
+     "goalsFor": 11,
+     "goalsAgainst": 22,
+     "goalDifference": -11
     },
     {
      "position": 16,

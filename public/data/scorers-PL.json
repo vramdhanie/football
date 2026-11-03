@@ -202,6 +202,37 @@
   },
   {
    "player": {
+    "id": 171995,
+    "name": "Thierno Barry",
+    "firstName": "Thierno",
+    "lastName": "Barry",
+    "dateOfBirth": "2000-01-12",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:25:44Z"
+   },
+   "team": {
+    "id": 62,
+    "name": "Everton FC",
+    "shortName": "Everton",
+    "tla": "EVE",
+    "crest": "https://crests.football-data.org/62.png",
+    "address": "Goodison Park Liverpool L4 4EL",
+    "website": "http://www.evertonfc.com",
+    "founded": 1878,
+    "clubColors": "Blue / White",
+    "venue": "Goodison Park",
+    "lastUpdated": "2022-02-10T19:47:42Z"
+   },
+   "playedMatches": 9,
+   "goals": 4,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 133242,
     "name": "Rayan Cherki",
     "firstName": "Rayan",
@@ -291,37 +322,6 @@
    "playedMatches": 9,
    "goals": 4,
    "assists": 4,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 171,
-    "name": "Kai Havertz",
-    "firstName": "Kai",
-    "lastName": "Havertz",
-    "dateOfBirth": "1999-06-11",
-    "nationality": "Germany",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:31Z"
-   },
-   "team": {
-    "id": 57,
-    "name": "Arsenal FC",
-    "shortName": "Arsenal",
-    "tla": "ARS",
-    "crest": "https://crests.football-data.org/57.png",
-    "address": "75 Drayton Park London N5 1BU",
-    "website": "http://www.arsenal.com",
-    "founded": 1886,
-    "clubColors": "Red / White",
-    "venue": "Emirates Stadium",
-    "lastUpdated": "2022-02-10T19:48:56Z"
-   },
-   "playedMatches": 9,
-   "goals": 3,
-   "assists": null,
    "penalties": null
   }
  ]
