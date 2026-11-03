@@ -6,7 +6,7 @@
   "type": "CUP",
   "emblem": "https://crests.football-data.org/CL.png"
  },
- "fetchedAt": "2026-11-03T03:59:12.250Z",
+ "fetchedAt": "2026-11-03T18:31:36.921Z",
  "matches": [
   {
    "area": {
@@ -31,11 +31,11 @@
    },
    "id": 575377,
    "utcDate": "2026-11-03T17:45:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 4,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-03T18:30:43Z",
    "homeTeam": {
     "id": 1887,
     "name": "FK Shakhtar Donetsk",
@@ -51,11 +51,11 @@
     "crest": "https://crests.football-data.org/498.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     },
     "halfTime": {
      "home": null,
@@ -65,7 +65,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43954,
+     "name": "Ivan Kružliak",
+     "type": "REFEREE",
+     "nationality": "Slovakia"
+    }
+   ]
   },
   {
    "area": {
@@ -90,11 +97,11 @@
    },
    "id": 575378,
    "utcDate": "2026-11-03T17:45:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 4,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-03T18:31:15Z",
    "homeTeam": {
     "id": 610,
     "name": "Galatasaray SK",
@@ -110,11 +117,11 @@
     "crest": "https://crests.football-data.org/10.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 0
     },
     "halfTime": {
      "home": null,
@@ -124,7 +131,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11443,
+     "name": "Chris Kavanagh",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -183,7 +197,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 30960,
+     "name": "Glenn Nyberg",
+     "type": "REFEREE",
+     "nationality": "Sweden"
+    }
+   ]
   },
   {
    "area": {
@@ -242,7 +263,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11029,
+     "name": "Davide Massa",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -301,7 +329,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43918,
+     "name": "François Letexier",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
@@ -360,7 +395,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43878,
+     "name": "Felix Zwayer",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -419,7 +461,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 206211,
+     "name": "Jesús Gil Manzano",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
@@ -478,7 +527,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 38806,
+     "name": "João Pinheiro",
+     "type": "REFEREE",
+     "nationality": "Portugal"
+    }
+   ]
   },
   {
    "area": {
@@ -537,7 +593,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43952,
+     "name": "Donatas Rumšas",
+     "type": "REFEREE",
+     "nationality": "Lithuania"
+    }
+   ]
   },
   {
    "area": {
