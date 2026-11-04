@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/BL1.png"
  },
- "fetchedAt": "2026-11-03T18:31:07.795Z",
+ "fetchedAt": "2026-11-04T03:04:43.471Z",
  "matches": [
   {
    "area": {
@@ -35,7 +35,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 719,
     "name": "SV 07 Elversberg",
@@ -101,7 +101,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 18,
     "name": "Borussia Mönchengladbach",
@@ -167,7 +167,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 6,
     "name": "FC Schalke 04",
@@ -233,7 +233,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 16,
     "name": "FC Augsburg",
@@ -299,7 +299,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 12,
     "name": "SV Werder Bremen",
@@ -365,7 +365,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 3,
     "name": "Bayer 04 Leverkusen",
@@ -431,7 +431,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -497,7 +497,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 28,
     "name": "1. FC Union Berlin",
@@ -563,7 +563,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 19,
     "name": "Eintracht Frankfurt",
@@ -629,7 +629,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 7,
     "name": "Hamburger SV",
@@ -688,7 +688,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 721,
     "name": "RB Leipzig",
@@ -747,7 +747,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 4,
     "name": "Borussia Dortmund",
@@ -806,7 +806,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 15,
     "name": "1. FSV Mainz 05",
@@ -865,7 +865,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 29,
     "name": "SC Paderborn 07",
@@ -924,7 +924,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 10,
     "name": "VfB Stuttgart",
@@ -983,7 +983,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 1,
     "name": "1. FC Köln",
@@ -1042,7 +1042,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 17,
     "name": "SC Freiburg",
@@ -1101,7 +1101,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 2,
     "name": "TSG 1899 Hoffenheim",
@@ -1160,7 +1160,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 5,
     "name": "FC Bayern München",
@@ -1219,7 +1219,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 3,
     "name": "Bayer 04 Leverkusen",
@@ -1278,7 +1278,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 28,
     "name": "1. FC Union Berlin",
@@ -1337,7 +1337,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 719,
     "name": "SV 07 Elversberg",
@@ -1396,7 +1396,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 18,
     "name": "Borussia Mönchengladbach",
@@ -1455,7 +1455,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 19,
     "name": "Eintracht Frankfurt",
@@ -1514,7 +1514,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 6,
     "name": "FC Schalke 04",
@@ -1573,7 +1573,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 16,
     "name": "FC Augsburg",
@@ -1632,7 +1632,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 12,
     "name": "SV Werder Bremen",
@@ -1691,7 +1691,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 12,
     "name": "SV Werder Bremen",
@@ -1750,7 +1750,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 1,
     "name": "1. FC Köln",
@@ -1809,7 +1809,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 15,
     "name": "1. FSV Mainz 05",
@@ -1868,7 +1868,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 29,
     "name": "SC Paderborn 07",
@@ -1927,7 +1927,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 7,
     "name": "Hamburger SV",
@@ -1986,7 +1986,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 10,
     "name": "VfB Stuttgart",
@@ -2045,7 +2045,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 17,
     "name": "SC Freiburg",
@@ -2104,7 +2104,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 2,
     "name": "TSG 1899 Hoffenheim",
@@ -2163,7 +2163,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-03T00:20:28Z",
+   "lastUpdated": "2026-11-04T00:20:28Z",
    "homeTeam": {
     "id": 4,
     "name": "Borussia Dortmund",

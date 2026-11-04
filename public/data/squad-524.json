@@ -24,7 +24,7 @@
    "name": "Achraf Hakimi",
    "position": "Defence",
    "number": null,
-   "age": 27,
+   "age": 28,
    "nationality": "Morocco",
    "photo": null
   },
@@ -205,6 +205,15 @@
    "position": "Offence",
    "number": null,
    "age": 19,
+   "nationality": "France",
+   "photo": null
+  },
+  {
+   "id": 303005,
+   "name": "Arthur Bar",
+   "position": null,
+   "number": null,
+   "age": 16,
    "nationality": "France",
    "photo": null
   },
