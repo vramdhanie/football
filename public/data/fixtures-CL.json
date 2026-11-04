@@ -6,7 +6,7 @@
   "type": "CUP",
   "emblem": "https://crests.football-data.org/CL.png"
  },
- "fetchedAt": "2026-11-04T03:05:12.995Z",
+ "fetchedAt": "2026-11-04T18:44:30.271Z",
  "matches": [
   {
    "area": {
@@ -659,7 +659,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11043,
+     "name": "Maurizio Mariani",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -718,7 +725,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 9374,
+     "name": "Clément Turpin",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
@@ -777,7 +791,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11079,
+     "name": "Marco Guida",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -836,7 +857,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43943,
+     "name": "Tobias Stieler",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -895,7 +923,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15680,
+     "name": "Irfan Peljto",
+     "type": "REFEREE",
+     "nationality": "Bosnia and Herzegovina"
+    }
+   ]
   },
   {
    "area": {
@@ -954,7 +989,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43858,
+     "name": "Serdar Gözübüyük",
+     "type": "REFEREE",
+     "nationality": "Netherlands"
+    }
+   ]
   },
   {
    "area": {
@@ -1013,7 +1055,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11605,
+     "name": "Michael Oliver",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -1072,7 +1121,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 44921,
+     "name": "Rohit Saggi",
+     "type": "REFEREE",
+     "nationality": "Norway"
+    }
+   ]
   },
   {
    "area": {
@@ -1131,7 +1187,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 56923,
+     "name": "Sander Van der Eijk",
+     "type": "REFEREE",
+     "nationality": "Netherlands"
+    }
+   ]
   },
   {
    "area": {
