@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/FL1.png"
  },
- "fetchedAt": "2026-11-04T18:44:23.248Z",
+ "fetchedAt": "2026-11-05T03:35:32.659Z",
  "matches": [
   {
    "area": {
@@ -35,7 +35,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 533,
     "name": "Le Havre AC",
@@ -101,7 +101,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 522,
     "name": "OGC Nice",
@@ -167,7 +167,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 521,
     "name": "Lille OSC",
@@ -233,7 +233,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 531,
     "name": "ES Troyes AC",
@@ -299,7 +299,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 576,
     "name": "RC Strasbourg Alsace",
@@ -365,7 +365,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 523,
     "name": "Olympique Lyonnais",
@@ -431,7 +431,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 1045,
     "name": "Paris FC",
@@ -497,7 +497,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 516,
     "name": "Olympique de Marseille",
@@ -563,7 +563,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 525,
     "name": "FC Lorient",
@@ -629,7 +629,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 511,
     "name": "Toulouse FC",
@@ -683,12 +683,12 @@
     "winner": null
    },
    "id": 559637,
-   "utcDate": "2026-11-07T16:15:00Z",
+   "utcDate": "2026-11-07T18:00:00Z",
    "status": "TIMED",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 519,
     "name": "AJ Auxerre",
@@ -742,12 +742,12 @@
     "winner": null
    },
    "id": 559635,
-   "utcDate": "2026-11-07T19:45:00Z",
+   "utcDate": "2026-11-07T20:05:00Z",
    "status": "TIMED",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -806,7 +806,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 529,
     "name": "Stade Rennais FC 1901",
@@ -865,7 +865,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 535,
     "name": "Le Mans FC",
@@ -924,7 +924,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 512,
     "name": "Stade Brestois 29",
@@ -983,7 +983,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 533,
     "name": "Le Havre AC",
@@ -1042,7 +1042,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 532,
     "name": "Angers SCO",
@@ -1101,7 +1101,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 546,
     "name": "Racing Club de Lens",
@@ -1160,7 +1160,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 531,
     "name": "ES Troyes AC",
@@ -1219,7 +1219,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 522,
     "name": "OGC Nice",
@@ -1278,7 +1278,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 548,
     "name": "AS Monaco FC",
@@ -1337,7 +1337,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 546,
     "name": "Racing Club de Lens",
@@ -1396,7 +1396,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 521,
     "name": "Lille OSC",
@@ -1455,7 +1455,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 576,
     "name": "RC Strasbourg Alsace",
@@ -1514,7 +1514,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 1045,
     "name": "Paris FC",
@@ -1573,7 +1573,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 525,
     "name": "FC Lorient",
@@ -1632,7 +1632,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 516,
     "name": "Olympique de Marseille",
@@ -1691,7 +1691,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 512,
     "name": "Stade Brestois 29",
@@ -1750,7 +1750,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 532,
     "name": "Angers SCO",
@@ -1809,7 +1809,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 535,
     "name": "Le Mans FC",
@@ -1868,7 +1868,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 522,
     "name": "OGC Nice",
@@ -1927,7 +1927,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 533,
     "name": "Le Havre AC",
@@ -1986,7 +1986,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2045,7 +2045,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 519,
     "name": "AJ Auxerre",
@@ -2104,7 +2104,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 511,
     "name": "Toulouse FC",
@@ -2163,7 +2163,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 523,
     "name": "Olympique Lyonnais",
@@ -2222,7 +2222,7 @@
    "matchday": 13,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-04T00:20:29Z",
+   "lastUpdated": "2026-11-05T00:20:28Z",
    "homeTeam": {
     "id": 511,
     "name": "Toulouse FC",
@@ -2236,6 +2236,301 @@
     "shortName": "PSG",
     "tla": "PSG",
     "crest": "https://crests.football-data.org/524.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2081,
+    "name": "France",
+    "code": "FRA",
+    "flag": "https://crests.football-data.org/773.svg"
+   },
+   "competition": {
+    "id": 2015,
+    "name": "Ligue 1",
+    "code": "FL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL1.png"
+   },
+   "season": {
+    "id": 2497,
+    "startDate": "2026-08-22",
+    "endDate": "2027-05-29",
+    "currentMatchday": 9,
+    "winner": null
+   },
+   "id": 559606,
+   "utcDate": "2026-12-05T16:15:00Z",
+   "status": "TIMED",
+   "matchday": 13,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-11-05T00:20:28Z",
+   "homeTeam": {
+    "id": 521,
+    "name": "Lille OSC",
+    "shortName": "Lille",
+    "tla": "LIL",
+    "crest": "https://crests.football-data.org/521.png"
+   },
+   "awayTeam": {
+    "id": 519,
+    "name": "AJ Auxerre",
+    "shortName": "Auxerre",
+    "tla": "AJA",
+    "crest": "https://crests.football-data.org/519.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2081,
+    "name": "France",
+    "code": "FRA",
+    "flag": "https://crests.football-data.org/773.svg"
+   },
+   "competition": {
+    "id": 2015,
+    "name": "Ligue 1",
+    "code": "FL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL1.png"
+   },
+   "season": {
+    "id": 2497,
+    "startDate": "2026-08-22",
+    "endDate": "2027-05-29",
+    "currentMatchday": 9,
+    "winner": null
+   },
+   "id": 559604,
+   "utcDate": "2026-12-05T19:45:00Z",
+   "status": "TIMED",
+   "matchday": 13,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-11-05T00:20:28Z",
+   "homeTeam": {
+    "id": 548,
+    "name": "AS Monaco FC",
+    "shortName": "Monaco",
+    "tla": "ASM",
+    "crest": "https://crests.football-data.org/548.png"
+   },
+   "awayTeam": {
+    "id": 532,
+    "name": "Angers SCO",
+    "shortName": "Angers SCO",
+    "tla": "ANG",
+    "crest": "https://crests.football-data.org/532.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2081,
+    "name": "France",
+    "code": "FRA",
+    "flag": "https://crests.football-data.org/773.svg"
+   },
+   "competition": {
+    "id": 2015,
+    "name": "Ligue 1",
+    "code": "FL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL1.png"
+   },
+   "season": {
+    "id": 2497,
+    "startDate": "2026-08-22",
+    "endDate": "2027-05-29",
+    "currentMatchday": 9,
+    "winner": null
+   },
+   "id": 559605,
+   "utcDate": "2026-12-05T19:45:00Z",
+   "status": "TIMED",
+   "matchday": 13,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-11-05T00:20:28Z",
+   "homeTeam": {
+    "id": 546,
+    "name": "Racing Club de Lens",
+    "shortName": "RC Lens",
+    "tla": "RCL",
+    "crest": "https://crests.football-data.org/546.png"
+   },
+   "awayTeam": {
+    "id": 533,
+    "name": "Le Havre AC",
+    "shortName": "Le Havre",
+    "tla": "HAC",
+    "crest": "https://crests.football-data.org/533.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2081,
+    "name": "France",
+    "code": "FRA",
+    "flag": "https://crests.football-data.org/773.svg"
+   },
+   "competition": {
+    "id": 2015,
+    "name": "Ligue 1",
+    "code": "FL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL1.png"
+   },
+   "season": {
+    "id": 2497,
+    "startDate": "2026-08-22",
+    "endDate": "2027-05-29",
+    "currentMatchday": 9,
+    "winner": null
+   },
+   "id": 559610,
+   "utcDate": "2026-12-05T19:45:00Z",
+   "status": "TIMED",
+   "matchday": 13,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-11-05T00:20:28Z",
+   "homeTeam": {
+    "id": 576,
+    "name": "RC Strasbourg Alsace",
+    "shortName": "Strasbourg",
+    "tla": "RC ",
+    "crest": "https://crests.football-data.org/576.png"
+   },
+   "awayTeam": {
+    "id": 525,
+    "name": "FC Lorient",
+    "shortName": "Lorient",
+    "tla": "FCL",
+    "crest": "https://crests.football-data.org/525.png"
+   },
+   "score": {
+    "winner": null,
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": null,
+     "away": null
+    },
+    "halfTime": {
+     "home": null,
+     "away": null
+    }
+   },
+   "odds": {
+    "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+   },
+   "referees": []
+  },
+  {
+   "area": {
+    "id": 2081,
+    "name": "France",
+    "code": "FRA",
+    "flag": "https://crests.football-data.org/773.svg"
+   },
+   "competition": {
+    "id": 2015,
+    "name": "Ligue 1",
+    "code": "FL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL1.png"
+   },
+   "season": {
+    "id": 2497,
+    "startDate": "2026-08-22",
+    "endDate": "2027-05-29",
+    "currentMatchday": 9,
+    "winner": null
+   },
+   "id": 559611,
+   "utcDate": "2026-12-05T19:45:00Z",
+   "status": "TIMED",
+   "matchday": 13,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "lastUpdated": "2026-11-05T00:20:28Z",
+   "homeTeam": {
+    "id": 1045,
+    "name": "Paris FC",
+    "shortName": "Paris FC",
+    "tla": "PFC",
+    "crest": "https://crests.football-data.org/1045.png"
+   },
+   "awayTeam": {
+    "id": 535,
+    "name": "Le Mans FC",
+    "shortName": "Le Mans",
+    "tla": "LMF",
+    "crest": "https://crests.football-data.org/535.png"
    },
    "score": {
     "winner": null,
