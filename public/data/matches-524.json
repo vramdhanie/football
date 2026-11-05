@@ -18,7 +18,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559713,
@@ -27,7 +27,7 @@
    "matchday": 1,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 529,
     "name": "Stade Rennais FC 1901",
@@ -84,7 +84,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559702,
@@ -93,7 +93,7 @@
    "matchday": 2,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 521,
     "name": "Lille OSC",
@@ -150,7 +150,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559697,
@@ -159,7 +159,7 @@
    "matchday": 3,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -225,7 +225,7 @@
    "matchday": 1,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:27Z",
+   "lastUpdated": "2026-11-05T15:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -282,7 +282,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559691,
@@ -291,7 +291,7 @@
    "matchday": 4,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 512,
     "name": "Stade Brestois 29",
@@ -348,7 +348,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559675,
@@ -357,7 +357,7 @@
    "matchday": 5,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 516,
     "name": "Olympique de Marseille",
@@ -414,7 +414,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559672,
@@ -423,7 +423,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -489,7 +489,7 @@
    "matchday": 2,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:27Z",
+   "lastUpdated": "2026-11-05T15:20:33Z",
    "homeTeam": {
     "id": 65,
     "name": "Manchester City FC",
@@ -546,7 +546,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559662,
@@ -555,7 +555,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 576,
     "name": "RC Strasbourg Alsace",
@@ -621,7 +621,7 @@
    "matchday": 3,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:27Z",
+   "lastUpdated": "2026-11-05T15:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -678,7 +678,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559648,
@@ -687,7 +687,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -744,7 +744,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559644,
@@ -753,7 +753,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 533,
     "name": "Le Havre AC",
@@ -819,7 +819,7 @@
    "matchday": 4,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:27Z",
+   "lastUpdated": "2026-11-05T15:20:33Z",
    "homeTeam": {
     "id": 94,
     "name": "Villarreal CF",
@@ -876,7 +876,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559635,
@@ -885,7 +885,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -935,7 +935,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559628,
@@ -944,7 +944,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 522,
     "name": "OGC Nice",
@@ -1003,7 +1003,7 @@
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:27Z",
+   "lastUpdated": "2026-11-05T15:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1053,7 +1053,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559614,
@@ -1062,7 +1062,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1112,7 +1112,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559609,
@@ -1121,7 +1121,7 @@
    "matchday": 13,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 511,
     "name": "Toulouse FC",
@@ -1180,7 +1180,7 @@
    "matchday": 6,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:27Z",
+   "lastUpdated": "2026-11-05T15:20:33Z",
    "homeTeam": {
     "id": 58,
     "name": "Aston Villa FC",
@@ -1230,7 +1230,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559596,
@@ -1239,7 +1239,7 @@
    "matchday": 14,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1289,7 +1289,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559585,
@@ -1298,7 +1298,7 @@
    "matchday": 15,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 546,
     "name": "Racing Club de Lens",
@@ -1348,7 +1348,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559584,
@@ -1357,7 +1357,7 @@
    "matchday": 16,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 532,
     "name": "Angers SCO",
@@ -1416,7 +1416,7 @@
    "matchday": 7,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:27Z",
+   "lastUpdated": "2026-11-05T15:20:33Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -1466,7 +1466,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559571,
@@ -1475,7 +1475,7 @@
    "matchday": 17,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1534,7 +1534,7 @@
    "matchday": 8,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:27Z",
+   "lastUpdated": "2026-11-05T15:20:33Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1584,7 +1584,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559565,
@@ -1593,7 +1593,7 @@
    "matchday": 18,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 548,
     "name": "AS Monaco FC",
@@ -1643,7 +1643,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559549,
@@ -1652,7 +1652,7 @@
    "matchday": 19,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1702,7 +1702,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559542,
@@ -1711,7 +1711,7 @@
    "matchday": 20,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 535,
     "name": "Le Mans FC",
@@ -1761,7 +1761,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559533,
@@ -1770,7 +1770,7 @@
    "matchday": 21,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1820,7 +1820,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559522,
@@ -1829,7 +1829,7 @@
    "matchday": 22,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1879,7 +1879,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559514,
@@ -1888,7 +1888,7 @@
    "matchday": 23,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -1938,7 +1938,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559511,
@@ -1947,7 +1947,7 @@
    "matchday": 24,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 519,
     "name": "AJ Auxerre",
@@ -1997,7 +1997,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559501,
@@ -2006,7 +2006,7 @@
    "matchday": 25,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2056,7 +2056,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559493,
@@ -2065,7 +2065,7 @@
    "matchday": 26,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 1045,
     "name": "Paris FC",
@@ -2115,7 +2115,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559481,
@@ -2124,7 +2124,7 @@
    "matchday": 27,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2174,7 +2174,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559475,
@@ -2183,7 +2183,7 @@
    "matchday": 28,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2233,7 +2233,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559462,
@@ -2242,7 +2242,7 @@
    "matchday": 29,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 525,
     "name": "FC Lorient",
@@ -2292,7 +2292,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559454,
@@ -2301,7 +2301,7 @@
    "matchday": 30,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2351,7 +2351,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559441,
@@ -2360,7 +2360,7 @@
    "matchday": 31,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 523,
     "name": "Olympique Lyonnais",
@@ -2410,7 +2410,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559434,
@@ -2419,7 +2419,7 @@
    "matchday": 32,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
@@ -2469,7 +2469,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559426,
@@ -2478,7 +2478,7 @@
    "matchday": 33,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 531,
     "name": "ES Troyes AC",
@@ -2528,7 +2528,7 @@
     "id": 2497,
     "startDate": "2026-08-22",
     "endDate": "2027-05-29",
-    "currentMatchday": 9,
+    "currentMatchday": 10,
     "winner": null
    },
    "id": 559415,
@@ -2537,7 +2537,7 @@
    "matchday": 34,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-05T00:20:28Z",
+   "lastUpdated": "2026-11-05T15:20:34Z",
    "homeTeam": {
     "id": 524,
     "name": "Paris Saint-Germain FC",
