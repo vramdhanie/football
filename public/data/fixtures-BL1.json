@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/BL1.png"
  },
- "fetchedAt": "2026-11-06T03:30:36.286Z",
+ "fetchedAt": "2026-11-06T18:09:03.079Z",
  "matches": [
   {
    "area": {
@@ -659,7 +659,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15824,
+     "name": "Sven Jablonski",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {

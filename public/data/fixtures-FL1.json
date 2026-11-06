@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/FL1.png"
  },
- "fetchedAt": "2026-11-06T03:30:58.382Z",
+ "fetchedAt": "2026-11-06T18:09:25.044Z",
  "matches": [
   {
    "area": {
@@ -659,7 +659,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57054,
+     "name": "Mathieu Vernice",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
