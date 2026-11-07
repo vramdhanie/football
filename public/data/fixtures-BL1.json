@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/BL1.png"
  },
- "fetchedAt": "2026-11-07T02:57:36.569Z",
+ "fetchedAt": "2026-11-07T16:56:28.453Z",
  "matches": [
   {
    "area": {
@@ -691,11 +691,11 @@
    },
    "id": 565848,
    "utcDate": "2026-11-07T14:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-07T01:32:01Z",
+   "lastUpdated": "2026-11-07T16:28:35Z",
    "homeTeam": {
     "id": 721,
     "name": "RB Leipzig",
@@ -711,21 +711,28 @@
     "crest": "https://crests.football-data.org/16.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 5,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 3,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57517,
+     "name": "Daniel Schlager",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -750,11 +757,11 @@
    },
    "id": 565850,
    "utcDate": "2026-11-07T14:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-07T00:20:30Z",
+   "lastUpdated": "2026-11-07T16:30:43Z",
    "homeTeam": {
     "id": 4,
     "name": "Borussia Dortmund",
@@ -770,21 +777,28 @@
     "crest": "https://crests.football-data.org/719.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 253,
+     "name": "Harm Osmers",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -809,11 +823,11 @@
    },
    "id": 565851,
    "utcDate": "2026-11-07T14:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-07T01:32:01Z",
+   "lastUpdated": "2026-11-07T16:32:51Z",
    "homeTeam": {
     "id": 15,
     "name": "1. FSV Mainz 05",
@@ -829,21 +843,28 @@
     "crest": "https://crests.football-data.org/5.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57519,
+     "name": "Robert Schröder",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -868,11 +889,11 @@
    },
    "id": 565853,
    "utcDate": "2026-11-07T14:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-07T01:32:01Z",
+   "lastUpdated": "2026-11-07T16:28:35Z",
    "homeTeam": {
     "id": 29,
     "name": "SC Paderborn 07",
@@ -888,21 +909,28 @@
     "crest": "https://crests.football-data.org/19.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15746,
+     "name": "Bastian Dankert",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -961,7 +989,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57515,
+     "name": "Sören Storks",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {

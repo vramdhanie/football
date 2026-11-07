@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/c111.png"
  },
- "fetchedAt": "2026-11-07T02:57:43.957Z",
+ "fetchedAt": "2026-11-07T16:56:35.966Z",
  "matches": [
   {
    "area": {
@@ -757,11 +757,11 @@
    },
    "id": 558532,
    "utcDate": "2026-11-07T14:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-07T00:20:31Z",
+   "lastUpdated": "2026-11-07T16:16:51Z",
    "homeTeam": {
     "id": 586,
     "name": "Torino FC",
@@ -777,21 +777,28 @@
     "crest": "https://crests.football-data.org/5890.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57882,
+     "name": "Ermanno Feliciani",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -816,11 +823,11 @@
    },
    "id": 558534,
    "utcDate": "2026-11-07T14:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-07T00:20:31Z",
+   "lastUpdated": "2026-11-07T15:59:47Z",
    "homeTeam": {
     "id": 104,
     "name": "Cagliari Calcio",
@@ -836,21 +843,28 @@
     "crest": "https://crests.football-data.org/470.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57842,
+     "name": "Giovanni Ayroldi",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -909,7 +923,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57764,
+     "name": "Luca Zufferli",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {

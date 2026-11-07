@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/PL.png"
  },
- "fetchedAt": "2026-11-07T02:57:29.357Z",
+ "fetchedAt": "2026-11-07T16:56:21.105Z",
  "matches": [
   {
    "area": {
@@ -757,11 +757,11 @@
    },
    "id": 560632,
    "utcDate": "2026-11-07T12:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-07T00:20:31Z",
+   "lastUpdated": "2026-11-07T14:32:51Z",
    "homeTeam": {
     "id": 341,
     "name": "Leeds United FC",
@@ -777,21 +777,28 @@
     "crest": "https://crests.football-data.org/73.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11327,
+     "name": "John Brooks",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -816,11 +823,11 @@
    },
    "id": 560640,
    "utcDate": "2026-11-07T15:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-07T00:20:31Z",
+   "lastUpdated": "2026-11-07T16:54:43Z",
    "homeTeam": {
     "id": 57,
     "name": "Arsenal FC",
@@ -836,21 +843,28 @@
     "crest": "https://crests.football-data.org/322.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 210717,
+     "name": "Farai Hallam",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -875,11 +889,11 @@
    },
    "id": 560633,
    "utcDate": "2026-11-07T15:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-07T00:20:31Z",
+   "lastUpdated": "2026-11-07T16:55:48Z",
    "homeTeam": {
     "id": 63,
     "name": "Fulham FC",
@@ -895,21 +909,28 @@
     "crest": "https://crests.football-data.org/67.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11446,
+     "name": "Robert Jones",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -968,7 +989,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 213813,
+     "name": "Sam Barrott",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {

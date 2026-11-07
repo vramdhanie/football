@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/FL1.png"
  },
- "fetchedAt": "2026-11-07T02:57:58.550Z",
+ "fetchedAt": "2026-11-07T16:56:50.810Z",
  "matches": [
   {
    "area": {
@@ -725,7 +725,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 64781,
+     "name": "Marc Bollengier",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
