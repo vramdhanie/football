@@ -47,6 +47,37 @@
   },
   {
    "player": {
+    "id": 171995,
+    "name": "Thierno Barry",
+    "firstName": "Thierno",
+    "lastName": "Barry",
+    "dateOfBirth": "2000-01-12",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:25:44Z"
+   },
+   "team": {
+    "id": 62,
+    "name": "Everton FC",
+    "shortName": "Everton",
+    "tla": "EVE",
+    "crest": "https://crests.football-data.org/62.png",
+    "address": "Goodison Park Liverpool L4 4EL",
+    "website": "http://www.evertonfc.com",
+    "founded": 1878,
+    "clubColors": "Blue / White",
+    "venue": "Goodison Park",
+    "lastUpdated": "2022-02-10T19:47:42Z"
+   },
+   "playedMatches": 10,
+   "goals": 6,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 6486,
     "name": "Alexander Isak",
     "firstName": "Alexander",
@@ -197,37 +228,6 @@
    },
    "playedMatches": 8,
    "goals": 5,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 171995,
-    "name": "Thierno Barry",
-    "firstName": "Thierno",
-    "lastName": "Barry",
-    "dateOfBirth": "2000-01-12",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-15T09:25:44Z"
-   },
-   "team": {
-    "id": 62,
-    "name": "Everton FC",
-    "shortName": "Everton",
-    "tla": "EVE",
-    "crest": "https://crests.football-data.org/62.png",
-    "address": "Goodison Park Liverpool L4 4EL",
-    "website": "http://www.evertonfc.com",
-    "founded": 1878,
-    "clubColors": "Blue / White",
-    "venue": "Goodison Park",
-    "lastUpdated": "2022-02-10T19:47:42Z"
-   },
-   "playedMatches": 9,
-   "goals": 4,
    "assists": null,
    "penalties": null
   },
