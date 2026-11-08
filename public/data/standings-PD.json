@@ -41,6 +41,25 @@
     {
      "position": 2,
      "team": {
+      "id": 86,
+      "name": "Real Madrid CF",
+      "shortName": "Real Madrid",
+      "tla": "RMA",
+      "crest": "https://crests.football-data.org/86.png"
+     },
+     "playedGames": 12,
+     "form": null,
+     "won": 10,
+     "draw": 0,
+     "lost": 2,
+     "points": 30,
+     "goalsFor": 31,
+     "goalsAgainst": 10,
+     "goalDifference": 21
+    },
+    {
+     "position": 3,
+     "team": {
       "id": 78,
       "name": "Club Atlético de Madrid",
       "shortName": "Atleti",
@@ -56,25 +75,6 @@
      "goalsFor": 22,
      "goalsAgainst": 8,
      "goalDifference": 14
-    },
-    {
-     "position": 3,
-     "team": {
-      "id": 86,
-      "name": "Real Madrid CF",
-      "shortName": "Real Madrid",
-      "tla": "RMA",
-      "crest": "https://crests.football-data.org/86.png"
-     },
-     "playedGames": 11,
-     "form": null,
-     "won": 9,
-     "draw": 0,
-     "lost": 2,
-     "points": 27,
-     "goalsFor": 28,
-     "goalsAgainst": 10,
-     "goalDifference": 18
     },
     {
      "position": 4,
@@ -142,14 +142,14 @@
       "tla": "ATH",
       "crest": "https://crests.football-data.org/77.png"
      },
-     "playedGames": 10,
+     "playedGames": 11,
      "form": null,
      "won": 4,
-     "draw": 3,
+     "draw": 4,
      "lost": 3,
-     "points": 15,
-     "goalsFor": 14,
-     "goalsAgainst": 10,
+     "points": 16,
+     "goalsFor": 15,
+     "goalsAgainst": 11,
      "goalDifference": 4
     },
     {
@@ -313,14 +313,14 @@
       "tla": "OSA",
       "crest": "https://crests.football-data.org/79.png"
      },
-     "playedGames": 11,
+     "playedGames": 12,
      "form": null,
      "won": 3,
-     "draw": 2,
+     "draw": 3,
      "lost": 6,
-     "points": 11,
-     "goalsFor": 11,
-     "goalsAgainst": 22,
+     "points": 12,
+     "goalsFor": 12,
+     "goalsAgainst": 23,
      "goalDifference": -11
     },
     {
@@ -370,15 +370,15 @@
       "tla": "VAL",
       "crest": "https://crests.football-data.org/95.png"
      },
-     "playedGames": 11,
+     "playedGames": 12,
      "form": null,
      "won": 2,
      "draw": 3,
-     "lost": 6,
+     "lost": 7,
      "points": 9,
      "goalsFor": 8,
-     "goalsAgainst": 17,
-     "goalDifference": -9
+     "goalsAgainst": 20,
+     "goalDifference": -12
     },
     {
      "position": 20,

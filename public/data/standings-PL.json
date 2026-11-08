@@ -47,15 +47,15 @@
       "tla": "MCI",
       "crest": "https://crests.football-data.org/65.png"
      },
-     "playedGames": 9,
+     "playedGames": 10,
      "form": null,
      "won": 7,
      "draw": 0,
-     "lost": 2,
+     "lost": 3,
      "points": 21,
-     "goalsFor": 20,
-     "goalsAgainst": 10,
-     "goalDifference": 10
+     "goalsFor": 21,
+     "goalsAgainst": 13,
+     "goalDifference": 8
     },
     {
      "position": 3,
@@ -307,6 +307,25 @@
     {
      "position": 16,
      "team": {
+      "id": 351,
+      "name": "Nottingham Forest FC",
+      "shortName": "Nottingham",
+      "tla": "NOT",
+      "crest": "https://crests.football-data.org/351.png"
+     },
+     "playedGames": 10,
+     "form": null,
+     "won": 2,
+     "draw": 3,
+     "lost": 5,
+     "points": 9,
+     "goalsFor": 9,
+     "goalsAgainst": 13,
+     "goalDifference": -4
+    },
+    {
+     "position": 17,
+     "team": {
       "id": 1076,
       "name": "Coventry City FC",
       "shortName": "Coventry City",
@@ -324,7 +343,7 @@
      "goalDifference": -9
     },
     {
-     "position": 17,
+     "position": 18,
      "team": {
       "id": 66,
       "name": "Manchester United FC",
@@ -343,7 +362,7 @@
      "goalDifference": -5
     },
     {
-     "position": 18,
+     "position": 19,
      "team": {
       "id": 354,
       "name": "Crystal Palace FC",
@@ -360,25 +379,6 @@
      "goalsFor": 9,
      "goalsAgainst": 21,
      "goalDifference": -12
-    },
-    {
-     "position": 19,
-     "team": {
-      "id": 351,
-      "name": "Nottingham Forest FC",
-      "shortName": "Nottingham",
-      "tla": "NOT",
-      "crest": "https://crests.football-data.org/351.png"
-     },
-     "playedGames": 9,
-     "form": null,
-     "won": 1,
-     "draw": 3,
-     "lost": 5,
-     "points": 6,
-     "goalsFor": 6,
-     "goalsAgainst": 12,
-     "goalDifference": -6
     },
     {
      "position": 20,
