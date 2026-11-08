@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/FL1.png"
  },
- "fetchedAt": "2026-11-08T02:35:32.860Z",
+ "fetchedAt": "2026-11-08T17:09:43.333Z",
  "matches": [
   {
    "area": {
@@ -625,11 +625,11 @@
    },
    "id": 559636,
    "utcDate": "2026-11-08T14:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-08T01:32:00Z",
+   "lastUpdated": "2026-11-08T15:58:43Z",
    "homeTeam": {
     "id": 529,
     "name": "Stade Rennais FC 1901",
@@ -645,21 +645,28 @@
     "crest": "https://crests.football-data.org/521.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 9374,
+     "name": "Clément Turpin",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
@@ -684,11 +691,11 @@
    },
    "id": 559631,
    "utcDate": "2026-11-08T16:15:00Z",
-   "status": "TIMED",
+   "status": "PAUSED",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-08T00:20:28Z",
+   "lastUpdated": "2026-11-08T17:09:07Z",
    "homeTeam": {
     "id": 535,
     "name": "Le Mans FC",
@@ -704,21 +711,28 @@
     "crest": "https://crests.football-data.org/548.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57088,
+     "name": "Bastien Dechepy",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
@@ -743,11 +757,11 @@
    },
    "id": 559632,
    "utcDate": "2026-11-08T16:15:00Z",
-   "status": "TIMED",
+   "status": "PAUSED",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-08T01:32:01Z",
+   "lastUpdated": "2026-11-08T17:06:59Z",
    "homeTeam": {
     "id": 512,
     "name": "Stade Brestois 29",
@@ -763,21 +777,28 @@
     "crest": "https://crests.football-data.org/523.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 1049,
+     "name": "Jeremy Stinat",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
@@ -802,11 +823,11 @@
    },
    "id": 559633,
    "utcDate": "2026-11-08T16:15:00Z",
-   "status": "TIMED",
+   "status": "PAUSED",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-08T00:20:28Z",
+   "lastUpdated": "2026-11-08T17:09:07Z",
    "homeTeam": {
     "id": 533,
     "name": "Le Havre AC",
@@ -822,21 +843,28 @@
     "crest": "https://crests.football-data.org/525.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57062,
+     "name": "Aurélien Petit",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
@@ -861,11 +889,11 @@
    },
    "id": 559634,
    "utcDate": "2026-11-08T16:15:00Z",
-   "status": "TIMED",
+   "status": "PAUSED",
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-08T00:20:28Z",
+   "lastUpdated": "2026-11-08T17:08:03Z",
    "homeTeam": {
     "id": 532,
     "name": "Angers SCO",
@@ -881,21 +909,28 @@
     "crest": "https://crests.football-data.org/522.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 76682,
+     "name": "Geoffrey Kubler",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {

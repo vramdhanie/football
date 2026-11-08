@@ -164,7 +164,7 @@
     "venue": "Stade de Nice",
     "lastUpdated": "2022-02-19T08:51:11Z"
    },
-   "playedMatches": 8,
+   "playedMatches": 9,
    "goals": 6,
    "assists": 2,
    "penalties": 2
@@ -199,6 +199,37 @@
    "goals": 5,
    "assists": 1,
    "penalties": 2
+  },
+  {
+   "player": {
+    "id": 98299,
+    "name": "Boulaye Dia",
+    "firstName": "Boulaye",
+    "lastName": "Dia",
+    "dateOfBirth": "1996-11-16",
+    "nationality": "Senegal",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": 11,
+    "lastUpdated": "2026-06-01T11:16:31Z"
+   },
+   "team": {
+    "id": 529,
+    "name": "Stade Rennais FC 1901",
+    "shortName": "Stade Rennais",
+    "tla": "REN",
+    "crest": "https://crests.football-data.org/529.png",
+    "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
+    "website": "http://www.staderennais.com",
+    "founded": 1901,
+    "clubColors": "Red / Black",
+    "venue": "Roazhon Park",
+    "lastUpdated": "2022-03-20T11:21:26Z"
+   },
+   "playedMatches": 8,
+   "goals": 5,
+   "assists": null,
+   "penalties": 1
   },
   {
    "player": {
@@ -257,7 +288,7 @@
     "venue": "MMArena",
     "lastUpdated": "2026-09-21T11:19:51Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 4,
    "assists": null,
    "penalties": 1
@@ -288,41 +319,10 @@
     "venue": "Stade Francis-Le Blé",
     "lastUpdated": "2026-07-04T12:08:19Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 4,
-   "assists": 1,
+   "assists": 2,
    "penalties": 1
-  },
-  {
-   "player": {
-    "id": 10201,
-    "name": "Sebastian Szymański",
-    "firstName": "Sebastian",
-    "lastName": "Szymański",
-    "dateOfBirth": "1999-05-10",
-    "nationality": "Poland",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": 53,
-    "lastUpdated": "2024-06-12T17:56:51Z"
-   },
-   "team": {
-    "id": 529,
-    "name": "Stade Rennais FC 1901",
-    "shortName": "Stade Rennais",
-    "tla": "REN",
-    "crest": "https://crests.football-data.org/529.png",
-    "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
-    "website": "http://www.staderennais.com",
-    "founded": 1901,
-    "clubColors": "Red / Black",
-    "venue": "Roazhon Park",
-    "lastUpdated": "2022-03-20T11:21:26Z"
-   },
-   "playedMatches": 9,
-   "goals": 4,
-   "assists": 1,
-   "penalties": null
   }
  ]
 }

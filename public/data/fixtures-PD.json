@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/laliga.png"
  },
- "fetchedAt": "2026-11-08T02:35:25.633Z",
+ "fetchedAt": "2026-11-08T17:09:35.812Z",
  "matches": [
   {
    "area": {
@@ -955,11 +955,11 @@
    },
    "id": 564738,
    "utcDate": "2026-11-08T13:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-08T00:20:28Z",
+   "lastUpdated": "2026-11-08T14:58:59Z",
    "homeTeam": {
     "id": 285,
     "name": "Elche CF",
@@ -975,21 +975,28 @@
     "crest": "https://crests.football-data.org/90.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 207113,
+     "name": "César Soto Grado",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
@@ -1014,11 +1021,11 @@
    },
    "id": 564743,
    "utcDate": "2026-11-08T15:15:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-08T01:32:00Z",
+   "lastUpdated": "2026-11-08T17:08:35Z",
    "homeTeam": {
     "id": 92,
     "name": "Real Sociedad de Fútbol",
@@ -1034,21 +1041,28 @@
     "crest": "https://crests.football-data.org/87.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 206203,
+     "name": "Juan Martínez Munuera",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
@@ -1107,7 +1121,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 207048,
+     "name": "Miguel Ortiz Arias",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
@@ -1166,7 +1187,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 265471,
+     "name": "Carlos Muñiz Muñoz",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {

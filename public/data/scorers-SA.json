@@ -40,7 +40,7 @@
     "venue": "Stadio Comunale Brianteo",
     "lastUpdated": "2025-02-17T16:54:02Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 9,
    "assists": 1,
    "penalties": 2
@@ -133,8 +133,8 @@
     "venue": "Stadio Atleti Azzurri d'Italia",
     "lastUpdated": "2024-04-09T16:20:48Z"
    },
-   "playedMatches": 10,
-   "goals": 6,
+   "playedMatches": 11,
+   "goals": 7,
    "assists": 2,
    "penalties": null
   },
@@ -164,7 +164,38 @@
     "venue": "Stadio Giuseppe Sinigaglia",
     "lastUpdated": "2025-02-17T16:52:41Z"
    },
-   "playedMatches": 10,
+   "playedMatches": 11,
+   "goals": 5,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 192142,
+    "name": "Alphadjo Cisse",
+    "firstName": "Alphadjo",
+    "lastName": "Cissè",
+    "dateOfBirth": "2006-10-22",
+    "nationality": "Italy",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:15Z"
+   },
+   "team": {
+    "id": 98,
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png",
+    "address": "Via Filippo Turati 3 Milano 20121",
+    "website": "http://www.acmilan.com",
+    "founded": 1899,
+    "clubColors": "Red / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "lastUpdated": "2024-04-09T16:20:58Z"
+   },
+   "playedMatches": 11,
    "goals": 5,
    "assists": null,
    "penalties": null
@@ -195,9 +226,9 @@
     "venue": "Stadio Giuseppe Meazza",
     "lastUpdated": "2024-04-09T16:20:58Z"
    },
-   "playedMatches": 8,
+   "playedMatches": 9,
    "goals": 5,
-   "assists": 3,
+   "assists": 4,
    "penalties": null
   },
   {
@@ -226,7 +257,7 @@
     "venue": "Stadio Giuseppe Meazza",
     "lastUpdated": "2021-11-24T14:55:58Z"
    },
-   "playedMatches": 10,
+   "playedMatches": 11,
    "goals": 5,
    "assists": 2,
    "penalties": null
@@ -290,37 +321,6 @@
    },
    "playedMatches": 11,
    "goals": 5,
-   "assists": 1,
-   "penalties": 1
-  },
-  {
-   "player": {
-    "id": 3654,
-    "name": "Kevin De Bruyne",
-    "firstName": "Kevin",
-    "lastName": "De Bruyne",
-    "dateOfBirth": "1991-06-28",
-    "nationality": "Belgium",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 113,
-    "name": "SSC Napoli",
-    "shortName": "Napoli",
-    "tla": "NAP",
-    "crest": "https://crests.football-data.org/113.png",
-    "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
-    "website": "http://www.sscnapoli.it",
-    "founded": 1904,
-    "clubColors": "Sky Blue / White",
-    "venue": "Stadio San Paolo",
-    "lastUpdated": "2025-02-17T16:51:11Z"
-   },
-   "playedMatches": 10,
-   "goals": 4,
    "assists": 1,
    "penalties": 1
   }

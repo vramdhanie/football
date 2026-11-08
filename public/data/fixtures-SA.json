@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/c111.png"
  },
- "fetchedAt": "2026-11-08T02:35:18.038Z",
+ "fetchedAt": "2026-11-08T17:09:28.503Z",
  "matches": [
   {
    "area": {
@@ -1021,11 +1021,11 @@
    },
    "id": 558533,
    "utcDate": "2026-11-08T11:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-08T01:32:00Z",
+   "lastUpdated": "2026-11-08T13:29:55Z",
    "homeTeam": {
     "id": 113,
     "name": "SSC Napoli",
@@ -1041,21 +1041,28 @@
     "crest": "https://crests.football-data.org/110.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11002,
+     "name": "Luca Pairetto",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -1080,11 +1087,11 @@
    },
    "id": 558536,
    "utcDate": "2026-11-08T14:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-08T01:32:00Z",
+   "lastUpdated": "2026-11-08T16:04:03Z",
    "homeTeam": {
     "id": 107,
     "name": "Genoa CFC",
@@ -1100,21 +1107,28 @@
     "crest": "https://crests.football-data.org/98.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 2
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11029,
+     "name": "Davide Massa",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -1139,11 +1153,11 @@
    },
    "id": 558538,
    "utcDate": "2026-11-08T14:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-08T00:20:28Z",
+   "lastUpdated": "2026-11-08T16:00:51Z",
    "homeTeam": {
     "id": 5911,
     "name": "AC Monza",
@@ -1159,21 +1173,28 @@
     "crest": "https://crests.football-data.org/102.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 283434,
+     "name": "Claudio Allegretta",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -1198,11 +1219,11 @@
    },
    "id": 558530,
    "utcDate": "2026-11-08T17:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-08T01:32:01Z",
+   "lastUpdated": "2026-11-08T17:05:23Z",
    "homeTeam": {
     "id": 108,
     "name": "FC Internazionale Milano",
@@ -1218,11 +1239,11 @@
     "crest": "https://crests.football-data.org/7397.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     },
     "halfTime": {
      "home": null,
@@ -1232,7 +1253,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11053,
+     "name": "Daniele Chiffi",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {

@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/BL1.png"
  },
- "fetchedAt": "2026-11-08T02:35:10.336Z",
+ "fetchedAt": "2026-11-08T17:09:21.173Z",
  "matches": [
   {
    "area": {
@@ -955,11 +955,11 @@
    },
    "id": 565855,
    "utcDate": "2026-11-08T14:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-08T01:32:00Z",
+   "lastUpdated": "2026-11-08T16:29:39Z",
    "homeTeam": {
     "id": 1,
     "name": "1. FC Köln",
@@ -975,21 +975,28 @@
     "crest": "https://crests.football-data.org/3.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43878,
+     "name": "Felix Zwayer",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -1014,11 +1021,11 @@
    },
    "id": 565854,
    "utcDate": "2026-11-08T16:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-08T01:32:01Z",
+   "lastUpdated": "2026-11-08T17:09:07Z",
    "homeTeam": {
     "id": 17,
     "name": "SC Freiburg",
@@ -1034,11 +1041,11 @@
     "crest": "https://crests.football-data.org/28.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     },
     "halfTime": {
      "home": null,
@@ -1048,7 +1055,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 9567,
+     "name": "Sascha Stegemann",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -1107,7 +1121,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15825,
+     "name": "Martin Petersen",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {

@@ -47,6 +47,37 @@
   },
   {
    "player": {
+    "id": 6486,
+    "name": "Alexander Isak",
+    "firstName": "Alexander",
+    "lastName": "Isak",
+    "dateOfBirth": "1999-09-21",
+    "nationality": "Sweden",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:31Z"
+   },
+   "team": {
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png",
+    "address": "Anfield Road Liverpool L4 0TH",
+    "website": "http://www.liverpoolfc.tv",
+    "founded": 1892,
+    "clubColors": "Red / White",
+    "venue": "Anfield",
+    "lastUpdated": "2022-02-10T19:30:22Z"
+   },
+   "playedMatches": 9,
+   "goals": 7,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 171995,
     "name": "Thierno Barry",
     "firstName": "Thierno",
@@ -78,31 +109,31 @@
   },
   {
    "player": {
-    "id": 6486,
-    "name": "Alexander Isak",
-    "firstName": "Alexander",
-    "lastName": "Isak",
-    "dateOfBirth": "1999-09-21",
-    "nationality": "Sweden",
+    "id": 152515,
+    "name": "Nicolas Jackson",
+    "firstName": "Nicolas",
+    "lastName": "Jackson",
+    "dateOfBirth": "2001-06-20",
+    "nationality": "Senegal",
     "section": "Offence",
     "position": null,
     "shirtNumber": null,
     "lastUpdated": "2026-06-01T11:16:31Z"
    },
    "team": {
-    "id": 64,
-    "name": "Liverpool FC",
-    "shortName": "Liverpool",
-    "tla": "LIV",
-    "crest": "https://crests.football-data.org/64.png",
-    "address": "Anfield Road Liverpool L4 0TH",
-    "website": "http://www.liverpoolfc.tv",
-    "founded": 1892,
-    "clubColors": "Red / White",
-    "venue": "Anfield",
-    "lastUpdated": "2022-02-10T19:30:22Z"
+    "id": 58,
+    "name": "Aston Villa FC",
+    "shortName": "Aston Villa",
+    "tla": "AVL",
+    "crest": "https://crests.football-data.org/58.png",
+    "address": "Villa Park Birmingham B6 6HE",
+    "website": "http://www.avfc.co.uk",
+    "founded": 1872,
+    "clubColors": "Claret / Sky Blue",
+    "venue": "Villa Park",
+    "lastUpdated": "2022-04-03T16:22:14Z"
    },
-   "playedMatches": 8,
+   "playedMatches": 9,
    "goals": 6,
    "assists": null,
    "penalties": null
@@ -133,7 +164,7 @@
     "venue": "Vitality Stadium",
     "lastUpdated": "2024-08-29T08:54:34Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 5,
    "assists": null,
    "penalties": null
@@ -195,7 +226,7 @@
     "venue": "Stamford Bridge",
     "lastUpdated": "2022-02-10T19:24:40Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 5,
    "assists": 1,
    "penalties": null
@@ -233,68 +264,6 @@
   },
   {
    "player": {
-    "id": 152515,
-    "name": "Nicolas Jackson",
-    "firstName": "Nicolas",
-    "lastName": "Jackson",
-    "dateOfBirth": "2001-06-20",
-    "nationality": "Senegal",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:31Z"
-   },
-   "team": {
-    "id": 58,
-    "name": "Aston Villa FC",
-    "shortName": "Aston Villa",
-    "tla": "AVL",
-    "crest": "https://crests.football-data.org/58.png",
-    "address": "Villa Park Birmingham B6 6HE",
-    "website": "http://www.avfc.co.uk",
-    "founded": 1872,
-    "clubColors": "Claret / Sky Blue",
-    "venue": "Villa Park",
-    "lastUpdated": "2022-04-03T16:22:14Z"
-   },
-   "playedMatches": 8,
-   "goals": 5,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 8626,
-    "name": "Bryan Mbeumo",
-    "firstName": "Bryan",
-    "lastName": "Mbeumo",
-    "dateOfBirth": "1999-08-07",
-    "nationality": "Cameroon",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-15T09:25:43Z"
-   },
-   "team": {
-    "id": 66,
-    "name": "Manchester United FC",
-    "shortName": "Man United",
-    "tla": "MUN",
-    "crest": "https://crests.football-data.org/66.png",
-    "address": "Sir Matt Busby Way Manchester M16 0RA",
-    "website": "http://www.manutd.com",
-    "founded": 1878,
-    "clubColors": "Red / White",
-    "venue": "Old Trafford",
-    "lastUpdated": "2022-02-10T19:27:46Z"
-   },
-   "playedMatches": 9,
-   "goals": 4,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
     "id": 131260,
     "name": "Evanilson",
     "firstName": "",
@@ -319,10 +288,41 @@
     "venue": "Vitality Stadium",
     "lastUpdated": "2024-08-29T08:54:34Z"
    },
-   "playedMatches": 9,
-   "goals": 4,
+   "playedMatches": 10,
+   "goals": 5,
    "assists": 4,
    "penalties": null
+  },
+  {
+   "player": {
+    "id": 8273,
+    "name": "Pascal Groß",
+    "firstName": "Pascal",
+    "lastName": "Groß",
+    "dateOfBirth": "1991-06-15",
+    "nationality": "Germany",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:31Z"
+   },
+   "team": {
+    "id": 397,
+    "name": "Brighton & Hove Albion FC",
+    "shortName": "Brighton Hove",
+    "tla": "BHA",
+    "crest": "https://crests.football-data.org/397.png",
+    "address": "44 North Road Brighton & Hove BN1 1YR",
+    "website": "http://www.seagulls.co.uk",
+    "founded": 1898,
+    "clubColors": "Blue / White",
+    "venue": "The American Express Community Stadium",
+    "lastUpdated": "2024-07-29T17:18:23Z"
+   },
+   "playedMatches": 10,
+   "goals": 4,
+   "assists": 4,
+   "penalties": 2
   }
  ]
 }

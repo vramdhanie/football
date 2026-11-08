@@ -85,15 +85,15 @@
       "tla": "BET",
       "crest": "https://crests.football-data.org/90.png"
      },
-     "playedGames": 11,
+     "playedGames": 12,
      "form": null,
-     "won": 7,
+     "won": 8,
      "draw": 2,
      "lost": 2,
-     "points": 23,
-     "goalsFor": 18,
+     "points": 26,
+     "goalsFor": 20,
      "goalsAgainst": 15,
-     "goalDifference": 3
+     "goalDifference": 5
     },
     {
      "position": 5,
@@ -104,15 +104,15 @@
       "tla": "RSO",
       "crest": "https://crests.football-data.org/92.png"
      },
-     "playedGames": 11,
+     "playedGames": 12,
      "form": null,
-     "won": 6,
+     "won": 7,
      "draw": 1,
      "lost": 4,
-     "points": 19,
-     "goalsFor": 20,
+     "points": 22,
+     "goalsFor": 21,
      "goalsAgainst": 20,
-     "goalDifference": 0
+     "goalDifference": 1
     },
     {
      "position": 6,
@@ -275,15 +275,15 @@
       "tla": "RAY",
       "crest": "https://crests.football-data.org/87.png"
      },
-     "playedGames": 10,
+     "playedGames": 11,
      "form": null,
      "won": 3,
      "draw": 3,
-     "lost": 4,
+     "lost": 5,
      "points": 12,
      "goalsFor": 15,
-     "goalsAgainst": 20,
-     "goalDifference": -5
+     "goalsAgainst": 21,
+     "goalDifference": -6
     },
     {
      "position": 15,
@@ -326,25 +326,6 @@
     {
      "position": 17,
      "team": {
-      "id": 285,
-      "name": "Elche CF",
-      "shortName": "Elche",
-      "tla": "ELC",
-      "crest": "https://crests.football-data.org/285.png"
-     },
-     "playedGames": 11,
-     "form": null,
-     "won": 2,
-     "draw": 4,
-     "lost": 5,
-     "points": 10,
-     "goalsFor": 14,
-     "goalsAgainst": 18,
-     "goalDifference": -4
-    },
-    {
-     "position": 18,
-     "team": {
       "id": 88,
       "name": "Levante UD",
       "shortName": "Levante",
@@ -360,6 +341,25 @@
      "goalsFor": 16,
      "goalsAgainst": 21,
      "goalDifference": -5
+    },
+    {
+     "position": 18,
+     "team": {
+      "id": 285,
+      "name": "Elche CF",
+      "shortName": "Elche",
+      "tla": "ELC",
+      "crest": "https://crests.football-data.org/285.png"
+     },
+     "playedGames": 12,
+     "form": null,
+     "won": 2,
+     "draw": 4,
+     "lost": 6,
+     "points": 10,
+     "goalsFor": 14,
+     "goalsAgainst": 20,
+     "goalDifference": -6
     },
     {
      "position": 19,
