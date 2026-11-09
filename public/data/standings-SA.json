@@ -41,6 +41,25 @@
     {
      "position": 2,
      "team": {
+      "id": 108,
+      "name": "FC Internazionale Milano",
+      "shortName": "Inter",
+      "tla": "INT",
+      "crest": "https://crests.football-data.org/108.png"
+     },
+     "playedGames": 11,
+     "form": null,
+     "won": 9,
+     "draw": 1,
+     "lost": 1,
+     "points": 28,
+     "goalsFor": 28,
+     "goalsAgainst": 13,
+     "goalDifference": 15
+    },
+    {
+     "position": 3,
+     "team": {
       "id": 100,
       "name": "AS Roma",
       "shortName": "Roma",
@@ -56,25 +75,6 @@
      "goalsFor": 31,
      "goalsAgainst": 10,
      "goalDifference": 21
-    },
-    {
-     "position": 3,
-     "team": {
-      "id": 108,
-      "name": "FC Internazionale Milano",
-      "shortName": "Inter",
-      "tla": "INT",
-      "crest": "https://crests.football-data.org/108.png"
-     },
-     "playedGames": 11,
-     "form": null,
-     "won": 8,
-     "draw": 2,
-     "lost": 1,
-     "points": 26,
-     "goalsFor": 26,
-     "goalsAgainst": 13,
-     "goalDifference": 13
     },
     {
      "position": 4,
@@ -107,12 +107,12 @@
      "playedGames": 11,
      "form": null,
      "won": 7,
-     "draw": 3,
-     "lost": 1,
-     "points": 24,
+     "draw": 2,
+     "lost": 2,
+     "points": 23,
      "goalsFor": 18,
-     "goalsAgainst": 8,
-     "goalDifference": 10
+     "goalsAgainst": 10,
+     "goalDifference": 8
     },
     {
      "position": 6,
@@ -142,14 +142,14 @@
       "tla": "JUV",
       "crest": "https://crests.football-data.org/109.png"
      },
-     "playedGames": 10,
+     "playedGames": 11,
      "form": null,
      "won": 5,
-     "draw": 2,
+     "draw": 3,
      "lost": 3,
-     "points": 17,
-     "goalsFor": 13,
-     "goalsAgainst": 10,
+     "points": 18,
+     "goalsFor": 15,
+     "goalsAgainst": 12,
      "goalDifference": 3
     },
     {
@@ -294,14 +294,14 @@
       "tla": "FIO",
       "crest": "https://crests.football-data.org/99.png"
      },
-     "playedGames": 10,
+     "playedGames": 11,
      "form": null,
      "won": 2,
-     "draw": 2,
+     "draw": 3,
      "lost": 6,
-     "points": 8,
-     "goalsFor": 15,
-     "goalsAgainst": 23,
+     "points": 9,
+     "goalsFor": 17,
+     "goalsAgainst": 25,
      "goalDifference": -8
     },
     {

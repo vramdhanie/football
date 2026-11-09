@@ -140,6 +140,37 @@
   },
   {
    "player": {
+    "id": 8685,
+    "name": "Marcus Thuram-Ulien",
+    "firstName": "Marcus",
+    "lastName": "Thuram",
+    "dateOfBirth": "1997-08-06",
+    "nationality": "France",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-06-01T11:16:30Z"
+   },
+   "team": {
+    "id": 108,
+    "name": "FC Internazionale Milano",
+    "shortName": "Inter",
+    "tla": "INT",
+    "crest": "https://crests.football-data.org/108.png",
+    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+    "website": "http://www.inter.it",
+    "founded": 1908,
+    "clubColors": "Blue / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "lastUpdated": "2021-11-24T14:55:58Z"
+   },
+   "playedMatches": 11,
+   "goals": 6,
+   "assists": 2,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 43285,
     "name": "Anastasios Douvikas",
     "firstName": "Anastasios",
@@ -229,37 +260,6 @@
    "playedMatches": 9,
    "goals": 5,
    "assists": 4,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 8685,
-    "name": "Marcus Thuram-Ulien",
-    "firstName": "Marcus",
-    "lastName": "Thuram",
-    "dateOfBirth": "1997-08-06",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 108,
-    "name": "FC Internazionale Milano",
-    "shortName": "Inter",
-    "tla": "INT",
-    "crest": "https://crests.football-data.org/108.png",
-    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
-    "website": "http://www.inter.it",
-    "founded": 1908,
-    "clubColors": "Blue / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2021-11-24T14:55:58Z"
-   },
-   "playedMatches": 11,
-   "goals": 5,
-   "assists": 2,
    "penalties": null
   },
   {

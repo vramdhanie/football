@@ -40,7 +40,7 @@
     "venue": "Camp Nou",
     "lastUpdated": "2024-07-29T17:09:22Z"
    },
-   "playedMatches": 10,
+   "playedMatches": 11,
    "goals": 15,
    "assists": 2,
    "penalties": 3
@@ -102,9 +102,9 @@
     "venue": "Camp Nou",
     "lastUpdated": "2024-07-29T17:09:22Z"
    },
-   "playedMatches": 11,
+   "playedMatches": 12,
    "goals": 10,
-   "assists": 7,
+   "assists": 8,
    "penalties": 1
   },
   {
@@ -202,6 +202,37 @@
   },
   {
    "player": {
+    "id": 214533,
+    "name": "Fermín López",
+    "firstName": "",
+    "lastName": "Fermín López",
+    "dateOfBirth": "2003-05-11",
+    "nationality": "Spain",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-09T17:00:05Z"
+   },
+   "team": {
+    "id": 81,
+    "name": "FC Barcelona",
+    "shortName": "Barça",
+    "tla": "FCB",
+    "crest": "https://crests.football-data.org/81.png",
+    "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+    "website": "http://www.fcbarcelona.com",
+    "founded": 1899,
+    "clubColors": "Red / Navy Blue / Orange",
+    "venue": "Camp Nou",
+    "lastUpdated": "2024-07-29T17:09:22Z"
+   },
+   "playedMatches": 12,
+   "goals": 7,
+   "assists": 5,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 180218,
     "name": "Roberto Fernández",
     "firstName": "",
@@ -291,37 +322,6 @@
    "playedMatches": 9,
    "goals": 5,
    "assists": 2,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 213278,
-    "name": "Álex Baena",
-    "firstName": "",
-    "lastName": "Álex Baena",
-    "dateOfBirth": "2001-07-20",
-    "nationality": "Spain",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 78,
-    "name": "Club Atlético de Madrid",
-    "shortName": "Atleti",
-    "tla": "ATL",
-    "crest": "https://crests.football-data.org/78.png",
-    "address": "Paseo Virgen del Puerto, 67 Madrid 28005",
-    "website": "http://www.clubatleticodemadrid.com",
-    "founded": 1903,
-    "clubColors": "Red / White / Blue",
-    "venue": "Estadio Wanda Metropolitano",
-    "lastUpdated": "2026-07-04T11:58:34Z"
-   },
-   "playedMatches": 11,
-   "goals": 5,
-   "assists": 3,
    "penalties": null
   }
  ]
