@@ -18,7 +18,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558635,
@@ -27,7 +27,7 @@
    "matchday": 1,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 470,
     "name": "Frosinone Calcio",
@@ -84,7 +84,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558619,
@@ -93,7 +93,7 @@
    "matchday": 2,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -150,7 +150,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558618,
@@ -159,7 +159,7 @@
    "matchday": 3,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -216,7 +216,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558608,
@@ -225,7 +225,7 @@
    "matchday": 4,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 471,
     "name": "US Sassuolo Calcio",
@@ -282,7 +282,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558595,
@@ -291,7 +291,7 @@
    "matchday": 5,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -348,7 +348,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558584,
@@ -357,7 +357,7 @@
    "matchday": 6,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 104,
     "name": "Cagliari Calcio",
@@ -414,7 +414,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558570,
@@ -423,7 +423,7 @@
    "matchday": 7,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -480,7 +480,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558566,
@@ -489,7 +489,7 @@
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 5890,
     "name": "US Lecce",
@@ -546,7 +546,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558552,
@@ -555,7 +555,7 @@
    "matchday": 9,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 107,
     "name": "Genoa CFC",
@@ -612,7 +612,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558547,
@@ -621,7 +621,7 @@
    "matchday": 10,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -678,7 +678,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558529,
@@ -687,7 +687,7 @@
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 99,
     "name": "ACF Fiorentina",
@@ -744,7 +744,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558521,
@@ -753,7 +753,7 @@
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -803,7 +803,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558511,
@@ -812,7 +812,7 @@
    "matchday": 13,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -862,7 +862,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558500,
@@ -871,7 +871,7 @@
    "matchday": 14,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -921,7 +921,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558496,
@@ -930,7 +930,7 @@
    "matchday": 15,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -980,7 +980,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558481,
@@ -989,7 +989,7 @@
    "matchday": 16,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 100,
     "name": "AS Roma",
@@ -1039,7 +1039,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558477,
@@ -1048,7 +1048,7 @@
    "matchday": 17,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 103,
     "name": "Bologna FC 1909",
@@ -1098,7 +1098,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558465,
@@ -1107,7 +1107,7 @@
    "matchday": 18,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -1157,7 +1157,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558453,
@@ -1166,7 +1166,7 @@
    "matchday": 19,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 108,
     "name": "FC Internazionale Milano",
@@ -1216,7 +1216,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558441,
@@ -1225,7 +1225,7 @@
    "matchday": 20,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -1275,7 +1275,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558430,
@@ -1284,7 +1284,7 @@
    "matchday": 21,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -1334,7 +1334,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558419,
@@ -1343,7 +1343,7 @@
    "matchday": 22,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 98,
     "name": "AC Milan",
@@ -1393,7 +1393,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558409,
@@ -1402,7 +1402,7 @@
    "matchday": 23,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -1452,7 +1452,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558399,
@@ -1461,7 +1461,7 @@
    "matchday": 24,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 113,
     "name": "SSC Napoli",
@@ -1511,7 +1511,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558392,
@@ -1520,7 +1520,7 @@
    "matchday": 25,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -1570,7 +1570,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558387,
@@ -1579,7 +1579,7 @@
    "matchday": 26,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 5911,
     "name": "AC Monza",
@@ -1629,7 +1629,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558378,
@@ -1638,7 +1638,7 @@
    "matchday": 27,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -1688,7 +1688,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558367,
@@ -1697,7 +1697,7 @@
    "matchday": 28,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 110,
     "name": "SS Lazio",
@@ -1747,7 +1747,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558351,
@@ -1756,7 +1756,7 @@
    "matchday": 29,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -1806,7 +1806,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558346,
@@ -1815,7 +1815,7 @@
    "matchday": 30,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 586,
     "name": "Torino FC",
@@ -1865,7 +1865,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558336,
@@ -1874,7 +1874,7 @@
    "matchday": 31,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -1924,7 +1924,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558326,
@@ -1933,7 +1933,7 @@
    "matchday": 32,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 454,
     "name": "Venezia FC",
@@ -1983,7 +1983,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558314,
@@ -1992,7 +1992,7 @@
    "matchday": 33,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -2042,7 +2042,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558299,
@@ -2051,7 +2051,7 @@
    "matchday": 34,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 102,
     "name": "Atalanta BC",
@@ -2101,7 +2101,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558295,
@@ -2110,7 +2110,7 @@
    "matchday": 35,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 115,
     "name": "Udinese Calcio",
@@ -2160,7 +2160,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558284,
@@ -2169,7 +2169,7 @@
    "matchday": 36,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
@@ -2219,7 +2219,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558270,
@@ -2228,7 +2228,7 @@
    "matchday": 37,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 112,
     "name": "Parma Calcio 1913",
@@ -2278,7 +2278,7 @@
     "id": 2494,
     "startDate": "2026-08-23",
     "endDate": "2027-05-30",
-    "currentMatchday": 11,
+    "currentMatchday": 12,
     "winner": null
    },
    "id": 558260,
@@ -2287,7 +2287,7 @@
    "matchday": 38,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-11T00:20:28Z",
+   "lastUpdated": "2026-11-11T15:20:30Z",
    "homeTeam": {
     "id": 109,
     "name": "Juventus FC",
