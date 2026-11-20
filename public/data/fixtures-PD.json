@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/laliga.png"
  },
- "fetchedAt": "2026-11-20T04:05:26.871Z",
+ "fetchedAt": "2026-11-20T19:11:14.016Z",
  "matches": [
   {
    "area": {
@@ -65,7 +65,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 217698,
+     "name": "Mateo Busquets Ferrer",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
