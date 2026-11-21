@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/c111.png"
  },
- "fetchedAt": "2026-11-21T04:05:12.760Z",
+ "fetchedAt": "2026-11-21T18:07:04.821Z",
  "matches": [
   {
    "area": {
@@ -31,11 +31,11 @@
    },
    "id": 558525,
    "utcDate": "2026-11-21T14:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-21T00:20:36Z",
+   "lastUpdated": "2026-11-21T16:02:51Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -51,21 +51,28 @@
     "crest": "https://crests.football-data.org/104.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 160813,
+     "name": "Andrea Calzavara",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -90,11 +97,11 @@
    },
    "id": 558528,
    "utcDate": "2026-11-21T14:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-21T00:20:36Z",
+   "lastUpdated": "2026-11-21T15:57:31Z",
    "homeTeam": {
     "id": 110,
     "name": "SS Lazio",
@@ -110,21 +117,28 @@
     "crest": "https://crests.football-data.org/5890.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 3,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57868,
+     "name": "Matteo Marcenaro",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -149,11 +163,11 @@
    },
    "id": 558526,
    "utcDate": "2026-11-21T17:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-21T00:20:36Z",
+   "lastUpdated": "2026-11-21T17:51:39Z",
    "homeTeam": {
     "id": 112,
     "name": "Parma Calcio 1913",
@@ -169,21 +183,28 @@
     "crest": "https://crests.football-data.org/100.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57826,
+     "name": "Simone Sozza",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -242,7 +263,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11018,
+     "name": "Antonio Rapuano",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {

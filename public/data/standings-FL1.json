@@ -28,15 +28,15 @@
       "tla": "PSG",
       "crest": "https://crests.football-data.org/524.png"
      },
-     "playedGames": 10,
+     "playedGames": 11,
      "form": null,
-     "won": 7,
+     "won": 8,
      "draw": 2,
      "lost": 1,
-     "points": 23,
-     "goalsFor": 22,
-     "goalsAgainst": 10,
-     "goalDifference": 12
+     "points": 26,
+     "goalsFor": 24,
+     "goalsAgainst": 11,
+     "goalDifference": 13
     },
     {
      "position": 2,
@@ -123,15 +123,15 @@
       "tla": "NIC",
       "crest": "https://crests.football-data.org/522.png"
      },
-     "playedGames": 10,
+     "playedGames": 11,
      "form": null,
      "won": 5,
      "draw": 2,
-     "lost": 3,
+     "lost": 4,
      "points": 17,
-     "goalsFor": 15,
-     "goalsAgainst": 12,
-     "goalDifference": 3
+     "goalsFor": 16,
+     "goalsAgainst": 14,
+     "goalDifference": 2
     },
     {
      "position": 7,

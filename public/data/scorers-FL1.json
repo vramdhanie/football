@@ -164,7 +164,7 @@
     "venue": "Stade de Nice",
     "lastUpdated": "2022-02-19T08:51:11Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 6,
    "assists": 2,
    "penalties": 2
@@ -199,6 +199,37 @@
    "goals": 5,
    "assists": 8,
    "penalties": 3
+  },
+  {
+   "player": {
+    "id": 33154,
+    "name": "Ferrán Torres",
+    "firstName": "",
+    "lastName": "Ferran Torres",
+    "dateOfBirth": "2000-02-29",
+    "nationality": "Spain",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-09T17:00:05Z"
+   },
+   "team": {
+    "id": 524,
+    "name": "Paris Saint-Germain FC",
+    "shortName": "PSG",
+    "tla": "PSG",
+    "crest": "https://crests.football-data.org/524.png",
+    "address": "24, rue de Commandant Guibaud Paris 7501",
+    "website": "http://www.psg.fr",
+    "founded": 1904,
+    "clubColors": "Red / Blue / White",
+    "venue": "Parc des Princes",
+    "lastUpdated": "2022-02-10T19:07:11Z"
+   },
+   "playedMatches": 11,
+   "goals": 5,
+   "assists": 1,
+   "penalties": null
   },
   {
    "player": {
@@ -289,37 +320,6 @@
     "lastUpdated": "2022-06-19T00:03:33Z"
    },
    "playedMatches": 11,
-   "goals": 5,
-   "assists": null,
-   "penalties": 1
-  },
-  {
-   "player": {
-    "id": 98299,
-    "name": "Boulaye Dia",
-    "firstName": "Boulaye",
-    "lastName": "Dia",
-    "dateOfBirth": "1996-11-16",
-    "nationality": "Senegal",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": 11,
-    "lastUpdated": "2026-06-01T11:16:31Z"
-   },
-   "team": {
-    "id": 529,
-    "name": "Stade Rennais FC 1901",
-    "shortName": "Stade Rennais",
-    "tla": "REN",
-    "crest": "https://crests.football-data.org/529.png",
-    "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
-    "website": "http://www.staderennais.com",
-    "founded": 1901,
-    "clubColors": "Red / Black",
-    "venue": "Roazhon Park",
-    "lastUpdated": "2022-03-20T11:21:26Z"
-   },
-   "playedMatches": 8,
    "goals": 5,
    "assists": null,
    "penalties": 1

@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/FL1.png"
  },
- "fetchedAt": "2026-11-21T04:05:28.161Z",
+ "fetchedAt": "2026-11-21T18:07:19.559Z",
  "matches": [
   {
    "area": {
@@ -97,11 +97,11 @@
    },
    "id": 559628,
    "utcDate": "2026-11-21T16:15:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-21T00:20:35Z",
+   "lastUpdated": "2026-11-21T18:07:07Z",
    "homeTeam": {
     "id": 522,
     "name": "OGC Nice",
@@ -117,21 +117,28 @@
     "crest": "https://crests.football-data.org/524.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 2
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15548,
+     "name": "Jérôme Brisard",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
@@ -190,7 +197,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 1049,
+     "name": "Jeremy Stinat",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
@@ -249,7 +263,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57088,
+     "name": "Bastien Dechepy",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
@@ -308,7 +329,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43918,
+     "name": "François Letexier",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
@@ -367,7 +395,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 76760,
+     "name": "Azzedine Souifi",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {

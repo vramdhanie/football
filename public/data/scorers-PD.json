@@ -226,7 +226,7 @@
     "venue": "Estadio del Rayo Vallecano",
     "lastUpdated": "2024-07-29T17:10:35Z"
    },
-   "playedMatches": 12,
+   "playedMatches": 13,
    "goals": 7,
    "assists": 2,
    "penalties": null
@@ -295,34 +295,34 @@
   },
   {
    "player": {
-    "id": 7801,
-    "name": "Pierre-Emerick Aubameyang",
-    "firstName": "Pierre-Emerick",
-    "lastName": "Aubameyang",
-    "dateOfBirth": "1989-06-18",
-    "nationality": "Gabon",
+    "id": 11113,
+    "name": "Lucas Boyé",
+    "firstName": "Lucas",
+    "lastName": "Boyé",
+    "dateOfBirth": "1996-02-28",
+    "nationality": "Argentina",
     "section": "Offence",
     "position": null,
     "shirtNumber": null,
-    "lastUpdated": "2026-08-09T17:00:06Z"
+    "lastUpdated": "2024-08-05T08:21:33Z"
    },
    "team": {
-    "id": 560,
-    "name": "RC Deportivo La Coruña",
-    "shortName": "Deportivo",
-    "tla": "DEP",
-    "crest": "https://crests.football-data.org/560.png",
-    "address": "Plaza de Pontevedra, 19 A Coruña 15003",
-    "website": "http://www.rcdeportivo.es",
-    "founded": 1906,
+    "id": 263,
+    "name": "Deportivo Alavés",
+    "shortName": "Alavés",
+    "tla": "ALA",
+    "crest": "https://crests.football-data.org/263.png",
+    "address": "Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",
+    "website": "http://www.alaves.com",
+    "founded": 1921,
     "clubColors": "Blue / White",
-    "venue": "Estadio Abanca-Riazor",
-    "lastUpdated": "2024-07-29T17:11:14Z"
+    "venue": "Estadio de Mendizorroza",
+    "lastUpdated": "2022-02-19T08:23:45Z"
    },
-   "playedMatches": 9,
-   "goals": 5,
-   "assists": 2,
-   "penalties": null
+   "playedMatches": 12,
+   "goals": 6,
+   "assists": 1,
+   "penalties": 1
   }
  ]
 }

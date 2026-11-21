@@ -71,8 +71,8 @@
     "venue": "Stadio Olimpico",
     "lastUpdated": "2025-02-17T16:53:31Z"
    },
-   "playedMatches": 10,
-   "goals": 8,
+   "playedMatches": 11,
+   "goals": 9,
    "assists": 2,
    "penalties": null
   },
@@ -171,6 +171,37 @@
   },
   {
    "player": {
+    "id": 171448,
+    "name": "Tijjani Noslin",
+    "firstName": "Tijjani",
+    "lastName": "Noslin",
+    "dateOfBirth": "1999-07-07",
+    "nationality": "Netherlands",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:16Z"
+   },
+   "team": {
+    "id": 110,
+    "name": "SS Lazio",
+    "shortName": "Lazio",
+    "tla": "LAZ",
+    "crest": "https://crests.football-data.org/110.png",
+    "address": "Via di Santa Cornelia, 1000 Formello 00060",
+    "website": "http://www.sslazio.it",
+    "founded": 1900,
+    "clubColors": "White / Sky Blue",
+    "venue": "Stadio Olimpico",
+    "lastUpdated": "2024-04-09T16:20:32Z"
+   },
+   "playedMatches": 12,
+   "goals": 6,
+   "assists": 4,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 43285,
     "name": "Anastasios Douvikas",
     "firstName": "Anastasios",
@@ -195,7 +226,7 @@
     "venue": "Stadio Giuseppe Sinigaglia",
     "lastUpdated": "2025-02-17T16:52:41Z"
    },
-   "playedMatches": 11,
+   "playedMatches": 12,
    "goals": 5,
    "assists": null,
    "penalties": null
@@ -264,11 +295,11 @@
   },
   {
    "player": {
-    "id": 136113,
-    "name": "Daniel Maldini",
-    "firstName": "Daniel",
-    "lastName": "Maldini",
-    "dateOfBirth": "2001-10-11",
+    "id": 2200,
+    "name": "Davide Frattesi",
+    "firstName": "Davide",
+    "lastName": "Frattesi",
+    "dateOfBirth": "1999-09-22",
     "nationality": "Italy",
     "section": "Midfield",
     "position": null,
@@ -276,53 +307,22 @@
     "lastUpdated": "2026-08-19T06:54:16Z"
    },
    "team": {
-    "id": 104,
-    "name": "Cagliari Calcio",
-    "shortName": "Cagliari",
-    "tla": "CAG",
-    "crest": "https://crests.football-data.org/104.png",
-    "address": "Viale la Plaia 15 Cagliari 09123",
-    "website": "http://www.cagliaricalcio.net",
-    "founded": 1920,
-    "clubColors": "Red / Navy Blue / White",
-    "venue": "Sardegna Arena",
-    "lastUpdated": "2024-04-09T16:20:43Z"
+    "id": 110,
+    "name": "SS Lazio",
+    "shortName": "Lazio",
+    "tla": "LAZ",
+    "crest": "https://crests.football-data.org/110.png",
+    "address": "Via di Santa Cornelia, 1000 Formello 00060",
+    "website": "http://www.sslazio.it",
+    "founded": 1900,
+    "clubColors": "White / Sky Blue",
+    "venue": "Stadio Olimpico",
+    "lastUpdated": "2024-04-09T16:20:32Z"
    },
-   "playedMatches": 11,
+   "playedMatches": 12,
    "goals": 5,
    "assists": null,
-   "penalties": 1
-  },
-  {
-   "player": {
-    "id": 40786,
-    "name": "Giacomo Calò",
-    "firstName": "Giacomo",
-    "lastName": "Calò",
-    "dateOfBirth": "1997-02-05",
-    "nationality": "Italy",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2023-07-30T17:08:57Z"
-   },
-   "team": {
-    "id": 470,
-    "name": "Frosinone Calcio",
-    "shortName": "Frosinone",
-    "tla": "FRO",
-    "crest": "https://crests.football-data.org/470.png",
-    "address": "Via Marittima, 2 Frosinone 03100",
-    "website": "http://www.frosinonecalcio.com",
-    "founded": 1912,
-    "clubColors": "Yellow / Blue",
-    "venue": "Stadio Benito Stirpe",
-    "lastUpdated": "2022-03-20T17:51:41Z"
-   },
-   "playedMatches": 11,
-   "goals": 5,
-   "assists": 1,
-   "penalties": 1
+   "penalties": null
   }
  ]
 }
