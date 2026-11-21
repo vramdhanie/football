@@ -171,6 +171,37 @@
   },
   {
    "player": {
+    "id": 180218,
+    "name": "Roberto Fernández",
+    "firstName": "",
+    "lastName": "Roberto Fernández",
+    "dateOfBirth": "2002-07-03",
+    "nationality": "Spain",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-09T17:00:03Z"
+   },
+   "team": {
+    "id": 80,
+    "name": "RCD Espanyol de Barcelona",
+    "shortName": "Espanyol",
+    "tla": "ESP",
+    "crest": "https://crests.football-data.org/80.png",
+    "address": "Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940",
+    "website": "http://www.rcdespanyol.com",
+    "founded": 1900,
+    "clubColors": "Blue / White",
+    "venue": "RCDE Stadium",
+    "lastUpdated": "2024-07-29T17:09:12Z"
+   },
+   "playedMatches": 13,
+   "goals": 7,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 115175,
     "name": "Sergio Camello",
     "firstName": "",
@@ -229,37 +260,6 @@
    "playedMatches": 12,
    "goals": 7,
    "assists": 5,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 180218,
-    "name": "Roberto Fernández",
-    "firstName": "",
-    "lastName": "Roberto Fernández",
-    "dateOfBirth": "2002-07-03",
-    "nationality": "Spain",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-09T17:00:03Z"
-   },
-   "team": {
-    "id": 80,
-    "name": "RCD Espanyol de Barcelona",
-    "shortName": "Espanyol",
-    "tla": "ESP",
-    "crest": "https://crests.football-data.org/80.png",
-    "address": "Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940",
-    "website": "http://www.rcdespanyol.com",
-    "founded": 1900,
-    "clubColors": "Blue / White",
-    "venue": "RCDE Stadium",
-    "lastUpdated": "2024-07-29T17:09:12Z"
-   },
-   "playedMatches": 13,
-   "goals": 6,
-   "assists": null,
    "penalties": null
   },
   {

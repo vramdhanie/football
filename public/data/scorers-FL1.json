@@ -264,6 +264,37 @@
   },
   {
    "player": {
+    "id": 4072,
+    "name": "Josh Maja",
+    "firstName": "Josh",
+    "lastName": "Maja",
+    "dateOfBirth": "1998-12-27",
+    "nationality": "Nigeria",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": 9,
+    "lastUpdated": "2026-07-15T09:33:22Z"
+   },
+   "team": {
+    "id": 533,
+    "name": "Le Havre AC",
+    "shortName": "Le Havre",
+    "tla": "HAC",
+    "crest": "https://crests.football-data.org/533.png",
+    "address": "2 route du château BP 90 Saint-Laurent-de-Brèvedent 76700",
+    "website": "http://www.hac-foot.com",
+    "founded": 1872,
+    "clubColors": "Sky Blue / Navy Blue",
+    "venue": "Stade Océane",
+    "lastUpdated": "2022-06-19T00:03:33Z"
+   },
+   "playedMatches": 11,
+   "goals": 5,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
     "id": 98299,
     "name": "Boulaye Dia",
     "firstName": "Boulaye",
@@ -290,37 +321,6 @@
    },
    "playedMatches": 8,
    "goals": 5,
-   "assists": null,
-   "penalties": 1
-  },
-  {
-   "player": {
-    "id": 124178,
-    "name": "Louis Mafouta",
-    "firstName": "Louis",
-    "lastName": "Mafouta",
-    "dateOfBirth": "1994-07-02",
-    "nationality": "Central African Republic",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-27T19:57:38Z"
-   },
-   "team": {
-    "id": 535,
-    "name": "Le Mans FC",
-    "shortName": "Le Mans",
-    "tla": "LMF",
-    "crest": "https://crests.football-data.org/535.png",
-    "address": "La Pincenardière Le Mans 72230",
-    "website": "http://www.lemansfc.fr/",
-    "founded": 1985,
-    "clubColors": "Red / Yellow",
-    "venue": "MMArena",
-    "lastUpdated": "2026-09-21T11:19:51Z"
-   },
-   "playedMatches": 10,
-   "goals": 4,
    "assists": null,
    "penalties": 1
   }
