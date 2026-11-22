@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 7457,
+    "name": "Donyell Malen",
+    "firstName": "Donyell",
+    "lastName": "Malen",
+    "dateOfBirth": "1999-01-19",
+    "nationality": "Netherlands",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:16Z"
+   },
+   "team": {
+    "id": 100,
+    "name": "AS Roma",
+    "shortName": "Roma",
+    "tla": "ROM",
+    "crest": "https://crests.football-data.org/100.png",
+    "address": "Via di Trigoria km. 3,600 Roma 00128",
+    "website": "http://www.asroma.it",
+    "founded": 1927,
+    "clubColors": "Maroon / Orange / White",
+    "venue": "Stadio Olimpico",
+    "lastUpdated": "2025-02-17T16:53:31Z"
+   },
+   "playedMatches": 11,
+   "goals": 12,
+   "assists": 2,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 252836,
     "name": "Gustavo Varela",
     "firstName": "",
@@ -44,37 +75,6 @@
    "goals": 9,
    "assists": 1,
    "penalties": 2
-  },
-  {
-   "player": {
-    "id": 7457,
-    "name": "Donyell Malen",
-    "firstName": "Donyell",
-    "lastName": "Malen",
-    "dateOfBirth": "1999-01-19",
-    "nationality": "Netherlands",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:16Z"
-   },
-   "team": {
-    "id": 100,
-    "name": "AS Roma",
-    "shortName": "Roma",
-    "tla": "ROM",
-    "crest": "https://crests.football-data.org/100.png",
-    "address": "Via di Trigoria km. 3,600 Roma 00128",
-    "website": "http://www.asroma.it",
-    "founded": 1927,
-    "clubColors": "Maroon / Orange / White",
-    "venue": "Stadio Olimpico",
-    "lastUpdated": "2025-02-17T16:53:31Z"
-   },
-   "playedMatches": 11,
-   "goals": 9,
-   "assists": 2,
-   "penalties": null
   },
   {
    "player": {
