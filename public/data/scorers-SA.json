@@ -140,6 +140,68 @@
   },
   {
    "player": {
+    "id": 192142,
+    "name": "Alphadjo Cisse",
+    "firstName": "Alphadjo",
+    "lastName": "Cissè",
+    "dateOfBirth": "2006-10-22",
+    "nationality": "Italy",
+    "section": "Midfield",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-08-19T06:54:15Z"
+   },
+   "team": {
+    "id": 98,
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png",
+    "address": "Via Filippo Turati 3 Milano 20121",
+    "website": "http://www.acmilan.com",
+    "founded": 1899,
+    "clubColors": "Red / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "lastUpdated": "2024-04-09T16:20:58Z"
+   },
+   "playedMatches": 12,
+   "goals": 6,
+   "assists": null,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 67743,
+    "name": "Milutin Osmajić",
+    "firstName": "Milutin",
+    "lastName": "Osmajić",
+    "dateOfBirth": "1999-07-25",
+    "nationality": "Montenegro",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:33:21Z"
+   },
+   "team": {
+    "id": 107,
+    "name": "Genoa CFC",
+    "shortName": "Genoa",
+    "tla": "GEN",
+    "crest": "https://crests.football-data.org/107.png",
+    "address": "Via Ronchi, 67 Genova 16155",
+    "website": "http://www.genoacfc.it",
+    "founded": 1893,
+    "clubColors": "Red / Navy Blue",
+    "venue": "Stadio Comunale Luigi Ferraris",
+    "lastUpdated": "2024-04-09T16:20:41Z"
+   },
+   "playedMatches": 11,
+   "goals": 6,
+   "assists": 1,
+   "penalties": null
+  },
+  {
+   "player": {
     "id": 8685,
     "name": "Marcus Thuram-Ulien",
     "firstName": "Marcus",
@@ -233,37 +295,6 @@
   },
   {
    "player": {
-    "id": 192142,
-    "name": "Alphadjo Cisse",
-    "firstName": "Alphadjo",
-    "lastName": "Cissè",
-    "dateOfBirth": "2006-10-22",
-    "nationality": "Italy",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:15Z"
-   },
-   "team": {
-    "id": 98,
-    "name": "AC Milan",
-    "shortName": "Milan",
-    "tla": "MIL",
-    "crest": "https://crests.football-data.org/98.png",
-    "address": "Via Filippo Turati 3 Milano 20121",
-    "website": "http://www.acmilan.com",
-    "founded": 1899,
-    "clubColors": "Red / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2024-04-09T16:20:58Z"
-   },
-   "playedMatches": 11,
-   "goals": 5,
-   "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
     "id": 3368,
     "name": "Adrien Rabiot",
     "firstName": "Adrien",
@@ -288,40 +319,9 @@
     "venue": "Stadio Giuseppe Meazza",
     "lastUpdated": "2024-04-09T16:20:58Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 5,
-   "assists": 4,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 2200,
-    "name": "Davide Frattesi",
-    "firstName": "Davide",
-    "lastName": "Frattesi",
-    "dateOfBirth": "1999-09-22",
-    "nationality": "Italy",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-08-19T06:54:16Z"
-   },
-   "team": {
-    "id": 110,
-    "name": "SS Lazio",
-    "shortName": "Lazio",
-    "tla": "LAZ",
-    "crest": "https://crests.football-data.org/110.png",
-    "address": "Via di Santa Cornelia, 1000 Formello 00060",
-    "website": "http://www.sslazio.it",
-    "founded": 1900,
-    "clubColors": "White / Sky Blue",
-    "venue": "Stadio Olimpico",
-    "lastUpdated": "2024-04-09T16:20:32Z"
-   },
-   "playedMatches": 12,
-   "goals": 5,
-   "assists": null,
+   "assists": 6,
    "penalties": null
   }
  ]

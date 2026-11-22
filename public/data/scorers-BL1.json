@@ -16,6 +16,37 @@
  "scorers": [
   {
    "player": {
+    "id": 304,
+    "name": "Niclas Füllkrug",
+    "firstName": "Niclas",
+    "lastName": "Füllkrug",
+    "dateOfBirth": "1993-02-09",
+    "nationality": "Germany",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-15T09:33:22Z"
+   },
+   "team": {
+    "id": 12,
+    "name": "SV Werder Bremen",
+    "shortName": "Bremen",
+    "tla": "SVW",
+    "crest": "https://crests.football-data.org/12.png",
+    "address": "Franz-Böhmert-Str. 1c Bremen 28205",
+    "website": "http://www.werder.de",
+    "founded": 1899,
+    "clubColors": "Green / White",
+    "venue": "Weserstadion",
+    "lastUpdated": "2024-07-29T17:13:29Z"
+   },
+   "playedMatches": 10,
+   "goals": 10,
+   "assists": 1,
+   "penalties": 3
+  },
+  {
+   "player": {
     "id": 1826,
     "name": "Patrik Schick",
     "firstName": "Patrik",
@@ -47,34 +78,34 @@
   },
   {
    "player": {
-    "id": 304,
-    "name": "Niclas Füllkrug",
-    "firstName": "Niclas",
-    "lastName": "Füllkrug",
-    "dateOfBirth": "1993-02-09",
-    "nationality": "Germany",
+    "id": 6661,
+    "name": "Michael Gregoritsch",
+    "firstName": "Michael",
+    "lastName": "Gregoritsch",
+    "dateOfBirth": "1994-04-18",
+    "nationality": "Austria",
     "section": "Offence",
     "position": null,
     "shirtNumber": null,
-    "lastUpdated": "2026-07-15T09:33:22Z"
+    "lastUpdated": "2026-06-01T11:16:29Z"
    },
    "team": {
-    "id": 12,
-    "name": "SV Werder Bremen",
-    "shortName": "Bremen",
-    "tla": "SVW",
-    "crest": "https://crests.football-data.org/12.png",
-    "address": "Franz-Böhmert-Str. 1c Bremen 28205",
-    "website": "http://www.werder.de",
-    "founded": 1899,
-    "clubColors": "Green / White",
-    "venue": "Weserstadion",
-    "lastUpdated": "2024-07-29T17:13:29Z"
+    "id": 16,
+    "name": "FC Augsburg",
+    "shortName": "Augsburg",
+    "tla": "FCA",
+    "crest": "https://crests.football-data.org/16.png",
+    "address": "Donauwörther Straße 170 Augsburg 86154",
+    "website": "http://www.fcaugsburg.de",
+    "founded": 1907,
+    "clubColors": "Red / Green / White",
+    "venue": "WWK Arena",
+    "lastUpdated": "2023-02-28T07:59:40Z"
    },
-   "playedMatches": 9,
-   "goals": 9,
+   "playedMatches": 10,
+   "goals": 7,
    "assists": null,
-   "penalties": 3
+   "penalties": 1
   },
   {
    "player": {
@@ -164,7 +195,7 @@
     "venue": "Opel Arena",
     "lastUpdated": "2023-02-28T07:59:34Z"
    },
-   "playedMatches": 9,
+   "playedMatches": 10,
    "goals": 6,
    "assists": null,
    "penalties": null
@@ -291,37 +322,6 @@
    "playedMatches": 9,
    "goals": 5,
    "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 156629,
-    "name": "Igor Matanovic",
-    "firstName": "Igor",
-    "lastName": "Matanović",
-    "dateOfBirth": "2003-03-31",
-    "nationality": "Croatia",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:29Z"
-   },
-   "team": {
-    "id": 17,
-    "name": "SC Freiburg",
-    "shortName": "Freiburg",
-    "tla": "SCF",
-    "crest": "https://crests.football-data.org/17.png",
-    "address": "Schwarzwaldstraße 193 Freiburg 79117",
-    "website": "http://www.scfreiburg.com",
-    "founded": 1912,
-    "clubColors": "Red / White",
-    "venue": "Schwarzwald-Stadion",
-    "lastUpdated": "2024-07-29T17:13:41Z"
-   },
-   "playedMatches": 10,
-   "goals": 5,
-   "assists": 1,
    "penalties": null
   }
  ]

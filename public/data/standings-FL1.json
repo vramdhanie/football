@@ -41,6 +41,25 @@
     {
      "position": 2,
      "team": {
+      "id": 1045,
+      "name": "Paris FC",
+      "shortName": "Paris FC",
+      "tla": "PFC",
+      "crest": "https://crests.football-data.org/1045.png"
+     },
+     "playedGames": 11,
+     "form": null,
+     "won": 7,
+     "draw": 2,
+     "lost": 2,
+     "points": 23,
+     "goalsFor": 21,
+     "goalsAgainst": 10,
+     "goalDifference": 11
+    },
+    {
+     "position": 3,
+     "team": {
       "id": 521,
       "name": "Lille OSC",
       "shortName": "Lille",
@@ -56,25 +75,6 @@
      "goalsFor": 14,
      "goalsAgainst": 8,
      "goalDifference": 6
-    },
-    {
-     "position": 3,
-     "team": {
-      "id": 1045,
-      "name": "Paris FC",
-      "shortName": "Paris FC",
-      "tla": "PFC",
-      "crest": "https://crests.football-data.org/1045.png"
-     },
-     "playedGames": 10,
-     "form": null,
-     "won": 6,
-     "draw": 2,
-     "lost": 2,
-     "points": 20,
-     "goalsFor": 17,
-     "goalsAgainst": 10,
-     "goalDifference": 7
     },
     {
      "position": 4,
@@ -180,14 +180,14 @@
       "tla": "REN",
       "crest": "https://crests.football-data.org/529.png"
      },
-     "playedGames": 10,
+     "playedGames": 11,
      "form": null,
      "won": 5,
-     "draw": 1,
+     "draw": 2,
      "lost": 4,
-     "points": 16,
-     "goalsFor": 21,
-     "goalsAgainst": 21,
+     "points": 17,
+     "goalsFor": 22,
+     "goalsAgainst": 22,
      "goalDifference": 0
     },
     {
@@ -199,14 +199,14 @@
       "tla": "FCL",
       "crest": "https://crests.football-data.org/525.png"
      },
-     "playedGames": 10,
+     "playedGames": 11,
      "form": null,
      "won": 4,
-     "draw": 3,
+     "draw": 4,
      "lost": 3,
-     "points": 15,
-     "goalsFor": 9,
-     "goalsAgainst": 8,
+     "points": 16,
+     "goalsFor": 10,
+     "goalsAgainst": 9,
      "goalDifference": 1
     },
     {
@@ -311,7 +311,7 @@
       "name": "Le Mans FC",
       "shortName": "Le Mans",
       "tla": "LMF",
-      "crest": "https://crests.football-data.org/535.png"
+      "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg"
      },
      "playedGames": 10,
      "form": null,
@@ -332,15 +332,15 @@
       "tla": "ANG",
       "crest": "https://crests.football-data.org/532.png"
      },
-     "playedGames": 10,
+     "playedGames": 11,
      "form": null,
      "won": 2,
      "draw": 2,
-     "lost": 6,
+     "lost": 7,
      "points": 8,
      "goalsFor": 9,
-     "goalsAgainst": 19,
-     "goalDifference": -10
+     "goalsAgainst": 23,
+     "goalDifference": -14
     },
     {
      "position": 18,

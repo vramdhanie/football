@@ -40,7 +40,7 @@
     "venue": "Stade Sébastien Charléty",
     "lastUpdated": "2022-06-19T00:04:35Z"
    },
-   "playedMatches": 10,
+   "playedMatches": 11,
    "goals": 9,
    "assists": 5,
    "penalties": 3
@@ -102,7 +102,7 @@
     "venue": "Roazhon Park",
     "lastUpdated": "2022-03-20T11:21:26Z"
    },
-   "playedMatches": 7,
+   "playedMatches": 8,
    "goals": 7,
    "assists": null,
    "penalties": 4
@@ -168,6 +168,37 @@
    "goals": 6,
    "assists": 2,
    "penalties": 2
+  },
+  {
+   "player": {
+    "id": 98299,
+    "name": "Boulaye Dia",
+    "firstName": "Boulaye",
+    "lastName": "Dia",
+    "dateOfBirth": "1996-11-16",
+    "nationality": "Senegal",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": 11,
+    "lastUpdated": "2026-06-01T11:16:31Z"
+   },
+   "team": {
+    "id": 529,
+    "name": "Stade Rennais FC 1901",
+    "shortName": "Stade Rennais",
+    "tla": "REN",
+    "crest": "https://crests.football-data.org/529.png",
+    "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
+    "website": "http://www.staderennais.com",
+    "founded": 1901,
+    "clubColors": "Red / Black",
+    "venue": "Roazhon Park",
+    "lastUpdated": "2022-03-20T11:21:26Z"
+   },
+   "playedMatches": 9,
+   "goals": 6,
+   "assists": null,
+   "penalties": 1
   },
   {
    "player": {
@@ -292,37 +323,6 @@
    "goals": 5,
    "assists": 1,
    "penalties": 2
-  },
-  {
-   "player": {
-    "id": 4072,
-    "name": "Josh Maja",
-    "firstName": "Josh",
-    "lastName": "Maja",
-    "dateOfBirth": "1998-12-27",
-    "nationality": "Nigeria",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": 9,
-    "lastUpdated": "2026-07-15T09:33:22Z"
-   },
-   "team": {
-    "id": 533,
-    "name": "Le Havre AC",
-    "shortName": "Le Havre",
-    "tla": "HAC",
-    "crest": "https://crests.football-data.org/533.png",
-    "address": "2 route du château BP 90 Saint-Laurent-de-Brèvedent 76700",
-    "website": "http://www.hac-foot.com",
-    "founded": 1872,
-    "clubColors": "Sky Blue / Navy Blue",
-    "venue": "Stade Océane",
-    "lastUpdated": "2022-06-19T00:03:33Z"
-   },
-   "playedMatches": 11,
-   "goals": 5,
-   "assists": null,
-   "penalties": 1
   }
  ]
 }
