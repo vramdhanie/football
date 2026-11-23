@@ -71,9 +71,9 @@
     "venue": "Orange Vélodrome",
     "lastUpdated": "2022-02-19T08:35:12Z"
    },
-   "playedMatches": 10,
-   "goals": 7,
-   "assists": 3,
+   "playedMatches": 11,
+   "goals": 8,
+   "assists": 4,
    "penalties": 1
   },
   {
@@ -233,6 +233,37 @@
   },
   {
    "player": {
+    "id": 124178,
+    "name": "Louis Mafouta",
+    "firstName": "Louis",
+    "lastName": "Mafouta",
+    "dateOfBirth": "1994-07-02",
+    "nationality": "Central African Republic",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:38Z"
+   },
+   "team": {
+    "id": 535,
+    "name": "Le Mans FC",
+    "shortName": "Le Mans",
+    "tla": "LMF",
+    "crest": "https://crests.football-data.org/535.png",
+    "address": "La Pincenardière Le Mans 72230",
+    "website": "http://www.lemansfc.fr/",
+    "founded": 1985,
+    "clubColors": "Red / Yellow",
+    "venue": "MMArena",
+    "lastUpdated": "2026-09-21T11:19:51Z"
+   },
+   "playedMatches": 11,
+   "goals": 5,
+   "assists": null,
+   "penalties": 1
+  },
+  {
+   "player": {
     "id": 33154,
     "name": "Ferrán Torres",
     "firstName": "",
@@ -292,37 +323,6 @@
    "goals": 5,
    "assists": 1,
    "penalties": 1
-  },
-  {
-   "player": {
-    "id": 129381,
-    "name": "Casper Tengstedt",
-    "firstName": "Casper",
-    "lastName": "Tengstedt",
-    "dateOfBirth": "2000-06-01",
-    "nationality": "Denmark",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-07-22T15:39:09Z"
-   },
-   "team": {
-    "id": 511,
-    "name": "Toulouse FC",
-    "shortName": "Toulouse",
-    "tla": "TOU",
-    "crest": "https://crests.football-data.org/511.png",
-    "address": "1 allée Gabriel Biénèsm, BP 54023 Toulouse 31028",
-    "website": "http://www.tfc.info",
-    "founded": 1937,
-    "clubColors": "Violet / White",
-    "venue": "Stadium Municipal",
-    "lastUpdated": "2026-07-04T12:07:20Z"
-   },
-   "playedMatches": 9,
-   "goals": 5,
-   "assists": 1,
-   "penalties": 2
   }
  ]
 }

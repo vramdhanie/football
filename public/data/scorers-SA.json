@@ -133,9 +133,40 @@
     "venue": "Stadio Atleti Azzurri d'Italia",
     "lastUpdated": "2024-04-09T16:20:48Z"
    },
-   "playedMatches": 11,
+   "playedMatches": 12,
    "goals": 7,
    "assists": 2,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 215433,
+    "name": "Francesco Esposito",
+    "firstName": "Francesco",
+    "lastName": "Esposito",
+    "dateOfBirth": "2005-06-28",
+    "nationality": "Italy",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-03-31T09:41:46Z"
+   },
+   "team": {
+    "id": 108,
+    "name": "FC Internazionale Milano",
+    "shortName": "Inter",
+    "tla": "INT",
+    "crest": "https://crests.football-data.org/108.png",
+    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+    "website": "http://www.inter.it",
+    "founded": 1908,
+    "clubColors": "Blue / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "lastUpdated": "2021-11-24T14:55:58Z"
+   },
+   "playedMatches": 12,
+   "goals": 6,
+   "assists": 1,
    "penalties": null
   },
   {
@@ -226,9 +257,9 @@
     "venue": "Stadio Giuseppe Meazza",
     "lastUpdated": "2021-11-24T14:55:58Z"
    },
-   "playedMatches": 11,
+   "playedMatches": 12,
    "goals": 6,
-   "assists": 2,
+   "assists": 3,
    "penalties": null
   },
   {
@@ -291,37 +322,6 @@
    "playedMatches": 12,
    "goals": 5,
    "assists": null,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 3368,
-    "name": "Adrien Rabiot",
-    "firstName": "Adrien",
-    "lastName": "Rabiot",
-    "dateOfBirth": "1995-04-03",
-    "nationality": "France",
-    "section": "Midfield",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2026-06-01T11:16:30Z"
-   },
-   "team": {
-    "id": 98,
-    "name": "AC Milan",
-    "shortName": "Milan",
-    "tla": "MIL",
-    "crest": "https://crests.football-data.org/98.png",
-    "address": "Via Filippo Turati 3 Milano 20121",
-    "website": "http://www.acmilan.com",
-    "founded": 1899,
-    "clubColors": "Red / Black",
-    "venue": "Stadio Giuseppe Meazza",
-    "lastUpdated": "2024-04-09T16:20:58Z"
-   },
-   "playedMatches": 10,
-   "goals": 5,
-   "assists": 6,
    "penalties": null
   }
  ]
