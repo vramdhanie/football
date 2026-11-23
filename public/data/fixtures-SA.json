@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/c111.png"
  },
- "fetchedAt": "2026-11-23T03:50:49.264Z",
+ "fetchedAt": "2026-11-23T22:46:43.758Z",
  "matches": [
   {
    "area": {
@@ -625,11 +625,11 @@
    },
    "id": 558519,
    "utcDate": "2026-11-23T19:45:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 12,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-23T00:20:26Z",
+   "lastUpdated": "2026-11-23T21:43:38Z",
    "homeTeam": {
     "id": 5911,
     "name": "AC Monza",
@@ -645,21 +645,28 @@
     "crest": "https://crests.football-data.org/99.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 3,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11065,
+     "name": "Daniele Doveri",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {

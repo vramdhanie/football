@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/PL.png"
  },
- "fetchedAt": "2026-11-23T03:50:34.650Z",
+ "fetchedAt": "2026-11-23T22:46:28.855Z",
  "matches": [
   {
    "area": {
@@ -625,11 +625,11 @@
    },
    "id": 560649,
    "utcDate": "2026-11-23T20:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-23T00:20:26Z",
+   "lastUpdated": "2026-11-23T22:08:42Z",
    "homeTeam": {
     "id": 402,
     "name": "Brentford FC",
@@ -645,21 +645,28 @@
     "crest": "https://crests.football-data.org/62.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 4,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11585,
+     "name": "Craig Pawson",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
