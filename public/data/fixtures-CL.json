@@ -6,7 +6,7 @@
   "type": "CUP",
   "emblem": "https://crests.football-data.org/CL.png"
  },
- "fetchedAt": "2026-11-24T07:00:55.361Z",
+ "fetchedAt": "2026-11-24T21:24:36.307Z",
  "matches": [
   {
    "area": {
@@ -31,11 +31,11 @@
    },
    "id": 575395,
    "utcDate": "2026-11-24T17:45:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-24T00:20:26Z",
+   "lastUpdated": "2026-11-24T19:45:47Z",
    "homeTeam": {
     "id": 610,
     "name": "Galatasaray SK",
@@ -51,21 +51,28 @@
     "crest": "https://crests.football-data.org/58.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15408,
+     "name": "Daniel Siebert",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -90,11 +97,11 @@
    },
    "id": 575396,
    "utcDate": "2026-11-24T17:45:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-24T00:20:26Z",
+   "lastUpdated": "2026-11-24T19:41:31Z",
    "homeTeam": {
     "id": 5721,
     "name": "FK Bodø/Glimt",
@@ -110,21 +117,28 @@
     "crest": "https://crests.football-data.org/2016.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 214424,
+     "name": "Halil Meler",
+     "type": "REFEREE",
+     "nationality": "Turkey"
+    }
+   ]
   },
   {
    "area": {
@@ -149,11 +163,11 @@
    },
    "id": 575397,
    "utcDate": "2026-11-24T20:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-24T00:20:26Z",
+   "lastUpdated": "2026-11-24T21:23:55Z",
    "homeTeam": {
     "id": 86,
     "name": "Real Madrid CF",
@@ -169,21 +183,28 @@
     "crest": "https://crests.football-data.org/674.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 215543,
+     "name": "Espen Eskås",
+     "type": "REFEREE",
+     "nationality": "Norway"
+    }
+   ]
   },
   {
    "area": {
@@ -208,11 +229,11 @@
    },
    "id": 575398,
    "utcDate": "2026-11-24T20:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-24T00:20:26Z",
+   "lastUpdated": "2026-11-24T21:23:55Z",
    "homeTeam": {
     "id": 65,
     "name": "Manchester City FC",
@@ -228,21 +249,28 @@
     "crest": "https://crests.football-data.org/113.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 37278,
+     "name": "István Kovács",
+     "type": "REFEREE",
+     "nationality": "Romania"
+    }
+   ]
   },
   {
    "area": {
@@ -267,11 +295,11 @@
    },
    "id": 575399,
    "utcDate": "2026-11-24T20:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-24T00:20:26Z",
+   "lastUpdated": "2026-11-24T21:23:55Z",
    "homeTeam": {
     "id": 57,
     "name": "Arsenal FC",
@@ -287,21 +315,28 @@
     "crest": "https://crests.football-data.org/4.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11043,
+     "name": "Maurizio Mariani",
+     "type": "REFEREE",
+     "nationality": "Italy"
+    }
+   ]
   },
   {
    "area": {
@@ -326,11 +361,11 @@
    },
    "id": 575400,
    "utcDate": "2026-11-24T20:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-24T00:20:26Z",
+   "lastUpdated": "2026-11-24T21:24:27Z",
    "homeTeam": {
     "id": 675,
     "name": "Feyenoord Rotterdam",
@@ -346,21 +381,28 @@
     "crest": "https://crests.football-data.org/503.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15680,
+     "name": "Irfan Peljto",
+     "type": "REFEREE",
+     "nationality": "Bosnia and Herzegovina"
+    }
+   ]
   },
   {
    "area": {
@@ -385,11 +427,11 @@
    },
    "id": 575401,
    "utcDate": "2026-11-24T20:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-24T00:20:26Z",
+   "lastUpdated": "2026-11-24T21:24:27Z",
    "homeTeam": {
     "id": 7509,
     "name": "ŠK Slovan Bratislava",
@@ -405,21 +447,28 @@
     "crest": "https://crests.football-data.org/90.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15548,
+     "name": "Jérôme Brisard",
+     "type": "REFEREE",
+     "nationality": "France"
+    }
+   ]
   },
   {
    "area": {
@@ -444,11 +493,11 @@
    },
    "id": 575402,
    "utcDate": "2026-11-24T20:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-24T00:20:26Z",
+   "lastUpdated": "2026-11-24T21:23:55Z",
    "homeTeam": {
     "id": 721,
     "name": "RB Leipzig",
@@ -464,21 +513,28 @@
     "crest": "https://crests.football-data.org/546.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43954,
+     "name": "Ivan Kružliak",
+     "type": "REFEREE",
+     "nationality": "Slovakia"
+    }
+   ]
   },
   {
    "area": {
@@ -503,11 +559,11 @@
    },
    "id": 575403,
    "utcDate": "2026-11-24T20:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-24T00:20:26Z",
+   "lastUpdated": "2026-11-24T21:23:55Z",
    "homeTeam": {
     "id": 7397,
     "name": "Como 1907",
@@ -523,21 +579,28 @@
     "crest": "https://crests.football-data.org/1899.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 80747,
+     "name": "Javier Alberola Rojas",
+     "type": "REFEREE",
+     "nationality": null
+    }
+   ]
   },
   {
    "area": {
