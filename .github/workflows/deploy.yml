@@ -48,6 +48,11 @@ jobs:
         with:
           path: out
 
+      # The artifact metadata API is eventually consistent; deploy-pages can
+      # see "0 artifacts" if it runs immediately after the upload finalizes.
+      - name: Wait for artifact metadata
+        run: sleep 20
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
