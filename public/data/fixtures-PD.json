@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/laliga.png"
  },
- "fetchedAt": "2026-11-25T05:32:44.877Z",
+ "fetchedAt": "2026-11-25T20:32:53.739Z",
  "matches": [
   {
    "area": {
@@ -1989,11 +1989,11 @@
    },
    "id": 564698,
    "utcDate": "2026-12-09T19:00:00Z",
-   "status": "CANCELLED",
+   "status": "TIMED",
    "matchday": 8,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-25T00:20:29Z",
+   "lastUpdated": "2026-11-25T19:25:09Z",
    "homeTeam": {
     "id": 87,
     "name": "Rayo Vallecano de Madrid",
