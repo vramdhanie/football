@@ -6,7 +6,7 @@
   "type": "CUP",
   "emblem": "https://crests.football-data.org/CL.png"
  },
- "fetchedAt": "2026-11-26T05:14:11.741Z",
+ "fetchedAt": "2026-11-26T20:20:41.032Z",
  "matches": [
   {
    "area": {
@@ -365,7 +365,7 @@
    "matchday": 5,
    "stage": "LEAGUE_STAGE",
    "group": null,
-   "lastUpdated": "2026-11-26T00:20:27Z",
+   "lastUpdated": "2026-11-26T14:25:00Z",
    "homeTeam": {
     "id": 675,
     "name": "Feyenoord Rotterdam",
