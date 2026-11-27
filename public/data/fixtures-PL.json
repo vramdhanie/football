@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/PL.png"
  },
- "fetchedAt": "2026-11-27T05:11:12.610Z",
+ "fetchedAt": "2026-11-27T20:04:49.465Z",
  "matches": [
   {
    "area": {
@@ -725,7 +725,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11423,
+     "name": "Andy Madley",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {

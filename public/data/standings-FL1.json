@@ -47,12 +47,12 @@
       "tla": "PFC",
       "crest": "https://crests.football-data.org/1045.png"
      },
-     "playedGames": 11,
+     "playedGames": 12,
      "form": null,
      "won": 7,
-     "draw": 2,
+     "draw": 3,
      "lost": 2,
-     "points": 23,
+     "points": 24,
      "goalsFor": 21,
      "goalsAgainst": 10,
      "goalDifference": 11
@@ -98,6 +98,25 @@
     {
      "position": 5,
      "team": {
+      "id": 512,
+      "name": "Stade Brestois 29",
+      "shortName": "Brest",
+      "tla": "BRE",
+      "crest": "https://crests.football-data.org/512.png"
+     },
+     "playedGames": 12,
+     "form": null,
+     "won": 5,
+     "draw": 4,
+     "lost": 3,
+     "points": 19,
+     "goalsFor": 19,
+     "goalsAgainst": 12,
+     "goalDifference": 7
+    },
+    {
+     "position": 6,
+     "team": {
       "id": 516,
       "name": "Olympique de Marseille",
       "shortName": "Marseille",
@@ -112,25 +131,6 @@
      "points": 18,
      "goalsFor": 24,
      "goalsAgainst": 17,
-     "goalDifference": 7
-    },
-    {
-     "position": 6,
-     "team": {
-      "id": 512,
-      "name": "Stade Brestois 29",
-      "shortName": "Brest",
-      "tla": "BRE",
-      "crest": "https://crests.football-data.org/512.png"
-     },
-     "playedGames": 11,
-     "form": null,
-     "won": 5,
-     "draw": 3,
-     "lost": 3,
-     "points": 18,
-     "goalsFor": 19,
-     "goalsAgainst": 12,
      "goalDifference": 7
     },
     {

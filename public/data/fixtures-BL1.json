@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/BL1.png"
  },
- "fetchedAt": "2026-11-27T05:11:19.697Z",
+ "fetchedAt": "2026-11-27T20:04:56.630Z",
  "matches": [
   {
    "area": {
@@ -625,11 +625,11 @@
    },
    "id": 565869,
    "utcDate": "2026-11-27T19:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-27T00:20:29Z",
+   "lastUpdated": "2026-11-27T20:03:54Z",
    "homeTeam": {
     "id": 12,
     "name": "SV Werder Bremen",
@@ -645,11 +645,11 @@
     "crest": "https://crests.football-data.org/18.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     },
     "halfTime": {
      "home": null,
@@ -659,7 +659,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 43878,
+     "name": "Felix Zwayer",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
