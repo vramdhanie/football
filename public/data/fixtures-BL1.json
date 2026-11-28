@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/BL1.png"
  },
- "fetchedAt": "2026-11-28T04:48:35.615Z",
+ "fetchedAt": "2026-11-28T19:01:16.067Z",
  "matches": [
   {
    "area": {
@@ -691,11 +691,11 @@
    },
    "id": 565866,
    "utcDate": "2026-11-28T14:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-28T00:20:29Z",
+   "lastUpdated": "2026-11-28T16:26:51Z",
    "homeTeam": {
     "id": 1,
     "name": "1. FC Köln",
@@ -711,21 +711,28 @@
     "crest": "https://crests.football-data.org/719.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 5,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 3,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57515,
+     "name": "Sören Storks",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -750,11 +757,11 @@
    },
    "id": 565867,
    "utcDate": "2026-11-28T14:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-28T00:20:29Z",
+   "lastUpdated": "2026-11-28T16:28:59Z",
    "homeTeam": {
     "id": 15,
     "name": "1. FSV Mainz 05",
@@ -770,21 +777,28 @@
     "crest": "https://crests.football-data.org/28.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 57527,
+     "name": "Timo Gerach",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -809,11 +823,11 @@
    },
    "id": 565868,
    "utcDate": "2026-11-28T14:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-28T00:20:29Z",
+   "lastUpdated": "2026-11-28T16:32:43Z",
    "homeTeam": {
     "id": 29,
     "name": "SC Paderborn 07",
@@ -829,21 +843,28 @@
     "crest": "https://crests.football-data.org/6.png"
    },
    "score": {
-    "winner": null,
+    "winner": "HOME_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 8,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 3,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 58466,
+     "name": "Florian Exner",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -868,11 +889,11 @@
    },
    "id": 565874,
    "utcDate": "2026-11-28T14:30:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-28T00:20:29Z",
+   "lastUpdated": "2026-11-28T16:27:55Z",
    "homeTeam": {
     "id": 7,
     "name": "Hamburger SV",
@@ -888,21 +909,28 @@
     "crest": "https://crests.football-data.org/5.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 15746,
+     "name": "Bastian Dankert",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {
@@ -927,11 +955,11 @@
    },
    "id": 565870,
    "utcDate": "2026-11-28T17:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 11,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-28T00:20:29Z",
+   "lastUpdated": "2026-11-28T19:00:59Z",
    "homeTeam": {
     "id": 10,
     "name": "VfB Stuttgart",
@@ -947,21 +975,28 @@
     "crest": "https://crests.football-data.org/19.png"
    },
    "score": {
-    "winner": null,
+    "winner": "DRAW",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 2
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 1
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 9567,
+     "name": "Sascha Stegemann",
+     "type": "REFEREE",
+     "nationality": "Germany"
+    }
+   ]
   },
   {
    "area": {

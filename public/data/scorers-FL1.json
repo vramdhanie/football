@@ -164,10 +164,41 @@
     "venue": "Stade de Nice",
     "lastUpdated": "2022-02-19T08:51:11Z"
    },
-   "playedMatches": 10,
+   "playedMatches": 11,
    "goals": 6,
    "assists": 2,
    "penalties": 2
+  },
+  {
+   "player": {
+    "id": 151264,
+    "name": "Abdallah Sima",
+    "firstName": "Abdallah",
+    "lastName": "Sima",
+    "dateOfBirth": "2001-06-17",
+    "nationality": "Senegal",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2026-07-27T19:57:39Z"
+   },
+   "team": {
+    "id": 546,
+    "name": "Racing Club de Lens",
+    "shortName": "RC Lens",
+    "tla": "RCL",
+    "crest": "https://crests.football-data.org/546.png",
+    "address": "33 rue Arthur Lamendin Avion 62210",
+    "website": "http://www.rclens.fr",
+    "founded": 1906,
+    "clubColors": "Red / Yellow",
+    "venue": "Stade Bollaert-Delelis",
+    "lastUpdated": "2026-01-19T12:05:38Z"
+   },
+   "playedMatches": 7,
+   "goals": 6,
+   "assists": 1,
+   "penalties": null
   },
   {
    "player": {
@@ -226,9 +257,9 @@
     "venue": "Stade Bollaert-Delelis",
     "lastUpdated": "2026-01-19T12:05:38Z"
    },
-   "playedMatches": 11,
+   "playedMatches": 12,
    "goals": 5,
-   "assists": 8,
+   "assists": 9,
    "penalties": 3
   },
   {
@@ -257,7 +288,7 @@
     "venue": "MMArena",
     "lastUpdated": "2026-09-21T11:19:51Z"
    },
-   "playedMatches": 11,
+   "playedMatches": 12,
    "goals": 5,
    "assists": null,
    "penalties": 1
@@ -288,41 +319,10 @@
     "venue": "Parc des Princes",
     "lastUpdated": "2022-02-10T19:07:11Z"
    },
-   "playedMatches": 11,
-   "goals": 5,
-   "assists": 1,
-   "penalties": null
-  },
-  {
-   "player": {
-    "id": 723,
-    "name": "Ludovic Ajorque",
-    "firstName": "Ludovic",
-    "lastName": "Ajorque",
-    "dateOfBirth": "1994-02-25",
-    "nationality": "France",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": 25,
-    "lastUpdated": "2026-07-27T19:57:39Z"
-   },
-   "team": {
-    "id": 512,
-    "name": "Stade Brestois 29",
-    "shortName": "Brest",
-    "tla": "BRE",
-    "crest": "https://crests.football-data.org/512.png",
-    "address": "Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
-    "website": "http://www.stade-brestois.com",
-    "founded": 1903,
-    "clubColors": "White / Red",
-    "venue": "Stade Francis-Le Blé",
-    "lastUpdated": "2026-07-04T12:08:19Z"
-   },
    "playedMatches": 12,
    "goals": 5,
    "assists": 1,
-   "penalties": 1
+   "penalties": null
   }
  ]
 }

@@ -41,6 +41,25 @@
     {
      "position": 2,
      "team": {
+      "id": 78,
+      "name": "Club Atlético de Madrid",
+      "shortName": "Atleti",
+      "tla": "ATL",
+      "crest": "https://crests.football-data.org/78.png"
+     },
+     "playedGames": 14,
+     "form": null,
+     "won": 11,
+     "draw": 1,
+     "lost": 2,
+     "points": 34,
+     "goalsFor": 29,
+     "goalsAgainst": 12,
+     "goalDifference": 17
+    },
+    {
+     "position": 3,
+     "team": {
       "id": 86,
       "name": "Real Madrid CF",
       "shortName": "Real Madrid",
@@ -58,25 +77,6 @@
      "goalDifference": 22
     },
     {
-     "position": 3,
-     "team": {
-      "id": 78,
-      "name": "Club Atlético de Madrid",
-      "shortName": "Atleti",
-      "tla": "ATL",
-      "crest": "https://crests.football-data.org/78.png"
-     },
-     "playedGames": 13,
-     "form": null,
-     "won": 10,
-     "draw": 1,
-     "lost": 2,
-     "points": 31,
-     "goalsFor": 26,
-     "goalsAgainst": 10,
-     "goalDifference": 16
-    },
-    {
      "position": 4,
      "team": {
       "id": 90,
@@ -85,15 +85,15 @@
       "tla": "BET",
       "crest": "https://crests.football-data.org/90.png"
      },
-     "playedGames": 13,
+     "playedGames": 14,
      "form": null,
      "won": 8,
      "draw": 3,
-     "lost": 2,
+     "lost": 3,
      "points": 27,
      "goalsFor": 21,
-     "goalsAgainst": 16,
-     "goalDifference": 5
+     "goalsAgainst": 17,
+     "goalDifference": 4
     },
     {
      "position": 5,
@@ -136,6 +136,25 @@
     {
      "position": 7,
      "team": {
+      "id": 77,
+      "name": "Athletic Club",
+      "shortName": "Athletic",
+      "tla": "ATH",
+      "crest": "https://crests.football-data.org/77.png"
+     },
+     "playedGames": 13,
+     "form": null,
+     "won": 5,
+     "draw": 4,
+     "lost": 4,
+     "points": 19,
+     "goalsFor": 19,
+     "goalsAgainst": 15,
+     "goalDifference": 4
+    },
+    {
+     "position": 8,
+     "team": {
       "id": 559,
       "name": "Sevilla FC",
       "shortName": "Sevilla FC",
@@ -151,25 +170,6 @@
      "goalsFor": 18,
      "goalsAgainst": 20,
      "goalDifference": -2
-    },
-    {
-     "position": 8,
-     "team": {
-      "id": 77,
-      "name": "Athletic Club",
-      "shortName": "Athletic",
-      "tla": "ATH",
-      "crest": "https://crests.football-data.org/77.png"
-     },
-     "playedGames": 12,
-     "form": null,
-     "won": 4,
-     "draw": 4,
-     "lost": 4,
-     "points": 16,
-     "goalsFor": 15,
-     "goalsAgainst": 12,
-     "goalDifference": 3
     },
     {
      "position": 9,
@@ -250,6 +250,25 @@
     {
      "position": 13,
      "team": {
+      "id": 87,
+      "name": "Rayo Vallecano de Madrid",
+      "shortName": "Rayo Vallecano",
+      "tla": "RAY",
+      "crest": "https://crests.football-data.org/87.png"
+     },
+     "playedGames": 13,
+     "form": null,
+     "won": 4,
+     "draw": 3,
+     "lost": 6,
+     "points": 15,
+     "goalsFor": 16,
+     "goalsAgainst": 22,
+     "goalDifference": -6
+    },
+    {
+     "position": 14,
+     "team": {
       "id": 79,
       "name": "CA Osasuna",
       "shortName": "Osasuna",
@@ -267,7 +286,7 @@
      "goalDifference": -10
     },
     {
-     "position": 14,
+     "position": 15,
      "team": {
       "id": 558,
       "name": "RC Celta de Vigo",
@@ -286,7 +305,7 @@
      "goalDifference": -1
     },
     {
-     "position": 15,
+     "position": 16,
      "team": {
       "id": 88,
       "name": "Levante UD",
@@ -302,25 +321,6 @@
      "points": 12,
      "goalsFor": 18,
      "goalsAgainst": 25,
-     "goalDifference": -7
-    },
-    {
-     "position": 16,
-     "team": {
-      "id": 87,
-      "name": "Rayo Vallecano de Madrid",
-      "shortName": "Rayo Vallecano",
-      "tla": "RAY",
-      "crest": "https://crests.football-data.org/87.png"
-     },
-     "playedGames": 12,
-     "form": null,
-     "won": 3,
-     "draw": 3,
-     "lost": 6,
-     "points": 12,
-     "goalsFor": 15,
-     "goalsAgainst": 22,
      "goalDifference": -7
     },
     {
@@ -370,15 +370,15 @@
       "tla": "ELC",
       "crest": "https://crests.football-data.org/285.png"
      },
-     "playedGames": 13,
+     "playedGames": 14,
      "form": null,
      "won": 2,
      "draw": 5,
-     "lost": 6,
+     "lost": 7,
      "points": 11,
-     "goalsFor": 15,
-     "goalsAgainst": 21,
-     "goalDifference": -6
+     "goalsFor": 17,
+     "goalsAgainst": 24,
+     "goalDifference": -7
     },
     {
      "position": 20,
@@ -389,15 +389,15 @@
       "tla": "MAL",
       "crest": "https://crests.football-data.org/84.png"
      },
-     "playedGames": 13,
+     "playedGames": 14,
      "form": null,
      "won": 0,
      "draw": 5,
-     "lost": 8,
+     "lost": 9,
      "points": 5,
-     "goalsFor": 9,
-     "goalsAgainst": 24,
-     "goalDifference": -15
+     "goalsFor": 12,
+     "goalsAgainst": 28,
+     "goalDifference": -16
     }
    ]
   }

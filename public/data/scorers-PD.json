@@ -71,7 +71,7 @@
     "venue": "Estadio Santiago Bernabéu",
     "lastUpdated": "2022-02-19T08:59:31Z"
    },
-   "playedMatches": 13,
+   "playedMatches": 14,
    "goals": 13,
    "assists": 3,
    "penalties": 3
@@ -257,9 +257,40 @@
     "venue": "Estadio del Rayo Vallecano",
     "lastUpdated": "2024-07-29T17:10:35Z"
    },
-   "playedMatches": 13,
+   "playedMatches": 14,
    "goals": 7,
    "assists": 2,
+   "penalties": null
+  },
+  {
+   "player": {
+    "id": 221308,
+    "name": "Adrián",
+    "firstName": "",
+    "lastName": "Adrián Niño",
+    "dateOfBirth": "2004-06-19",
+    "nationality": "Spain",
+    "section": "Offence",
+    "position": null,
+    "shirtNumber": null,
+    "lastUpdated": "2024-12-06T09:41:03Z"
+   },
+   "team": {
+    "id": 84,
+    "name": "Málaga CF",
+    "shortName": "Málaga",
+    "tla": "MAL",
+    "crest": "https://crests.football-data.org/84.png",
+    "address": "Paseo de Martiricos, s/n Málaga 29011",
+    "website": "http://www.malagacf.es",
+    "founded": 1933,
+    "clubColors": "Blue / White",
+    "venue": "Estadio La Rosaleda",
+    "lastUpdated": "2022-07-26T17:35:29Z"
+   },
+   "playedMatches": 10,
+   "goals": 7,
+   "assists": 1,
    "penalties": null
   },
   {
@@ -288,41 +319,10 @@
     "venue": "Estadio Wanda Metropolitano",
     "lastUpdated": "2026-07-04T11:58:34Z"
    },
-   "playedMatches": 13,
+   "playedMatches": 14,
    "goals": 6,
-   "assists": 3,
+   "assists": 4,
    "penalties": null
-  },
-  {
-   "player": {
-    "id": 214497,
-    "name": "Fer Niño",
-    "firstName": "",
-    "lastName": "Fer Niño",
-    "dateOfBirth": "2000-10-24",
-    "nationality": "Spain",
-    "section": "Offence",
-    "position": null,
-    "shirtNumber": null,
-    "lastUpdated": "2023-09-18T09:02:26Z"
-   },
-   "team": {
-    "id": 285,
-    "name": "Elche CF",
-    "shortName": "Elche",
-    "tla": "ELC",
-    "crest": "https://crests.football-data.org/285.png",
-    "address": "Avenida Manuel Martínez Valero, 3 Elche 03208",
-    "website": "http://www.elchecf.es",
-    "founded": 1923,
-    "clubColors": "White / Green",
-    "venue": "Estadio Manuel Martínez Valero",
-    "lastUpdated": "2022-02-24T07:42:28Z"
-   },
-   "playedMatches": 13,
-   "goals": 6,
-   "assists": null,
-   "penalties": 1
   }
  ]
 }

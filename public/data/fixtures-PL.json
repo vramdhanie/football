@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/PL.png"
  },
- "fetchedAt": "2026-11-28T04:48:28.197Z",
+ "fetchedAt": "2026-11-28T19:01:08.629Z",
  "matches": [
   {
    "area": {
@@ -791,7 +791,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11520,
+     "name": "Paul Tierney",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -850,7 +857,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11446,
+     "name": "Robert Jones",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {
@@ -909,7 +923,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 11405,
+     "name": "Michael Salisbury",
+     "type": "REFEREE",
+     "nationality": "England"
+    }
+   ]
   },
   {
    "area": {

@@ -136,6 +136,25 @@
     {
      "position": 7,
      "team": {
+      "id": 546,
+      "name": "Racing Club de Lens",
+      "shortName": "RC Lens",
+      "tla": "RCL",
+      "crest": "https://crests.football-data.org/546.png"
+     },
+     "playedGames": 12,
+     "form": null,
+     "won": 5,
+     "draw": 2,
+     "lost": 5,
+     "points": 17,
+     "goalsFor": 23,
+     "goalsAgainst": 18,
+     "goalDifference": 5
+    },
+    {
+     "position": 8,
+     "team": {
       "id": 522,
       "name": "OGC Nice",
       "shortName": "Nice",
@@ -153,7 +172,7 @@
      "goalDifference": 2
     },
     {
-     "position": 8,
+     "position": 9,
      "team": {
       "id": 548,
       "name": "AS Monaco FC",
@@ -172,7 +191,7 @@
      "goalDifference": 2
     },
     {
-     "position": 9,
+     "position": 10,
      "team": {
       "id": 529,
       "name": "Stade Rennais FC 1901",
@@ -191,7 +210,7 @@
      "goalDifference": 0
     },
     {
-     "position": 10,
+     "position": 11,
      "team": {
       "id": 525,
       "name": "FC Lorient",
@@ -208,25 +227,6 @@
      "goalsFor": 10,
      "goalsAgainst": 9,
      "goalDifference": 1
-    },
-    {
-     "position": 11,
-     "team": {
-      "id": 546,
-      "name": "Racing Club de Lens",
-      "shortName": "RC Lens",
-      "tla": "RCL",
-      "crest": "https://crests.football-data.org/546.png"
-     },
-     "playedGames": 11,
-     "form": null,
-     "won": 4,
-     "draw": 2,
-     "lost": 5,
-     "points": 14,
-     "goalsFor": 18,
-     "goalsAgainst": 16,
-     "goalDifference": 2
     },
     {
      "position": 12,
@@ -254,7 +254,7 @@
       "name": "Le Mans FC",
       "shortName": "Le Mans",
       "tla": "LMF",
-      "crest": "https://crests.football-data.org/535.png"
+      "crest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg"
      },
      "playedGames": 11,
      "form": null,
@@ -332,15 +332,15 @@
       "tla": "ANG",
       "crest": "https://crests.football-data.org/532.png"
      },
-     "playedGames": 11,
+     "playedGames": 12,
      "form": null,
      "won": 2,
      "draw": 2,
-     "lost": 7,
+     "lost": 8,
      "points": 8,
-     "goalsFor": 9,
-     "goalsAgainst": 23,
-     "goalDifference": -14
+     "goalsFor": 11,
+     "goalsAgainst": 28,
+     "goalDifference": -17
     },
     {
      "position": 18,

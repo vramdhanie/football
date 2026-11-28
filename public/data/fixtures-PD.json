@@ -6,7 +6,7 @@
   "type": "LEAGUE",
   "emblem": "https://crests.football-data.org/laliga.png"
  },
- "fetchedAt": "2026-11-28T04:48:51.085Z",
+ "fetchedAt": "2026-11-28T19:01:30.939Z",
  "matches": [
   {
    "area": {
@@ -757,11 +757,11 @@
    },
    "id": 564760,
    "utcDate": "2026-11-28T13:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 14,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-28T00:20:29Z",
+   "lastUpdated": "2026-11-28T15:04:11Z",
    "homeTeam": {
     "id": 90,
     "name": "Real Betis Balompié",
@@ -777,21 +777,28 @@
     "crest": "https://crests.football-data.org/87.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 1
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 0,
+     "away": 0
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 129443,
+     "name": "Luis Bestard Servera",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
@@ -816,11 +823,11 @@
    },
    "id": 564767,
    "utcDate": "2026-11-28T15:15:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "matchday": 14,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-28T00:20:29Z",
+   "lastUpdated": "2026-11-28T17:18:03Z",
    "homeTeam": {
     "id": 84,
     "name": "Málaga CF",
@@ -836,21 +843,28 @@
     "crest": "https://crests.football-data.org/77.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 3,
+     "away": 4
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 4
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 207048,
+     "name": "Miguel Ortiz Arias",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
@@ -875,11 +889,11 @@
    },
    "id": 564759,
    "utcDate": "2026-11-28T17:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "matchday": 14,
    "stage": "REGULAR_SEASON",
    "group": null,
-   "lastUpdated": "2026-11-28T00:20:29Z",
+   "lastUpdated": "2026-11-28T19:00:27Z",
    "homeTeam": {
     "id": 285,
     "name": "Elche CF",
@@ -895,21 +909,28 @@
     "crest": "https://crests.football-data.org/78.png"
    },
    "score": {
-    "winner": null,
+    "winner": "AWAY_TEAM",
     "duration": "REGULAR",
     "fullTime": {
-     "home": null,
-     "away": null
+     "home": 2,
+     "away": 3
     },
     "halfTime": {
-     "home": null,
-     "away": null
+     "home": 1,
+     "away": 3
     }
    },
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 214410,
+     "name": "Alejandro Quintero González",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
@@ -968,7 +989,14 @@
    "odds": {
     "msg": "Activate Odds-Package in User-Panel to retrieve odds."
    },
-   "referees": []
+   "referees": [
+    {
+     "id": 207113,
+     "name": "César Soto Grado",
+     "type": "REFEREE",
+     "nationality": "Spain"
+    }
+   ]
   },
   {
    "area": {
